@@ -1,0 +1,172 @@
+#EXTM3U
+#EXTINF:0,TRT 1
+#EXTGRP:Ulusal
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,ATV
+#EXTGRP:Ulusal
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+#EXTINF:0,Kanal D
+#EXTGRP:Ulusal
+http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/1943.ts
+#EXTINF:0,Show TV
+#EXTGRP:Ulusal
+http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
+#EXTINF:0,Star TV
+#EXTGRP:Ulusal
+http://hw1.jemtv.com/app/StarTV/playlist.m3u8
+#EXTINF:0,Fox TV
+#EXTGRP:Ulusal
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:0,Beyaz TV
+#EXTGRP:Ulusal
+https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:0,Kanal 7
+#EXTGRP:Ulusal
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:0,360 TV
+#EXTGRP:Ulusal
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:0,TLC
+#EXTGRP:Ulusal
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:0,TRT Belgesel
+#EXTGRP:Ulusal
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TV 8
+#EXTGRP:Ulusal
+http://hw1.jemtv.com/app/tv8/playlist.m3u8
+#EXTINF:0,Trt Spor
+#EXTGRP:Ulusal
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,NTV
+#EXTGRP:Haber
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:0,Haber TURK
+#EXTGRP:Haber
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:0,CNN Türk
+#EXTGRP:Haber
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:0,TRT Haber
+#EXTGRP:Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TGRT Haber
+#EXTGRP:Haber
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8?checkedby:,%20ahlakid.com%20-
+#EXTINF:0,TVnet
+#EXTGRP:Haber
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:0,Kanal 24
+#EXTGRP:Haber
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+#EXTINF:0,Fox DE
+#EXTGRP:Almanca
+http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/1563.ts
+#EXTINF:0,WDR
+#EXTGRP:Almanca
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:0,Rakuten
+#EXTGRP:Almanca
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Bibel
+#EXTGRP:Almanca
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:0,RTL
+#EXTGRP:Almanca
+http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/1596.ts
+#EXTINF:0,Sat1
+#EXTGRP:Almanca
+http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/1566.ts
+#EXTINF:0,Beins Sport 1 Volestream
+#EXTGRP:Bein Sport
+https://corsproxy.org/?https://volestream-cdn-ooooo.cdnvolestreamcdn.workers.dev/hls/bein-sports-1.m3u8
+#EXTINF:0,Bein Sport 1 Yayınzirve
+#EXTGRP:Bein Sport
+https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
+#EXTINF:0,Bein Sport 1 Cakalclick
+#EXTGRP:Bein Sport
+https://corsproxy.org/?https://cakal.click/yayin1.m3u8
+#EXTINF:0,Bein Sport 1 yayinstar
+#EXTGRP:Bein Sport
+https://corsproxy.org/?https://cakal.click/yayinstar.m3u8
+#EXTINF:0,Bein Sport 1 iptvone1
+#EXTGRP:Bein Sport
+http://143951.iptvone.eu:80/ufukhalis/ndl62532144/237081
+#EXTINF:0,1
+#EXTGRP:Bein Sport
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&amp;e=.m3u8
+#EXTINF:0,2
+#EXTGRP:Bein Sport
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&amp;appName=web&amp;appStoreUrl=&amp;appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&amp;app_name=&amp;architecture=&amp;buildVersion=&amp;deviceDNT=0&amp;deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&amp;deviceLat=40.8364&amp;deviceLon=-74.1403&amp;deviceMake=Opera&amp;deviceModel=Opera&amp;deviceType=web&amp;deviceVersion=66.0.3515.44&amp;includeExtendedEvents=false&amp;serverSideAds=tr&amp;sid=855d6801-c912-428d-b620-ede4dd0c3b15&amp;userId=
+#EXTINF:0,Exxen 1
+#EXTGRP:Spor
+https://corsproxy.org/?https://cakal.click/yayinex1.m3u8
+#EXTINF:0,Exxen 2
+#EXTGRP:Spor
+https://corsproxy.org/?https://cakal.click/yayinex2.m3u8
+#EXTINF:0,Ssport 1
+#EXTGRP:Spor
+https://corsproxy.org/?https://cakal.click/yayinss.m3u8
+#EXTINF:0,Ssport 2
+#EXTGRP:Spor
+https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
+#EXTINF:0,Tivibu Spor 1
+#EXTGRP:Spor
+https://corsproxy.org/?https://cakal.click/yayint1.m3u8
+#EXTINF:0,Tivibu Spor 2
+#EXTGRP:Spor
+https://corsproxy.org/?https://cakal.click/yayint2.m3u8
+#EXTINF:0,Tivibu Spor 3
+#EXTGRP:Spor
+https://corsproxy.org/?https://cakal.click/yayint3.m3u8
+#EXTINF:0,Trt Spor Yıldız
+#EXTGRP:Spor
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,Tv 8.5
+#EXTGRP:Spor
+http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/1958.ts
+#EXTINF:0,Blu Tv Play 1
+#EXTGRP:Sinema
+https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
+#EXTINF:0,Blu Tv Play 2
+#EXTGRP:Sinema
+https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
+#EXTINF:0,Sinema Komedi 1
+#EXTGRP:Sinema
+http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4461.ts
+#EXTINF:0,Sinema Komedi 2
+#EXTGRP:Sinema
+http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4462.ts
+#EXTINF:0,Sinema Aksiyon 1
+#EXTGRP:Sinema
+http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4457.ts
+#EXTINF:0,Sinema Aksiyon 2
+#EXTGRP:Sinema
+http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4458.ts
+#EXTINF:0,Sinema TV
+#EXTGRP:Sinema
+http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4463.ts
+#EXTINF:0,Filmbox
+#EXTGRP:Sinema
+http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4451.ts
+#EXTINF:0,Sinema 1001
+#EXTGRP:Sinema
+http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4454.ts
+#EXTINF:0,Damar Türk
+#EXTGRP:Radyo
+https://live.radyositesihazir.com/7000/stream
+#EXTINF:0,Kral FM
+#EXTGRP:Radyo
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:0,Virgin Radyo
+#EXTGRP:Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIOAAC.aac
+#EXTINF:0,Slow Türk
+#EXTGRP:Radyo
+https://radyo.duhnet.tv/ak_dtvh_slowturk
+#EXTINF:0,Best FM
+#EXTGRP:Radyo
+https://bestfm.turkhosted.com/;stream.mp3
+#EXTINF:0,Alem FM
+#EXTGRP:Radyo
+https://turkmedya.radyotvonline.net/alemfmaac
