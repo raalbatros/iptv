@@ -92,9 +92,12 @@ https://corsproxy.org/?https://cakal.click/yayinstar.m3u8
 #EXTINF:0,Bein Sport 1 tiger88
 #EXTGRP:Bein Sport
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:db:6a:f2&stream=217&extension=ts
-#EXTINF:0,1
+#EXTINF:0,Bein Sport 1 corsproxys
 #EXTGRP:Bein Sport
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&amp;e=.m3u8
+https://yayin.corsproxys.site/hls/bein-sports-1.m3u8
+#EXTINF:0,Bein Sport 1 falling
+#EXTGRP:Bein Sport
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
 #EXTINF:0,Exxen 1
 #EXTGRP:Spor
 https://corsproxy.org/?https://cakal.click/yayinex1.m3u8
