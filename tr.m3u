@@ -89,9 +89,6 @@ https://corsproxy.org/?https://cakal.click/yayin1.m3u8
 #EXTINF:0,Bein Sport 1 yayinstar
 #EXTGRP:Bein Sport
 https://corsproxy.org/?https://cakal.click/yayinstar.m3u8
-#EXTINF:0,Bein Sport 1 tiger88
-#EXTGRP:Bein Sport
-http://tiger88.live:8080/play/live.php?mac=00:1A:79:db:6a:f2&stream=217&extension=ts
 #EXTINF:0,Bein Sport 1 corsproxys
 #EXTGRP:Bein Sport
 https://yayin.corsproxys.site/hls/bein-sports-1.m3u8
