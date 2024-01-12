@@ -1,0 +1,70 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz,https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/turkey.xml"
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-id="TRT.1.HD.tr" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
+https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-id="Kanal.D.HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+#EXTINF:-1 tvg-name="STAR" tvg-id="StarTV.tr" tvg-id="Star.TV.HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-id="Show.TV.HD.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1 tvg-name="FOX" tvg-id="FoxTurkey.tr" tvg-id="FOX.HD.tr" tvg-logo="https://i.ibb.co/MVTFq7s/fox.png" group-title="ULUSAL",FOX
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="ULUSAL",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.tr" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-id="BEYAZ.TV.HD.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="ULUSAL",BEYAZ TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-id="360.HD.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="ULUSAL",360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-id="KANAL.7.HD.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="ULUSAL",KANAL 7
+https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&app=f99587ad-1637-494d-8255-da35b09d17a1
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLCTurkey.tr" tvg-id="TLC.HD.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="ULUSAL",TLC
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-id="TRT.Belgesel.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="ULUSAL",TRT BELGESEL
+http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-id="NTV.HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-name="HABER TÜRK" tvg-id="Haberturk.tr" tvg-id="HABERTURK.HD.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" group-title="HABER",HABER TURK
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="CNN TÜRK HD" tvg-id="CNNTurk.tr" tvg-id="CNN.TÜRK.HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TÜRK HD
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRTHaber.tr" tvg-id="TRT.Haber.HD.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="HABER",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TV NET" tvg-id="TVNET.HD.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="HABER",TV NET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-id="TGRT.Haber.HD.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 yayinzirve" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 volestream" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://volestream-cdn-ooooo.cdnvolestreamcdn.workers.dev/hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 cakal.click" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayin1.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 yayinstar" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinstar.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 corsproxys" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://yayin.corsproxys.site/hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 weblive" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://01-24.webhd.ru/ddy4/premium62/playlist.m3u8?%7CReferer=https://weblivehdplay.ru/&e=.m3u8
+
+
+
+
+
+
+
+
