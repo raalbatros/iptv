@@ -82,6 +82,9 @@ https://corsproxy.org/?https://cakal.click/yayint3.m3u8
 #EXTINF:-1 tvg-name="TIVIBU SPOR 4" tvg-id="" tvg-logo="https://i.ibb.co/6gWtBM3/tivibu-spor-4.png" group-title="SPOR",TIVIBU SPOR 4
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://corsproxy.org/?https://cakal.click/yayint4.m3u8
+#EXTINF:-1 tvg-name="TV 8,5" tvg-id="TV.85.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="INATPRO",TV 8.5
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/1958.ts
 #EXTINF:-1 tvg-name="BLUTV PLAY 1" tvg-id="" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" group-title="SINEMA",BLUTV PLAY 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
