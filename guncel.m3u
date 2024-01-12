@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz,https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/turkey.xml"
-
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-id="TRT.1.HD.tr" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-id="Kanal.D.HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
@@ -28,7 +27,6 @@ https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&app=f99587ad-1637-494d-825
 https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-id="TRT.Belgesel.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="ULUSAL",TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-id="NTV.HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="HABER TÜRK" tvg-id="Haberturk.tr" tvg-id="HABERTURK.HD.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" group-title="HABER",HABER TURK
@@ -42,7 +40,6 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-id="TGRT.Haber.HD.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="beIN SPORTS 1 yayinzirve" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1 yayinzirve
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
@@ -61,6 +58,51 @@ https://yayin.corsproxys.site/hls/bein-sports-1.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 1 weblive" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1 weblive
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://01-24.webhd.ru/ddy4/premium62/playlist.m3u8?%7CReferer=https://weblivehdplay.ru/&e=.m3u8
+#EXTINF:-1 tvg-name="S SPORT" tvg-id="S.Sport.tr" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" group-title="SPOR",S SPORT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinss.m3u8
+#EXTINF:-1 tvg-name="S SPORT 2" tvg-id="S.Sport2.tr" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" group-title="SPOR",S SPORT 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
+#EXTINF:-1 tvg-name="EXXEN 1" tvg-id="" tvg-logo="https://i.postimg.cc/PJCjg6S9/exxen.png" group-title="SPOR",EXXEN 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinex1.m3u8
+#EXTINF:-1 tvg-name="EXXEN 2" tvg-id="" tvg-logo="https://i.postimg.cc/PJCjg6S9/exxen.png" group-title="SPOR",EXXEN 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinex2.m3u8
+#EXTINF:-1 tvg-name="TIVIBU SPOR 1" tvg-id="" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" group-title="SPOR",TIVIBU SPOR 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayint1.m3u8
+#EXTINF:-1 tvg-name="TIVIBU SPOR 2" tvg-id="" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" group-title="SPOR",TIVIBU SPOR 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayint2.m3u8
+#EXTINF:-1 tvg-name="TIVIBU SPOR 3" tvg-id="" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" group-title="SPOR",TIVIBU SPOR 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayint3.m3u8
+#EXTINF:-1 tvg-name="TIVIBU SPOR 4" tvg-id="" tvg-logo="https://i.ibb.co/6gWtBM3/tivibu-spor-4.png" group-title="SPOR",TIVIBU SPOR 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayint4.m3u8
+#EXTINF:-1 tvg-name="SINEMA TV" tvg-id="Sinema.TV.tr" tvg-logo="https://i.ibb.co/51sYSW3/sinema-tv.png" group-title="SINEMA",SINEMA TV
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/62/ts
+#EXTINF:-1 tvg-name="SINEMA TV 2" tvg-id="Sinema.TV.2.tr" tvg-logo="https://i.ibb.co/H75vcpy/sinema-tv-2.png" group-title="SINEMA",SINEMA TV 2
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/54/ts
+#EXTINF:-1 tvg-name="SINEMA TV 1002" tvg-id="Sinema.TV.1002.tr" tvg-logo="https://i.ibb.co/gjSJgnG/sinema-1002.png" group-title="SINEMA",SINEMA TV 1002
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/47/ts
+#EXTINF:-1 tvg-name="SINEMA TV COMEDY" tvg-id="Sinema.TV.Comedy.tr" tvg-logo="https://i.ibb.co/zVSjxyP/sinema-komedi.png" group-title="SINEMA",SINEMA TV COMEDY
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/46/ts
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON" tvg-id="Sinema.TV.Aksiyon.tr" tvg-logo="https://i.ibb.co/J23XSk5/sinema-aksiyon.png" group-title="SINEMA",SINEMA TV AKSIYON
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/40/ts
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON 2" tvg-id="Sinema.TV.Aksiyon.2.tr" tvg-logo="https://i.ibb.co/LvyjMVp/sinema-aksiyon-2.png" group-title="SINEMA",SINEMA TV AKSIYON 2
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/41/ts
+#EXTINF:-1 tvg-name="SINEMA TV YERLI 2" tvg-id="Sinema.TV.Yerli.2.tr" tvg-logo="https://i.ibb.co/q9fV0Vx/sinema-yerli-2.png" group-title="SINEMA",SINEMA TV YERLI 2
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/32/ts
+#EXTINF:-1 tvg-name="SINEMA TV AILE" tvg-id="Sinema.TV.Aile.tr" tvg-logo="https://i.ibb.co/KNq7f1n/sinema-aile.png" group-title="SINEMA",SINEMA TV AILE
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/59/ts
+#EXTINF:-1 tvg-name="SINEMA TV AILE 2" tvg-id="Sinema.TV.Aile.2.tr" tvg-logo="https://i.ibb.co/0t1Hk5C/sinema-aile-2.png" group-title="SINEMA",SINEMA TV AILE 2
+http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/53/ts
+#EXTINF:-1 tvg-name="TIVI TURK" tvg-id="" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" group-title="SINEMA",TIVI TURK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+
 
 
 
