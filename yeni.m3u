@@ -1,0 +1,249 @@
+#EXTM3U
+#EXTINF:60,TRT 1
+https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
+#EXTINF:2660,KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:16,ATV
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+#EXTINF:2700,STAR
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:2610,SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:30,FOX
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:2650,TV8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:60,KANAL 7
+https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&app=f99587ad-1637-494d-8255-da35b09d17a1
+#EXTINF:0,BEYAZ TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:60,TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:1800,360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:0,TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:60,CNN TURK
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:60,NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:30,A HABER
+https://ythlsgo.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+#EXTINF:0,ULKE TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0,HABER GLOBAL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://haberglobal.blutv.com/blutv_haberglobal2/live_720p2000000kbps/index.m3u8
+#EXTINF:0,BLOOMBERG HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:0,HABER TURK
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:18,24
+https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
+#EXTINF:18,ULUSAL TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://pull1-poc.blutv.com/live/Z9N2GCPN/Z9N2GCPN_720p.m3u8
+#EXTINF:0,TV NET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:30,TGRT HABER HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:60,TRT COCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:30,CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
+#EXTINF:30,CARTOONITO
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
+#EXTINF:0,BLU TV PLAY 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
+#EXTINF:0,BLU TV PLAY 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
+#EXTINF:166,TIVI TURK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:6,YANSIMA SINEMA TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
+#EXTINF:40,TELEON
+https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/playlist.m3u8
+#EXTINF:60,TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:165,5" tvg-id="TV.85.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="SPOR" - TV 8.5
+http://50.7.218.122:8080/tv85/index.m3u8
+#EXTINF:0,A SPOR
+https://bozztv.com/inim03/live1/aspor/playlist.m3u8
+#EXTINF:60,TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:30,EURO SPORT 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
+#EXTINF:30,EURO SPORT 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
+#EXTINF:30,SPORTS TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
+#EXTINF:60,TRT BELGESEL
+http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:60,TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:0,TLC
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:29,DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b4128000.m3u8
+#EXTINF:60,DISCOVERY ID
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
+#EXTINF:20,NATIONAL GEOGRAPHIC
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://edge02.odtv.az/o3/natgeo/playlist.m3u8
+#EXTINF:20,NATIONAL GEOGRAPHIC WILD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
+#EXTINF:0,beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
+#EXTINF:0,beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinb2.m3u8
+#EXTINF:0,beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinb3.m3u8
+#EXTINF:0,beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinb4.m3u8
+#EXTINF:0,beIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinb5.m3u8
+#EXTINF:0,beIN SPORTS MAX 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinbm1.m3u8
+#EXTINF:0,beIN SPORTS MAX 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinbm2.m3u8
+#EXTINF:0,beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://yayin.corsproxys.site/hls/bein-sports-1.m3u8
+#EXTINF:0,beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://odin.3c84d55e127.click/1/chunk_hd.m3u8
+#EXTINF:0,beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://yayin.corsproxys.site/hls/bein-sports-2.m3u8
+#EXTINF:0,beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://yayin.corsproxys.site/hls/bein-sports-4.m3u8
+#EXTINF:0,S SPORT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinss.m3u8
+#EXTINF:0,S SPORT 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
+#EXTINF:0,SPOR SMART
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
+#EXTINF:0,SPOR SMART 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinsms2.m3u8
+#EXTINF:0,TIVIBI SPOR 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayint1.m3u8
+#EXTINF:0,TIVIBI SPOR 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayint2.m3u8
+#EXTINF:0,TIVIBI SPOR 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayint3.m3u8
+#EXTINF:0,EXXEN 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinex1.m3u8
+#EXTINF:0,EXXEN 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinex2.m3u8
+#EXTINF:0,EXXEN 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinex3.m3u8
+#EXTINF:0,EXXEN 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinex4.m3u8
+#EXTINF:0,EXXEN 6
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinex6.m3u8
+#EXTINF:0,EXXEN 7
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://cakal.click/yayinex7.m3u8
+#EXTINF:0,beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://corsproxy.org/?https://volestream-cdn-ooooo.cdnvolestreamcdn.workers.dev/hls/bein-sports-1.m3u8
+#EXTINF:0,beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/602?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/603?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/604?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,beIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/705?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,beIN SPORTS MAX 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/805?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,beIN SPORTS MAX 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/806?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,TIVIBI SPOR 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/606?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,TIVIBI SPOR 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/607?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,TIVIBI SPOR 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/608?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,TIVIBI SPOR 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/609?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,S SPORT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3450?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,S SPORT 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3451?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,SPOR SMART
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/102?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
+#EXTINF:0,SPOR SMART 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/&e=.m3u8
+https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/104?/chunklist_hd.m3u8?%7CReferer=https://olalivehdplay.ru/&e=.m3u8
