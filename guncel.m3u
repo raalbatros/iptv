@@ -11,7 +11,7 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-id="Show.TV.HD.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="FOX" tvg-id="FoxTurkey.tr" tvg-id="FOX.HD.tr" tvg-logo="https://i.ibb.co/MVTFq7s/fox.png" group-title="ULUSAL",FOX
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="ULUSAL",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
@@ -29,6 +29,7 @@ https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&app=f99587ad-1637-494d-825
 https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-id="TRT.Belgesel.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="ULUSAL",TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-id="NTV.HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="HABER TÜRK" tvg-id="Haberturk.tr" tvg-id="HABERTURK.HD.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" group-title="HABER",HABER TURK
@@ -42,6 +43,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-id="TGRT.Haber.HD.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="beIN SPORTS 1 yayinzirve" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
