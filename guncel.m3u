@@ -12,9 +12,9 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="FOX" tvg-id="FoxTurkey.tr" tvg-id="FOX.HD.tr" tvg-logo="https://i.ibb.co/MVTFq7s/fox.png" group-title="ULUSAL",FOX
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="ULUSAL",TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TV8" tvg-id="TV8.tr" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV8
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+http://hw1.jemtv.com/app/tv8/playlist.m3u8
 #EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-id="BEYAZ.TV.HD.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="ULUSAL",BEYAZ TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
