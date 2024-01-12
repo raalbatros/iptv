@@ -28,12 +28,12 @@ https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-id="TRT.Belgesel.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="ULUSAL",TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-id="NTV.HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
-https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="HABER TÜRK" tvg-id="Haberturk.tr" tvg-id="HABERTURK.HD.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" group-title="HABER",HABER TURK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="CNN TÜRK HD" tvg-id="CNNTurk.tr" tvg-id="CNN.TÜRK.HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TÜRK HD
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRTHaber.tr" tvg-id="TRT.Haber.HD.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TV NET" tvg-id="TVNET.HD.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="HABER",TV NET
