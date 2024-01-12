@@ -38,8 +38,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TV NET" tvg-id="TVNET.HD.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="HABER",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-id="TGRT.Haber.HD.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER HD
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TGRT HABER" tvg-id="TGRTHaber.tr" tvg-id="TGRT.Haber.HD.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8?checkedby:,%20ahlakid.com%20-
 #EXTINF:-1 tvg-name="beIN SPORTS 1 yayinzirve" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1 yayinzirve
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
@@ -91,8 +91,6 @@ https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 tvg-name="BLUTV PLAY 2" tvg-id="" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" group-title="SINEMA",BLUTV PLAY 2
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
-#EXTINF:-1 tvg-name="SINEMA TV 1002" tvg-id="Sinema.TV.1002.tr" tvg-logo="https://i.ibb.co/gjSJgnG/sinema-1002.png" group-title="SINEMA",SINEMA TV 1002
-http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/47/ts
 #EXTINF:-1 tvg-name="SINEMA TV COMEDY" tvg-id="Sinema.TV.Comedy.tr" tvg-logo="https://i.ibb.co/zVSjxyP/sinema-komedi.png" group-title="SINEMA",SINEMA TV COMEDY
 http://asdfasfsadasd.live-life-stream.com:80/Akeriptv-Newlinw/MNEeHwz8Xt/4461.ts
 #EXTINF:-1 tvg-name="SINEMA TV COMEDY" tvg-id="Sinema.TV.Comedy.tr" tvg-logo="https://i.ibb.co/zVSjxyP/sinema-komedi.png" group-title="SINEMA",SINEMA TV COMEDY
