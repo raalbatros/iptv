@@ -44,22 +44,22 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-id="TGRT.Haber.HD.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS 1 yayinzirve" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1
+#EXTINF:-1 tvg-name="beIN SPORTS 1 yayinzirve" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1 yayinzirve
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 volestream" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1
+#EXTINF:-1 tvg-name="beIN SPORTS 1 volestream" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1 volestream
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://corsproxy.org/?https://volestream-cdn-ooooo.cdnvolestreamcdn.workers.dev/hls/bein-sports-1.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 cakal.click" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1
+#EXTINF:-1 tvg-name="beIN SPORTS 1 cakal click" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1 cakal click
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://corsproxy.org/?https://cakal.click/yayin1.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 yayinstar" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1
+#EXTINF:-1 tvg-name="beIN SPORTS 1 yayinstar" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1 yayinstar
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://corsproxy.org/?https://cakal.click/yayinstar.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 corsproxys" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1
+#EXTINF:-1 tvg-name="beIN SPORTS 1 corsproxys" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1 corsproxys
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://yayin.corsproxys.site/hls/bein-sports-1.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 weblive" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1
+#EXTINF:-1 tvg-name="beIN SPORTS 1 weblive" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="BEIN SPORT",beIN SPORTS 1 weblive
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://01-24.webhd.ru/ddy4/premium62/playlist.m3u8?%7CReferer=https://weblivehdplay.ru/&e=.m3u8
 
