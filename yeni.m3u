@@ -97,6 +97,6 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 group-title="ALMANCA" tvg-name="Okto" tvg-id="OKTO.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="ALMANCA" tvg-name="Okto" tvg-id="RAKUTEN.at" group-title="International;Spartenprogramm" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png",Rakuten
+#EXTINF:-1 group-title="ALMANCA" tvg-name="Rakuten" tvg-id="RAKUTEN.at" group-title="International;Spartenprogramm" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png",Rakuten
 https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
 
