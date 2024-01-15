@@ -99,4 +99,5 @@ http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ALMANCA" tvg-name="Rakuten" tvg-id="RAKUTEN.at" group-title="International;Spartenprogramm" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png",Rakuten
 https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 group-title="ALMANCA" tvg-name="Bibel" tvg-id="BIBEL.at" group-title="International;Spartenprogramm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bibel_TV_Logo.svg/2560px-Bibel_TV_Logo.svg.png",Bibel
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
