@@ -39,16 +39,6 @@ https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 yayin zirve
-https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 worker
-https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 cakal click
-https://corsproxy.org/?https://cakal.click/yayin1.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 halısaha
-http://65822363.xyz:80/live/halisaha7593/ayhn.8594/52977.ts
-#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 inattv
-https://corsproxy.org/?https://cakal.click/yayininat.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TV.85.tr" tvg-name="TV 8,5" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
@@ -103,3 +93,11 @@ https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ALMANCA" tvg-name="Bibel" tvg-id="BIBEL.at" group-title="International;Spartenprogramm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bibel_TV_Logo.svg/2560px-Bibel_TV_Logo.svg.png",Bibel
 https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 yayin zirve
+https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 worker
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?.m3u8
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 halısaha
+http://65822363.xyz:80/live/halisaha7593/ayhn.8594/52977.ts
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 inattv
+https://corsproxy.org/?https://cakal.click/yayininat.m3u8
