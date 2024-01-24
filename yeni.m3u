@@ -1,6 +1,6 @@
 ﻿#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
 #EXTINF:-1 group-title="ULUSAL" tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="KanalD.tr" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
