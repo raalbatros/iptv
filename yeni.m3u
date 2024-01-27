@@ -8,7 +8,7 @@ http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="StarTV.tr" tvg-name="STAR" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR
 http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="ShowTV.tr" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
-https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
+http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="FoxTurkey.tr" tvg-name="FOX" tvg-logo="https://i.ibb.co/MVTFq7s/fox.png" ,FOX
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
