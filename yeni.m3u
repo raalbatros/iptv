@@ -65,9 +65,12 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="ÇOCUK" tvg-name="CARTOONİTO" tvg-logo="https://i.ibb.co/RvVF9hQ/cartoonito.png" ,CARTOONITO
 https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN.BOX.OFFICE.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-box-office-1.png" ,Bein Box Office 1
+#EXTINF:-1 group-title="SINEMA" tvg-id="beIN.BOX.OFFICE.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-box-office-1.png" ,BeIN BOX OFFICE 1
 https://m3u-editor.com/serve/king5656445deo/1054058367
+#EXTINF:-1 group-title="SINEMA" tvg-id="beIN.BOX.OFFICE.2.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-box-office-2.png" ,BeIN BOX OFFICE 2
+https://m3u-editor.com/serve/king5656445deo/1054058368
+#EXTINF:-1 group-title="SINEMA" tvg-id="beIN.BOX.OFFICE.3.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-box-office-3.png" ,BeIN BOX OFFICE 3
+https://m3u-editor.com/serve/king5656445deo/1054058369
 #EXTINF:-1 group-title="SINEMA" tvg-name="BLU TV PLAY 1" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 1
 https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="BLU TV PLAY 2" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 2
