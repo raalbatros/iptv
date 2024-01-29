@@ -23,7 +23,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
 http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
-#EXTINF:-1 group-title="HABER" tvg-id="HABERTURK TR" tvg-name="HABER TÜRK" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
+#EXTINF:-1 group-title="HABER" tvg-id="Habertürk.tr" tvg-name="HABER TÜRK" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK HD" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
