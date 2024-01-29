@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
+﻿#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
 #EXTINF:-1 group-title="ULUSAL" tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="KanalD.tr" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
@@ -45,9 +45,9 @@ http://hw1.jemtv.com/app/trtspor/playlist.m3u8
 http://hw1.jemtv.com/app/tv85/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 https://trtsporyildiz.blutv.com/blutv_trtsporyildiz_2/smil:trtsporyildiz.smil/chunklist_b2064000_DVR.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-id="S.Sport.tr" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
+#EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
 https://corsproxy.org/?https://cakal.click/yayinss.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-id="S.Sport2.tr" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
+#EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
 https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBU SPOR 1" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBI SPOR 1
 https://corsproxy.org/?https://cakal.click/yayint1.m3u8
@@ -63,7 +63,7 @@ https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="ÇOCUK" tvg-id="Cartoon.Network.tr" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" ,CARTOON NETWORK
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="ÇOCUK" tvg-id="Disney.Jr.tr" tvg-name="DISNEY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/82/Disney_Junior_logo_2019.png" ,DISNEY JR
+#EXTINF:-1 group-title="ÇOCUK" tvg-id="Disney Junior" tvg-name="DISNEY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/82/Disney_Junior_logo_2019.png" ,DISNEY JR
 https://corsproxy.org/?https://m3u-editor.com/serve/king5656445deo/1054058535
 #EXTINF:-1 group-title="ÇOCUK" tvg-name="CARTOONİTO" tvg-logo="https://i.ibb.co/RvVF9hQ/cartoonito.png" ,CARTOONITO
 https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
