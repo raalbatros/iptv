@@ -39,40 +39,12 @@ https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
-http://hw1.jemtv.com/app/trtspor/playlist.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-id="TV.85.tr" tvg-name="TV 8,5" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
-http://hw1.jemtv.com/app/tv85/playlist.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
-https://trtsporyildiz.blutv.com/blutv_trtsporyildiz_2/smil:trtsporyildiz.smil/chunklist_b2064000_DVR.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-https://corsproxy.org/?https://cakal.click/yayinss.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-name="TIVIBU SPOR 1" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-https://corsproxy.org/?https://cakal.click/yayint1.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-name="TIVIBU SPOR 2" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-https://corsproxy.org/?https://cakal.click/yayint2.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-name="TIVIBU SPOR 3" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-https://corsproxy.org/?https://cakal.click/yayint3.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-id="SPOR.SMART.2.tr" tvg-name="SPOR SMART 2" tvg-logo="https://i.ibb.co/DY6MWKj/spor-smart-2.png" ,SPOR SMART 2
-https://corsproxy.org/?https://cakal.click/yayinsms2.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-id="Spor.Smart.tr" tvg-name="SPOR SMART" tvg-logo="https://i.ibb.co/QcLZ4Sn/spor-smart.png" ,SPOR SMART
-https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
-#EXTINF:-1 group-title="ÇOCUK" tvg-id="TRTCocuk.tr" tvg-name="TRT ÇOCUK" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" ,TRT COCUK
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="ÇOCUK" tvg-id="Cartoon.Network.tr" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" ,CARTOON NETWORK
-https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="ÇOCUK" tvg-id="Disney Junior" tvg-name="DISNEY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/82/Disney_Junior_logo_2019.png" ,DISNEY JR
-https://corsproxy.org/?https://m3u-editor.com/serve/king5656445deo/1054058535
-#EXTINF:-1 group-title="ÇOCUK" tvg-name="CARTOONİTO" tvg-logo="https://i.ibb.co/RvVF9hQ/cartoonito.png" ,CARTOONITO
-https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN.BOX.OFFICE.1.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/BoxOffice1_DIGITAL_Mono.png" ,BeIN BOX OFFICE 1
 https://www.kool.to/play/3448472424/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN.BOX.OFFICE.2.tr" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/37/Image/box_office2_205x150_2022.png" ,BeIN BOX OFFICE 2
-https://m3u-editor.com/serve/king5656445deo/1054058368
+https://www.kool.to/play/4031089162/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN.BOX.OFFICE.3.tr" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png" ,BeIN BOX OFFICE 3
-https://m3u-editor.com/serve/king5656445deo/1054058369
+https://www.kool.to/play/3441796026/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="BLU TV PLAY 1" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 1
 https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="BLU TV PLAY 2" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 2
@@ -93,6 +65,14 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="DISCOVERY ID" tvg-logo="https://i.ibb.co/QM4N5y2/discovery-id.png" ,DISCOVERY ID
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
+#EXTINF:-1 group-title="ÇOCUK" tvg-id="TRTCocuk.tr" tvg-name="TRT ÇOCUK" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" ,TRT COCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ÇOCUK" tvg-id="Cartoon.Network.tr" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" ,CARTOON NETWORK
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="ÇOCUK" tvg-id="Disney Junior" tvg-name="DISNEY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/82/Disney_Junior_logo_2019.png" ,DISNEY JR
+https://www.kool.to/play/1338535223/index.m3u8
+#EXTINF:-1 group-title="ÇOCUK" tvg-name="CARTOONİTO" tvg-logo="https://i.ibb.co/RvVF9hQ/cartoonito.png" ,CARTOONITO
+https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="ALMANCA" tvg-name="BADEN TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png",BADEN TV
 http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 group-title="ALMANCA" tvg-name="OKTO TV" tvg-id="OKTO.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",OKTO
@@ -101,9 +81,31 @@ https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ALMANCA" tvg-name="BIBEL TV" tvg-id="BIBEL.at" group-title="International;Spartenprogramm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bibel_TV_Logo.svg/2560px-Bibel_TV_Logo.svg.png",BIBEL TV
 https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
+http://hw1.jemtv.com/app/trtspor/playlist.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-id="TV.85.tr" tvg-name="TV 8,5" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
+http://hw1.jemtv.com/app/tv85/playlist.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
+https://trtsporyildiz.blutv.com/blutv_trtsporyildiz_2/smil:trtsporyildiz.smil/chunklist_b2064000_DVR.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
+https://corsproxy.org/?https://cakal.click/yayinss.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
+https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-name="TIVIBU SPOR 1" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
+https://corsproxy.org/?https://cakal.click/yayint1.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-name="TIVIBU SPOR 2" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
+https://corsproxy.org/?https://cakal.click/yayint2.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-name="TIVIBU SPOR 3" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
+https://corsproxy.org/?https://cakal.click/yayint3.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-id="SPOR.SMART.2.tr" tvg-name="SPOR SMART 2" tvg-logo="https://i.ibb.co/DY6MWKj/spor-smart-2.png" ,SPOR SMART 2
+https://corsproxy.org/?https://cakal.click/yayinsms2.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-id="Spor.Smart.tr" tvg-name="SPOR SMART" tvg-logo="https://i.ibb.co/QcLZ4Sn/spor-smart.png" ,SPOR SMART
+https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 yayin zirve
 https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 serve
 https://m3u-editor.com/serve/king5656445deo/1054058303
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 kool
 https://www.kool.to/play/822770501/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 kool 1
+https://www.kool.to/play/248348677/index.m3u8
