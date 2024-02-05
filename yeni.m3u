@@ -75,19 +75,19 @@ https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index
 https://www.kool.to/play/1338535223/index.m3u8
 #EXTINF:-1 group-title="ÇOCUK" tvg-name="CARTOONİTO" tvg-logo="https://i.ibb.co/RvVF9hQ/cartoonito.png" ,CARTOONITO
 https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="ALMANCA" tvg-name="BADEN TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png",BADEN TV
+#EXTINF:-1 group-title="ALMANCA" tvg-name="BADEN TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png",BADEN TV
 http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1 group-title="ALMANCA" tvg-name="OKTO TV" tvg-id="OKTO.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",OKTO
+#EXTINF:-1 group-title="ALMANCA" tvg-name="OKTO TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",OKTO
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="ALMANCA" tvg-name="RAKUTEN TV" tvg-id="RAKUTEN.at" group-title="International;Spartenprogramm" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png",RAKUTEN TV
+#EXTINF:-1 group-title="ALMANCA" tvg-name="RAKUTEN TV" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png",RAKUTEN TV
 https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ALMANCA" tvg-name="BIBEL TV" tvg-id="BIBEL.at" group-title="International;Spartenprogramm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bibel_TV_Logo.svg/2560px-Bibel_TV_Logo.svg.png",BIBEL TV
+#EXTINF:-1 group-title="ALMANCA" tvg-name="BIBEL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bibel_TV_Logo.svg/2560px-Bibel_TV_Logo.svg.png",BIBEL TV
 https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="ALMANCA" tvg-name="DISNEY CHANNEL" tvg-id="DISNEYCHANNELHD.at" group-title="International;Spartenprogramm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",DISNEY CHANNEL
+#EXTINF:-1 group-title="ALMANCA" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",DISNEY CHANNEL
 http://135.181.1.235/DISNEYCHANNELHD/index.m3u8
-#EXTINF:-1 group-title="ALMANCA" tvg-name="CARTOON NETWORK DE" tvg-id="CARTOONNETWORKDE.at" group-title="International;Spartenprogramm" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png",CARTOON NETWORK DE
+#EXTINF:-1 group-title="ALMANCA" tvg-name="CARTOON NETWORK DE" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png",CARTOON NETWORK DE
 http://135.181.1.235:80/CARTOON_NETWORK_HD/index.m3u8
-#EXTINF:-1 group-title="ALMANCA" tvg-name="KIKA" tvg-id="KIKA.at" group-title="International;Spartenprogramm" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2020/06/kika-von-ard-und-zdf-vector-logo.png",KIKA
+#EXTINF:-1 group-title="ALMANCA" tvg-name="KIKA" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2020/06/kika-von-ard-und-zdf-vector-logo.png",KIKA
 http://154.58.225.25:9999/kika/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
