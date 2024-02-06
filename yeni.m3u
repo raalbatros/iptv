@@ -93,6 +93,8 @@ http://154.58.225.25:9999/kika/index.m3u8
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TV.85.tr" tvg-name="TV 8,5" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
 http://hw1.jemtv.com/app/tv85/playlist.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-id="A SPOR" tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
+http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
