@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
+﻿#EXTM3U x-tvg-url="https://epg.ott-play.com/php/show_prow.php?f=edem/edem.xml, https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
 #EXTINF:-1 group-title="ULUSAL" tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="KANAL D" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
@@ -39,11 +39,11 @@ https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN.BOX.OFFICE.1.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/BoxOffice1_DIGITAL_Mono.png" ,BeIN BOX OFFICE 1
+#EXTINF:-1 group-title="SINEMA" tvg-id="beIN Box Office 1 HD TR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/BoxOffice1_DIGITAL_Mono.png" ,BeIN BOX OFFICE 1
 https://www.kool.to/play/3448472424/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN.BOX.OFFICE.2.tr" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/37/Image/box_office2_205x150_2022.png" ,BeIN BOX OFFICE 2
+#EXTINF:-1 group-title="SINEMA" tvg-id="beIN Box Office 2 HD TR" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/37/Image/box_office2_205x150_2022.png" ,BeIN BOX OFFICE 2
 https://www.kool.to/play/4031089162/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN.BOX.OFFICE.3.tr" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png" ,BeIN BOX OFFICE 3
+#EXTINF:-1 group-title="SINEMA" tvg-id="beIN Box Office 3 HD TR" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png" ,BeIN BOX OFFICE 3
 https://www.kool.to/play/3441796026/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="BLU TV PLAY 1" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 1
 https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
@@ -55,7 +55,7 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="TELEON" tvg-logo="https://i.ibb.co/TTyVfbP/teleon.png" ,TELEON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/playlist.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-name="A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
+#EXTINF:-1 group-title="SINEMA" tvg-name="A 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
@@ -101,11 +101,11 @@ http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 https://corsproxy.org/?https://cakal.click/yayinss.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
 https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-name="TIVIBU SPOR 1" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
+#EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
 https://corsproxy.org/?https://cakal.click/yayint1.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-name="TIVIBU SPOR 2" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
+#EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
 https://corsproxy.org/?https://cakal.click/yayint2.m3u8
-#EXTINF:-1 group-title="SPOR" tvg-name="TIVIBU SPOR 3" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
+#EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
 https://corsproxy.org/?https://cakal.click/yayint3.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="Spor.Smart.tr" tvg-name="SPOR SMART" tvg-logo="https://i.ibb.co/QcLZ4Sn/spor-smart.png" ,SPOR SMART
 https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
