@@ -55,7 +55,7 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="TELEON" tvg-logo="https://i.ibb.co/TTyVfbP/teleon.png" ,TELEON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/playlist.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-name="A 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
+#EXTINF:-1 group-title="SINEMA" tvg-name="A2TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
