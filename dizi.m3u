@@ -1,2 +1,3 @@
-#EXTINF: Touch 1.sezon 1.bölüm
-https://p3.5dk.org/storage/media/b35dc03fbf76fdfa55777b1056bcbd10-720.mp4/gomindex.m3u8
+#EXTM3U
+#EXTVLCOPT:network-caching=1000
+ps://p3.5dk.org/storage/media/b35dc03fbf76fdfa55777b1056bcbd10-720.mp4/gomindex.m3u8
