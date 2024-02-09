@@ -119,3 +119,5 @@ https://proxy.linkeddatafragments.org/http://489908481363740815.ofd0203.xyz:80/p
 https://www.vavoo.to/play/822770501/index.m3u8
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 oha
 https://www.oha.to/play/3118029335/index.m3u8
+#EXTINF:-1,Dizi
+https://raalbatros.000webhostapp.com/film.php?HLS=https://www.dizigom1.com/manifest-2-sezon-11-bolum-hd1/
