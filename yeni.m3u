@@ -45,9 +45,9 @@ https://www.kool.to/play/3448472424/index.m3u8
 https://www.kool.to/play/4031089162/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 3" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png" ,BeIN BOX OFFICE 3
 https://www.kool.to/play/3441796026/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-name=""BluTV Play 1 tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 1
+#EXTINF:-1 group-title="SINEMA" tvg-name="BluTV Play 1" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 1
 https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-name=""BluTV Play 2" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 2
+#EXTINF:-1 group-title="SINEMA" tvg-name="BluTV Play 2" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 2
 https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
