@@ -25,12 +25,7 @@ https://p3.5dk.org/storage/media/149907bb51fb453262be258825d10d02-720.mp4/gomind
 https://p3.5dk.org/storage/media/80385c953fda58382a89b1bce224fab4
 #EXTINF:-1,Touch 1.Sezon 13.Bölüm
 https://r2.5dk.org/storage/media/79c85af0e50dae8961791e8afa1713f2
-#EXTINF:-1,Manifest 2.Sezon 11.Bölüm
-https://storage.diziyou.co/episodes/77427_tr/720p.m3u8
-#EXTINF:-1,Manifest 2.Sezon 12.Bölüm
-https://storage.diziyou.co/episodes/77428_tr/720p.m3u8
-#EXTINF:-1,Manifest 2.Sezon 13.Bölüm
-https://storage.diziyou.co/episodes/77429_tr/720p.m3u8
+
 
 x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
 #EXTINF:-1 group-title="ULUSAL" tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
