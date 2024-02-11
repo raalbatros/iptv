@@ -1,7 +1,7 @@
 ﻿#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
 #EXTINF:-1 group-title="ULUSAL" tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
-#EXTINF:-1 group-title="ULUSAL" tvg-id="KANAL D" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
+#EXTINF:-1 group-title="ULUSAL" tvg-id="KANAL D HD" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
 http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
@@ -45,9 +45,9 @@ https://www.kool.to/play/3448472424/index.m3u8
 https://www.kool.to/play/4031089162/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN Box Office 3 HD TR" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png" ,BeIN BOX OFFICE 3
 https://www.kool.to/play/3441796026/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-name="BLU TV PLAY 1" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 1
+#EXTINF:-1 group-title="SINEMA" tvg-name=""BluTV Play 1 tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 1
 https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-name="BLU TV PLAY 2" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 2
+#EXTINF:-1 group-title="SINEMA" tvg-name=""BluTV Play 2" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 2
 https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
@@ -67,6 +67,8 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="DISCOVERY ID" tvg-logo="https://i.ibb.co/QM4N5y2/discovery-id.png" ,DISCOVERY ID
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
+#EXTINF:-1 group-title="BELGESEL" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/317/Image/70x46_dsc_ekm2019.png" ,DISCOVERY CHANNEL
+https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
 #EXTINF:-1 group-title="ÇOCUK" tvg-id="TRTCocuk.tr" tvg-name="TRT ÇOCUK" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" ,TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="ÇOCUK" tvg-id="Cartoon.Network.tr" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" ,CARTOON NETWORK
