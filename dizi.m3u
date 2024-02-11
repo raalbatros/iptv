@@ -11,6 +11,16 @@ https://ecanlitv3.etvserver.com/startv.m3u8?tkn=2s_iZdStuP_BcmJVVgbhgg&tms=17076
 https://ecanlitv3.etvserver.com/showtv.m3u8?tkn=kTb7fOqOaz10yzA7WekTLQ&tms=1707690837
 #EXTINF:-1 group-title="ULUSAL" tvg-id="FoxTurkey" tvg-name="FOX" tvg-logo="https://i.ibb.co/MVTFq7s/fox.png" ,FOX
 https://ecanlitv3.etvserver.com/foxtv.m3u8?tkn=Yg5bKsD-tadOm9_IG7wySg&tms=1707690905
+#EXTINF:-1 group-title="ULUSAL" tvg-id="BEYAZ TV" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
+https://ecanlitv3.etvserver.com/beyaztv.m3u8?tkn=khqaapYumvoRCaMzCdb8nA&tms=1707691009
+#EXTINF:-1 group-title="ULUSAL" tvg-id="TV8" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
+https://ecanlitv3.etvserver.com/tv8.m3u8?tkn=Wc_x5eSAMTXeWrfXzwxiCg&tms=1707691041
+#EXTINF:-1 group-title="ULUSAL" tvg-id="KANAL 7 HD" tvg-name="KANAL 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
+https://ecanlitv3.etvserver.com/kanal7.m3u8?tkn=o3cK-3OlTjUp4LEt9SEpiQ&tms=1707691087
+#EXTINF:-1 group-title="ULUSAL" tvg-id="Teve2.tr" tvg-name="TEVE2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
+https://ecanlitv3.etvserver.com/teve2.m3u8?tkn=OV3uF3G7fljmfsRM1-roEQ&tms=1707691109
+#EXTINF:-1 group-title="ULUSAL" tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 group-title="Touch" ,Touch 1.Sezon 1.Bölüm
 https://p3.5dk.org/storage/media/b35dc03fbf76fdfa55777b1056bcbd10-720.mp4/gomindex.m3u8
