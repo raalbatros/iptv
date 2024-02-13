@@ -1,31 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml, https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
-#EXTINF:-1 group-title="ULUSAL" tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-https://ecanlitv3.etvserver.com/trt1.m3u8?tkn=IAaivD0ypQibicgWzaQzdQ&tms=1707690949
-#EXTINF:-1 group-title="ULUSAL" tvg-id="KANAL D" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-https://cdn404.canlitv.services/kanald.m3u8?tkn=Qa0xt3F-C3LEN4B_sJ7oqg&tms=1707681531&hst=tr.canlitv.services&ip=2a02:8071:5054:bbc0::8735
-#EXTINF:-1 group-title="ULUSAL" tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-https://ecanlitv3.etvserver.com/atv.m3u8?tkn=l9mTIuf4Dr6VydNZuR-Yfw&tms=1707687052
-#EXTINF:-1 group-title="ULUSAL" tvg-id="STAR TV" tvg-name="STAR" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR
-https://ecanlitv3.etvserver.com/startv.m3u8?tkn=2s_iZdStuP_BcmJVVgbhgg&tms=1707690884
-#EXTINF:-1 group-title="ULUSAL" tvg-id="SHOW TV" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
-https://ecanlitv3.etvserver.com/showtv.m3u8?tkn=kTb7fOqOaz10yzA7WekTLQ&tms=1707690837
-#EXTINF:-1 group-title="ULUSAL" tvg-id="FoxTurkey" tvg-name="FOX" tvg-logo="https://i.ibb.co/MVTFq7s/fox.png" ,FOX
-https://ecanlitv3.etvserver.com/foxtv.m3u8?tkn=Yg5bKsD-tadOm9_IG7wySg&tms=1707690905
-#EXTINF:-1 group-title="ULUSAL" tvg-id="BEYAZ TV" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
-https://ecanlitv3.etvserver.com/beyaztv.m3u8?tkn=khqaapYumvoRCaMzCdb8nA&tms=1707691009
-#EXTINF:-1 group-title="ULUSAL" tvg-id="TV8" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
-https://ecanlitv3.etvserver.com/tv8.m3u8?tkn=Wc_x5eSAMTXeWrfXzwxiCg&tms=1707691041
-#EXTINF:-1 group-title="ULUSAL" tvg-id="KANAL 7 HD" tvg-name="KANAL 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
-https://ecanlitv3.etvserver.com/kanal7.m3u8?tkn=o3cK-3OlTjUp4LEt9SEpiQ&tms=1707691087
-#EXTINF:-1 group-title="ULUSAL" tvg-id="Teve2.tr" tvg-name="TEVE2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
-https://ecanlitv3.etvserver.com/teve2.m3u8?tkn=OV3uF3G7fljmfsRM1-roEQ&tms=1707691109
-#EXTINF:-1 group-title="ULUSAL" tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 group-title="ULUSAL" tvg-id="Bein Sports 1" tvg-name="Bein Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" ,Bein Sports 1
-https://sette.455f3bc3385b99.shop/p/macizlevip5908.shop/601/g.8761d851e06e.space/chunklist_hd.m3u8
-#EXTINF:-1 group-title="ULUSAL" tvg-id="Spor" tvg-name="Spor" tvg-logo=" " ,Spor
-https://player.ucanaraba.shop/M574687/M574687.m3u8
-
+#EXTM3U 
 #EXTINF:-1 group-title="Touch" ,Touch 1.Sezon 1.Bölüm
 https://p3.5dk.org/storage/media/b35dc03fbf76fdfa55777b1056bcbd10-720.mp4/gomindex.m3u8
 #EXTINF:-1 group-title="Touch" ,Touch 1.Sezon 2.Bölüm
