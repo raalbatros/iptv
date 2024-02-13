@@ -43,6 +43,12 @@ http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/The_logo_of_bein_series_1_tv_channel.png" ,BEIN SERIES 1
 https://www.oha.to/play/715970015/index.m3u8
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 2" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/326/Image/bs02_205x150_logo_sub2022.png" ,BEIN SERIES 2
+https://www.oha.to/play/1829547791/index.m3u8
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 3" tvg-logo="https://w1.pngwing.com/pngs/910/513/png-transparent-network-bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-lyngsat-organization.png" ,BEIN SERIES 3
+https://www.oha.to/play/1349289663/index.m3u8
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Bein_series_comedy1.png" ,BEIN SERIES COMEDY
+https://www.oha.to/play/3062801999/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/BoxOffice1_DIGITAL_Mono.png" ,BeIN BOX OFFICE 1
 https://www.kool.to/play/3448472424/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 2" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/37/Image/box_office2_205x150_2022.png" ,BeIN BOX OFFICE 2
