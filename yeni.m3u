@@ -5,16 +5,16 @@ https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
 http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
-#EXTINF:-1 group-title="ULUSAL" tvg-id="STAR TV" tvg-name="STAR" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR
+#EXTINF:-1 group-title="ULUSAL" tvg-id="STAR TV" tvg-name="STAR" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="SHOW TV" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
 http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
-#EXTINF:-1 group-title="ULUSAL" tvg-id="FoxTurkey" tvg-name="FOX" tvg-logo="https://i.ibb.co/MVTFq7s/fox.png" ,FOX
+#EXTINF:-1 group-title="ULUSAL" tvg-id="FoxTurkey" tvg-name="FOX" tvg-logo="https://i.ibb.co/MVTFq7s/fox.png" ,NOW TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="BEYAZ TV" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
-https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
+https://proxy.linkeddatafragments.org/http://489908481363775427.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/775427.ts
 #EXTINF:-1 group-title="ULUSAL" tvg-id="TV8" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+https://proxy.linkeddatafragments.org/http://489908481363775491.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/775491.ts
 #EXTINF:-1 group-title="ULUSAL" tvg-id="KANAL 7 HD" tvg-name="KANAL 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="Teve2.tr" tvg-name="TEVE2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
