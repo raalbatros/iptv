@@ -79,7 +79,7 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 #EXTINF:-1 group-title="BELGESEL" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/317/Image/70x46_dsc_ekm2019.png" ,DISCOVERY CHANNEL
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
-https://www.kool.to/play/688078726/index.m3u8
+https://proxy.linkeddatafragments.org/http://489908481363775460.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/775460.ts
 
 #EXTINF:-1 group-title="ÇOCUK" tvg-id="TRTCocuk.tr" tvg-name="TRT ÇOCUK" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" ,TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
