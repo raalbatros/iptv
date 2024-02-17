@@ -1,6 +1,6 @@
 ﻿#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml,https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
 #EXTINF:-1 group-title="ULUSAL" tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-https://trt1.blutv.com/blutv_trt1_live/live.m3u8
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="KANAL D HD" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
@@ -18,26 +18,26 @@ http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="KANAL 7 HD" tvg-name="KANAL 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
 http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="Teve2.tr" tvg-name="TEVE2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
-https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+http://stream.tvcdn.net/eglence/teve2.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
 http://hw1.jemtv.com/app/360tv/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
 http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="Haber Türk" tvg-name="HABER TÜRK" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK HD" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TRTHaber.tr" tvg-name="TRT HABER" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
-http://hw1.jemtv.com/app/trthaber/playlist.m3u8
+http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="A.Haber.HD.tr" tvg-name="A HABER" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" ,A HABER
-https://ythlsgo.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+http://stream.tvcdn.net/haber/a-haber.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="BloombergHT.tr" tvg-name="BLOOMBERG HT" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" ,BLOOMBERG HT
 http://hw1.jemtv.com/app/bloomberght/playlist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="24 HD" tvg-name="24" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
-https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
+http://stream.tvcdn.net/haber/24-tv.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TVNET.HD.tr" tvg-name="TV NET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
@@ -69,11 +69,11 @@ http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" ,TRT BELGESEL
-http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="DMAXTurkey.tr" tvg-name="DMAX" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" ,DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+http://stream.tvcdn.net/eglence/dmax.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TLCTurkey.tr" tvg-name="TLC" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" ,TLC
-https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
+http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="DISCOVERY ID" tvg-logo="https://i.ibb.co/QM4N5y2/discovery-id.png" ,DISCOVERY ID
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/317/Image/70x46_dsc_ekm2019.png" ,DISCOVERY CHANNEL
@@ -90,14 +90,6 @@ https://proxy.linkeddatafragments.org/http://489908481363750262.ofd0203.xyz:80/p
 #EXTINF:-1 group-title="ÇOCUK" tvg-name="CARTOONİTO" tvg-logo="https://i.ibb.co/RvVF9hQ/cartoonito.png" ,CARTOONITO
 https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 group-title="ALMANCA" tvg-name="BADEN TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png",BADEN TV
-http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1 group-title="ALMANCA" tvg-name="OKTO TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",OKTO
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="ALMANCA" tvg-name="RAKUTEN TV" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png",RAKUTEN TV
-https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ALMANCA" tvg-name="BIBEL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bibel_TV_Logo.svg/2560px-Bibel_TV_Logo.svg.png",BIBEL TV
-https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="ALMANCA" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",DISNEY CHANNEL
 http://135.181.1.235/DISNEYCHANNELHD/index.m3u8
 #EXTINF:-1 group-title="ALMANCA" tvg-name="CARTOON NETWORK DE" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png",CARTOON NETWORK DE
