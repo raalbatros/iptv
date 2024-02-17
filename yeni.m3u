@@ -9,7 +9,7 @@ http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="SHOW TV" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
 http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
-#EXTINF:-1 group-title="ULUSAL" tvg-id="FoxTurkey" tvg-name="FOX" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
+#EXTINF:-1 group-title="ULUSAL" tvg-id="NOW" tvg-name="NOW" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="BEYAZ TV" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 http://hw1.jemtv.com/app/beyaz/playlist.m3u8
@@ -89,12 +89,11 @@ https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index
 https://proxy.linkeddatafragments.org/http://489908481363750262.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/750262.ts
 #EXTINF:-1 group-title="ÇOCUK" tvg-name="CARTOONİTO" tvg-logo="https://i.ibb.co/RvVF9hQ/cartoonito.png" ,CARTOONITO
 https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 group-title="ALMANCA" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",DISNEY CHANNEL
+#EXTINF:-1 group-title="ÇOCUK" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",DISNEY CHANNEL DE
 http://135.181.1.235/DISNEYCHANNELHD/index.m3u8
-#EXTINF:-1 group-title="ALMANCA" tvg-name="CARTOON NETWORK DE" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png",CARTOON NETWORK DE
+#EXTINF:-1 group-title="ÇOCUK" tvg-name="CARTOON NETWORK DE" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png",CARTOON NETWORK DE
 http://135.181.1.235:80/CARTOON_NETWORK_HD/index.m3u8
-#EXTINF:-1 group-title="ALMANCA" tvg-name="KIKA" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2020/06/kika-von-ard-und-zdf-vector-logo.png",KIKA
+#EXTINF:-1 group-title="ÇOCUK" tvg-name="KIKA" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2020/06/kika-von-ard-und-zdf-vector-logo.png",KIKA DE
 http://154.58.225.25:9999/kika/index.m3u8
 
 #EXTINF:-1 group-title="SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
