@@ -45,10 +45,10 @@ http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 https://www.kool.to/play/715970015/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 2" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/326/Image/bs02_205x150_logo_sub2022.png" ,BEIN SERIES 2
 https://www.kool.to/play/1829547791/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 3" tvg-logo="https://w1.pngwing.com/pngs/910/513/png-transparent-network-bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-lyngsat-organization.png" ,BEIN SERIES 3
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 3" tvg-logo="https://w1.pngwing.com/pngs/910/513/png-transparent-network-bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-lyngsat-organization.png" ,BEIN MOVIES ACTION
 https://www.kool.to/play/1349289663/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Bein_series_comedy1.png" ,BEIN SERIES COMEDY
-https://www.kool.to/play/3062801999/index.m3u8
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN MOVIES ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Bein_series_comedy1.png" ,BEIN SERIES COMEDY
+https://proxy.linkeddatafragments.org/http://489908481363750222.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/750222.ts
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/BoxOffice1_DIGITAL_Mono.png" ,BeIN BOX OFFICE 1
 https://www.kool.to/play/3448472424/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 2" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/37/Image/box_office2_205x150_2022.png" ,BeIN BOX OFFICE 2
@@ -114,21 +114,21 @@ http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-https://www.kool.to/play/284410628/index.m3u8
+https://proxy.linkeddatafragments.org/http://489908481363760574.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/760574.ts
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-https://www.kool.to/play/775991422/index.m3u8
+https://proxy.linkeddatafragments.org/http://489908481363760579.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/760579.ts
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-https://www.kool.to/play/2838996283/index.m3u8
+https://proxy.linkeddatafragments.org/http://489908481363760580.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/760580.ts
 #EXTINF:-1 group-title="SPOR" tvg-id="Spor.Smart.tr" tvg-name="SPOR SMART" tvg-logo="https://i.ibb.co/QcLZ4Sn/spor-smart.png" ,SPOR SMART
 https://www.kool.to/play/4178795436/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="SPOR.SMART.2.tr" tvg-name="SPOR SMART 2" tvg-logo="https://i.ibb.co/DY6MWKj/spor-smart-2.png" ,SPOR SMART 2
 https://www.kool.to/play/803935269/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-https://www.kool.to/play/2155478922/index.m3u8
+https://proxy.linkeddatafragments.org/http://489908481363760539.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/760539.ts
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-https://www.kool.to/play/3367850126/index.m3u8
+https://proxy.linkeddatafragments.org/http://489908481363750388.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/750388.ts
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN 1" tvg-name="EXXEN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN 1
-https://www.kool.to/play/2498689480/index.m3u8
+https://proxy.linkeddatafragments.org/http://489908481363750296.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/750296.ts
 
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 xyz
 https://proxy.linkeddatafragments.org/http://489908481363740815.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/740815.ts
