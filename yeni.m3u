@@ -12,15 +12,15 @@ http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="FoxTurkey" tvg-name="FOX" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="BEYAZ TV" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
-https://proxy.linkeddatafragments.org/http://489908481363775427.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/775427.ts
+http://hw1.jemtv.com/app/beyaz/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="TV8" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
-https://proxy.linkeddatafragments.org/http://489908481363775491.ofd0203.xyz:80/play/Jjgg1225D/Akfkkeykd32/775491.ts
+http://hw1.jemtv.com/app/tv8/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="KANAL 7 HD" tvg-name="KANAL 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
-https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
+http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="Teve2.tr" tvg-name="TEVE2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
-http://stream.tvcdn.net/ulusal/360-tv.m3u8
+http://hw1.jemtv.com/app/360tv/playlist.m3u8
 
 #EXTINF:-1 group-title="HABER" tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
 http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
@@ -29,11 +29,11 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK HD" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TRTHaber.tr" tvg-name="TRT HABER" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+http://hw1.jemtv.com/app/trthaber/playlist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="A.Haber.HD.tr" tvg-name="A HABER" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" ,A HABER
 https://ythlsgo.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="BloombergHT.tr" tvg-name="BLOOMBERG HT" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" ,BLOOMBERG HT
-https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+http://hw1.jemtv.com/app/bloomberght/playlist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="24 HD" tvg-name="24" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TVNET.HD.tr" tvg-name="TV NET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
