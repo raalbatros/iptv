@@ -1,18 +1,6 @@
 #EXTM3U 
-#EXTINF:-1, S SPORT 1
-http://remsa.oceandesk.xyz:8080/hasanali1/GznSXsK3dVvh/42
-#EXTINF:-1, TIVIBUSPOR 1
-http://remsa.oceandesk.xyz:8080/hasanali1/GznSXsK3dVvh/44
-#EXTINF:-1, ATV
-http://remsa.oceandesk.xyz:8080/hasanali1/GznSXsK3dVvh/11
-#EXTINF:-1, SİNEMA TV 1
-http://remsa.oceandesk.xyz:8080/hasanali1/GznSXsK3dVvh/95	
-#EXTINF:-1, SİNEMA TV YERLİ
-http://remsa.oceandesk.xyz:8080/hasanali1/GznSXsK3dVvh/96	
-#EXTINF:-1, SİNEMA TV AKSİYON
-http://remsa.oceandesk.xyz:8080/hasanali1/GznSXsK3dVvh/94	
-#EXTINF:-1, SİNEMA TV KOMEDİ
-http://remsa.oceandesk.xyz:8080/hasanali1/GznSXsK3dVvh/92	
+#EXTINF:-1, Kurulus Osman Son
+https://atv-vod.ercdn.net/video/dizi/kurulus-osman/148_s2a5/5689a67f-8e55-4029-a7b0-401a4b0c0e46.hb.smil/5689a67f-8e55-4029-a7b0-401a4b0c0e46.hb=pvfnCdGb_pacn2Q7-823200000.ts?st=EGUgRJKc-DRvpnR21RKxjw&e=1708389789
 
 #EXTINF:-1 group-title="Touch" ,Touch 1.Sezon 1.Bölüm
 https://p3.5dk.org/storage/media/b35dc03fbf76fdfa55777b1056bcbd10-720.mp4/gomindex.m3u8
