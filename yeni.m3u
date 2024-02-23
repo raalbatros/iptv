@@ -53,10 +53,6 @@ http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/142318.m3u
 http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/142319.m3u
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BeIN BOX OFFICE 3
 http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/142320.m3u
-#EXTINF:-1 group-title="SINEMA" tvg-name="BluTV Play 1" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 1
-https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-name="BluTV Play 2" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 2
-https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="SINEMA TV" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" ,SINEMA
