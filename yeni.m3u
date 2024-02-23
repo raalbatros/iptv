@@ -41,18 +41,18 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/The_logo_of_bein_series_1_tv_channel.png" ,BEIN SERIES 1
-https://www.kool.to/play/715970015/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 2" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/326/Image/bs02_205x150_logo_sub2022.png" ,BEIN SERIES 2
-https://www.kool.to/play/1829547791/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 3" tvg-logo="https://w1.pngwing.com/pngs/910/513/png-transparent-network-bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-lyngsat-organization.png" ,BEIN SERIES 3
-https://www.kool.to/play/1349289663/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/BoxOffice1_DIGITAL_Mono.png" ,BeIN BOX OFFICE 1
-https://www.kool.to/play/3448472424/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 2" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/37/Image/box_office2_205x150_2022.png" ,BeIN BOX OFFICE 2
-https://www.kool.to/play/4031089162/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 3" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png" ,BeIN BOX OFFICE 3
-https://www.kool.to/play/3441796026/index.m3u8
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 1" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES 1
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6455.m3u
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 2" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES 2
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6456.m3u
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 3" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES 3
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6457.m3u
+#EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BeIN BOX OFFICE 1
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/142318.m3u
+#EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BeIN BOX OFFICE 2
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/142319.m3u
+#EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BeIN BOX OFFICE 3
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/142320.m3u
 #EXTINF:-1 group-title="SINEMA" tvg-name="BluTV Play 1" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 1
 https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="BluTV Play 2" tvg-logo="https://i.ibb.co/G9rWyrV/blutv.png" ,BLU TV PLAY 2
@@ -77,9 +77,9 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 #EXTINF:-1 group-title="BELGESEL" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/317/Image/70x46_dsc_ekm2019.png" ,DISCOVERY CHANNEL
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
-http://bilginyayins1.online:8080/batuhan/2userssss/662
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/5971.m3u
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
-http://bilginyayins1.online:8080/batuhan/2userssss/660
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/5973.m3u
 
 #EXTINF:-1 group-title="ÇOCUK" tvg-id="TRTCocuk.tr" tvg-name="TRT ÇOCUK" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" ,TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
@@ -105,23 +105,25 @@ http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-http://bilginyayins1.online:8080/batuhan/2userssss/597
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6399.m3u
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-http://bilginyayins1.online:8080/batuhan/2userssss/600
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6400.m3u
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-http://bilginyayins1.online:8080/batuhan/2userssss/603
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6401.m3u
 #EXTINF:-1 group-title="SPOR" tvg-id="Spor.Smart.tr" tvg-name="SPOR SMART" tvg-logo="https://i.ibb.co/QcLZ4Sn/spor-smart.png" ,SPOR SMART
-http://bilginyayins1.online:8080/batuhan/2userssss/616
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6396.m3u
 #EXTINF:-1 group-title="SPOR" tvg-id="SPOR.SMART.2.tr" tvg-name="SPOR SMART 2" tvg-logo="https://i.ibb.co/DY6MWKj/spor-smart-2.png" ,SPOR SMART 2
-http://bilginyayins1.online:8080/batuhan/2userssss/617
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6397.m3u
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
 http://bilginyayins1.online:8080/batuhan/2userssss/610
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
 http://bilginyayins1.online:8080/batuhan/2userssss/613
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN 1" tvg-name="EXXEN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN 1
-http://bilginyayins1.online:8080/batuhan/2userssss/618
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6300.m3u
 
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://hd.kesintisiz.stream:80/48embo48/9pfayEJ8JazT/7
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
+http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/5850.m3u
 
 
