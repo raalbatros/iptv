@@ -47,8 +47,8 @@ http://ragnarlive.live:80/live/senol3625/717227.2772/2056.ts
 http://ragnarlive.live:80/live/senol3625/717227.2772/7557.ts
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 3" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES 3
 http://ragnarlive.live:80/live/senol3625/717227.2772/39.ts
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 4" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES 4
-http://ragnarlive.live:80/live/senol3625/717227.2772/133892.ts
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 4" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES COMEDY
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50147
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BeIN BOX OFFICE 1
 http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/142318.m3u
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BeIN BOX OFFICE 2
@@ -123,3 +123,5 @@ http://hd.kesintisiz.stream:80/48embo48/9pfayEJ8JazT/7
 http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/5853.m3u
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 ragnarlive
 http://ragnarlive.live:80/live/senol3625/717227.2772/58659.ts
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 arbcamd
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/469
