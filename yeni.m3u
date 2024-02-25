@@ -42,19 +42,19 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 1" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES 1
-http://ragnarlive.live:80/live/senol3625/717227.2772/2056.ts
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50799
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 2" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES 2
-http://ragnarlive.live:80/live/senol3625/717227.2772/7557.ts
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50146
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 3" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES 3
 http://ragnarlive.live:80/live/senol3625/717227.2772/39.ts
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 4" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES COMEDY
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES COMEDY" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES COMEDY
 http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50147
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BeIN BOX OFFICE 1
-http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/142318.m3u
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/4066
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BeIN BOX OFFICE 2
-http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/142319.m3u
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/4067
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BeIN BOX OFFICE 3
-http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/142320.m3u
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/4068
 #EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="SINEMA TV" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" ,SINEMA YANSIMA
@@ -75,9 +75,9 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 #EXTINF:-1 group-title="BELGESEL" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/317/Image/70x46_dsc_ekm2019.png" ,DISCOVERY CHANNEL
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
-http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/5971.m3u
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48348
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
-http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/5973.m3u
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1760
 
 #EXTINF:-1 group-title="ÇOCUK" tvg-id="TRTCocuk.tr" tvg-name="TRT ÇOCUK" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" ,TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
@@ -103,9 +103,9 @@ http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
 http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6399.m3u
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6400.m3u
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48240
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6401.m3u
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48239
 #EXTINF:-1 group-title="SPOR" tvg-id="Spor.Smart.tr" tvg-name="SPOR SMART" tvg-logo="https://i.ibb.co/QcLZ4Sn/spor-smart.png" ,SPOR SMART
 http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6396.m3u
 #EXTINF:-1 group-title="SPOR" tvg-id="SPOR.SMART.2.tr" tvg-name="SPOR SMART 2" tvg-logo="https://i.ibb.co/DY6MWKj/spor-smart-2.png" ,SPOR SMART 2
