@@ -59,6 +59,14 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="A2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
+#EXTINF:-1 group-title="SINEMA" tvg-name="4K SINEMA TV" tvg-logo="https://png.pngtree.com/png-vector/20220523/ourmid/pngtree-4k-hd-button-png-image-png-image_4711111.png" ,4K SINEMA TV 1
+http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/102233
+#EXTINF:-1 group-title="SINEMA" tvg-name="4K SINEMA TV" tvg-logo="https://png.pngtree.com/png-vector/20220523/ourmid/pngtree-4k-hd-button-png-image-png-image_4711111.png" ,4K SINEMA TV 2
+http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/102234
+#EXTINF:-1 group-title="SINEMA" tvg-name="4K SINEMA TV" tvg-logo="https://png.pngtree.com/png-vector/20220523/ourmid/pngtree-4k-hd-button-png-image-png-image_4711111.png" ,4K SINEMA TV 3
+http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/102235
+#EXTINF:-1 group-title="SINEMA" tvg-name="4K SINEMA TV" tvg-logo="https://png.pngtree.com/png-vector/20220523/ourmid/pngtree-4k-hd-button-png-image-png-image_4711111.png" ,4K SINEMA TV 4
+http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/102236
 
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
