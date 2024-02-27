@@ -41,18 +41,20 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 1" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES 1
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50799
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 2" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES 2
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50146
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 3" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES 3
-http://ragnarlive.live:80/live/senol3625/717227.2772/39.ts
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BeIN BOX OFFICE 1
-http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/6195
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BeIN BOX OFFICE 2
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/4067
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BeIN BOX OFFICE 3
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/4068
+#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA AILE" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AILE
+http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1698
+#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA AILE 2" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AILE 2
+http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1699
+#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA KOMEDİ" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA KOMEDİ
+http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1701
+#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA KOMEDİ 2" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA KOMEDİ 2
+http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1702
+#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA AKSIYON" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AKSIYON
+http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1723
+#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA AKSIYON 2" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AKSIYON 2
+http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1700
+#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA 1001" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1001
+http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1697
 #EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="SINEMA TV" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" ,SINEMA YANSIMA
