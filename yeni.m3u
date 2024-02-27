@@ -55,6 +55,8 @@ http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1723
 http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1700
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA 1001" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1001
 http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1697
+#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA 1002" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1002
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/149574.ts
 #EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="SINEMA TV" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" ,SINEMA YANSIMA
