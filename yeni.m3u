@@ -57,6 +57,12 @@ http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/149573.ts
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/149708.ts
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA 1002" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1002
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/149655.ts
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 1
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/149575.ts
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 2
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/149576.ts
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 3
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/149577.ts
 #EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="SINEMA TV" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" ,SINEMA YANSIMA
