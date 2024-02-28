@@ -42,21 +42,21 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA AILE" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AILE
-http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1698
+http://bosstv.live:8080/AhmetMertMama/PX8Yc4A3FB2P/92395
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA AILE 2" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AILE 2
-http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1699
+http://bosstv.live:8080/AhmetMertMama/PX8Yc4A3FB2P/411982
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA KOMEDİ" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA KOMEDİ
-http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1701
+http://bosstv.live:8080/AhmetMertMama/PX8Yc4A3FB2P/92400
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA KOMEDİ 2" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA KOMEDİ 2
-http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1702
+http://bosstv.live:8080/AhmetMertMama/PX8Yc4A3FB2P/411981
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA AKSIYON" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AKSIYON
-http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1723
+http://bosstv.live:8080/AhmetMertMama/PX8Yc4A3FB2P/92396
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA AKSIYON 2" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AKSIYON 2
-http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1700
+http://bosstv.live:8080/AhmetMertMama/PX8Yc4A3FB2P/92398
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA 1001" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1001
-http://cdnsmartweb.000webhostapp.com/GigaTV.php?HLS=1697
+http://bosstv.live:8080/AhmetMertMama/PX8Yc4A3FB2P/92394
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA 1002" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1002
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/149574.ts
+http://bosstv.live:8080/AhmetMertMama/PX8Yc4A3FB2P/92402
 #EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="SINEMA TV" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" ,SINEMA YANSIMA
