@@ -43,12 +43,8 @@ http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA KOMEDİ" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA KOMEDİ
 http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/123924
-#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA KOMEDİ 2" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA KOMEDİ 2
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/149664.ts
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA AKSIYON" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AKSIYON
 http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/113293
-#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA AKSIYON 2" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AKSIYON 2
-http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/11355
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA 1001" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1001
 http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/123921
 #EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA 1002" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1002
