@@ -55,7 +55,7 @@ http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/113293
 http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/123921
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv 1002" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1002
 http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/123922
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 1
+#EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 1
 http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/6195
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 2
 http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/6196
@@ -63,7 +63,7 @@ http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/6196
 http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/6197
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 1" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN ACTION
 http://mt0811.xyz:8080/hkn1809/hkn11/6199
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 2" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN PREMIER
+#EXTINF:-1 group-title="SINEMA" tvg-id="beIN MOVIES PREMIERE" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN PREMIER
 http://mt0811.xyz:8080/hkn1809/hkn11/6201
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 3" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN FAMILY
 http://mt0811.xyz:8080/hkn1809/hkn11/6204
