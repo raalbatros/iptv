@@ -100,22 +100,24 @@ http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-http://pinkangel.tvblue.live:2095/live/yc2392/5zcWE63Wh3Zz/6399.m3u
+https://corsproxy.org/?https://cakal.click/yayint1.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48240
+https://corsproxy.org/?https://cakal.click/yayint2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48239
+https://corsproxy.org/?https://cakal.click/yayint3.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="Spor.Smart.tr" tvg-name="SPOR SMART" tvg-logo="https://i.ibb.co/QcLZ4Sn/spor-smart.png" ,SPOR SMART
-http://mt0811.xyz:8080/hkn1809/hkn11/263085
+https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="SPOR.SMART.2.tr" tvg-name="SPOR SMART 2" tvg-logo="https://i.ibb.co/DY6MWKj/spor-smart-2.png" ,SPOR SMART 2
-http://mt0811.xyz:8080/hkn1809/hkn11/263087
+https://corsproxy.org/?https://cakal.click/yayinsms2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-http://mt0811.xyz:8080/hkn1809/hkn11/263090
+https://corsproxy.org/?https://cakal.click/yayinss.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-http://mt0811.xyz:8080/hkn1809/hkn11/263091
+https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN 1" tvg-name="EXXEN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN 1
 http://mt0811.xyz:8080/hkn1809/hkn11/263075
 
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 yayinzirve
+https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 snrsz
 http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/469
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 8k
