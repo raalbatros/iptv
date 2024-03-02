@@ -1,87 +1,87 @@
 #EXTM3U
 #EXTINF:0,TRT 1 (A)
 #EXTVLCOPT:network-caching=1000
-https://trt1.blutv.com/blutv_trt1_live/live.m3u8
-#EXTINF:60,TRT 1 (B)
+http://bilginyayins1.online:8080/live/bilgintv_trt1.m3u8
+#EXTINF:0,TRT 1 (B)
 #EXTVLCOPT:network-caching=1000
-https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+http://bilginyayins1.online:8080/live/bilgintv_trt1.m3u8
 #EXTINF:0,TRT 1 (DVR)
 #EXTVLCOPT:network-caching=1000
-https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
-#EXTINF:0,TRT 2 (A)
+http://bilginyayins1.online:8080/live/dvr/bilgintv_trt1.m3u8
+#EXTINF:30,TRT 2 (A)
 #EXTVLCOPT:network-caching=1000
-https://trt2.blutv.com/blutv_trt2/live.m3u8
+http://bilginyayins1.online:8080/live/bilgintv_trt2.m3u8
 #EXTINF:0,TRT 2 (DVR)
 #EXTVLCOPT:network-caching=1000
-https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
-#EXTINF:0,TRT KÜRD#EXTVLCOPT:network-caching=1000
-https://trtkurdi.blutv.com/blutv_trtkurdi/live.m3u8
+http://bilginyayins1.online:8080/live/dvr/bilgintv_trt2.m3u8
+#EXTINF:0,TRT KÃœRD#EXTVLCOPT:network-caching=1000
+http://bilginyayins1.online:8080/live/bilgintv_trtkurdi.m3u8
 #EXTINF:0,ATV (A)
 #EXTVLCOPT:network-caching=1000
-https://c.fulltvizle.com/aytv/index.m3u8
+http://bilginyayins1.online:8080/live/bilgintv_atv_b.m3u8
 #EXTINF:0,ATV (B)
 #EXTVLCOPT:network-caching=1000
-http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+http://bilginyayins1.online:8080/live/bilgintv_atv_b.m3u8
 #EXTINF:0,ATV  (C)
 #EXTVLCOPT:network-caching=1000
-http://trn10.tulix.tv/gt-atv-tv/index.m3u8?token=c432149411a905154ebebc313dccb439
+http://bilginyayins1.online:8080/live/bilgintv_atv_c.m3u8
 #EXTINF:0,ATV AVRUPA
 #EXTVLCOPT:network-caching=1000
-http://trn10.tulix.tv/gt-atvavrupa/index.m3u8?token=c432149411a905154ebebc313dccb439
+http://bilginyayins1.online:8080/live/bilgintv_atvavrupa.m3u8
 #EXTINF:0,A2 TV
 #EXTVLCOPT:network-caching=1000
-https://c.fulltvizle.com/a2/index.m3u8
+http://bilginyayins1.online:8080/live/bilgintv_a2.m3u8
 #EXTINF:0,KANAL D (A)
 #EXTVLCOPT:network-caching=1000
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+http://bilginyayins1.online:8080/live/bilgintv_kanald.m3u8
 #EXTINF:0,KANAL D (B)
 #EXTVLCOPT:network-caching=1000
-https://c.fulltvizle.com/kanald/tracks-v1a1/mono.m3u8?token=ca38a672241eede48c996eefc6bf8b30f7b0a718-189cb49034014d54305f1962555712cb-1675328621-1675317821
+http://bilginyayins1.online:8080/live/bilgintv_kanald.m3u8
 #EXTINF:0,EURO D
 #EXTVLCOPT:network-caching=1000
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+http://bilginyayins1.online:8080/live/bilgintv_eurod.m3u8
 #EXTINF:0,STAR TV (A)
 #EXTVLCOPT:network-caching=1000
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+http://bilginyayins1.online:8080/live/bilgintv_star.m3u8
 #EXTINF:0,STAR TV (DVR)
 #EXTVLCOPT:network-caching=1000
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:0,EURO STAR" tvg-logo="https://firebasestorage.googleapis.com/v0/b/androiddunyasi-6f363.appspot.com/o/logo_stor%2F1676836914065.jpg?alt=media&token=0c8a9f06-9ee3-4e10-bf17-54269a74f09c" group-title="ULUSAL" - HTTP  ,EURO STAR
+http://bilginyayins1.online:8080/live/bilgintv_star.m3u8
+#EXTINF:0,EURO STAR
 #EXTVLCOPT:network-caching=1000
-http://trn10.tulix.tv/gt-eurostar/index.m3u8?token=c432149411a905154ebebc313dccb439
+http://bilginyayins1.online:8080/live/bilgintv_eurostar.m3u8
 #EXTINF:0,SHOW TV (A)
 #EXTVLCOPT:network-caching=1000
-https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+http://bilginyayins1.online:8080/live/bilgintv_show.m3u8
 #EXTINF:0,SHOW TV (DVR)
 #EXTVLCOPT:network-caching=1000
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
-#EXTINF:0,SHOW TÜRK (A)
+#EXTINF:0,SHOW TÃœRK (A)
 #EXTVLCOPT:network-caching=1000
-https://showturk.blutv.com/blutv_showturk2/live.m3u8
-#EXTINF:0,SHOW TÜRK (B)
+http://bilginyayins1.online:8080/live/bilgintv_showturk.m3u8
+#EXTINF:0,SHOW TÃœRK (B)
 #EXTVLCOPT:network-caching=1000
-https://showturk.blutv.com/blutv_showturk2/live.m3u8
+http://bilginyayins1.online:8080/live/bilgintv_showturk.m3u8
 #EXTINF:0,SHOW MAX
 #EXTVLCOPT:network-caching=1000
-http://cors.tundracast.com:2000/https://is.gd/zNvwV9
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/528
 #EXTINF:0,NOW (A)
 #EXTVLCOPT:network-caching=1000
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+http://bilginyayins1.online:8080/live/bilgintv_now.m3u8
 #EXTINF:0,NOW (DVR)
 #EXTVLCOPT:network-caching=1000
-https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
+http://bilginyayins1.online:8080/live/dvr/bilgintv_now.m3u8
 #EXTINF:0,BEYAZ TV (A)
 #EXTVLCOPT:network-caching=1000
-https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
+http://bilginyayins1.online:8080/live/bilgintv_beyaz.m3u8
 #EXTINF:0,BEYAZ TV (DVR)
 #EXTVLCOPT:network-caching=1000
-https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
-#EXTINF:0,KANAL 7 (A)" tvg-logo="https://firebasestorage.googleapis.com/v0/b/androiddunyasi-6f363.appspot.com/o/logo_stor%2F1676838450445.jpg?alt=media&token=4e343080-c596-4b44-9719-c4342070aa3a" group-title="ULUSAL" - -1   ,KANAL 7 (A)
+http://bilginyayins1.online:8080/live/dvr/bilgintv_beyaz.m3u8
+#EXTINF:0,KANAL 7 (A)
 #EXTVLCOPT:network-caching=1000
-https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
+http://bilginyayins1.online:8080/live/bilgintv_kanal7.m3u8
 #EXTINF:0,KANAL 7 (DVR)
 #EXTVLCOPT:network-caching=1000
-https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
+http://bilginyayins1.online:8080/live/dvr/bilgintv_kanal7.m3u8
 #EXTINF:0,KANAL 7 AVRUPA
 #EXTVLCOPT:network-caching=1000
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
@@ -118,7 +118,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:0,HABER TURK -DVR
 #EXTVLCOPT:network-caching=1000
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
-#EXTINF:0,CNN TÜRK
+#EXTINF:0,CNN TÃœRK
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:0,NTV
@@ -130,7 +130,7 @@ https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8
 #EXTINF:0,HABER GLOBAL -DVR
 #EXTVLCOPT:network-caching=1000
 https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:0,ÜLKE TV
+#EXTINF:0,ÃœLKE TV
 #EXTVLCOPT:network-caching=1000
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
 #EXTINF:0,TGRT HABER
@@ -148,7 +148,7 @@ https://trthaberdvr.blutv.com/blutv_trthaber_dvr2/live.m3u8
 #EXTINF:0,HALK TV -DVR
 #EXTVLCOPT:network-caching=1000
 https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
-#EXTINF:0,SÖZCÜ TV -DVR
+#EXTINF:0,SÃ–ZCÃœ TV -DVR
 #EXTVLCOPT:network-caching=1000
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 #EXTINF:0,TELE 1
@@ -177,7 +177,7 @@ https://tv100dvr.blutv.com/blutv_tv1002_dvr/live.m3u8
 https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
 #EXTINF:0,AK#EXTVLCOPT:network-caching=1000
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:0,BBN türk
+#EXTINF:0,BBN tÃ¼rk
 #EXTVLCOPT:network-caching=1000
 https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
 #EXTINF:0,FLASH TV
@@ -192,62 +192,62 @@ https://krtdvr.blutv.com/blutv_krt_live_dvr/live.m3u8
 #EXTINF:0,BE#EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/video/OypUpUTYAHI.m3u8
 #EXTINF:0,BE#EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/578
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/578
 #EXTINF:0,BE#EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/580
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/580
 #EXTINF:0,BE#EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/583
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/583
 #EXTINF:0,BE#EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/586
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/586
 #EXTINF:0,BE#EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/589
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/589
 #EXTINF:0,BE#EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/592
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/592
 #EXTINF:0,BE#EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/594
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/594
 #EXTINF:0,T#EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/596
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/596
 #EXTINF:0,TIVIBU SPOR 1
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/597
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/597
 #EXTINF:0,TIVIBU SPOR  2
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/600
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/600
 #EXTINF:0,TIVIBU SPOR  3
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/603
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/603
 #EXTINF:0,T#EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/606
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/606
 #EXTINF:0,SPORTS TV
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/609
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/609
 #EXTINF:0,SSPORT PLUS + 1
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/610
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/610
 #EXTINF:0,SSPORT PLUS + 2
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/613
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/613
 #EXTINF:0,SPOR SMART 1
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/616
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/616
 #EXTINF:0,SPOR SMART 2
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/617
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/617
 #EXTINF:0,EXXEN SPORTS 1
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/618
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/618
 #EXTINF:0,EXXEN SPORTS 2
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1086
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1086
 #EXTINF:0,EXXEN SPORTS 3
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1087
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1087
 #EXTINF:0,EXXEN SPORTS 4
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1088
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1088
 #EXTINF:0,EXXEN SPORTS 5
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1089
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1089
 #EXTINF:0,TRT SPOR
 #EXTVLCOPT:network-caching=1000
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
@@ -255,10 +255,10 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 https://trtsporyildizdvr.blutv.com/blutv_trtsporyildiz_dvr/live.m3u8
 #EXTINF:0,A SPOR
 #EXTVLCOPT:network-caching=1000
-https://ythls.armelin.one/video/XML046Hzwqk.m3u8
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/621
 #EXTINF:0,FB TV
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/622
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/622
 #EXTINF:0,GS TV
 #EXTVLCOPT:network-caching=1000
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
@@ -281,7 +281,7 @@ http://hw1.jemtv.com/app/taytv/playlist.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:0,NBA TV
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/630
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/630
 #EXTINF:0,CBC SPORT
 #EXTVLCOPT:network-caching=1000
 http://trn10.tulix.tv/gt-cbcsport/index.m3u8?token=c432149411a905154ebebc313dccb439
@@ -295,40 +295,40 @@ https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 https://edge02.odtv.az/o3/natgeo/playlist.m3u8
 #EXTINF:0,24 Kitchen FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/635
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/635
 #EXTINF:0,24 Kitchen HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/636
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/636
 #EXTINF:0,Animal Planet SD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/637
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/637
 #EXTINF:0,Animal Planet HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1084
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1084
 #EXTINF:0,Animaux SD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/638
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/638
 #EXTINF:0,Automoto FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/639
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/639
 #EXTINF:0,BBC Earth FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/640
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/640
 #EXTINF:0,BBC Earth HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/641
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/641
 #EXTINF:0,beIN Gurme FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/642
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/642
 #EXTINF:0,beIN Gurme HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/643
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/643
 #EXTINF:0,beIN IZ HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/644
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/644
 #EXTINF:0,Chasse et Peche SD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/645
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/645
 #EXTINF:0,Discovery Channel FHD
 #EXTVLCOPT:network-caching=1000
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
@@ -340,7 +340,7 @@ https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlis
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
 #EXTINF:0,Discovery Science HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/649
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/649
 #EXTINF:0,DMAX FHD
 #EXTVLCOPT:network-caching=1000
 https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
@@ -349,49 +349,49 @@ https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
 https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
 #EXTINF:0,DMAX SD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/652
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/652
 #EXTINF:0,DocuBox FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/653
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/653
 #EXTINF:0,Fashion Midnight HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/654
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/654
 #EXTINF:0,Fashion TV FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/655
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/655
 #EXTINF:0,History Channel FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/656
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/656
 #EXTINF:0,Investigation Discovery HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/657
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/657
 #EXTINF:0,Love Nature HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/658
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/658
 #EXTINF:0,NASA TV HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/659
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/659
 #EXTINF:0,Nat Geo Wild FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/660
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/660
 #EXTINF:0,Nat Geo Wild HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/661
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/661
 #EXTINF:0,National Geographic FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/662
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/662
 #EXTINF:0,National Geographic HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/663
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/663
 #EXTINF:0,Outdoor Channel HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/664
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/664
 #EXTINF:0,Science & Vie FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/665
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/665
 #EXTINF:0,TGRT Belgesel SD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/666
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/666
 #EXTINF:0,TLC FHD
 #EXTVLCOPT:network-caching=1000
 https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
@@ -406,154 +406,151 @@ https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
 https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
 #EXTINF:0,Viasat Explore SD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/671
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/671
 #EXTINF:0,Viasat History FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/672
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/672
 #EXTINF:0,Viasat Nature FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/673
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/673
 #EXTINF:0,Yaban TV FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/674
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/674
 #EXTINF:0,BEIN MOVIES ACTION
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/886
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/886
 #EXTINF:0,BEIN MOVIES ACTION 2
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/887
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/887
 #EXTINF:0,BEIN MOVIES FAMILY
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/888
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/888
 #EXTINF:0,BEIN MOVIES PREMIERE
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/889
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/889
 #EXTINF:0,BEIN MOVIES PREMIERE 2
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/890
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/890
 #EXTINF:0,BEIN MOVIES STARS
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/891
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/891
 #EXTINF:0,BEIN MOVIES TURK
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/892
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/892
 #EXTINF:0,BEIN SERIES COMEDY
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/893
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/893
 #EXTINF:0,BEIN SERIES DRAMA
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/894
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/894
 #EXTINF:0,BEIN SERIES SCI-FI
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/895
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/895
 #EXTINF:0,BEIN SERIES VICE
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/896
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/896
 #EXTINF:0,BEIN BOX OFFICE 1
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/883
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/883
 #EXTINF:0,BEIN BOX OFFICE 2
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/884
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/884
 #EXTINF:0,BEIN BOX OFFICE 3
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/885
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/885
 #EXTINF:0,SINEMA TV
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/942
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/942
 #EXTINF:0,SINEMA 1001
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/935
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/935
 #EXTINF:0,SINEMA 1002
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/936
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/936
 #EXTINF:0,SINEMA AILE 1
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/938
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/938
 #EXTINF:0,SINEMA AILE 2
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/939
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/939
 #EXTINF:0,SINEMA AKSIYON
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/940
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/940
 #EXTINF:0,SINEMA KOMEDI
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/941
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/941
 #EXTINF:0,SINEMA YERLI
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/943
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/943
 #EXTINF:0,DIZI SMART MAX
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/897
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/897
 #EXTINF:0,DIZI SMART PREMIUM
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/898
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/898
 #EXTINF:0,MOVIE SMART CLASSIC
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/925
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/925
 #EXTINF:0,MOVIE SMART PREMIUM
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/927
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/927
 #EXTINF:0,MOVIE SMART PREMIUM 2
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/928
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/928
 #EXTINF:0,MOVIE SMART TURK
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/929
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/929
 #EXTINF:0,FILMBOX AKSIYON
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/918
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/918
 #EXTINF:0,FILMBOX COMEDY
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/919
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/919
 #EXTINF:0,FILMBOX FAMILY
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/917
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/917
 #EXTINF:0,ENO VIZYON 1
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/902
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/902
 #EXTINF:0,ENO VIZYON 2
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/915
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/915
 #EXTINF:0,ENO VIZYON 3
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/909
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/909
 #EXTINF:0,ENO VIZYON 4
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/910
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/910
 #EXTINF:0,ENO VIZYON 5
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/911
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/911
 #EXTINF:0,ENO AKSIYON 1
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/899
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/899
 #EXTINF:0,ENO AKSIYON 2
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/900
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/900
 #EXTINF:0,ENO ANIMASYON
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/901
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/901
 #EXTINF:0,SINEVIZYON TURK 1
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/953
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/953
 #EXTINF:0,SINEVIZYON TURK 2
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/955
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/955
 #EXTINF:0,SINEVIZYON TURK 3
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/956
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/956
 #EXTINF:0,SINEVIZYON TURK 8
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/961
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/961
 #EXTINF:0,SINEVIZYON TURK 9
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/962
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/962
 #EXTINF:0,SINEVIZYON TURK 10
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/954
-#EXTINF:0,Kemal Sunal
-#EXTVLCOPT:network-caching=1000
-https://ythls.armelin.one/video/oQqV-8XVM2A.m3u8
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/954
 #EXTINF:0,Kemal Sunal 1
 #EXTVLCOPT:network-caching=1000
 https://ythls-v2.onrender.com/video/YpszCBqX0S8.m3u8
@@ -565,8 +562,8 @@ https://ythls-v2.onrender.com/video/lDI6Lbxhz6Y.m3u8
 https://ythls-v2.onrender.com/video/hfx8H7YrmTw.m3u8
 #EXTINF:0,Zeki Alasya Metin Akp#EXTVLCOPT:network-caching=1000
 https://ythls-v2.onrender.com/video/EYg1n041Nug.m3u8
-#EXTINF:0,MalkoçO#EXTVLCOPT:network-caching=1000
-https://ythls.armelin.one/video/hmgM0Yzfj_4.m3u8
+#EXTINF:0,MalkoÃ§O#EXTVLCOPT:network-caching=1000
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1420
 #EXTINF:0,Y#EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/video/C_lXjW7BFco.m3u8
 #EXTINF:0,#EXTVLCOPT:network-caching=1000
@@ -581,16 +578,16 @@ https://ythls.armelin.one/video/CD-IE4Dh_p0.m3u8
 #EXTINF:0,Cennet Mahallesi
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/video/lf1NxAexRAE.m3u8
-#EXTINF:0,Güldür Güldür Show
+#EXTINF:0,GÃ¼ldÃ¼r GÃ¼ldÃ¼r Show
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/video/wlKifzoLGnU.m3u8
-#EXTINF:0,Çok Güzel Hareketler 2
+#EXTINF:0,Ã‡ok GÃ¼zel Hareketler 2
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/video/0aY7U3ztkR0.m3u8
 #EXTINF:0,Kurtlar Vadisi
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/video/h3hxiPn_tpg.m3u8
-#EXTINF:0,Behzat Ç
+#EXTINF:0,Behzat Ã‡
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/video/asbzUzzLwxs.m3u8
 #EXTINF:0,Ramo
@@ -602,14 +599,14 @@ https://ythls.armelin.one/video/kXAUBBh_h_s.m3u8
 #EXTINF:0,Dolunay
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/video/zLKNAVL1N5U.m3u8
-#EXTINF:0,Çilek Kokusu
+#EXTINF:0,Ã‡ilek Kokusu
 #EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/video/78sojzQcvgs.m3u8
 #EXTINF:0,Erkenci Ku#EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/video/_9ijNON1XqA.m3u8
 #EXTINF:0,#EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/video/wD_m70TwAE4.m3u8
-#EXTINF:0,Çocuklar Duymas#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Ã‡ocuklar Duymas#EXTVLCOPT:network-caching=1000
 https://ythls.armelin.one/video/nlKgLbRjGBw.m3u8
 #EXTINF:0,Sihirli Annem
 #EXTVLCOPT:network-caching=1000
@@ -640,12 +637,12 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 #EXTINF:0,POWER TV
 #EXTVLCOPT:network-caching=1000
 https://power.blutv.com/blutv_power2/live_720p2000000kbps/index.m3u8
-#EXTINF:0,POWER TÜRK TAPTAZE
+#EXTINF:0,POWER TÃœRK TAPTAZE
 #EXTVLCOPT:network-caching=1000
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:0,POWER TÜRK EN #EXTVLCOPT:network-caching=1000
+#EXTINF:0,POWER TÃœRK EN #EXTVLCOPT:network-caching=1000
 http://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
-#EXTINF:0,NR1 TÜRK" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/5e415bb8866ac31d980eb377" group-title="MUZIK" - HTTP  ,NR1 TÜRK
+#EXTINF:0,NR1 TÃœRK" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/5e415bb8866ac31d980eb377" group-title="MUZIK" - HTTP  ,NR1 TÃœRK
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8?md5=uyH3aQXVf0gOTm8kiq7gMg&expires=1700880566
 #EXTINF:0,NR DAMAR
@@ -660,7 +657,7 @@ https://pull1-poc.blutv.com/live/3Z8CC727/index.m3u8
 #EXTINF:0,NR1 DANCE
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:0,DREAM TÜRK
+#EXTINF:0,DREAM TÃœRK
 #EXTVLCOPT:network-caching=1000
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:0,M#EXTVLCOPT:network-caching=1000
@@ -675,12 +672,12 @@ http://46.20.4.54:8020/;stream.mp3
 http://cors.tundracast.com:2000/http://new.cache-stream.workers.dev/stream/UCaXq-C9xPjKQpIvtzV4mTug/live.m3u8
 #EXTINF:0,MEYHANE #EXTVLCOPT:network-caching=1000
 http://88.99.102.207:8080/Sltvnew/6xzJFEtXM2yD/136345
-#EXTINF:0,türkçe pop
+#EXTINF:0,tÃ¼rkÃ§e pop
 #EXTVLCOPT:network-caching=1000
 http://88.99.102.207:8080/Sltvnew/6xzJFEtXM2yD/148564
-#EXTINF:0,TÜRK M#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TÃœRK M#EXTVLCOPT:network-caching=1000
 http://cors.tundracast.com:2000/http://new.cache-stream.workers.dev/stream/UCuqE0wyaY7XnYm6QYOa1lLw/live.m3u8
-#EXTINF:0,TÜRKÇE POP #EXTVLCOPT:network-caching=1000
+#EXTINF:0,TÃœRKÃ‡E POP #EXTVLCOPT:network-caching=1000
 http://cors.tundracast.com:2000/http://new.cache-stream.workers.dev/stream/UCoJqwTgi_lZpqKKai2na7kQ/live.m3u8
 #EXTINF:0,????  best music live 7/24
 #EXTVLCOPT:network-caching=1000
@@ -708,7 +705,7 @@ http://sunucu.radyodinle.com:8006/stream
 #EXTINF:0,PAL FM
 #EXTVLCOPT:network-caching=1000
 http://cors.tundracast.com:2000/https://livestream.zazerconer.workers.dev/channel/UCk-I0F9R6AqhPFg8hrgmX_A.m3u8
-#EXTINF:0,türkçe rap
+#EXTINF:0,tÃ¼rkÃ§e rap
 #EXTVLCOPT:network-caching=1000
 http://88.99.102.207:8080/Sltvnew/6xzJFEtXM2yD/148565
 #EXTINF:0,h_328 - al_c,q_85,usm_0.66_1.00_0.01,enc_auto/karadeniz-fm-logopng.png" group-title="MUZIK",KARADEN#EXTVLCOPT:network-caching=1000
@@ -719,28 +716,28 @@ https://ssl162.ozelip.com/asistan/stream/fd02a93f231cba7593e027682f8fcad5?168259
 #EXTINF:0,erzincan  cem radyo
 #EXTVLCOPT:network-caching=1000
 https://erzincan.80.yayin.com.tr/stream
-#EXTINF:0,damar türk radyo
+#EXTINF:0,damar tÃ¼rk radyo
 #EXTVLCOPT:network-caching=1000
 https://live.radyositesihazir.com:10997/
 #EXTINF:0,106.1 damar#EXTVLCOPT:network-caching=1000
 https://canli.arabeskinmerkezi.com/9180/stream
-#EXTINF:0,number one türk damar
+#EXTINF:0,number one tÃ¼rk damar
 #EXTVLCOPT:network-caching=1000
 https://n10101m.mediatriple.net/trdamar
 #EXTINF:0,mama#EXTVLCOPT:network-caching=1000
 https://arabesk.mamasfm.com:3500/stream.mp3
 #EXTINF:0,ALTIN #EXTVLCOPT:network-caching=1000
 http://37.247.98.8/stream/25/;
-#EXTINF:0,DAMAR MÜZIK
+#EXTINF:0,DAMAR MÃœZIK
 #EXTVLCOPT:network-caching=1000
 https://canli.arabeskinmerkezi.com/9180/stream
-#EXTINF:0,türkülerle TÜRKIYE
+#EXTINF:0,tÃ¼rkÃ¼lerle TÃœRKIYE
 #EXTVLCOPT:network-caching=1000
 http://37.247.98.8/stream/22/;
 #EXTINF:0,Slow Karadeniz TV
 #EXTVLCOPT:network-caching=1000
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
-#EXTINF:0,TÜRKÇE RAP
+#EXTINF:0,TÃœRKÃ‡E RAP
 #EXTVLCOPT:network-caching=1000
 http://cors.tundracast.com:2000/http://new.cache-stream.workers.dev/stream/UC0uWI6Z5gX-n9lRRk6y-H6w/live.m3u8
 #EXTINF:0,Radyo dram
@@ -769,16 +766,16 @@ https://yayin.santraltr.com/hls/toppop.m3u8
 #EXTINF:0,Aviva TV" tvg-logo="" group-title="MUZIK" - HTTP  ,Aviva TV
 #EXTVLCOPT:network-caching=1000
 https://yayin.santraltr.com/hls/vivatv.m3u8
-#EXTINF:0,Genç sms TV" tvg-logo="" group-title="MUZIK" - HTTP  ,Genç sms TV
+#EXTINF:0,GenÃ§ sms TV" tvg-logo="" group-title="MUZIK" - HTTP  ,GenÃ§ sms TV
 #EXTVLCOPT:network-caching=1000
 https://yayin.santraltr.com/hls/genctv.m3u8
 #EXTINF:0,Filodi
 #EXTVLCOPT:network-caching=1000
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1280/index.m3u8
-#EXTINF:0,Genç Kral TV
+#EXTINF:0,GenÃ§ Kral TV
 #EXTVLCOPT:network-caching=1000
 http://palatv34.ozelip.com:22372/genckraltv/genckraltv/chunklist.m3u8
-#EXTINF:0,ForaMüzik TV
+#EXTINF:0,ForaMÃ¼zik TV
 #EXTVLCOPT:network-caching=1000
 http://palatv34.ozelip.com:22372/foramuzik/foramuzik/playlist.m3u8
 #EXTINF:0,Ceyhan TV
@@ -787,7 +784,7 @@ http://cors.tundracast.com:2000/http://palatv34.ozelip.com:22372/ceyhantv/ceyhan
 #EXTINF:0,Mega TV
 #EXTVLCOPT:network-caching=1000
 http://palatv34.ozelip.com:22372/megatv/megatv/playlist.m3u8
-#EXTINF:0,Aktüel TV
+#EXTINF:0,AktÃ¼el TV
 #EXTVLCOPT:network-caching=1000
 http://palatv34.ozelip.com:22372/aktuel/aktuel/playlist.m3u8
 #EXTINF:0,Karadeniz Akustik
@@ -795,13 +792,13 @@ http://palatv34.ozelip.com:22372/aktuel/aktuel/playlist.m3u8
 http://cors.tundracast.com:2000/http://new.cache-stream.workers.dev/stream/UCFwOubbFrIGY1G6ik2tT2QA/live.m3u8
 #EXTINF:0,Akilli Tavsan Momo FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1043
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1043
 #EXTINF:0,Baby TV HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1044
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1044
 #EXTINF:0,Barbie TV HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1045
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1045
 #EXTINF:0,Boomerang FHD
 #EXTVLCOPT:network-caching=1000
 https://boomerang.blutv.com/blutv_boomerang/live.m3u8
@@ -810,105 +807,105 @@ https://boomerang.blutv.com/blutv_boomerang/live.m3u8
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF:0,CBeebies HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1048
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1048
 #EXTINF:0,Da Vinci Learning HD (A)
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1049
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1049
 #EXTINF:0,Da Vinci Learning HD (B)
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1050
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1050
 #EXTINF:0,Disney Channel SD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1051
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1051
 #EXTINF:0,Disney Junior FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1052
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1052
 #EXTINF:0,Disney Junior HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1053
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1053
 #EXTINF:0,Dream Animasyon FHD OFFLINE
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1054
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1054
 #EXTINF:0,Keloglan TV HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1055
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1055
 #EXTINF:0,Kukuli TV HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1056
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1056
 #EXTINF:0,Limon Ile Zeytin TV HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1057
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1057
 #EXTINF:0,Max Animasyon 1 FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1058
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1058
 #EXTINF:0,Max Animasyon 2 FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1059
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1059
 #EXTINF:0,Ma#EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1060
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1060
 #EXTINF:0,Minika Go HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1061
-#EXTINF:0,Minika Çocuk SD
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1061
+#EXTINF:0,Minika Ã‡ocuk SD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1062
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1062
 #EXTINF:0,Netserver Animasyon HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1063
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1063
 #EXTINF:0,Netserver Animasyon 2 HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1064
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1064
 #EXTINF:0,Netserver Animasyon 3 HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1065
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1065
 #EXTINF:0,Netserver Animasyon 4 HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1066
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1066
 #EXTINF:0,Netserver Animasyon 5 HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1067
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1067
 #EXTINF:0,Netserver Animasyon 6 HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1068
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1068
 #EXTINF:0,Nick Jr HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1069
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1069
 #EXTINF:0,Nickelodeon HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1070
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1070
 #EXTINF:0,Nicktoons HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1071
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1071
 #EXTINF:0,Niloya TV FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1072
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1072
 #EXTINF:0,Oddbods FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1073
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1073
 #EXTINF:0,Pepee TV HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1074
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1074
 #EXTINF:0,Pijamaskeliler HD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1075
-#EXTINF:0,Smart Çocuk FHD
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1075
+#EXTINF:0,Smart Ã‡ocuk FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1076
-#EXTINF:0,Sünger Bob FHD
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1076
+#EXTINF:0,SÃ¼nger Bob FHD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1077
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1077
 #EXTINF:0,Tom ve Jerry SD
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1078
-#EXTINF:0,TRT Çocuk FHD
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1078
+#EXTINF:0,TRT Ã‡ocuk FHD
 #EXTVLCOPT:network-caching=1000
 https://trtcocukdvr.blutv.com/blutv_trtcocuk_dvr/live.m3u8
-#EXTINF:0,TRT Çocuk HD
+#EXTINF:0,TRT Ã‡ocuk HD
 #EXTVLCOPT:network-caching=1000
 https://trtcocukdvr.blutv.com/blutv_trtcocuk_dvr/live.m3u8
 #EXTINF:0,ULTRA Animasyon FHD OFFLINE
 #EXTVLCOPT:network-caching=1000
-http://bilginyayins1.online:8080/batuhan/2userssss/1081
+http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/1081
 #EXTINF:0,Woman TV
 #EXTVLCOPT:network-caching=1000
 https://mn-nl.mncdn.com/blutv_womantv/smil:blutv_womantv.smil/playlist.m3u8
