@@ -87,9 +87,9 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 #EXTINF:-1 group-title="BELGESEL" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/317/Image/70x46_dsc_ekm2019.png" ,DISCOVERY CHANNEL
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
-http://mt0811.xyz:8080/hkn1809/hkn11/6286
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48348
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
-http://mt0811.xyz:8080/hkn1809/hkn11/6287
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1760
 
 #EXTINF:-1 group-title="SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
@@ -120,3 +120,5 @@ http://mt0811.xyz:8080/hkn1809/hkn11/263075
 https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 bilgin
 http://bilginyayins1.online:8080/BilginTV/uRP9jfQMmX/578
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/469
