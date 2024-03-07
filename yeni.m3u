@@ -56,11 +56,11 @@ http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/123921
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv 1002" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1002
 http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/123922
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 1
-http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/6195
+http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6744/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 2
-http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/6196
+http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6745/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 3
-http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/6197
+http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6743/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 1" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN ACTION
 http://mt0811.xyz:8080/hkn1809/hkn11/6199
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN MOVIES PREMIERE" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN PREMIER
@@ -87,7 +87,7 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 #EXTINF:-1 group-title="BELGESEL" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/317/Image/70x46_dsc_ekm2019.png" ,DISCOVERY CHANNEL
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48348
+http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6867/index.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
 http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1760
 
@@ -110,7 +110,7 @@ https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="SPOR.SMART.2.tr" tvg-name="SPOR SMART 2" tvg-logo="https://i.ibb.co/DY6MWKj/spor-smart-2.png" ,SPOR SMART 2
 https://corsproxy.org/?https://cakal.click/yayinsms2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-https://corsproxy.org/?https://cakal.click/yayinss.m3u8
+http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6825/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
 https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
@@ -124,3 +124,5 @@ https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
 http://poy.iptvtestle.xyz:8080/lkm1985/2uf2a/263058
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 venus
 http://venustvhd.xyz:8080/vdt1508/v.9426/263057
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
+http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6817/index.m3u8
