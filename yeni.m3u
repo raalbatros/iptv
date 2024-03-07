@@ -62,11 +62,11 @@ http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 3
 http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6743/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 1" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN ACTION
-http://mt0811.xyz:8080/hkn1809/hkn11/6199
+http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6876/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN MOVIES PREMIERE" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN PREMIER
-http://mt0811.xyz:8080/hkn1809/hkn11/6201
+http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6880/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 3" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN FAMILY
-http://mt0811.xyz:8080/hkn1809/hkn11/6204
+http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6878/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="SINEMA TV" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" ,SINEMA YANSIMA
