@@ -50,11 +50,11 @@ http://mt0811.xyz:8080/hkn1809/hkn11/123923
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv Comedy" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA KOMEDİ
 http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/123924
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv Aksiyon" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AKSIYON
-http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/113293
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48273
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv 1001" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1001
 http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/123921
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv 1002" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1002
-http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/123922
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54605
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 1
 http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6744/index.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 2
@@ -118,9 +118,7 @@ https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93
 
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 yayinzirve
 https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 cze
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/play/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzgyMjc3MDUwMWMwMzc3ODdmNjBjMQ==
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 venus
 http://venustvhd.xyz:8080/vdt1508/v.9426/263057
-#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6817/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 venus
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/469
