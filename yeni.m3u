@@ -75,15 +75,15 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w19682
 http://stream.tvcdn.net/eglence/a2.m3u8
 
 #EXTINF:-1 group-title="GERMAN KİNO" tvg-name="FILMMAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" ,FILMMAX 1
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrpED15HOE_oe3Ajs8r4u8iI/ts
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/49988
 #EXTINF:-1 group-title="GERMAN KİNO" tvg-name="FILMMAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" ,FILMMAX 2
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrqCKveI7oZJXAOFxKjy1BTI/ts
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/46582
 #EXTINF:-1 group-title="GERMAN KİNO" tvg-name="FILMMAX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" ,FILMMAX 3
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrtYMzZRGkovtEtFl6FMAqEI/ts
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/213
 #EXTINF:-1 group-title="GERMAN KİNO" tvg-name="FILMMAX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" ,FILMMAX 4
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrlH5ME0VTM4NWeJ6HVD7pYY/ts
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/216
 #EXTINF:-1 group-title="GERMAN KİNO" tvg-name="FILMMAX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" ,FILMMAX 5
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrlcgUn8xtI0aFGxNquhMwzY/ts
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/51636
 
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
@@ -103,11 +103,7 @@ http://venustvhd.xyz:8080/vdt1508/v.9426/6286
 http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1760
 
 #EXTINF:-1 group-title="ÇOCUK" tvg-name="KRAL ŞAKİR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d9/Kral%C5%9Eakir_logo.jpg" ,KRAL ŞAKİR TV
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIruEdeI8eW5rXT1KspV5CjQU/ts
-#EXTINF:-1 group-title="ÇOCUK" tvg-name="TOM VE JERRY TV" tvg-logo="https://i.pinimg.com/originals/b1/4f/16/b14f165c3501cc8f53e64b551ad1cd25.png" ,TOM VE JERRY TV
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrkPg_dgkPKDHZIgovs1leBo/ts
-#EXTINF:-1 group-title="ÇOCUK" tvg-name="MASA VE KOCA AYI TV" tvg-logo="https://w7.pngwing.com/pngs/872/586/png-transparent-masha-and-the-bear-animation-masha-brown-bear-illustration-mammal-child-animals-thumbnail.png" ,MASA VE KOCA AYI TV
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrldhD3NJNGsxOqzJzqVK0Rw/ts
+http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/35671
 
 #EXTINF:-1 group-title="SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
@@ -118,26 +114,26 @@ http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIruX4TLEGHAqJB4Du9GOatjA/ts
+http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/8309
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrkXqoYBipIqDDQYlRK1Xpjo/ts
+http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/8310
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrkzolhfwUnvw2wTFvXumW7c/ts
+http://localiptv.site:85/CSiptv1230/DjwuHUgq28ZhsXqW0KhfQ/813
 #EXTINF:-1 group-title="SPOR" tvg-id="Spor.Smart.tr" tvg-name="SPOR SMART" tvg-logo="https://i.ibb.co/QcLZ4Sn/spor-smart.png" ,SPOR SMART
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrhZl-EViSrqmmkzWEgkqhXc/ts
+http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/4359
 #EXTINF:-1 group-title="SPOR" tvg-id="SPOR.SMART.2.tr" tvg-name="SPOR SMART 2" tvg-logo="https://i.ibb.co/DY6MWKj/spor-smart-2.png" ,SPOR SMART 2
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrrWop8VBs4qRZmiPtddw38s/ts
+http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/33685
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrl3J505cY1Lvl1q5Y8k_PYU/ts
+http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/8020
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrurOKDNtbIGuhBFFRMo5H08/ts
+http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/10091
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIrkfL5XCPenkx95TnzvdYUIs/ts
+http://abcnew.site:8880/1msk040092/29716224/32971
 
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 yayinzirve
 https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 full57
-http://1903.full57.us:8000/play/u1Z_1uQmTLdByMX4cCQIripCJn26j_dr06OJlObLHws/ts
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 localiptv
+http://localiptv.site:85/CSiptv1230/DjwuHUgq28ZhsXqW0KhfQ/805
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 serve
 https://m3u-editor.com/serve/dea-thl-ess-s-83938/1105308306
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 abcnew
