@@ -55,18 +55,16 @@ http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48273
 http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/123921
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv 1002" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1002
 http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54605
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN BOX OFFICE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 1
-http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6744/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 2
-http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6745/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE 3
-http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6743/index.m3u8
+#EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48339
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/4067
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/4068
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 1" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN ACTION
-http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6876/index.m3u8
+https://m3u-editor.com/serve/dea-thl-ess-s-83938/1105308456
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN MOVIES PREMIERE" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN PREMIER
-http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6880/index.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 3" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN FAMILY
-http://cors.tundracast.com:2000/http://ab502f2e.amazzin.pw/iptv/TXQXV6VX7ZDC6S/6878/index.m3u8
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48277
 #EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="SINEMA TV" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" ,SINEMA YANSIMA
@@ -114,19 +112,15 @@ http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/8309
+https://corsproxy.org/?https://cakal.click/yayint1.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/8310
+https://corsproxy.org/?https://cakal.click/yayint2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-http://localiptv.site:85/CSiptv1230/DjwuHUgq28ZhsXqW0KhfQ/813
-#EXTINF:-1 group-title="SPOR" tvg-id="Spor.Smart.tr" tvg-name="SPOR SMART" tvg-logo="https://i.ibb.co/QcLZ4Sn/spor-smart.png" ,SPOR SMART
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/4359
-#EXTINF:-1 group-title="SPOR" tvg-id="SPOR.SMART.2.tr" tvg-name="SPOR SMART 2" tvg-logo="https://i.ibb.co/DY6MWKj/spor-smart-2.png" ,SPOR SMART 2
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/33685
+https://corsproxy.org/?https://cakal.click/yayint3.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/8020
+https://corsproxy.org/?https://cakal.click/yayinss.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/10091
+https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
 http://abcnew.site:8880/1msk040092/29716224/32971
 
