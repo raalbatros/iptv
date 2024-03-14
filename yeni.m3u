@@ -42,19 +42,19 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA TV
-http://mt0811.xyz:8080/hkn1809/hkn11/113291
+http://venustvhd.xyz:8080/vdt1508/v.9426/113291
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv 2" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA TV 2
-http://mt0811.xyz:8080/hkn1809/hkn11/123920
+http://venustvhd.xyz:8080/vdt1508/v.9426/123920
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv Aile" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AILE
-http://mt0811.xyz:8080/hkn1809/hkn11/123923
+http://venustvhd.xyz:8080/vdt1508/v.9426/123923
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv Comedy" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA KOMEDİ
-http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/123924
+http://venustvhd.xyz:8080/vdt1508/v.9426/123924
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv Aksiyon" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA AKSIYON
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48273
+http://venustvhd.xyz:8080/vdt1508/v.9426/113293
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv 1001" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1001
-http://tf0811.xyz:8080/rcp0513/vXHfwyQvUBgE/123921
+http://venustvhd.xyz:8080/vdt1508/v.9426/123921
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv 1002" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA 1002
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54605
+http://venustvhd.xyz:8080/vdt1508/v.9426/123922
 #EXTINF:-1 group-title="SINEMA" tvg-id="Sinema Tv" tvg-logo="https://seeklogo.com/images/C/Cinema_TV-logo-EF8531C1DF-seeklogo.com.png" ,SINEMA
 http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48339
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE
@@ -98,7 +98,7 @@ https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlis
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
 http://venustvhd.xyz:8080/vdt1508/v.9426/6286
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1760
+http://venustvhd.xyz:8080/vdt1508/v.9426/6287
 
 #EXTINF:-1 group-title="ÇOCUK" tvg-name="KRAL ŞAKİR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d9/Kral%C5%9Eakir_logo.jpg" ,KRAL ŞAKİR TV
 http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/35671
@@ -112,17 +112,17 @@ http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-https://corsproxy.org/?https://cakal.click/yayint1.m3u8
+http://venustvhd.xyz:8080/vdt1508/v.9426/263098
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-https://corsproxy.org/?https://cakal.click/yayint2.m3u8
+http://venustvhd.xyz:8080/vdt1508/v.9426/263099
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-https://corsproxy.org/?https://cakal.click/yayint3.m3u8
+http://venustvhd.xyz:8080/vdt1508/v.9426/263100
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-https://corsproxy.org/?https://cakal.click/yayinss.m3u8
+http://venustvhd.xyz:8080/vdt1508/v.9426/263090
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
+http://venustvhd.xyz:8080/vdt1508/v.9426/263091
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
-http://abcnew.site:8880/1msk040092/29716224/32971
+http://venustvhd.xyz:8080/vdt1508/v.9426/263076
 
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 yayinzirve
 https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
