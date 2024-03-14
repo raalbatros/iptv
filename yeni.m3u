@@ -73,15 +73,15 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w19682
 http://stream.tvcdn.net/eglence/a2.m3u8
 
 #EXTINF:-1 group-title="GERMAN KİNO" tvg-name="FILMMAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" ,FILMMAX 1
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/49988
+http://103.161.34.173:8080/9rvBgKdr4y/Gf6qHcy3GT/425974
 #EXTINF:-1 group-title="GERMAN KİNO" tvg-name="FILMMAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" ,FILMMAX 2
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/46582
+http://103.161.34.173:8080/9rvBgKdr4y/Gf6qHcy3GT/425975
 #EXTINF:-1 group-title="GERMAN KİNO" tvg-name="FILMMAX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" ,FILMMAX 3
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/213
+http://103.161.34.173:8080/9rvBgKdr4y/Gf6qHcy3GT/425976
 #EXTINF:-1 group-title="GERMAN KİNO" tvg-name="FILMMAX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" ,FILMMAX 4
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/216
+http://103.161.34.173:8080/9rvBgKdr4y/Gf6qHcy3GT/425977
 #EXTINF:-1 group-title="GERMAN KİNO" tvg-name="FILMMAX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" ,FILMMAX 5
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/51636
+http://103.161.34.173:8080/9rvBgKdr4y/Gf6qHcy3GT/425979
 
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
@@ -96,9 +96,9 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 #EXTINF:-1 group-title="BELGESEL" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/317/Image/70x46_dsc_ekm2019.png" ,DISCOVERY CHANNEL
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
-http://venustvhd.xyz:8080/vdt1508/v.9426/6286
+http://103.161.34.173:8080/9rvBgKdr4y/Gf6qHcy3GT/243218
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
-http://venustvhd.xyz:8080/vdt1508/v.9426/6287
+http://103.161.34.173:8080/9rvBgKdr4y/Gf6qHcy3GT/243221
 
 #EXTINF:-1 group-title="ÇOCUK" tvg-name="KRAL ŞAKİR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d9/Kral%C5%9Eakir_logo.jpg" ,KRAL ŞAKİR TV
 http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/35671
@@ -130,7 +130,8 @@ https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
 http://localiptv.site:85/CSiptv1230/DjwuHUgq28ZhsXqW0KhfQ/805
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 serve
 https://m3u-editor.com/serve/dea-thl-ess-s-83938/1105308306
-#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 abcnew
-http://abcnew.site:8880/1msk040092/29716224/33028
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 Florida
 http://185.134.22.150:8080/Mr.E2021/Florida/59162
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
+http://103.161.34.173:8080/9rvBgKdr4y/Gf6qHcy3GT/350195
+
