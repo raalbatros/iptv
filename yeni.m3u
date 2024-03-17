@@ -112,17 +112,17 @@ http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-http://venustvhd.xyz:8080/vdt1508/v.9426/263098
+https://cakal.click/yayint1.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-http://venustvhd.xyz:8080/vdt1508/v.9426/263099
+https://cakal.click/yayint2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-http://venustvhd.xyz:8080/vdt1508/v.9426/263100
+https://cakal.click/yayint3.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-http://venustvhd.xyz:8080/vdt1508/v.9426/263090
+https://cakal.click/yayinss.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-http://venustvhd.xyz:8080/vdt1508/v.9426/263091
+https://cakal.click/yayinss2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
-http://venustvhd.xyz:8080/vdt1508/v.9426/263076
+https://cakal.click/yayinex1.m3u8
 
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 yayinzirve
 https://cakal.click/yayinzirve.m3u8
