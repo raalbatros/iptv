@@ -1,463 +1,975 @@
 #EXTM3U
-#EXTINF:0,TR: 24 TV
+#EXTINF:0,TR: AKIT TV HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48425
-#EXTINF:0,TR: 360 TV
+http://33003152168307938.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/307938.ts
+#EXTINF:0,TR: BEIN SPORTS HABER FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/4065
-#EXTINF:0,TR: A Haber HD
+http://33003152168308134.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/308134.ts
+#EXTINF:0,TR: DMAX HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/3165
-#EXTINF:0,TR: A2
+http://33003152168308173.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/308173.ts
+#EXTINF:0,TR: HALK TV SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/4064
-#EXTINF:0,TR: ANADOLU TV
+http://33003152168308234.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/308234.ts
+#EXTINF:0,TR: TRT HABER HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50801
-#EXTINF:0,TR: ATV Avrupa
+http://33003152168341061.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/341061.ts
+#EXTINF:0,TR: ATV FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48413
-#EXTINF:0,TR: ATV HD
+http://33003152168686565.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/686565.ts
+#EXTINF:0,TR: STAR TV HEVC
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/826
-#EXTINF:0,TR: Aksu TV
+http://33003152168686619.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/686619.ts
+#EXTINF:0,TR: A HABER HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48416
-#EXTINF:0,TR: BEIN SERIES 1 HD
+http://33003152168691188.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/691188.ts
+#EXTINF:0,TR: BLOOMBERG HT HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50148
-#EXTINF:0,TR: BEIN SERIES 3 HD
+http://33003152168694561.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/694561.ts
+#EXTINF:0,TR: SHOW TV HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50799
-#EXTINF:0,TR: BEIN SERIES 2 HD
+http://33003152168696043.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/696043.ts
+#EXTINF:0,TR: A SPOR FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50146
-#EXTINF:0,TR: BEIN SERIES COMEDY HD
+http://33003152168708538.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/708538.ts
+#EXTINF:0,TR: BEYAZ TV SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50147
-#EXTINF:0,TR: beIN IZ TV
+http://33003152168708545.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/708545.ts
+#EXTINF:0,TR: EUROSPORT 1 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48274
-#EXTINF:0,TR: beIN Movies Family HD
+http://33003152168720365.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/720365.ts
+#EXTINF:0,TR: EUROSPORT 2 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1553
-#EXTINF:0,TR: beIN Sport 1 HD
+http://33003152168720366.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/720366.ts
+#EXTINF:0,TR: KANAL 7 HEVC
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/469
-#EXTINF:0,TR: beIN Sport 2 HD
+http://33003152168723716.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/723716.ts
+#EXTINF:0,TR: BEIN SPORTS 2 FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1547
-#EXTINF:0,TR: beIN Sport 3 HD
+http://33003152168738157.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/738157.ts
+#EXTINF:0,TR: BEIN SPORTS 1 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1549
-#EXTINF:0,TR: beIN Sport 4 HD
+http://33003152168740815.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/740815.ts
+#EXTINF:0,TR: CNN TüRK HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/49946
-#EXTINF:0,TR: beIN Box Office 1 HD
+http://33003152168740818.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/740818.ts
+#EXTINF:0,TR: A PARA FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/4066
-#EXTINF:0,TR: beIN Box Office 2 HD
+http://33003152168743006.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/743006.ts
+#EXTINF:0,TR: FOX SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/4067
-#EXTINF:0,TR: beIN Box Office 3 HD
+http://33003152168743022.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/743022.ts
+#EXTINF:0,TR: BEIN SPORTS 4 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/4068
-#EXTINF:0,TR: beIN Movies Turk HD
+http://33003152168747077.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/747077.ts
+#EXTINF:0,TR: BEIN SPORTS MAX 1 FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48275
-#EXTINF:0,TR: beIN Movies Stars HD
+http://33003152168747078.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/747078.ts
+#EXTINF:0,TR: NATIONAL GEOGRAPHIC WILD HEVC
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48276
-#EXTINF:0,TR: beIN Movies Premiere 2 HD
+http://33003152168747092.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/747092.ts
+#EXTINF:0,TR: DISCOVERY IDX FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48277
-#EXTINF:0,TR: beIN Movies Action HD
+http://33003152168747691.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/747691.ts
+#EXTINF:0,TR: HABERTüRK FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/3179
-#EXTINF:0,TR: Animal Planet HD
+http://33003152168747699.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/747699.ts
+#EXTINF:0,TR: 24/7 | KUKULI TV FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48415
-#EXTINF:0,TR: A Spor HD
+http://33003152168750177.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750177.ts
+#EXTINF:0,TR: 24/7 | NILOYA TV FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/828
-#EXTINF:0,TR: EuroSport 1
+http://33003152168750180.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750180.ts
+#EXTINF:0,TR: 24/7 | PERI MASALLARI SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48253
-#EXTINF:0,TR: Euro D
+http://33003152168750182.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750182.ts
+#EXTINF:0,TR: 24/7 | TOM VE JERRY SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48384
-#EXTINF:0,TR: Euro Star
+http://33003152168750188.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750188.ts
+#EXTINF:0,TR: 360 SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48383
-#EXTINF:0,TR: EuroSport 2
+http://33003152168750189.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750189.ts
+#EXTINF:0,TR: A NEWS FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48252
-#EXTINF:0,TR: Nat Geo People
+http://33003152168750193.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750193.ts
+#EXTINF:0,TR: A2 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1773
-#EXTINF:0,TR: Nat Geo Wild HD
+http://33003152168750198.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750198.ts
+#EXTINF:0,TR: AKILLI TAVSAN MOMO HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1760
-#EXTINF:0,TR: Kanal D HD
+http://33003152168750201.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750201.ts
+#EXTINF:0,TR: ANADOLU DERNEK SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1646
-#EXTINF:0,TR: Disney Junior
+http://33003152168750204.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750204.ts
+#EXTINF:0,TR: ATV AVRUPA SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1759
-#EXTINF:0,TR: Disney Channel
+http://33003152168750207.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750207.ts
+#EXTINF:0,TR: AV TV FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1758
-#EXTINF:0,TR: Kral POP HD
+http://33003152168750210.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750210.ts
+#EXTINF:0,TR: BABY TV FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/1550
-#EXTINF:0,TR: Salon 1 FHD
+http://33003152168750211.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750211.ts
+#EXTINF:0,TR: BEIN BOX OFFICE 3 FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/802
-#EXTINF:0,TR: Salon 2 HD
+http://33003152168750217.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750217.ts
+#EXTINF:0,TR: BEIN GURME FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/801
-#EXTINF:0,TR: Salon 3 HD
+http://33003152168750218.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750218.ts
+#EXTINF:0,TR: BEIN MOVIES ACTION FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/800
-#EXTINF:0,TR: BEREKET  TV
+http://33003152168750222.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750222.ts
+#EXTINF:0,TR: BEIN MOVIES FAMILY FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50802
-#EXTINF:0,TR: TRT 1 HD
+http://33003152168750225.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750225.ts
+#EXTINF:0,TR: BEIN MOVIES PREMIERE FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/409
-#EXTINF:0,TR: Show Turk
+http://33003152168750228.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750228.ts
+#EXTINF:0,TR: BEIN MOVIES PREMIERE 2 FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/411
-#EXTINF:0,TR: Kanal 7 HD
+http://33003152168750229.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750229.ts
+#EXTINF:0,TR: BEIN MOVIES STARS FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/413
-#EXTINF:0,TR: Kanal 24
+http://33003152168750231.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750231.ts
+#EXTINF:0,TR: BEIN MOVIES TüRK FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/414
-#EXTINF:0,TR: CNN Turk HD
+http://33003152168750233.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750233.ts
+#EXTINF:0,TR: BEIN SERIES COMEDY FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/415
-#EXTINF:0,TR: Bloomberg TV
+http://33003152168750235.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750235.ts
+#EXTINF:0,TR: BEIN SERIES DRAMA FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/416
-#EXTINF:0,TR: BenguTurk TV
+http://33003152168750236.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750236.ts
+#EXTINF:0,TR: BENGüTüRK TV FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/418
-#EXTINF:0,TR: Fox HD
+http://33003152168750243.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750243.ts
+#EXTINF:0,TR: CARTOON NETWORK SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/3163
-#EXTINF:0,TR: Dizismart PREMIUM HD
+http://33003152168750252.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750252.ts
+#EXTINF:0,TR: DISCOVERY CHANNEL FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50804
-#EXTINF:0,TR: TJK TV
+http://33003152168750259.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750259.ts
+#EXTINF:0,TR: DISNEY JUNIOR SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48332
-#EXTINF:0,TR: TGRT Haber HD
+http://33003152168750262.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750262.ts
+#EXTINF:0,TR: EKO TüRK FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48320
-#EXTINF:0,TR: Star HD
+http://33003152168750269.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750269.ts
+#EXTINF:0,TR: EKOTüRK FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48337
-#EXTINF:0,TR: Smart Sport 2 HD
+http://33003152168750270.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750270.ts
+#EXTINF:0,TR: ELIT NILOYA FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48242
-#EXTINF:0,TR: Smart Sport 1 HD
+http://33003152168750271.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750271.ts
+#EXTINF:0,TR: ENO VIZYON 1 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48243
-#EXTINF:0,TR: Sinema Action HD
+http://33003152168750277.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750277.ts
+#EXTINF:0,TR: ENO VIZYON 14 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48273
-#EXTINF:0,TR: Sinema TV YERLI
+http://33003152168750280.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750280.ts
+#EXTINF:0,TR: ENO VIZYON 2 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48257
-#EXTINF:0,TR: Show Max
+http://33003152168750282.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750282.ts
+#EXTINF:0,TR: ENO VIZYON 3 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48335
-#EXTINF:0,TR: Show HD
+http://33003152168750283.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750283.ts
+#EXTINF:0,TR: ENO VIZYON 6 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48336
-#EXTINF:0,TR: Semerkant TV
+http://33003152168750285.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750285.ts
+#EXTINF:0,TR: ENO VIZYON 9 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48338
-#EXTINF:0,TR: S Sports TV
+http://33003152168750287.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750287.ts
+#EXTINF:0,TR: EURO D FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48251
-#EXTINF:0,TR: Power Turk HD
+http://33003152168750289.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750289.ts
+#EXTINF:0,TR: EXXEN SPOR 1HD FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48341
-#EXTINF:0,TR: Planet Turk
+http://33003152168750296.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750296.ts
+#EXTINF:0,TR: EXXEN SPOR 2 FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48342
-#EXTINF:0,TR: AS TV
+http://33003152168750297.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750297.ts
+#EXTINF:0,TR: EXXEN SPOR 3 FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48343
-#EXTINF:0,TR: SMART COCUK
+http://33003152168750299.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750299.ts
+#EXTINF:0,TR: FB TV SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48345
+http://33003152168750304.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750304.ts
+#EXTINF:0,TR: FILMBOX ACTION FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168750305.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750305.ts
+#EXTINF:0,TR: FILMBOX YERLI HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168750308.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750308.ts
+#EXTINF:0,TR: FILMBOX YESILCAM HEVC
+#EXTVLCOPT:network-caching=1000
+http://33003152168750309.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750309.ts
+#EXTINF:0,TR: FLASH TV HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168750310.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750310.ts
+#EXTINF:0,TR: FM TV SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168750311.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750311.ts
+#EXTINF:0,TR: FX FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168750316.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750316.ts
+#EXTINF:0,TR: HABER GLOBAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168750318.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750318.ts
+#EXTINF:0,TR: KANAL 15 SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168750330.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750330.ts
+#EXTINF:0,TR: S SPORT 2 SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168750388.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/750388.ts
+#EXTINF:0,TR: KANAL 26 (ESKISEHIR) SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760485.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760485.ts
+#EXTINF:0,TR: KANAL AVRUPA HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760490.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760490.ts
+#EXTINF:0,TR: KAYSERI TV SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760495.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760495.ts
+#EXTINF:0,TR: KOY TV SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760497.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760497.ts
+#EXTINF:0,TR: KRT TV FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760498.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760498.ts
+#EXTINF:0,TR: KUDUS TV FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760499.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760499.ts
+#EXTINF:0,TR: LOVE NATURE FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760501.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760501.ts
+#EXTINF:0,TR: MAVI KARADENIZ HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760502.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760502.ts
+#EXTINF:0,TR: MAX ANIMASYON FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760503.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760503.ts
+#EXTINF:0,TR: MAX ORJINAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760504.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760504.ts
+#EXTINF:0,TR: MAX PREMIER FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760505.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760505.ts
+#EXTINF:0,TR: MELTEM TV SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760509.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760509.ts
+#EXTINF:0,TR: METROPOL BOOBA FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760511.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760511.ts
+#EXTINF:0,TR: METROPOL EGE ILE GAGA HEVC
+#EXTVLCOPT:network-caching=1000
+http://33003152168760514.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760514.ts
+#EXTINF:0,TR: METROPOL ELIFIN DÜSLER FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760515.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760515.ts
+#EXTINF:0,TR: METROPOL HAPSUU FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760516.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760516.ts
+#EXTINF:0,TR: METROPOL SIRINLER HEVC
+#EXTVLCOPT:network-caching=1000
+http://33003152168760521.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760521.ts
+#EXTINF:0,TR: METROPOL TOM VE JERRY FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760522.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760522.ts
+#EXTINF:0,TR: MINIKA COCUK SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760523.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760523.ts
+#EXTINF:0,TR: MINIKA GO SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760524.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760524.ts
+#EXTINF:0,TR: MOVIE SMART TURK FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760526.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760526.ts
+#EXTINF:0,TR: NBA TV FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760529.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760529.ts
+#EXTINF:0,TR: NICKELODEON HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168760532.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760532.ts
 #EXTINF:0,TR: NTV HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48351
-#EXTINF:0,TR: NR1 Turk
+http://33003152168760533.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760533.ts
+#EXTINF:0,TR: ON4 TV SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48353
-#EXTINF:0,TR: Karadeniz Akustik TV Muzik
+http://33003152168760535.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760535.ts
+#EXTINF:0,TR: S SPORT 1 SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50806
-#EXTINF:0,TR: Nick JR
+http://33003152168760539.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760539.ts
+#EXTINF:0,TR: SHOW MAX FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48349
-#EXTINF:0,TR: Nat Geo HD
+http://33003152168760543.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760543.ts
+#EXTINF:0,TR: SHOW TüRK HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48348
-#EXTINF:0,TR: MovieSmart Family HD
+http://33003152168760545.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760545.ts
+#EXTINF:0,TR: SINEMA TV HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48266
-#EXTINF:0,TR: MovieSmart Action HD
+http://33003152168760547.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760547.ts
+#EXTINF:0,TR: SINEMA TV KOMEDI 2 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/49214
-#EXTINF:0,TR: MovieSmart Turk HD
+http://33003152168760556.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760556.ts
+#EXTINF:0,TR: SPOR SMART 1 SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/49213
-#EXTINF:0,TR: MovieSmart Fest HD
+http://33003152168760562.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760562.ts
+#EXTINF:0,TR: TELE 1 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/49212
-#EXTINF:0,TR: MovieSmart Classic HD
+http://33003152168760567.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760567.ts
+#EXTINF:0,TR: TEMPO TV SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/49215
-#EXTINF:0,TR: MovieSmart Platin HD
+http://33003152168760568.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760568.ts
+#EXTINF:0,TR: TEVE 2 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/49216
-#EXTINF:0,TR: MovieSmart Platin 2 HD
+http://33003152168760569.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760569.ts
+#EXTINF:0,TR: TRT HEVC
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48264
-#EXTINF:0,TR: Dizismart Max HD
+http://33003152168760583.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/760583.ts
+#EXTINF:0,TR: 24/7 | MASAL TV SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48263
-#EXTINF:0,TR: Minika Go HD
+http://33003152168761254.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/761254.ts
+#EXTINF:0,TR: IDMAN TV FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48354
-#EXTINF:0,TR: Minika Cocuk HD
+http://33003152168761263.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/761263.ts
+#EXTINF:0,TR: EURO STAR SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48355
-#EXTINF:0,TR: MagicBox Komedi HD
+http://33003152168761580.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/761580.ts
+#EXTINF:0,TR: HISTORY FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48267
-#EXTINF:0,TR: MagicBox Animasyon HD
+http://33003152168762404.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/762404.ts
+#EXTINF:0,TR: 24 KITCHEN SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48268
-#EXTINF:0,TR: Lalegul TV
+http://33003152168763538.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/763538.ts
+#EXTINF:0,TR: BBN TURK SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48357
-#EXTINF:0,TR: Kon TV
+http://33003152168763542.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/763542.ts
+#EXTINF:0,TR: ENO VIZYON 7 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48360
-#EXTINF:0,TR: BEYKENT TV
+http://33003152168763546.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/763546.ts
+#EXTINF:0,TR: ES TV (ESKISEHIR) HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48362
-#EXTINF:0,TR: MAVI KARADENIZ
+http://33003152168763547.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/763547.ts
+#EXTINF:0,TR: KANAL 24 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48363
-#EXTINF:0,TR: Kanal 7 Avrupa
+http://33003152168763549.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/763549.ts
+#EXTINF:0,TR: KANAL B SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48369
-#EXTINF:0,TR: Kanal 58
+http://33003152168763551.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/763551.ts
+#EXTINF:0,TR: TEK RUMELI TV (KIRKLARELI) HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48365
-#EXTINF:0,TR: Kanal 3
+http://33003152168763557.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/763557.ts
+#EXTINF:0,TR: ENO VIZYON 13 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48370
-#EXTINF:0,TR: Kanal 26
+http://33003152168764616.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/764616.ts
+#EXTINF:0,TR: EDESSA TV (SANLIURFA) SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48366
-#EXTINF:0,TR: IDMan TV
+http://33003152168766282.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/766282.ts
+#EXTINF:0,TR: ENO TURK 1 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48371
-#EXTINF:0,TR: History Channel HD
+http://33003152168767723.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/767723.ts
+#EXTINF:0,TR: GS TV HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48373
-#EXTINF:0,TR: Halk TV
+http://33003152168767726.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/767726.ts
+#EXTINF:0,TR: MAX TURK FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48374
-#EXTINF:0,TR: Haber Turk FHD
+http://33003152168767729.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/767729.ts
+#EXTINF:0,TR: BEIN BOX OFFICE 1 FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48375
-#EXTINF:0,TR: GS TV
+http://33003152168770722.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/770722.ts
+#EXTINF:0,TR: LALEGUL TV FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48255
-#EXTINF:0,TR: Genc TV HD
+http://33003152168771795.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/771795.ts
+#EXTINF:0,TR: BRüKSEL TüRK TV HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48376
-#EXTINF:0,TR: Filmbox Fantastik HD
+http://33003152168772782.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/772782.ts
+#EXTINF:0,TR: CEM TV SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48339
-#EXTINF:0,TR: KUDUS TV
+http://33003152168772783.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/772783.ts
+#EXTINF:0,TR: AFYON TüRK HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48382
-#EXTINF:0,TR: Fenerbahce
+http://33003152168773620.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/773620.ts
+#EXTINF:0,TR: DOST TV HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48254
-#EXTINF:0,TR: Dream TV
+http://33003152168773626.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/773626.ts
+#EXTINF:0,TR: MOVIE SMART CLASSIC FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48389
-#EXTINF:0,TR: Dream Truk
+http://33003152168773630.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/773630.ts
+#EXTINF:0,TR: SINEMA TV AILE 2 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48388
-#EXTINF:0,TR: Dost TV
+http://33003152168773634.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/773634.ts
+#EXTINF:0,TR: KABE CANLI SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48390
-#EXTINF:0,TR: Disney XD
+http://33003152168774369.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/774369.ts
+#EXTINF:0,TR: KANAL 42 (KONYA) SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48391
-#EXTINF:0,TR: Discovery SIENCE HD
+http://33003152168774370.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/774370.ts
+#EXTINF:0,TR: 24/7 | SEKER HOCA TV FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48394
-#EXTINF:0,TR: Discovery IDX HD
+http://33003152168774682.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/774682.ts
+#EXTINF:0,TR: KANAL 7 AVRUPA FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48395
-#EXTINF:0,TR: Da Vinci Learning HD
+http://33003152168774688.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/774688.ts
+#EXTINF:0,TR: ENO VIZYON 4 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48398
-#EXTINF:0,TR: Cem TV
+http://33003152168775634.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/775634.ts
+#EXTINF:0,TR: SPOR SMART 2 FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48400
-#EXTINF:0,TR: Cay TV
+http://33003152168775641.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/775641.ts
+#EXTINF:0,TR: ENO AKSIYON 1 FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48401
-#EXTINF:0,TR: Cartoon Network HD
+http://33003152168776149.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/776149.ts
+#EXTINF:0,TR: FOX CRIME FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48402
-#EXTINF:0,TR: BRT 2 HD
+http://33003152168778868.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/778868.ts
+#EXTINF:0,TR: BEIN SERIES VICE FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48403
-#EXTINF:0,TR: BRT 1 HD
+http://33003152168779881.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/779881.ts
+#EXTINF:0,TR: SINEMA TV 2 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48404
-#EXTINF:0,TR: BJK TV
+http://33003152168779886.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/779886.ts
+#EXTINF:0,TR: SINEVIZYON TURK 2 FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48256
-#EXTINF:0,TR: Beyaz TV HD
+http://33003152168779887.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/779887.ts
+#EXTINF:0,TR: EXXEN SPOR 1 FHD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48406
-#EXTINF:0,TR: Discovery Channel
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/3171
-#EXTINF:0,TR: Baby TV
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48411
-#EXTINF:0,TR: Nickeledeon HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48352
-#EXTINF:0,TR: TRT Diyanet
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48328
-#EXTINF:0,TR: TRT Haber HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48327
-#EXTINF:0,TR: TRT Okul
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48324
-#EXTINF:0,TR: TRT Spor HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48323
-#EXTINF:0,TR: TRT Turk
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48322
-#EXTINF:0,TR: TV 2 HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48317
-#EXTINF:0,TR: TV 4
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48316
-#EXTINF:0,TR: TV 5
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48315
-#EXTINF:0,TR: TV 8.5 HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48313
-#EXTINF:0,TR: TV EM
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48312
-#EXTINF:0,TR: TV Kayseri
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48311
-#EXTINF:0,TR: Ulke TV
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48310
-#EXTINF:0,TR: TRT Muzik HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/3170
-#EXTINF:0,TR: TRT Belgesel HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/406
-#EXTINF:0,TR: TRT Cocuk
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/405
-#EXTINF:0,TR: Yaban TV
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48309
-#EXTINF:0,TR: TRT World
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/401
-#EXTINF:0,TR: TiviBu Sport 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48241
-#EXTINF:0,TR: TV8 FHD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/795
-#EXTINF:0,TR: TiviBu Sport 2 HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48240
-#EXTINF:0,TR: TiviBu Sport 3 HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/48239
-#EXTINF:0,TR: TRT AVAZ
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/50809
-#EXTINF:0,TR: YOL TV
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/51541
-#EXTINF:0,TR: bein Movies Premiere 1 HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/52708
-#EXTINF:0,TR: TGRT EU
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/52714
-#EXTINF:0,TR: TVNET HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/52715
-#EXTINF:0,TR: KANAL B
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/52716
-#EXTINF:0,TR: POWER TV HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/53016
-#EXTINF:0,TR: Exxen Sport 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54439
-#EXTINF:0,TR: EXXEN SPORT 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54440
-#EXTINF:0,TR: beIN Sport HABER
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54465
-#EXTINF:0,TR: VIASAT History HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54466
-#EXTINF:0,TR: VIASAT EXPLORER HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54467
-#EXTINF:0,TR: DOCUBOX HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54468
-#EXTINF:0,TR: SINEMA TV AiLE 1 HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54603
-#EXTINF:0,TR: SINEMA TV KOMEDi 1 HD
-#EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54604
+http://33003152168780258.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/780258.ts
 #EXTINF:0,TR: SINEMA TV 1002 HD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54605
-#EXTINF:0,TR: TiviBu Sport 4 HD
+http://33003152168780264.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/780264.ts
+#EXTINF:0,TR: ALTAS TV (ORDU) SD
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/55186
+http://33003152168781127.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/781127.ts
+#EXTINF:0,TR: BRIC VE SATRANC TV SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168781130.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/781130.ts
+#EXTINF:0,TR: SINEVIZYON TURK 7 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168781136.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/781136.ts
+#EXTINF:0,TR: TIVIBU SPOR 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168781138.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/781138.ts
+#EXTINF:0,TR: DISCOVERY SCIENCE HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168782269.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/782269.ts
+#EXTINF:0,TR: TV 8.5 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168782875.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/782875.ts
+#EXTINF:0,TR: BEIN BOX OFFICE 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168783639.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/783639.ts
+#EXTINF:0,TR: ENO AKSIYON 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168784694.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/784694.ts
+#EXTINF:0,TR: BEIN SPORTS MAX 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168786092.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/786092.ts
+#EXTINF:0,TR: 24/7 | THE LOONEY TUNES 2 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168786716.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/786716.ts
+#EXTINF:0,TR: ENO VIZYON 15 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168786959.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/786959.ts
+#EXTINF:0,TR: MAX VIZYON 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168786960.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/786960.ts
+#EXTINF:0,TR: CBEEBIES HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168787692.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/787692.ts
+#EXTINF:0,TR: DEHA TV DENIZLI HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168787694.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/787694.ts
+#EXTINF:0,TR: 24/7 | ELIFIN DUSLERI HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788328.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788328.ts
+#EXTINF:0,TR: ENO COCUK 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788333.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788333.ts
+#EXTINF:0,TR: METROPOL BOOBA TV FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788336.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788336.ts
+#EXTINF:0,TR: TGRT BELGESEL SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788338.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788338.ts
+#EXTINF:0,TR: TGRT HABER SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788339.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788339.ts
+#EXTINF:0,TR: TIVIBU SPOR 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788340.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788340.ts
+#EXTINF:0,TR: TIVIBU SPOR 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788341.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788341.ts
+#EXTINF:0,TR: TIVIBUSPOR 1HD FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788342.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788342.ts
+#EXTINF:0,TR: TJK TV FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788345.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788345.ts
+#EXTINF:0,TR: TLC HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788346.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788346.ts
+#EXTINF:0,TR: TRT 1 HEVC
+#EXTVLCOPT:network-caching=1000
+http://33003152168788347.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788347.ts
+#EXTINF:0,TR: TRT 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788349.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788349.ts
+#EXTINF:0,TR: TRT AVAZ HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788350.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788350.ts
+#EXTINF:0,TR: TRT BELGESEL HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788351.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788351.ts
+#EXTINF:0,TR: TRT COCUK HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788352.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788352.ts
+#EXTINF:0,TR: TRT DIYANET HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788353.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788353.ts
+#EXTINF:0,TR: TRT EBA ORTAOKUL HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788354.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788354.ts
+#EXTINF:0,TR: TRT SPOR 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788355.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788355.ts
+#EXTINF:0,TR: TRT SPOR FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788356.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788356.ts
+#EXTINF:0,TR: TRT TüRK HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788358.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788358.ts
+#EXTINF:0,TR: TV 100 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788359.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788359.ts
+#EXTINF:0,TR: TV 4 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788361.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788361.ts
+#EXTINF:0,TR: TV 8 INT SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788364.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788364.ts
+#EXTINF:0,TR: TV 8 SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788366.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788366.ts
+#EXTINF:0,TR: ULUSAL TV SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788369.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788369.ts
+#EXTINF:0,TR: UZAY HABER SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788370.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788370.ts
+#EXTINF:0,TR: UçANKU#EXTVLCOPT:network-caching=1000
+http://33003152168788371.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788371.ts
+#EXTINF:0,TR: VATAN TV HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788372.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788372.ts
+#EXTINF:0,TR: VIASAT EXPLORE SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788373.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788373.ts
+#EXTINF:0,TR: VIASAT HISTORY FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788374.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788374.ts
+#EXTINF:0,TR: YABAN TV HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788376.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788376.ts
+#EXTINF:0,TR: YESILCAM BOX 2 SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788377.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788377.ts
+#EXTINF:0,TR: YOL TV SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788378.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788378.ts
+#EXTINF:0,TR: ÜLKE TV FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788379.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788379.ts
+#EXTINF:0,TR: 24/7 | LIMON ILE ZEYTIN TV SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788559.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788559.ts
+#EXTINF:0,TR: ANIMAL PLANET FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788561.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788561.ts
+#EXTINF:0,TR: TIVIBU SPOR 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168788565.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/788565.ts
+#EXTINF:0,TR: ENO VIZYON 10 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168790697.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/790697.ts
+#EXTINF:0,TR: FILMBOX HORROR FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168791502.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/791502.ts
+#EXTINF:0,TR: TV 52 (ORDU) SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168791505.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/791505.ts
+#EXTINF:0,TR: BBC EARTH FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168791862.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/791862.ts
+#EXTINF:0,TR: CAY TV (RIZE) SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168791863.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/791863.ts
+#EXTINF:0,TR: 24 TV HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168792980.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/792980.ts
+#EXTINF:0,TR: A SPOR HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168792987.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/792987.ts
+#EXTINF:0,TR: BEIN IZ TV FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168792993.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/792993.ts
+#EXTINF:0,TR: BEIN MAX SPORTS 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168792995.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/792995.ts
+#EXTINF:0,TR: BEIN MOVIES PREMIER FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168792996.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/792996.ts
+#EXTINF:0,TR: BEIN MOVIES TURK FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168792997.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/792997.ts
+#EXTINF:0,TR: BLOOMBERG HT HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168792999.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/792999.ts
+#EXTINF:0,TR: CNN TURK HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793001.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793001.ts
+#EXTINF:0,TR: DISCOVERY TURBO EXTRA HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793002.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793002.ts
+#EXTINF:0,TR: DISCOVERY FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793003.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793003.ts
+#EXTINF:0,TR: EUROSPORT LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793009.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793009.ts
+#EXTINF:0,TR: EXXEN SPORT 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793011.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793011.ts
+#EXTINF:0,TR: GAME 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793015.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793015.ts
+#EXTINF:0,TR: GAME 3 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793016.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793016.ts
+#EXTINF:0,TR: HABER GLOBAL HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793018.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793018.ts
+#EXTINF:0,TR: HALK TV LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793021.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793021.ts
+#EXTINF:0,TR: KANAL 7 EU LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793022.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793022.ts
+#EXTINF:0,TR: KANAL Z FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793025.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793025.ts
+#EXTINF:0,TR: SPORTS HABER HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793044.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793044.ts
+#EXTINF:0,TR: TELE 1 HD LOCAL HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793046.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793046.ts
+#EXTINF:0,TR: TRT 1 HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793051.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793051.ts
+#EXTINF:0,TR: TRT BELGESEL LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793052.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793052.ts
+#EXTINF:0,TR: TRT SPOR HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793054.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793054.ts
+#EXTINF:0,TR: TV 8 HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793057.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793057.ts
+#EXTINF:0,TR: ULUSAL TV LOCAL SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168793063.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/793063.ts
+#EXTINF:0,TR: DISNEY XD HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168794425.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/794425.ts
+#EXTINF:0,TR: ELIT SINEMA 1002 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168794426.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/794426.ts
+#EXTINF:0,TR: TV NET HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168794430.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/794430.ts
+#EXTINF:0,TR: VIZYON 58 (SIVAS) HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168794431.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/794431.ts
+#EXTINF:0,TR: DOCUBOX FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168795273.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/795273.ts
+#EXTINF:0,TR: TIVIBUSPOR 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168795282.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/795282.ts
+#EXTINF:0,TR: KARDELEN TV (ERZURUM) SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168796076.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/796076.ts
+#EXTINF:0,TR: EXXEN SPORT 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168796400.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/796400.ts
+#EXTINF:0,TR: ENO COCUK 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168797283.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/797283.ts
+#EXTINF:0,TR: KANAL D FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168797286.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/797286.ts
+#EXTINF:0,TR: REHBER TV FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168797287.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/797287.ts
+#EXTINF:0,TR: TIVIBUSPOR 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168797290.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/797290.ts
+#EXTINF:0,TR: SPORTS TV FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168797730.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/797730.ts
+#EXTINF:0,TR: PAMUKKALE TV SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168798950.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/798950.ts
+#EXTINF:0,TR: TRT LOCAL HEVC
+#EXTVLCOPT:network-caching=1000
+http://33003152168799815.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/799815.ts
+#EXTINF:0,TR: ELIT SINEMA AILE HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168800048.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/800048.ts
+#EXTINF:0,TR: FILMBOX COMEDY FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168800049.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/800049.ts
+#EXTINF:0,TR: NATIONAL GEOGRAPHIC FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168800052.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/800052.ts
+#EXTINF:0,TR: SINEMA TV AILE 1 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168800053.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/800053.ts
+#EXTINF:0,TR: GAME 4 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168800479.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/800479.ts
+#EXTINF:0,TR: SINEVIZYON TURK 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168800483.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/800483.ts
+#EXTINF:0,TR: BOOMERANG HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168801171.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/801171.ts
+#EXTINF:0,TR: MAX WESTERN HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168801173.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/801173.ts
+#EXTINF:0,TR: KADIRGA TV (TRABZON) SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168801467.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/801467.ts
+#EXTINF:0,TR: 24/7 | PEPE TV HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168802130.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/802130.ts
+#EXTINF:0,TR: ELIT SINEMA 1001 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168802134.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/802134.ts
+#EXTINF:0,TR: ELIT SINEMA KOMEDI FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168802136.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/802136.ts
+#EXTINF:0,TR: MAX VIZYON 2 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168802139.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/802139.ts
+#EXTINF:0,TR: NATIONAL GEOGRAPHIC WILD FHD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168802140.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/802140.ts
+#EXTINF:0,TR: TV 5 SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168802147.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/802147.ts
+#EXTINF:0,TR: TV5 SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168802148.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/802148.ts
+#EXTINF:0,TR: 24/7 | PISI TV HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168802260.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/802260.ts
+#EXTINF:0,TR: DA VINCI KIDS HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168802264.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/802264.ts
+#EXTINF:0,TR: EXXEN SPORT 6 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168802266.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/802266.ts
+#EXTINF:0,TR: PARK TV SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168802267.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/802267.ts
+#EXTINF:0,TR: SINEMA AKSIYON FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168802268.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/802268.ts
+#EXTINF:0,TR: 24/7 | SEVIMLI DOSTLAR TV HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168802942.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/802942.ts
+#EXTINF:0,TR: 24/7 | KRAL SAKIR TV HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168804007.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/804007.ts
+#EXTINF:0,TR: 24/7 | SIRINLER TV HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168804008.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/804008.ts
+#EXTINF:0,TR: MEDINE CANLI SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168804019.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/804019.ts
+#EXTINF:0,TR: BEIN MOVIES ACTION 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168804213.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/804213.ts
+#EXTINF:0,TR: BEIN SERIES SCI-FI FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168804745.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/804745.ts
+#EXTINF:0,TR: BEIN SPORTS 3 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168804747.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/804747.ts
+#EXTINF:0,TR: TV 1 SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168804752.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/804752.ts
+#EXTINF:0,TR: 360 TV HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805378.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805378.ts
+#EXTINF:0,TR: A HABER HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805379.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805379.ts
+#EXTINF:0,TR: ATV EURO LOCAL SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805381.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805381.ts
+#EXTINF:0,TR: ATV HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805382.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805382.ts
+#EXTINF:0,TR: BEYAZ TV HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805384.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805384.ts
+#EXTINF:0,TR: CNN TURK HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805385.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805385.ts
+#EXTINF:0,TR: DISNEY CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805386.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805386.ts
+#EXTINF:0,TR: EURO D LOCAL HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805387.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805387.ts
+#EXTINF:0,TR: EURO STAR LOCAL SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805388.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805388.ts
+#EXTINF:0,TR: FOX HD TR HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805389.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805389.ts
+#EXTINF:0,TR: FOX TV HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805390.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805390.ts
+#EXTINF:0,TR: HABER TURK HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805391.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805391.ts
+#EXTINF:0,TR: KANAL 7 HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805392.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805392.ts
+#EXTINF:0,TR: KANAL D HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805393.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805393.ts
+#EXTINF:0,TR: METROPOL BARBIE FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805395.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805395.ts
+#EXTINF:0,TR: METROPOL DORU FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805396.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805396.ts
+#EXTINF:0,TR: METROPOL KARE FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805397.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805397.ts
+#EXTINF:0,TR: METROPOL KELOGLAN FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805398.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805398.ts
+#EXTINF:0,TR: METROPOL KONUSAN TOM FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805399.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805399.ts
+#EXTINF:0,TR: METROPOL MASAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805400.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805400.ts
+#EXTINF:0,TR: NATIONAL GEOGRAPHIC LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805401.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805401.ts
+#EXTINF:0,TR: NTV HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805402.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805402.ts
+#EXTINF:0,TR: SHOW TURK LOCAL HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805403.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805403.ts
+#EXTINF:0,TR: SHOW TV HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805404.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805404.ts
+#EXTINF:0,TR: SINEMA KOMEDI 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805405.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805405.ts
+#EXTINF:0,TR: SINEMA TV 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805406.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805406.ts
+#EXTINF:0,TR: STAR TV HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805407.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805407.ts
+#EXTINF:0,TR: TEVE 2 HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805408.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805408.ts
+#EXTINF:0,TR: TGRT HABER HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805409.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805409.ts
+#EXTINF:0,TR: TGRT HABER LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805410.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805410.ts
+#EXTINF:0,TR: TV 100 HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805413.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805413.ts
+#EXTINF:0,TR: TV 4 HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805415.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805415.ts
+#EXTINF:0,TR: TV 8.5 HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805416.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805416.ts
+#EXTINF:0,TR: TV8 INT LOCAL SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805417.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805417.ts
+#EXTINF:0,TR: ULKE TV HD LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168805418.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/805418.ts
+#EXTINF:0,TR: AKSU TV (KAHRAMANMARAS) HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168806100.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/806100.ts
+#EXTINF:0,TR: EKO TURK LOCAL FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168806103.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/806103.ts
+#EXTINF:0,TR: NICK JUNIOR HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168806104.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/806104.ts
+#EXTINF:0,TR: SINEMA 1001 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168806105.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/806105.ts
+#EXTINF:0,TR: TGRT HABER HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168806108.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/806108.ts
+#EXTINF:0,TR: BEIN SPORTS 1 SD SD FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168806327.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/806327.ts
+#EXTINF:0,TR: ELIT SINEMA KOMEDI 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168806328.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/806328.ts
+#EXTINF:0,TR: EXXEN SPORT 5 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168806329.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/806329.ts
+#EXTINF:0,TR: KANAL 7 SD
+#EXTVLCOPT:network-caching=1000
+http://33003152168806330.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/806330.ts
+#EXTINF:0,TR: KANAL 7 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168806331.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/806331.ts
+#EXTINF:0,TR: NATIONAL GEOGRAPHIC WILD FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168806332.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/806332.ts
+#EXTINF:0,TR: SEMERKAND FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168806333.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/806333.ts
+#EXTINF:0,TR: SINEMA TV AKSIYON 2 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168806334.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/806334.ts
+#EXTINF:0,TR: A2 FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168807003.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/807003.ts
+#EXTINF:0,TR: DIZI SMART PREMIUM FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168807004.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/807004.ts
+#EXTINF:0,TR: HABERTüRK HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168807005.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/807005.ts
+#EXTINF:0,TR: KANAL D HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168807006.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/807006.ts
+#EXTINF:0,TR: NTV FHD
+#EXTVLCOPT:network-caching=1000
+http://33003152168807007.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/807007.ts
+#EXTINF:0,TR: SINEMA TV 1001 HD
+#EXTVLCOPT:network-caching=1000
+http://33003152168807008.ofg0316.xyz:80/play/vi115192/3VjbaAuKAuYs/807008.ts
