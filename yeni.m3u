@@ -41,26 +41,14 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/7453
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/7452
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN SERIES
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/7454
-#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA YERLI 2" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN PREMIER
-http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/149649.ts
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN MOVIES PREMIERE" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN PREMIER
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN MOVIES TURK" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN MOVIES TURK
 https://live.anystreamrectv3.live/live/bsturk.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN FAMILY" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN PREMIER
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN MOVIES FAMILY" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN MOVIES FAMILY
 https://live.anystreamrectv3.live/live/bsfamily.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="beIN ACTION" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN PREMIER
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN MOVIES ACTION" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN MOVIES ACTION
 https://live.anystreamrectv3.live/live/bsaction1.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE
-http://poy.iptvtestle.xyz:8080/sz0853/sz00/6195
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE
-http://poy.iptvtestle.xyz:8080/sz0853/sz00/6196
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN SERIES 1" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN ACTION
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/24839
+#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA YERLI 2" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,SINEMA YERLI 2
+http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/149649.ts
 #EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="SINEMA TV" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" ,SINEMA YANSIMA
@@ -103,9 +91,9 @@ https://live.anystreamrectv3.live/live/tivi2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
 https://live.anystreamrectv3.live/live/tivi3.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/149783.ts
+https://live.anystreamrectv3.live/live/ssport.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/10091
+https://live.anystreamrectv3.live/live/ssport2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN TV
 http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/31966
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
