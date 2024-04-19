@@ -41,13 +41,13 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN MOVIES TURK" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN MOVIES TURK
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN MOVIES TURK" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/381/Image/bein_movies_turk_205x150_2022.png" ,BEIN MOVIES TURK
 https://live.anystreamrectv3.live/live/bsturk.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN MOVIES FAMILY" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN MOVIES FAMILY
 https://live.anystreamrectv3.live/live/bsfamily.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN MOVIES ACTION" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN MOVIES ACTION
+#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN MOVIES ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES ACTION
 https://live.anystreamrectv3.live/live/bsaction1.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA YERLI 2" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,SINEMA YERLI 2
+#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA YERLI 2" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=584" ,SINEMA YERLI 2
 http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/149649.ts
 #EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
