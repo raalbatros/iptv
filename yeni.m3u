@@ -50,11 +50,11 @@ http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/7454
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN MOVIES PREMIERE" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN PREMIER
 http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/8513
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN MOVIES PREMIERE" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN PREMIER
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/7458
+https://live.anystreamrectv3.live/live/bsturk.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN MOVIES PREMIERE" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN PREMIER
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/7456
+https://live.anystreamrectv3.live/live/bsfamily.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="beIN MOVIES PREMIERE" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN PREMIER
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/8512
+https://live.anystreamrectv3.live/live/bsaction1.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE
 http://poy.iptvtestle.xyz:8080/sz0853/sz00/6195
 #EXTINF:-1 group-title="SINEMA" tvg-id="BEIN BOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bein_box_office.png" ,BEIN BOX OFFICE
@@ -79,9 +79,9 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/317/Image/70x46_dsc_ekm2019.png" ,DISCOVERY CHANNEL
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
-http://103.161.34.173:8080/9rvBgKdr4y/Gf6qHcy3GT/243218
+https://live.anystreamrectv3.live/live/natgeo.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
-http://103.161.34.173:8080/9rvBgKdr4y/Gf6qHcy3GT/243221
+https://live.anystreamrectv3.live/live/natgeowild.m3u8
 
 #EXTINF:-1 group-title="ÇOCUK" tvg-name="KRAL ŞAKİR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d9/Kral%C5%9Eakir_logo.jpg" ,KRAL ŞAKİR TV
 http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/35671
@@ -97,11 +97,11 @@ http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/8309
+https://live.anystreamrectv3.live/live/tivi1.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/8310
+https://live.anystreamrectv3.live/live/tivi2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-http://poy.iptvtestle.xyz:8080/sz0853/sz00/263100
+https://live.anystreamrectv3.live/live/tivi3.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
 http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/8020
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
