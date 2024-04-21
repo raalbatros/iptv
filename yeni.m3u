@@ -58,8 +58,6 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w19682
 #EXTINF:-1 group-title="SINEMA" tvg-name="A2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
 
-#EXTINF:-1 group-title="BELGESEL" tvg-id="TRT4k.tr" tvg-name="TRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/2560px-TRT_4K_logo.svg.png" ,TRT 4K
-http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/24482
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" ,TRT BELGESEL
@@ -87,15 +85,15 @@ http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/183810
+http://tv.atlaspremium.biz:8080/maco1221/maco2121/699
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/183812
+http://tv.atlaspremium.biz:8080/maco1221/maco2121/700
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/183814
+http://tv.atlaspremium.biz:8080/maco1221/maco2121/24292  
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-https://live.anystreamrectv3.live/live/ssport.m3u8
+http://tv.atlaspremium.biz:8080/maco1221/maco2121/989
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-https://live.anystreamrectv3.live/live/ssport2.m3u8
+http://tv.atlaspremium.biz:8080/maco1221/maco2121/13574
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN TV
 http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/31966
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
@@ -105,3 +103,5 @@ http://poy.iptvtestle.xyz:8080/sz0853/sz00/263075
 http://server.sibfungold.info:8080/live/amircccam/UPc0S4IMk3/469.ts
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/183795
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
+http://tv.atlaspremium.biz:8080/maco1221/maco2121/525
