@@ -47,9 +47,6 @@ http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14270
 #EXTINF:0,SINEMA TV 2 HD
 #EXTVLCOPT:network-caching=1000
 http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14271
-#EXTINF:0,SINEMA AKSIYON HD
-#EXTVLCOPT:network-caching=1000
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14272
 #EXTINF:0,SINEMA AKSIYON 2 HD
 #EXTVLCOPT:network-caching=1000
 http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14273
