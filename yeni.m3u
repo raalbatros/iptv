@@ -41,13 +41,39 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
-#EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-name="SINEMA TV" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" ,SINEMA YANSIMA
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
-#EXTINF:-1 group-title="SINEMA" tvg-name="A2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
-http://stream.tvcdn.net/eglence/a2.m3u8
+#EXTINF:0,SINEMA TV HD
+#EXTVLCOPT:network-caching=1000
+http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14270
+#EXTINF:0,SINEMA TV 2 HD
+#EXTVLCOPT:network-caching=1000
+http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14271
+#EXTINF:0,SINEMA AKSIYON HD
+#EXTVLCOPT:network-caching=1000
+http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14272
+#EXTINF:0,SINEMA AKSIYON 2 HD
+#EXTVLCOPT:network-caching=1000
+http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14273
+#EXTINF:0,SINEMA AILE HD
+#EXTVLCOPT:network-caching=1000
+http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14274
+#EXTINF:0,SINEMA AILE 2 HD
+#EXTVLCOPT:network-caching=1000
+http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14275
+#EXTINF:0,SINEMA KOMEDI HD
+#EXTVLCOPT:network-caching=1000
+http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14276
+#EXTINF:0,SINEMA YERLI  1 HD
+#EXTVLCOPT:network-caching=1000
+http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14278
+#EXTINF:0,SINEMA YERLI 2 HD
+#EXTVLCOPT:network-caching=1000
+http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14279
+#EXTINF:0,SINEMA TV 1002 HD
+#EXTVLCOPT:network-caching=1000
+http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14282
 
+#EXTINF:-1 group-title="BELGESEL" tvg-name="A2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
+http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" ,TRT BELGESEL
