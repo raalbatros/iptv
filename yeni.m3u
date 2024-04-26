@@ -41,16 +41,6 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN MOVIES TURK" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/381/Image/bein_movies_turk_205x150_2022.png" ,BEIN MOVIES TURK
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/183909
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN MOVIES PREMIERE" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" ,BEIN MOVIES PREMIERE
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/183908
-#EXTINF:-1 group-title="SINEMA" tvg-id="BEIN MOVIES ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES ACTION
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/183907
-#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA YERLI 1" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=584" ,SINEMA YERLI
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/183906
-#EXTINF:-1 group-title="SINEMA" tvg-id="SINEMA AKSIYON" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=584" ,SINEMA AKSIYON
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/183899
 #EXTINF:-1 group-title="SINEMA" tvg-name="TIVI TURK" tvg-logo="https://i.ibb.co/b7g9Cp4/tivi-turk.png" ,TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="SINEMA" tvg-name="SINEMA TV" tvg-logo="https://i.ibb.co/cNwYyLk/sinematv.png" ,SINEMA YANSIMA
@@ -105,5 +95,5 @@ http://server.sibfungold.info:8080/live/amircccam/UPc0S4IMk3/469.ts
 http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/183795
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://tv.atlaspremium.biz:8080/maco1221/maco2121/525
-#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 kool
-https://www.kool.to/play/980424600/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
+http://aziptv.net:8080/EMIRETVIptv200conn/7RBJU2tfdYDy/1947
