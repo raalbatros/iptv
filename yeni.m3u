@@ -84,11 +84,6 @@ http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/183879
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
 http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/183881
 
-#EXTINF:-1 group-title="ÇOCUK" tvg-name="KRAL ŞAKİR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d9/Kral%C5%9Eakir_logo.jpg" ,KRAL ŞAKİR TV
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/35671
-#EXTINF:-1 group-title="ÇOCUK" tvg-name="TOM VE JERRY TV tvg-logo="https://pngimg.com/d/tom_and_jerry_PNG42.png" ,TOM VE JERRY TV
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/22102
-
 #EXTINF:-1 group-title="SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TV 8,5" tvg-name="TV 8,5" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
@@ -107,10 +102,8 @@ https://live.anystreamrectv3.live/live/tivi3.m3u8
 http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/149783.ts
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
 http://m1.webvps.de:25443/live/HAJG6/k7bKPqg05y/149784.ts
-#EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN TV
-http://51.89.85.234:2086/yROh2OcsSt/r11uweMj7h/31966
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
-http://poy.iptvtestle.xyz:8080/sz0853/sz00/263075
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54439
 
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://server.sibfungold.info:8080/live/amircccam/UPc0S4IMk3/469.ts
