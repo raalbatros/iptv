@@ -82,7 +82,7 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
 https://live.anystreamrectv3.live/live/natgeo.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/183881
+http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/1704
 
 #EXTINF:-1 group-title="SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
@@ -106,6 +106,6 @@ http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/1629
 http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54439
 
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-https://t2.anystreamrectv13.xyz/live/bs1/index.m3u8
+http://aziptv.net:8080/EMIRETVIptv200conn/7RBJU2tfdYDy/36757
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://149.34.218.94:8080/0.ts
