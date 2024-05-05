@@ -68,14 +68,11 @@ http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14279
 #EXTINF:0,SINEMA TV 1002 HD
 #EXTVLCOPT:network-caching=1000
 http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14282
-#EXTINF:0,Bein movies türk
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Bein Movies türk
 https://live.anystreamrectv3.live/live/bsturk.m3u8
-#EXTINF:0,Bein movies family
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Bein Movies family
 https://live.anystreamrectv3.live/live/bsfamily.m3u8
-#EXTINF:0,Bein movies action 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Bein Movies action 1
 https://live.anystreamrectv3.live/live/bsaction1.m3u8
 
 #EXTINF:-1 group-title="BELGESEL" tvg-name="A2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
@@ -102,15 +99,15 @@ http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/1224
+https://live.anystreamrectv3.live/live/tivi1.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/1619
+https://live.anystreamrectv3.live/live/tivi2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/1620
+https://live.anystreamrectv3.live/live/tivi3.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/1630
+https://live.anystreamrectv3.live/live/ssport.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/1629
+https://live.anystreamrectv3.live/live/ssport2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
 http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/54439
 
