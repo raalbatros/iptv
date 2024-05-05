@@ -68,6 +68,15 @@ http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14279
 #EXTINF:0,SINEMA TV 1002 HD
 #EXTVLCOPT:network-caching=1000
 http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14282
+#EXTINF:0,Bein movies türk
+#EXTVLCOPT:network-caching=1000
+https://live.anystreamrectv3.live/live/bsturk.m3u8
+#EXTINF:0,Bein movies family
+#EXTVLCOPT:network-caching=1000
+https://live.anystreamrectv3.live/live/bsfamily.m3u8
+#EXTINF:0,Bein movies action 1
+#EXTVLCOPT:network-caching=1000
+https://live.anystreamrectv3.live/live/bsaction1.m3u8
 
 #EXTINF:-1 group-title="BELGESEL" tvg-name="A2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
@@ -82,7 +91,7 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
 https://live.anystreamrectv3.live/live/natgeo.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/1704
+https://live.anystreamrectv3.live/live/natgeowild.m3u8
 
 #EXTINF:-1 group-title="SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
