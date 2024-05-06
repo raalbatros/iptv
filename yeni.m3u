@@ -74,8 +74,6 @@ https://live.anystreamrectv3.live/live/bsturk.m3u8
 https://live.anystreamrectv3.live/live/bsfamily.m3u8
 #EXTINF:0,Bein Movies action 1
 https://live.anystreamrectv3.live/live/bsaction1.m3u8
-#EXTINF:0,Exxen TV
-http://megaott.live:8080/BABARBHAITV5345/FERTG6457FGTHHH/53650
 
 #EXTINF:-1 group-title="BELGESEL" tvg-name="A2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
