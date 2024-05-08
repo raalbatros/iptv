@@ -41,32 +41,24 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
-#EXTINF:0,SINEMA TV HD
-#EXTVLCOPT:network-caching=1000
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14270
-#EXTINF:0,SINEMA TV 2 HD
-#EXTVLCOPT:network-caching=1000
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14271
+#EXTINF:0,SINEMA TV
+https://m3u-editor.com/serve/deathless-kun-king-iptv-5321/1112736768
+#EXTINF:0,DIAMOND SINEMA TURK
+https://m3u-editor.com/serve/deathless-kun-king-iptv-5321/1112737028
 #EXTINF:0,SINEMA AKSIYON 2 HD
-#EXTVLCOPT:network-caching=1000
 http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14273
-#EXTINF:0,SINEMA AILE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,SINEMA AILE
 http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14274
-#EXTINF:0,SINEMA AILE 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,SINEMA 1001
+https://m3u-editor.com/serve/deathless-kun-king-iptv-5321/1112736767
 http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14275
 #EXTINF:0,SINEMA KOMEDI HD
-#EXTVLCOPT:network-caching=1000
 http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14276
 #EXTINF:0,SINEMA YERLI  1 HD
-#EXTVLCOPT:network-caching=1000
 http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14278
 #EXTINF:0,SINEMA YERLI 2 HD
-#EXTVLCOPT:network-caching=1000
 http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14279
 #EXTINF:0,SINEMA TV 1002 HD
-#EXTVLCOPT:network-caching=1000
 http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14282
 #EXTINF:0,Bein Movies türk
 https://live.anystreamrectv3.live/live/bsturk.m3u8
