@@ -45,21 +45,8 @@ http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 https://m3u-editor.com/serve/deathless-kun-king-iptv-5321/1112736768
 #EXTINF:0,DIAMOND SINEMA TURK
 https://m3u-editor.com/serve/deathless-kun-king-iptv-5321/1112737028
-#EXTINF:0,SINEMA AKSIYON 2 HD
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14273
-#EXTINF:0,SINEMA AILE
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14274
 #EXTINF:0,SINEMA 1001
 https://m3u-editor.com/serve/deathless-kun-king-iptv-5321/1112736767
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14275
-#EXTINF:0,SINEMA KOMEDI HD
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14276
-#EXTINF:0,SINEMA YERLI  1 HD
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14278
-#EXTINF:0,SINEMA YERLI 2 HD
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14279
-#EXTINF:0,SINEMA TV 1002 HD
-http://160.19.94.16:8080/Skyiptv_Tr_Yeni/jRqwpep3pe/14282
 #EXTINF:0,Bein Movies türk
 https://live.anystreamrectv3.live/live/bsturk.m3u8
 #EXTINF:0,Bein Movies family
@@ -68,6 +55,8 @@ https://live.anystreamrectv3.live/live/bsfamily.m3u8
 https://live.anystreamrectv3.live/live/bsaction1.m3u8
 #EXTINF:0,Bein Movies Stars
 https://live.anystreamrectv3.live/live/bsstars.m3u8
+#EXTINF:0,Epic Drama
+https://live.anystreamrectv3.live/live/epicdrama.m3u8
 
 #EXTINF:-1 group-title="BELGESEL" tvg-name="A2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
