@@ -41,12 +41,14 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
-#EXTINF:0,SINEMA TV
+#EXTINF:0,Sinema TV
 https://m3u-editor.com/serve/deathless-kun-king-iptv-5321/1112736768
-#EXTINF:0,DIAMOND SINEMA TURK
-https://m3u-editor.com/serve/deathless-kun-king-iptv-5321/1112737028
-#EXTINF:0,SINEMA 1001
-https://m3u-editor.com/serve/deathless-kun-king-iptv-5321/1112736767
+#EXTINF:0,Sinema TV 2
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3Mzg1MzI1NDlkNWUxOGU3YmNmZmQ=
+#EXTINF:0,SINEMA Yerli
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5ODc3NjUzNzUzZGE1Njk5YmMxNWM=
+#EXTINF:0,Sinema 1001
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4ODAzODA3NjBlN2MyMTVmODQzMjQ=
 #EXTINF:0,Bein Movies türk
 https://live.anystreamrectv3.live/live/bsturk.m3u8
 #EXTINF:0,Bein Movies family
@@ -59,6 +61,8 @@ https://live.anystreamrectv3.live/live/bsstars.m3u8
 https://live.anystreamrectv3.live/live/epicdrama.m3u8
 #EXTINF:0,Exxen TV
 https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk2MTk2ODE2Nzg4YTI5OGIxMTk4ZQ==
+#EXTINF:0,Sinema 1001
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4ODAzODA3NjBlN2MyMTVmODQzMjQ=
 
 #EXTINF:-1 group-title="BELGESEL" tvg-name="A2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
