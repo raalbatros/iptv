@@ -90,7 +90,7 @@ https://live.anystreamrectv3.live/live/ssport.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
 https://live.anystreamrectv3.live/live/ssport2.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
-https://cakal.click/yayinex1.m3u8
+https://cdn401.canlitv.services/cbcsport.m3u8?tkn=cJrgOSPBAgi_f4joH4mVYw&tms=1715737958&hst=tv.canlitv.services&ip=2a02:8071:5054:bbc0:b576:7224:d866:da6a
 
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 https://b2.anystreamrectv13.xyz/live2/bs11/index.m3u8
