@@ -14,9 +14,9 @@ https://www.vavoo.to/play/1294578939/index.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="BEYAZ TV" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 https://www.vavoo.to/play/3676585734/index.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="TV8" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
-http://hw1.jemtv.com/app/tv8/playlist.m3u8
+https://www.vavoo.to/play/2263623379/index.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="KANAL 7 HD" tvg-name="KANAL 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
-http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
+https://www.vavoo.to/play/3380919643/index.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="Teve2.tr" tvg-name="TEVE2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
 http://stream.tvcdn.net/eglence/teve2.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
@@ -25,21 +25,21 @@ http://hw1.jemtv.com/app/360tv/playlist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
 http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="Haber Türk" tvg-name="HABER TÜRK" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
-http://stream.tvcdn.net/haber/haberturk.m3u8
+https://www.vavoo.to/play/3939254892/index.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK HD" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
-http://stream.tvcdn.net/haber/cnn-turk.m3u8
+https://www.vavoo.to/play/779815775/index.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TRTHaber.tr" tvg-name="TRT HABER" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
-http://stream.tvcdn.net/haber/trt-haber.m3u8
+https://www.vavoo.to/play/2697091604/index.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="A.Haber.HD.tr" tvg-name="A HABER" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" ,A HABER
-http://stream.tvcdn.net/haber/a-haber.m3u8
+https://www.vavoo.to/play/279626965/index.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="BloombergHT.tr" tvg-name="BLOOMBERG HT" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" ,BLOOMBERG HT
-http://hw1.jemtv.com/app/bloomberght/playlist.m3u8
+https://www.vavoo.to/play/1351573002/index.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="24 HD" tvg-name="24" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
-http://stream.tvcdn.net/haber/24-tv.m3u8
+https://www.vavoo.to/play/2566978760/index.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TVNET.HD.tr" tvg-name="TV NET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
 http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
-http://stream.tvcdn.net/haber/tgrt-haber.m3u8
+https://www.vavoo.to/play/1645231606/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" tvg-id="BeIN.Movies.Turk" tvg-name="BEIN MOVIES TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES TURK
 https://live.anystreamrectv3.live/live/bsturk.m3u8
@@ -72,23 +72,23 @@ https://live.anystreamrectv3.live/live/natgeo.m3u8
 https://live.anystreamrectv3.live/live/natgeowild.m3u8
 
 #EXTINF:-1 group-title="SPOR" tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
-http://hw1.jemtv.com/app/trtspor/playlist.m3u8
+https://www.vavoo.to/play/225292133/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TV 8.5" tvg-name="TV 8.5" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
-http://hw1.jemtv.com/app/tv85/playlist.m3u8
+https://www.vavoo.to/play/3649557693/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="A SPOR" tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
-http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
+https://www.vavoo.to/play/3317489883/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
-http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+https://www.vavoo.to/play/2052143925/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
 https://live.anystreamrectv3.live/live/tivi1.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-https://live.anystreamrectv3.live/live/tivi2.m3u8
+https://www.vavoo.to/play/1704830373/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-https://live.anystreamrectv3.live/live/tivi3.m3u8
+https://www.vavoo.to/play/2838996283/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-https://live.anystreamrectv3.live/live/ssport.m3u8
+https://www.vavoo.to/play/1740949330/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-https://live.anystreamrectv3.live/live/ssport2.m3u8
+https://www.vavoo.to/play/2573123488/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
 https://m3u-editor.com/serve/deathless-kun-king-iptv-5321/1112736788
 
