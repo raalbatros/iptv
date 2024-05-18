@@ -42,22 +42,22 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 https://www.vavoo.to/play/1645231606/index.m3u8
 
 #EXTINF:-1 group-title="SiNEMA" tvg-id="BeIN.Movies.Turk" tvg-name="BEIN MOVIES TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES TURK
-https://live.anystreamrectv3.live/live/bsturk.m3u8
+https://www.vavoo.to/play/3085299930/index.m3u8
 #EXTINF:-1 group-title="SiNEMA" tvg-id="BeIN.Movies.Family" tvg-name="BEIN MOVIES FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES FAMILY
-https://live.anystreamrectv3.live/live/bsfamily.m3u8
+https://www.vavoo.to/play/4031089162/index.m3u8
 #EXTINF:-1 group-title="SiNEMA" tvg-id="BeIN.Movies.Action1" tvg-name="BEIN MOVIES ACTION 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES ACTION 1
 https://live.anystreamrectv3.live/live/bsaction1.m3u8
 #EXTINF:-1 group-title="SiNEMA" tvg-id="BeIN.Movies.Star" tvg-name="BEIN MOVIES STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES STAR
-https://live.anystreamrectv3.live/live/bsstars.m3u8
+https://www.vavoo.to/play/3624940778/index.m3u8
 #EXTINF:-1 group-title="SiNEMA" tvg-id="Dream.Box" tvg-name="DREAMBOX" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/657/549/small/illustration-negative-film-reel-roll-tapes-for-movie-cinema-video-logo-vector.jpg" ,DREAMBOX
-http://62.210.88.161/gin-trn09/gt-sinevizyon-1/index.m3u8
+https://www.vavoo.to/play/2788324814/index.m3u8
 #EXTINF:-1 group-title="SiNEMA" tvg-id="Sinema.Yansima" tvg-name="SINEMA YANSIMA" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/657/549/small/illustration-negative-film-reel-roll-tapes-for-movie-cinema-video-logo-vector.jpg" ,SINEMA YANSIMA
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
+https://www.vavoo.to/play/2987765375/index.m3u8
 #EXTINF:-1 group-title="SiNEMA" tvg-id="EXXEN.TV" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN TV
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk2MTk2ODE2Nzg4YTI5OGIxMTk4ZQ==
+https://www.vavoo.to/play/961968167/index.m3u8
 
 #EXTINF:-1 group-title="BELGESEL" tvg-name="A2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
-http://stream.tvcdn.net/eglence/a2.m3u8
+https://www.vavoo.to/play/3308612765/index.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" ,TRT BELGESEL
@@ -90,11 +90,9 @@ https://www.vavoo.to/play/1740949330/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="S SPORT 2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
 https://www.vavoo.to/play/2573123488/index.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
-https://m3u-editor.com/serve/deathless-kun-king-iptv-5321/1112736788
+https://www.vavoo.to/play/2498689480/index.m3u8
 
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-https://b2.anystreamrectv13.xyz/live2/bs11/index.m3u8
+https://www.vavoo.to/play/2873939440/index.m3u8
 #EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-https://www.vavoo.to/play/2603371800/index.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-id="beIN.SPORTS.1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-https://m3u-editor.com/serve/deathless-kun-king-iptv-5321/1112738836
+https://www.vavoo.to/play/980424600/index.m3u8
