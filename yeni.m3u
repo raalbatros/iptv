@@ -57,7 +57,7 @@ http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123925
 #EXTINF:-1 group-title=“TR” tvg-id="EXXEN.TV" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN TV
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115593
 
-#EXTINF:-1 group-title=“TR” tvg-name="A2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
+#EXTINF:-1 group-title=“TR” tvg-id="A2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 group-title=“TR” tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
@@ -67,9 +67,9 @@ http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 http://stream.tvcdn.net/eglence/dmax.m3u8
 #EXTINF:-1 group-title=“TR” tvg-id="TLCTurkey.tr" tvg-name="TLC" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" ,TLC
 http://stream.tvcdn.net/eglence/tlc.m3u8
-#EXTINF:-1 group-title=“TR” tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
+#EXTINF:-1 group-title=“TR” tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6286
-#EXTINF:-1 group-title=“TR” tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 group-title=“TR” tvg-id="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6287
 
 #EXTINF:-1 group-title=“TR” tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
@@ -80,11 +80,11 @@ http://hw1.jemtv.com/app/tv85/playlist.m3u8
 http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title=“TR” tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
-#EXTINF:-1 group-title=“TR” tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
+#EXTINF:-1 group-title=“TR” tvg-id="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6102
-#EXTINF:-1 group-title=“TR” tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
+#EXTINF:-1 group-title=“TR” tvg-id="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6103
-#EXTINF:-1 group-title=“TR” tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
+#EXTINF:-1 group-title=“TR” tvg-id="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/113254
 #EXTINF:-1 group-title=“TR” tvg-id="S SPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/115598
