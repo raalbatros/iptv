@@ -84,7 +84,7 @@ http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6102
 #EXTINF:-1 group-title=TR tvg-id="TIVIBUSPOR 2 HD" tvg-name="TIVIBUSPOR 2" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6103
-#EXTINF:-1 group-title=TR tvg-id="TIVIBUSPOR 3 HD" tvg-name="TIVIBUSPOR 3"  tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
+#EXTINF:-1 group-title=TR tvg-id="TIVIBUSPOR 3 HD" tvg-name="TIVIBUSPOR 3" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/113254
 #EXTINF:-1 group-title=TR tvg-id="SSPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/115598
