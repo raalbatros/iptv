@@ -43,7 +43,7 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="BeIN.Movies.Turk" tvg-name="BEIN MOVIES TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES TURK
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6202
+https://live.anystreamrectv3.live/live/bsturk.m3u8
 #EXTINF:-1 group-title=TR tvg-id="BeIN.Movies.Family" tvg-name="BEIN MOVIES FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES FAMILY
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6204
 #EXTINF:-1 group-title=TR tvg-id="BeIN.Movies.Action" tvg-name="BEIN MOVIES ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES ACTION
@@ -53,7 +53,17 @@ http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6205
 #EXTINF:-1 group-title=TR tvg-id="Sinema.Aksiyon" tvg-name="SINEMA AKSIYON" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/657/549/small/illustration-negative-film-reel-roll-tapes-for-movie-cinema-video-logo-vector.jpg" ,SINEMA AKSIYON
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/113293
 #EXTINF:-1 group-title=TR tvg-id="Sinema.Yerli" tvg-name="SINEMA YERLI" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/657/549/small/illustration-negative-film-reel-roll-tapes-for-movie-cinema-video-logo-vector.jpg" ,SINEMA YERLI
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123925
+https://live.anystreamrectv3.live/live/sinemayerli.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Sinema.Yerli" tvg-name="SINEMA YERLI 2" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/657/549/small/illustration-negative-film-reel-roll-tapes-for-movie-cinema-video-logo-vector.jpg" ,SINEMA YERLI 2
+https://live.anystreamrectv3.live/live/sinemayerli2.m3u8
+
+https://live.anystreamrectv3.live/live/sinema1001.m3u8
+
+https://live.anystreamrectv3.live/live/sinema1002.m3u8
+
+https://live.anystreamrectv3.live/live/sinemaaile.m3u8
+
+https://live.anystreamrectv3.live/live/sinemakomedi.m3u8
 #EXTINF:-1 group-title=TR tvg-id="EXXEN.TV" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN TV
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115593
 #EXTINF:-1 group-title=TR tvg-id="Sinema.Yansima" tvg-name="SINEMA YANSIMA" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/657/549/small/illustration-negative-film-reel-roll-tapes-for-movie-cinema-video-logo-vector.jpg" ,SINEMA YANSIMA
