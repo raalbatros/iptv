@@ -83,15 +83,15 @@ http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TIVIBUSPOR 1" tvg-name="TIVIBUSPOR 1" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6102
+https://live.anystreamrectv3.live/live/tivi1.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TIVIBUSPOR 2 HD" tvg-name="TIVIBUSPOR 2" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6103
+https://live.anystreamrectv3.live/live/tivi2.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TIVIBUSPOR 3 HD" tvg-name="TIVIBUSPOR 3" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/113254
+https://live.anystreamrectv3.live/live/tivi3.m3u8
 #EXTINF:-1 group-title=TR tvg-id="SSPORT" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/115598
+https://live.anystreamrectv3.live/live/ssport.m3u8
 #EXTINF:-1 group-title=TR tvg-id="SSPORT2" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6105
+https://live.anystreamrectv3.live/live/ssport2.m3u8
 #EXTINF:-1 group-title=TR tvg-id="EXXEN" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/167579
 
