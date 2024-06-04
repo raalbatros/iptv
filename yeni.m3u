@@ -43,23 +43,23 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="BeIN.Movies.Turk" tvg-name="BEIN MOVIES TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES TURK
-https://live.anystreamrectv3.live/live/bsturk.m3u8
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10624
 #EXTINF:-1 group-title=TR tvg-id="BeIN.Movies.Family" tvg-name="BEIN MOVIES FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES FAMILY
-https://live.anystreamrectv3.live/live/bsfamily.m3u8
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10627
 #EXTINF:-1 group-title=TR tvg-id="BeIN.Movies.Action" tvg-name="BEIN MOVIES ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES ACTION
-https://live.anystreamrectv3.live/live/bsaction1.m3u8
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10619
 #EXTINF:-1 group-title=TR tvg-id="Sinema.Yerli" tvg-name="SINEMA YERLI" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA YERLI
-https://live.anystreamrectv3.live/live/sinemayerli.m3u8
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115128
 #EXTINF:-1 group-title=TR tvg-id="Sinema.Yerli" tvg-name="SINEMA YERLI 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA YERLI 2
-https://live.anystreamrectv3.live/live/sinemayerli2.m3u8
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115121
 #EXTINF:-1 group-title=TR tvg-id="Sinema.1001" tvg-name="SINEMA 1001" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1001
-https://live.anystreamrectv3.live/live/sinema1001.m3u8
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115126
 #EXTINF:-1 group-title=TR tvg-id="Sinema.1002" tvg-name="SINEMA 1002" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1002
-https://live.anystreamrectv3.live/live/sinema1002.m3u8
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115127
 #EXTINF:-1 group-title=TR tvg-id="Sinema.Aile" tvg-name="SINEMA AILE" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA AILE
-https://live.anystreamrectv3.live/live/sinemaaile.m3u8
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115124
 #EXTINF:-1 group-title=TR tvg-id="Sinema.Komedi" tvg-name="SINEMA KOMEDI" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA KOMEDI
-https://live.anystreamrectv3.live/live/sinemakomedi.m3u8
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115123
 #EXTINF:-1 group-title=TR tvg-id="Sinema.Yansima" tvg-name="SINEMA YANSIMA" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/657/549/small/illustration-negative-film-reel-roll-tapes-for-movie-cinema-video-logo-vector.jpg" ,SINEMA YANSIMA
 https://raw.githubusercontent.com/iptvmix/feed/main/yansimatv1.m3u8
 #EXTINF:-1 group-title=TR tvg-id="teleon" tvg-name="TELEON" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/657/549/small/illustration-negative-film-reel-roll-tapes-for-movie-cinema-video-logo-vector.jpg" ,TELEON
@@ -78,9 +78,9 @@ http://stream.tvcdn.net/eglence/dmax.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TLCTurkey.tr" tvg-name="TLC" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" ,TLC
 http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:-1 group-title=TR tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
-https://live.anystreamrectv3.live/live/natgeo.m3u8
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115164
 #EXTINF:-1 group-title=TR tvg-id="NATIONAL GEOGRAPHIC WILD" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
-https://live.anystreamrectv3.live/live/natgeowild.m3u8
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/670
 
 #EXTINF:-1 group-title=TR tvg-id="TRT.SPOR.HD.tr" tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
