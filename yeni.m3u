@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml,https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
 
 #EXTINF:-1 group-title=TR tvg-id="trt.1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1200
 #EXTINF:-1 group-title=TR tvg-id="kanal.d" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-http://megaott.live:8080/BABARBHAITV5345/FERTG6457FGTHHH/3865
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1195
 #EXTINF:-1 group-title=TR tvg-id="atv" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-http://megaott.live:8080/BABARBHAITV5345/FERTG6457FGTHHH/3868
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1198
 #EXTINF:-1 group-title=TR tvg-id="star.tv" tvg-name="STAR" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
-http://hw1.jemtv.com/app/StarTV/playlist.m3u8
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1192
 #EXTINF:-1 group-title=TR tvg-id="show.tv" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
-http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
+http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1189
 #EXTINF:-1 group-title=TR tvg-id="fox" tvg-name="FOX HD" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 group-title=TR tvg-id="beyaz.tv" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
