@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title=TR tvg-id="trt.1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
 #EXTINF:-1 group-title=TR tvg-id="kanal.d" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="atv" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
 http://gineu8.bozztv.com/gin-trn09/gin-atvv/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="star.tv" tvg-name="STAR" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
