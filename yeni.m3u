@@ -1,43 +1,43 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml,https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml"
 
-#EXTINF:-1 group-title=TR tvg-id="TRT 1" tvg-name="TRT 1 HD" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
+#EXTINF:-1 group-title=TR tvg-id="TRT1 HD" tvg-name="TRT1 HD" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
-#EXTINF:-1 group-title=TR tvg-id="KANAL D" tvg-name="KANAL D HD" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
+#EXTINF:-1 group-title=TR tvg-id="KANAL D HD" tvg-name="KANAL D HD" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 https://c.fulltvizle.com/kanald/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
 https://gineu9.bozztv.com/gin-36bay4/gt-atv-tv3/index.m3u8
-#EXTINF:-1 group-title=TR tvg-id="STAR TV" tvg-name="STAR TV HD" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
+#EXTINF:-1 group-title=TR tvg-id="STAR TV HD" tvg-name="STAR TV HD" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 http://hw1.jemtv.com/app/StarTV/playlist.m3u8
-#EXTINF:-1 group-title=TR tvg-id="SHOW TV" tvg-name="SHOW TV HD" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
+#EXTINF:-1 group-title=TR tvg-id="SHOW TV HD"" tvg-name="SHOW TV HD"" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
 http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
-#EXTINF:-1 group-title=TR tvg-id="NOW" tvg-name="NOW HD" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
+#EXTINF:-1 group-title=TR tvg-id="NOW" tvg-name="NOW" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:-1 group-title=TR tvg-id="BEYAZ TV HD" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
+#EXTINF:-1 group-title=TR tvg-id="BEYAZ TV HD" tvg-name="BEYAZ TV HD" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
-#EXTINF:-1 group-title=TR tvg-id="TV8 HD" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
+#EXTINF:-1 group-title=TR tvg-id="TV8 HD" tvg-name="TV8 HD" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
 http://hw1.jemtv.com/app/tv8/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="KANAL 7 HD" tvg-name="KANAL 7 HD" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
 http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
-#EXTINF:-1 group-title=TR tvg-id="TEVE 2 HD" tvg-name="TEVE2 HD" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
+#EXTINF:-1 group-title=TR tvg-id="TEVE2 HD" tvg-name="TEVE2 HD" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
 http://stream.tvcdn.net/eglence/teve2.m3u8
-#EXTINF:-1 group-title=TR tvg-id="360 HD" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
+#EXTINF:-1 group-title=TR tvg-id="360 HD" tvg-name="360 HD" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
 http://hw1.jemtv.com/app/360tv/playlist.m3u8
 
-#EXTINF:-1 group-title=TR tvg-id="NTV HD" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
+#EXTINF:-1 group-title=TR tvg-id="NTV HD" tvg-name="NTV HD" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
 http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
-#EXTINF:-1 group-title=TR tvg-id="HABERTÜRK HD" tvg-name="HABER TÜRK" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
+#EXTINF:-1 group-title=TR tvg-id="Haber Türk" tvg-name="Haber Türk" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
 http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:-1 group-title=TR tvg-id="CNN TÜRK HD" tvg-name="CNN TÜRK HD" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
 http://stream.tvcdn.net/haber/cnn-turk.m3u8
-#EXTINF:-1 group-title=TR tvg-id="TRT Haber HD" tvg-name="TRT HABER" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
+#EXTINF:-1 group-title=TR tvg-id="TRT HABER HD" tvg-name="TRT HABER HD" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
 http://stream.tvcdn.net/haber/trt-haber.m3u8
-#EXTINF:-1 group-title=TR tvg-id="A Haber HD" tvg-name="A HABER" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" ,A HABER
+#EXTINF:-1 group-title=TR tvg-id="A HABER HD" tvg-name="A HABER HD" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" ,A HABER
 http://stream.tvcdn.net/haber/a-haber.m3u8
-#EXTINF:-1 group-title=TR tvg-id="BLOOMBERG HT HD" tvg-name="BLOOMBERG HT" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" ,BLOOMBERG HT
+#EXTINF:-1 group-title=TR tvg-id="BLOOMBERG HT HD" tvg-name="BLOOMBERG HT HD" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" ,BLOOMBERG HT
 http://hw1.jemtv.com/app/bloomberght/playlist.m3u8
-#EXTINF:-1 group-title=TR tvg-id="24 HD" tvg-name="24" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
+#EXTINF:-1 group-title=TR tvg-id="24 HD" tvg-name="24 HD" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
 http://stream.tvcdn.net/haber/24-tv.m3u8
-#EXTINF:-1 group-title=TR tvg-id="TVNET HD" tvg-name="TV NET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
+#EXTINF:-1 group-title=TR tvg-id="TVNET HD" tvg-name="TVNET HD" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
 http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TGRT HABER HD" tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
