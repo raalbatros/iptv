@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml,https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml"
 
-#EXTINF:-1 group-title=TR tvg-id="TRT 1 HD" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/623
-#EXTINF:-1 group-title=TR tvg-id="KANAL D HD" tvg-name="KANAL D HD" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/615
+#EXTINF:-1 group-title=TR tvg-id="TRT 1 HD" tvg-name="TRT1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
+http://gineu10.bozztv.com/gin-36bay4/gt-trteu-3/index.m3u8
+#EXTINF:-1 group-title=TR tvg-id="KANAL D HD" tvg-name="KANALD" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
+https://c.fulltvizle.com/kanald/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/621
+https://yayin8.canlitv.day/livetv/atv.stream/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="STAR TV HD" tvg-name="STAR HD HD" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="SHOW TV HD" tvg-name="SHOW TV HD" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
