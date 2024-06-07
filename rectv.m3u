@@ -41,7 +41,6 @@ https://live.anystreamrectv3.live/live/startv.m3u8
 https://live.anystreamrectv3.live/live/nbatv.m3u8
 #EXTINF:-1 group-title="Rectv  ",Fb tv
 https://live.anystreamrectv3.live/live/fbtv.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="Rectv  ",Viasat history
 https://live.anystreamrectv3.live/li...athistory.m3u8
 #EXTINF:-1 group-title="Rectv  ",Tarih tv
