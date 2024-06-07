@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title=TR tvg-id="TRT 1 HD" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title=TR tvg-id="KANAL D HD" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
+#EXTINF:-1 group-title=TR tvg-id="KANAL D" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/192068
 #EXTINF:-1 group-title=TR tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6266
