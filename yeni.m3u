@@ -3,9 +3,9 @@
 #EXTINF:-1 group-title=TR tvg-id="trt.1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title=TR tvg-id="kanal.d" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1195
+http://sstv1011.xyz:8080/kubifb/n97cCHn36S/192068
 #EXTINF:-1 group-title=TR tvg-id="atv" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-http://160.19.94.16:8080/Nline_Share_NewBackup/VKG9qJ1LMW/1198
+http://sstv1011.xyz:8080/kubifb/n97cCHn36S/192065
 #EXTINF:-1 group-title=TR tvg-id="star.tv" tvg-name="STAR" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="show.tv" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
