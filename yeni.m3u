@@ -82,10 +82,10 @@ http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol
 #EXTINF:-1 group-title=TR tvg-id="NATIONAL GEOGRAPHIC WILD HD" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/670
 
-#EXTINF:-1 group-title=TR tvg-id="TV8,5 HD" tvg-name="TV8,5 HD" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV8,5 HD
-https://trn10.tulix.tv/gt-tv8_5/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRT SPOR HD" tvg-name="TRT SPOR HD" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
+#EXTINF:-1 group-title=TR tvg-id="TV8,5 HD" tvg-name="TV8,5 HD" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV8,5 HD
+https://trn10.tulix.tv/gt-tv8_5/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="A SPOR HD" tvg-name="A SPOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
 http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRT SPOR YILDIZ" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
