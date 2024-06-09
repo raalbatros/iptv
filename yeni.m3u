@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml, https://www.bevy.be/bevyfiles/turkeypremium2.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml"
 
 #EXTINF:-1 group-title=TR tvg-id="TRT 1 HD" tvg-name="TRT 1 HD" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-https://trt1dvr.blutv.com/blutv_trt1_dvr2/live_720p2000000kbps/index.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8?hls=1
 #EXTINF:-1 group-title=TR tvg-id="KANAL D HD" tvg-name="KANAL D HD" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 https://c.fulltvizle.com/kanald/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
