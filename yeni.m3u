@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml, https://www.bevy.be/bevyfiles/turkeypremium2.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml"
 
 #EXTINF:-1 group-title=TR tvg-id="TRT 1 HD" tvg-name="TRT 1 HD" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
+https://trt1dvr.blutv.com/blutv_trt1_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="KANAL D HD" tvg-name="KANAL D HD" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 https://c.fulltvizle.com/kanald/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
 https://gineu9.bozztv.com/gin-36bay4/gt-atv-tv3/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="STAR TV HD" tvg-name="STAR TV HD" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
-http://hw1.jemtv.com/app/StarTV/playlist.m3u8
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="SHOW TV HD"" tvg-name="SHOW TV HD"" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
-http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="NOW HD" tvg-name="NOW HD" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 group-title=TR tvg-id="BEYAZ TV HD" tvg-name="BEYAZ TV HD" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
@@ -21,7 +21,7 @@ http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TEVE2 HD" tvg-name="TEVE2 HD" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
 http://stream.tvcdn.net/eglence/teve2.m3u8
 #EXTINF:-1 group-title=TR tvg-id="360 HD" tvg-name="360 HD" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
-http://hw1.jemtv.com/app/360tv/playlist.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="NTV HD" tvg-name="NTV HD" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
 http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
