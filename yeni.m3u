@@ -15,9 +15,9 @@ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 group-title=TR tvg-id="BEYAZ TV HD" tvg-name="BEYAZ TV HD" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TV8 HD" tvg-name="TV8 HD" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
-http://hw1.jemtv.com/app/tv8/playlist.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="KANAL 7 HD" tvg-name="KANAL 7 HD" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
-http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TEVE2 HD" tvg-name="TEVE2 HD" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
 http://stream.tvcdn.net/eglence/teve2.m3u8
 #EXTINF:-1 group-title=TR tvg-id="360 HD" tvg-name="360 HD" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
