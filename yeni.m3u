@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
 
 #EXTINF:-1 group-title=TR tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title=TR tvg-id="KanalD.tr" tvg-name="Kanal D TR" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 https://cdn404.canlitv.vin/kanald.m3u8?tkn=B0DfRqXSljXEG7c3E1gz_w&tms=1718187084&hst=www.canlitv.vin&ip=2a02:8071:5054:bbc0::d638
 #EXTINF:-1 group-title=TR tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
