@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title=TR tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title=TR tvg-id="KanalD.tr" tvg-name="Kanal D TR" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-http://megaott.live:8080/BABARBHAITV5345/FERTG6457FGTHHH/3865
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57561&extension=m3u8
 #EXTINF:-1 group-title=TR tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
 http://66.160.192.241/atvturk/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="StarTV.tr" tvg-name="Star TV TR" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
