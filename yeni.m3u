@@ -5,7 +5,7 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title=TR tvg-id="KanalD.tr" tvg-name="Kanal D TR" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://116.202.238.88/KANALD_TR/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-http://116.202.238.88/ATV_TR/index.m3u8
+http://66.160.192.241/atvturk/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="StarTV.tr" tvg-name="Star TV TR" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ShowTV.tr"" tvg-name="Show TV TR"" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
@@ -65,7 +65,7 @@ http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol
 
 #EXTINF:-1 group-title=TR tvg-id="a2tv.tr" tvg-name="A2 TV TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
-#EXTINF:-1 group-title=TR tvg-id="TRT4k.tr" tvg-name="TRT 4K TR" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 4K
+#EXTINF:-1 group-title=TR tvg-id="TRT4k.tr" tvg-name="TRT 4K TR" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Ftrt_4k.jpg" ,TRT 4K
 https://mn-nl.mncdn.com/blutv_trt4k_dvr/live_540p1250000kbps/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRT2.tr" tvg-name="TRT 2 TR" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
