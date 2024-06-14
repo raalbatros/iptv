@@ -81,9 +81,9 @@ https://live.anystreamrectv3.live/live/natgeo.m3u8
 https://live.anystreamrectv3.live/live/natgeowild.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="TRTSpor.tr" tvg-name="TRT Spor TR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
-https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
+http://hw1.jemtv.com/app/trtspor/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TV85.tr" tvg-name="TV 8,5 TR" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV8,5 HD
-https://trn10.tulix.tv/gt-tv8_5/index.m3u8
+http://hw1.jemtv.com/app/tv85/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ASpor.tr" tvg-name="A Spor TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
 http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRTSporyildiz.tr" tvg-name="TRT SPOR YILDIZ TR" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
