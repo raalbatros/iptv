@@ -82,7 +82,7 @@ https://live.anystreamrectv3.live/live/natgeowild.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="TRTSpor.tr" tvg-name="TRT Spor TR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
-#EXTINF:-1 group-title=TR tvg-id="TV85.tr" tvg-name="TV 8,5 TR" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV8,5 HD
+#EXTINF:-1 group-title=TR tvg-id="TV85.tr" tvg-name="TV 85 TR" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV8.5 HD
 http://hw1.jemtv.com/app/tv85/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ASpor.tr" tvg-name="A Spor TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
 http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
