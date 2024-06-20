@@ -42,29 +42,33 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TGRthaber.tr" tvg-name="TGRT HABER TR" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
-#EXTINF:-1 group-title=TR tvg-id="bein.movies.Turk" tvg-name="beIN MOVIES TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES TURK
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6202
-#EXTINF:-1 group-title=TR tvg-id="bein.movies.Family" tvg-name="BEIN MOVIES FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES FAMILY
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6204
-#EXTINF:-1 group-title=TR tvg-id="bein.movies.premier" tvg-name="beIN MOVIES PREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,beIN MOVIES PREMIER
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6200
-#EXTINF:-1 group-title=TR tvg-id="Sinema.Yerli" tvg-name="SINEMA YERLI" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA YERLI
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123925
-#EXTINF:-1 group-title=TR tvg-id="Sinema.Aksiyon" tvg-name="SINEMA AKSIYON" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA AKSIYON
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/113293
-#EXTINF:-1 group-title=TR tvg-id="Sinema Tv 1001" tvg-name="Sinema Tv 1001" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1001
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123921
-#EXTINF:-1 group-title=TR tvg-id="Sinema Tv 1002" tvg-name="Sinema Tv 1002" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1002
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123922
-#EXTINF:-1 group-title=TR tvg-id="Sinema Tv Aile" tvg-name="Sinema Tv Aile tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA AILE
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123923
-#EXTINF:-1 group-title=TR tvg-id="Sinema Tv Comedy" tvg-name="Sinema Tv Comedy" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA KOMEDI
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123924
-#EXTINF:-1 group-title=TR tvg-id="EXXEN TV" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN TV
+#EXTINF:-1 group-title=TR tvg-id="beinmoviesturk.tr" tvg-name="beIN MOVIES TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES TURK
+https://live.anystreamrectv3.live/live/bsturk.m3u8
+#EXTINF:-1 group-title=TR tvg-id="beinmoviesfamily.tr" tvg-name="BEIN MOVIES FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES FAMILY
+https://live.anystreamrectv3.live/live/bsfamily.m3u8
+#EXTINF:-1 group-title=TR tvg-id="beinmoviesstar.tr" tvg-name="beIN MOVIES STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,beIN MOVIES STAR
+https://live.anystreamrectv3.live/live/bsstars.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Sinemayerli.tr" tvg-name="SINEMA YERLI" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA YERLI
+https://live.anystreamrectv3.live/live/sinemayerli.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Sinemayerli.tr" tvg-name="SINEMA YERLI 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA YERLI 2
+https://live.anystreamrectv3.live/live/sinemayerli2.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Sinemaaksiyon.tr" tvg-name="SINEMA AKSIYON" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA AKSIYON
+https://live.anystreamrectv3.live/live/sinemaaksiyon2.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Sinema1001.tr" tvg-name="Sinema Tv 1001" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1001
+https://live.anystreamrectv3.live/live/sinema1001.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Sinema1002.tr" tvg-name="Sinema Tv 1002" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1002
+https://live.anystreamrectv3.live/live/sinema1002.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Sinemaaile.tr" tvg-name="Sinema Tv Aile tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA AILE
+https://live.anystreamrectv3.live/live/sinemaaile.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Sinemakomedi.tr" tvg-name="Sinema Tv Comedy" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA KOMEDI
+https://live.anystreamrectv3.live/live/sinemakomedi.m3u8
+#EXTINF:-1 group-title=TR tvg-id="EXXEN.TV" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN TV
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115593
 
 #EXTINF:-1 group-title=TR tvg-id="a2tv.tr" tvg-name="A2 TV TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
+#EXTINF:-1 group-title=TR tvg-id="TRT4k.tr" tvg-name="TRT 4K TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/2560px-TRT_4K_logo.svg.png" ,TRT 4K
+https://mn-nl.mncdn.com/blutv_trt4k/live_2160p18000000kbps/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRT2.tr" tvg-name="TRT 2 TR" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel TR" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" ,TRT BELGESEL
@@ -101,7 +105,5 @@ http://sstv1011.xyz:8080/kubifb/n97cCHn36S/167579
 
 #EXTINF:-1 group-title=TR tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1 TR" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115576
-#EXTINF:-1 group-title=TR tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1 TR" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/191152
 #EXTINF:-1 group-title=TR tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1 TR" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/190072
