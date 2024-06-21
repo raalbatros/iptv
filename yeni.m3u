@@ -43,9 +43,9 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="beinmoviesturk.tr" tvg-name="beIN MOVIES TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES TURK
-https://live.anystreamrectv3.live/live/bsturk.m3u8
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10624
 #EXTINF:-1 group-title=TR tvg-id="beinmoviesfamily.tr" tvg-name="BEIN MOVIES FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES FAMILY
-https://live.anystreamrectv3.live/live/bsfamily.m3u8
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10618
 #EXTINF:-1 group-title=TR tvg-id="beinmoviesstar.tr" tvg-name="beIN MOVIES STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,beIN MOVIES STAR
 https://live.anystreamrectv3.live/live/bsstars.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Sinemayerli.tr" tvg-name="SINEMA YERLI" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA YERLI
