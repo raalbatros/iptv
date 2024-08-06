@@ -56,9 +56,7 @@ http://sstv1011.xyz:8080/kubifb/n97cCHn36S/113293
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/113557
 #EXTINF:-1 group-title=TR tvg-id="Sinema1001.tr" tvg-name="Sinema Tv 1001" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1001
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123921
-#EXTINF:-1 group-title=TR tvg-id="Sinema1002.tr" tvg-name="Sinema Tv 1002" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1002
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123922
-#EXTINF:-1 group-title=TR tvg-id="Sinemaaile.tr" tvg-name="Sinema Tv Aile tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA AILE
+#EXTINF:-1 group-title=TR tvg-id="Sinemaaile.tr" tvg-name="Sinema Tv Aile" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA AILE
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123923
 #EXTINF:-1 group-title=TR tvg-id="Sinemakomedi.tr" tvg-name="Sinema Tv Comedy" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA KOMEDI
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123924
@@ -105,5 +103,3 @@ http://sstv1011.xyz:8080/kubifb/n97cCHn36S/167579
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115576
 #EXTINF:-1 group-title=TR tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/190072
-#EXTINF:-1 group-title=TR tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/2488.ts
