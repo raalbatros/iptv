@@ -1,19 +1,16 @@
 #EXTM3U x-tvg-url="https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
-#EXTINF:0,TRT 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title=TR tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
-#EXTINF:0,Kanal D
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title=TR tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://hw1.jemtv.com/app/KanalD/playlist.m3u8
-#EXTINF:0,ATV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title=TR tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
 http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ShowTV.tr"" tvg-name="Show TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Fox.tr" tvg-name="Now" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
-https://yayin2.canlitv.fun/livetv/foxtv.stream/chunklist_w1322856600.m3u8
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
@@ -26,7 +23,7 @@ http://stream.tvcdn.net/eglence/teve2.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
-http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
+http://stream.tvcdn.net/haber/ntv.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Haberturk.tr" tvg-name="Haber Turk" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
 http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:-1 group-title=TR tvg-id="CNNTurk.tr" tvg-name="CNN Turk" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
