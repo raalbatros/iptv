@@ -41,20 +41,18 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TGRthaber.tr" tvg-name="TGRT HABER" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
-#EXTINF:-1 group-title=TR tvg-id="beinmoviesturk.tr" tvg-name="beIN MOVIES TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES TURK
-https://live.anystreamrectv3.live/live/bsturk.m3u8
-#EXTINF:-1 group-title=TR tvg-id="beinmoviesfamily.tr" tvg-name="BEIN MOVIES FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,BEIN MOVIES FAMILY
-https://live.anystreamrectv3.live/live/bsfamily.m3u8
-#EXTINF:-1 group-title=TR tvg-id="beinmoviesstar.tr" tvg-name="beIN MOVIES ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,beIN MOVIES ACTION
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6198
+#EXTINF:-1 group-title=TR tvg-id="sinevizyon.tr" tvg-name="SINEVIZYON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,SINEVIZYON
+http://bozztv.com/gin-trn09/gt-sinevizyon-1/index.m3u8
+#EXTINF:-1 group-title=TR tvg-id="realbox.tr" tvg-name="REALBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,REALBOX
+http://bozztv.com/gin-trn09/gt-sinevizyon-2/index.m3u8
+#EXTINF:-1 group-title=TR tvg-id="movie.tr" tvg-name="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BeIN_MOVIES_logo_2017.jpg" ,MOVIE
+http://bozztv.com/gin-trn09/gt-sinevizyon-3/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Sinemayerli.tr" tvg-name="SINEMA YERLI" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA YERLI
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123925
 #EXTINF:-1 group-title=TR tvg-id="Sinemaaksiyon.tr" tvg-name="SINEMA AKSIYON" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA AKSIYON
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/113293
 #EXTINF:-1 group-title=TR tvg-id="Sinema1001.tr" tvg-name="Sinema Tv 1001" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1001
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123921
-#EXTINF:-1 group-title=TR tvg-id="Sinema1001.tr" tvg-name="Sinema Tv 1002" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1002
-https://live.anystreamrectv3.live/live/sinema1002.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Sinemaaile.tr" tvg-name="Sinema Tv Aile" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA AILE
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123923
 #EXTINF:-1 group-title=TR tvg-id="Sinemakomedi.tr" tvg-name="Sinema Tv Comedy" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA KOMEDI
