@@ -2,15 +2,15 @@
 #EXTINF:-1 group-title=TR tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/358053
 #EXTINF:-1 group-title=TR tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-https://live.anystreamrectv3.live/live/kanald.m3u8
+http://sstv1011.xyz:8080/kubifb/n97cCHn36S/192068
 #EXTINF:-1 group-title=TR tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-http://stream.tvcdn.net/ulusal/atv.m3u8
+http://sstv1011.xyz:8080/kubifb/n97cCHn36S/192065
 #EXTINF:-1 group-title=TR tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ShowTV.tr"" tvg-name="Show TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Fox.tr" tvg-name="Now" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
-https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live.m3u8
+http://sstv1011.xyz:8080/kubifb/n97cCHn36S/358052
 #EXTINF:-1 group-title=TR tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
