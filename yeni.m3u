@@ -48,17 +48,21 @@ http://bozztv.com/gin-trn09/gt-sinevizyon-2/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="movie.tr" tvg-name="MOVIE" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,MOVIE
 http://bozztv.com/gin-trn09/gt-sinevizyon-3/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Sinemayerli.tr" tvg-name="SINEMA YERLI" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA YERLI
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123925
-#EXTINF:-1 group-title=TR tvg-id="Sinemaaksiyon.tr" tvg-name="SINEMA AKSIYON" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA AKSIYON
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/113293
+https://live.anystreamrectv3.live/live/sinemayerli.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Sinemayerli2.tr" tvg-name="SINEMA YERLI 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA YERLI 2
+https://live.anystreamrectv3.live/live/sinemayerli2.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Sinema1001.tr" tvg-name="Sinema Tv 1001" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1001
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123921
+https://live.anystreamrectv3.live/live/sinema1001.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Sinema1002.tr" tvg-name="Sinema Tv 1002" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1002
+https://live.anystreamrectv3.live/live/sinema1002.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Sinemaaile.tr" tvg-name="Sinema Tv Aile" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA AILE
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123923
+https://live.anystreamrectv3.live/live/sinemaaile.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Sinemakomedi.tr" tvg-name="Sinema Tv Comedy" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA KOMEDI
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123924
-#EXTINF:-1 group-title=TR tvg-id="EXXEN.TV" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN TV
-http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115593
+https://live.anystreamrectv3.live/live/sinemakomedi.m3u8
+#EXTINF:-1 group-title=TR tvg-id="bsturk.tr" tvg-name="Beins Türk" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,Beins Türk
+https://live.anystreamrectv3.live/live/bsturk.m3u8
+#EXTINF:-1 group-title=TR tvg-id="bsfamily.tr" tvg-name="Beins Family" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,Beins Family
+https://live.anystreamrectv3.live/live/bsfamily.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="a2tv.tr" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
@@ -84,15 +88,15 @@ http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRTSporyildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TIVIBUSPOR 1" tvg-name="TIVIBUSPOR 1" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6102
+https://live.anystreamrectv3.live/live/tivi1.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TIVIBUSPOR 2" tvg-name="TIVIBUSPOR 2" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6103
+https://live.anystreamrectv3.live/live/tivi2.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TIVIBUSPOR 3" tvg-name="TIVIBUSPOR 3" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/113254
+https://live.anystreamrectv3.live/live/tivi3.m3u8
 #EXTINF:-1 group-title=TR tvg-id="SSport.tr" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/115598
+https://live.anystreamrectv3.live/live/ssport.m3u8
 #EXTINF:-1 group-title=TR tvg-id="SSport2.tr" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6105
+https://live.anystreamrectv3.live/live/ssport2.m3u8
 #EXTINF:-1 group-title=TR tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/67559
 
