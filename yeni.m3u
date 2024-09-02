@@ -2,9 +2,9 @@
 #EXTINF:-1 group-title=TR tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/358053
 #EXTINF:-1 group-title=TR tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/192068
+http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/192065
+http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 group-title=TR tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ShowTV.tr"" tvg-name="Show TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
@@ -14,7 +14,7 @@ http://sstv1011.xyz:8080/kubifb/n97cCHn36S/358052
 #EXTINF:-1 group-title=TR tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
-http://hw1.jemtv.com/app/tv8/playlist.m3u8
+http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Teve2.tr" tvg-name="Teve2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
@@ -33,7 +33,7 @@ http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:-1 group-title=TR tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" ,A HABER
 http://stream.tvcdn.net/haber/a-haber.m3u8
 #EXTINF:-1 group-title=TR tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" ,BLOOMBERG HT
-http://hw1.jemtv.com/app/bloomberght/playlist.m3u8
+http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 #EXTINF:-1 group-title=TR tvg-id="24.tr" tvg-name="24" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
 http://stream.tvcdn.net/haber/24-tv.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TVNET.tr" tvg-name="TVNET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
@@ -80,7 +80,7 @@ http://hw1.jemtv.com/app/trtspor/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TV85.tr" tvg-name="TV 85" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
 http://hw1.jemtv.com/app/tv85/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ASpor.tr" tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
-http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
+http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRTSporyildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TIVIBUSPOR 1" tvg-name="TIVIBUSPOR 1" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
