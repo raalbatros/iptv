@@ -4,7 +4,7 @@ https://bozztv.com/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=TR tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://116.202.238.88/KANALD_TR/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-https://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+http://116.202.238.88/ATV_TR/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ShowTV.tr"" tvg-name="Show TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
@@ -23,11 +23,11 @@ http://stream.tvcdn.net/eglence/teve2.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
-http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
+http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Haberturk.tr" tvg-name="Haber Turk" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
 http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:-1 group-title=TR tvg-id="CNNTurk.tr" tvg-name="CNN Turk" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
-https://live.anystreamrectv3.live/live/cnnturk.m3u8
+http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
 http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:-1 group-title=TR tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" ,A HABER
