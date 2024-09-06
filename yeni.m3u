@@ -2,25 +2,25 @@
 #EXTINF:-1 group-title=TR tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 http://62.210.88.161/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=TR tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-https://live.anystreamrectv3.live/live/kanald.m3u8
+http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-https://live.anystreamrectv3.live/live/atv1.m3u8
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ShowTV.tr"" tvg-name="Show TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Fox.tr" tvg-name="Now" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
 https://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=TR tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
-http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+http://hw1.jemtv.com/app/beyaz/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
 http://hw1.jemtv.com/app/tv8/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Teve2.tr" tvg-name="Teve2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
 http://stream.tvcdn.net/eglence/teve2.m3u8
 #EXTINF:-1 group-title=TR tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+http://hw1.jemtv.com/app/360tv/playlist.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
 https://live.anystreamrectv3.live/live/ntv.m3u8
