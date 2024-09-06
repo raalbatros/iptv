@@ -4,7 +4,7 @@ http://62.210.88.161/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=TR tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 https://live.anystreamrectv3.live/live/kanald.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-http://116.202.238.88/ATV_TR/index.m3u8
+https://live.anystreamrectv3.live/live/atv1.m3u8
 #EXTINF:-1 group-title=TR tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ShowTV.tr"" tvg-name="Show TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
