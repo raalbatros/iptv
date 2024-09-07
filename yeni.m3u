@@ -23,7 +23,7 @@ http://stream.tvcdn.net/eglence/teve2.m3u8
 http://hw1.jemtv.com/app/360tv/playlist.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
-https://live.anystreamrectv3.live/live/ntv.m3u8
+http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Haberturk.tr" tvg-name="Haber Turk" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
 http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:-1 group-title=TR tvg-id="CNNTurk.tr" tvg-name="CNN Turk" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
@@ -33,7 +33,7 @@ http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:-1 group-title=TR tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" ,A HABER
 https://live.anystreamrectv3.live/live/ahaber.m3u8
 #EXTINF:-1 group-title=TR tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" ,BLOOMBERG HT
-http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
+http://hw1.jemtv.com/app/bloomberght/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="24.tr" tvg-name="24" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
 http://stream.tvcdn.net/haber/24-tv.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TVNET.tr" tvg-name="TVNET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
@@ -76,9 +76,9 @@ http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6286
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6287
 
 #EXTINF:-1 group-title=TR tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
-https://bozztv.com/gin-dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
+http://hw1.jemtv.com/app/trtspor/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TV85.tr" tvg-name="TV 85" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
-https://bozztv.com/gin-dvrfl05/gin-tv8_5/tracks-v1a1/mono.m3u8
+http://hw1.jemtv.com/app/tv85/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ASpor.tr" tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
 https://bozztv.com/gin-dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRTSporyildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
@@ -99,4 +99,4 @@ http://sstv1011.xyz:8080/kubifb/n97cCHn36S/452750
 #EXTINF:-1 group-title=TR tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://mt0811.xyz:8080/frht9488/VVYdYz8gSSuk/126272
 #EXTINF:-1 group-title=TR tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-http://162.212.179.32/gin-dvrfl05/gin-beinsportshaber/playlist.m3u8
+https://tayland.kesintisizmaclar11.site/hls/bein-sports-1.m3u8
