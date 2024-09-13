@@ -1,38 +1,72 @@
 #EXTM3U#
-EXTINF:0, indexhttps://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
-#EXTINF:0, fbtvhttps://live.anystreamrectv3.live/live/fbtv.m3u8
-#EXTINF:0, tivi3https://live.anystreamrectv3.live/live/tivi3.m3u8
-#EXTINF:0, euro2https://live.anystreamrectv3.live/live/euro2.m3u8
-#EXTINF:0, trtsporhttps://live.anystreamrectv3.live/live/trtspor.m3u8
-#EXTINF:0, masterhttps://trt.daioncdn.net/trtspor/master.m3u8
-#EXTINF:0, asporhttps://live.anystreamrectv3.live/live/aspor.m3u8
-#EXTINF:0, masterhttps://trt.daioncdn.net/trtspor-yildiz/master.m3u8
-#EXTINF:0, masterhttps://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:0, edgesporthttps://live.anystreamrectv3.live/live/edgesport.m3u8
-#EXTINF:0, tivi4https://live.anystreamrectv3.live/live/tivi4.m3u8
-#EXTINF:0, ssport2https://live.anystreamrectv3.live/live/ssport2.m3u8
-#EXTINF:0, nbatvhttps://live.anystreamrectv3.live/live/nbatv.m3u8
-#EXTINF:0, euro1https://live.anystreamrectv3.live/live/euro1.m3u8
-#EXTINF:0, tivi1https://live.anystreamrectv3.live/live/tivi1.m3u8
-#EXTINF:0, smart2https://live.anystreamrectv3.live/live/smart2.m3u8
-#EXTINF:0, tivi2https://live.anystreamrectv3.live/live/tivi2.m3u8
-#EXTINF:0, ssporthttps://live.anystreamrectv3.live/live/ssport.m3u8
-#EXTINF:0, smart1https://live.anystreamrectv3.live/live/smart1.m3u8
-#EXTINF:0, lovenaturehttps://live.anystreamrectv3.live/live/lovenature.m3u8
-#EXTINF:0, natgeohttps://live.anystreamrectv3.live/live/natgeo.m3u8
-#EXTINF:0, dmaxhttps://live.anystreamrectv3.live/live/dmax.m3u8
-#EXTINF:0, bbchttps://live.anystreamrectv3.live/live/bbc.m3u8
-#EXTINF:0, trtbelgeselhttps://live.anystreamrectv3.live/live/trtbelgesel.m3u8
-#EXTINF:0, habitathttps://live.anystreamrectv3.live/live/habitat.m3u8
-#EXTINF:0, discoveryhttps://live.anystreamrectv3.live/live/discovery.m3u8
-#EXTINF:0, tarihtvhttps://live.anystreamrectv3.live/live/tarihtv.m3u8
-#EXTINF:0, viasathistoryhttps://live.anystreamrectv3.live/live/viasathistory.m3u8
-#EXTINF:0, viasatexplorehttps://live.anystreamrectv3.live/live/viasatexplore.m3u8
-#EXTINF:0, natgeowildhttps://live.anystreamrectv3.live/live/natgeowild.m3u8
-#EXTINF:0, historyhttps://live.anystreamrectv3.live/live/history.m3u8
-#EXTINF:0, livehttps://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
-#EXTINF:0, discshttps://live.anystreamrectv3.live/live/discs.m3u8
-#EXTINF:0, docuboxhttps://live.anystreamrectv3.live/live/docubox.m3u8
+EXTINF:0, index
+https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0, fbtv
+https://live.anystreamrectv3.live/live/fbtv.m3u8
+#EXTINF:0, tivi3
+https://live.anystreamrectv3.live/live/tivi3.m3u8
+#EXTINF:0, euro2
+https://live.anystreamrectv3.live/live/euro2.m3u8
+#EXTINF:0, trtspor
+https://live.anystreamrectv3.live/live/trtspor.m3u8
+#EXTINF:0, master
+https://trt.daioncdn.net/trtspor/master.m3u8
+#EXTINF:0, aspor
+https://live.anystreamrectv3.live/live/aspor.m3u8
+#EXTINF:0, master
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8
+#EXTINF:0, master
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:0, edgespor
+thttps://live.anystreamrectv3.live/live/edgesport.m3u8
+#EXTINF:0, tivi4
+https://live.anystreamrectv3.live/live/tivi4.m3u8
+#EXTINF:0, ssport2
+https://live.anystreamrectv3.live/live/ssport2.m3u8
+#EXTINF:0, nbatv
+https://live.anystreamrectv3.live/live/nbatv.m3u8
+#EXTINF:0, euro1
+https://live.anystreamrectv3.live/live/euro1.m3u8
+#EXTINF:0, tivi1
+https://live.anystreamrectv3.live/live/tivi1.m3u8
+#EXTINF:0, smart2
+https://live.anystreamrectv3.live/live/smart2.m3u8
+#EXTINF:0, tivi2
+https://live.anystreamrectv3.live/live/tivi2.m3u8
+#EXTINF:0, ssport
+https://live.anystreamrectv3.live/live/ssport.m3u8
+#EXTINF:0, smart1
+https://live.anystreamrectv3.live/live/smart1.m3u8
+#EXTINF:0, lovenature
+https://live.anystreamrectv3.live/live/lovenature.m3u8
+#EXTINF:0, natgeo
+https://live.anystreamrectv3.live/live/natgeo.m3u8
+#EXTINF:0, dmax
+https://live.anystreamrectv3.live/live/dmax.m3u8
+#EXTINF:0, bbc
+https://live.anystreamrectv3.live/live/bbc.m3u8
+#EXTINF:0, trtbelgesel
+https://live.anystreamrectv3.live/live/trtbelgesel.m3u8
+#EXTINF:0, habitat
+https://live.anystreamrectv3.live/live/habitat.m3u8
+#EXTINF:0, discovery
+https://live.anystreamrectv3.live/live/discovery.m3u8
+#EXTINF:0, tarihtv
+https://live.anystreamrectv3.live/live/tarihtv.m3u8
+#EXTINF:0, viasathistory
+https://live.anystreamrectv3.live/live/viasathistory.m3u8
+#EXTINF:0, viasatexplore
+https://live.anystreamrectv3.live/live/viasatexplore.m3u8
+#EXTINF:0, natgeowild
+https://live.anystreamrectv3.live/live/natgeowild.m3u8
+#EXTINF:0, history
+https://live.anystreamrectv3.live/live/history.m3u8
+#EXTINF:0, live
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
+#EXTINF:0, discs
+https://live.anystreamrectv3.live/live/discs.m3u8
+#EXTINF:0, docubox
+https://live.anystreamrectv3.live/live/docubox.m3u8
 #EXTINF:0, foxtvhttps://live.anystreamrectv3.live/live/foxtv.m3u8
 #EXTINF:0, indexhttps://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0, livehttps://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
@@ -99,33 +133,62 @@ EXTINF:0, indexhttps://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/i
 #EXTINF:0, sinemahttps://live.anystreamrectv3.live/live/sinema.m3u8
 #EXTINF:0, bsaction1https://live.anystreamrectv3.live/live/bsaction1.m3u8
 #EXTINF:0, bsturkhttps://live.anystreamrectv3.live/live/bsturk.m3u8
-#EXTINF:0, kor1https://live.anystreamrectv3.live/live/kor1.m3u8
-#EXTINF:0, kor2https://live.anystreamrectv3.live/live/kor2.m3u8
-#EXTINF:0, sinema1001https://live.anystreamrectv3.live/live/sinema1001.m3u8
-#EXTINF:0, sinemaaksiyonhttps://live.anystreamrectv3.live/live/sinemaaksiyon.m3u8
-#EXTINF:0, sinemaaksiyon2https://live.anystreamrectv3.live/live/sinemaaksiyon2.m3u8
-#EXTINF:0, mix1https://live.anystreamrectv3.live/live/mix1.m3u8
-#EXTINF:0, mix2https://live.anystreamrectv3.live/live/mix2.m3u8
-#EXTINF:0, mix3https://live.anystreamrectv3.live/live/mix3.m3u8
-#EXTINF:0, mix4https://live.anystreamrectv3.live/live/mix4.m3u8
-#EXTINF:0, mix5https://live.anystreamrectv3.live/live/mix5.m3u8
-#EXTINF:0, bsfamilyhttps://live.anystreamrectv3.live/live/bsfamily.m3u8
-#EXTINF:0, aks1https://live.anystreamrectv3.live/live/aks1.m3u8
-#EXTINF:0, aks2https://live.anystreamrectv3.live/live/aks2.m3u8
-#EXTINF:0, aks3https://live.anystreamrectv3.live/live/aks3.m3u8
-#EXTINF:0, fxhttps://live.anystreamrectv3.live/live/fx.m3u8
-#EXTINF:0, epicdramahttps://live.anystreamrectv3.live/live/epicdrama.m3u8
-#EXTINF:0, ger1https://live.anystreamrectv3.live/live/ger1.m3u8
-#EXTINF:0, ger2https://live.anystreamrectv3.live/live/ger2.m3u8
-#EXTINF:0, sinema1002https://live.anystreamrectv3.live/live/sinema1002.m3u8
-#EXTINF:0, bil1https://live.anystreamrectv3.live/live/bil1.m3u8
-#EXTINF:0, bil2https://live.anystreamrectv3.live/live/bil2.m3u8
-#EXTINF:0, sinemakomedihttps://live.anystreamrectv3.live/live/sinemakomedi.m3u8
-#EXTINF:0, sinemakomedi2https://live.anystreamrectv3.live/live/sinemakomedi2.m3u8
-#EXTINF:0, disneyjuniorhttps://live.anystreamrectv3.live/live/disneyjunior.m3u8
-#EXTINF:0, indexhttps://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
-#EXTINF:0, cartoonnetworkhttps://live.anystreamrectv3.live/live/cartoonnetwork.m3u8
-#EXTINF:0, davincihttps://live.anystreamrectv3.live/live/davinci.m3u8
-#EXTINF:0, playlisthttps://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0, playlisthttps://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:0, kor1
+https://live.anystreamrectv3.live/live/kor1.m3u8
+#EXTINF:0, kor2
+https://live.anystreamrectv3.live/live/kor2.m3u8
+#EXTINF:0, sinema1001
+https://live.anystreamrectv3.live/live/sinema1001.m3u8
+#EXTINF:0, sinemaaksiyon
+https://live.anystreamrectv3.live/live/sinemaaksiyon.m3u8
+#EXTINF:0, sinemaaksiyon2
+https://live.anystreamrectv3.live/live/sinemaaksiyon2.m3u8
+#EXTINF:0, mix1
+https://live.anystreamrectv3.live/live/mix1.m3u8
+#EXTINF:0, mix2
+https://live.anystreamrectv3.live/live/mix2.m3u8
+#EXTINF:0, mix3
+https://live.anystreamrectv3.live/live/mix3.m3u8
+#EXTINF:0, mix4
+https://live.anystreamrectv3.live/live/mix4.m3u8
+#EXTINF:0, mix5
+https://live.anystreamrectv3.live/live/mix5.m3u8
+#EXTINF:0, bsfamily
+https://live.anystreamrectv3.live/live/bsfamily.m3u8
+#EXTINF:0, aks1
+https://live.anystreamrectv3.live/live/aks1.m3u8
+#EXTINF:0, aks2
+https://live.anystreamrectv3.live/live/aks2.m3u8
+#EXTINF:0, aks3
+https://live.anystreamrectv3.live/live/aks3.m3u8
+#EXTINF:0, fx
+https://live.anystreamrectv3.live/live/fx.m3u8
+#EXTINF:0, epicdrama
+https://live.anystreamrectv3.live/live/epicdrama.m3u8
+#EXTINF:0, ger1
+https://live.anystreamrectv3.live/live/ger1.m3u8
+#EXTINF:0, ger2
+https://live.anystreamrectv3.live/live/ger2.m3u8
+#EXTINF:0, sinema1002
+https://live.anystreamrectv3.live/live/sinema1002.m3u8
+#EXTINF:0, bil1
+https://live.anystreamrectv3.live/live/bil1.m3u8
+#EXTINF:0, bil2
+https://live.anystreamrectv3.live/live/bil2.m3u8
+#EXTINF:0, sinemakomedi
+https://live.anystreamrectv3.live/live/sinemakomedi.m3u8
+#EXTINF:0, sinemakomedi2
+https://live.anystreamrectv3.live/live/sinemakomedi2.m3u8
+#EXTINF:0, disneyjunior
+https://live.anystreamrectv3.live/live/disneyjunior.m3u8
+#EXTINF:0, index
+https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
+#EXTINF:0, cartoonnetwork
+https://live.anystreamrectv3.live/live/cartoonnetwork.m3u8
+#EXTINF:0, davinci
+https://live.anystreamrectv3.live/live/davinci.m3u8
+#EXTINF:0, playlist
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0, playlist
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
