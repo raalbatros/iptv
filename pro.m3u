@@ -67,72 +67,138 @@ https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
 https://live.anystreamrectv3.live/live/discs.m3u8
 #EXTINF:0, docubox
 https://live.anystreamrectv3.live/live/docubox.m3u8
-#EXTINF:0, foxtvhttps://live.anystreamrectv3.live/live/foxtv.m3u8
-#EXTINF:0, indexhttps://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:0, livehttps://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
-#EXTINF:0, indexhttps://kontv.blutv.com/blutv_kontv2/live_720p2000000kbps/index.m3u8
-#EXTINF:0, trtavazhttps://live.anystreamrectv3.live/live/trtavaz.m3u8
-#EXTINF:0, atv1https://live.anystreamrectv3.live/live/atv1.m3u8
-#EXTINF:0, showhttps://live.anystreamrectv3.live/live/show.m3u8
-#EXTINF:0, indexhttps://trtturk.blutv.com/blutv_trtturk2/live_720p2000000kbps/index.m3u8
-#EXTINF:0, indexhttps://ekoturk.blutv.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
-#EXTINF:0, masterhttp://65.108.239.207:8080/stream/tvplus/semerkandhd/master.m3u8
-#EXTINF:0, vavtvhttps://live.anystreamrectv3.live/live/vavtv.m3u8
-#EXTINF:0, aparahttps://live.anystreamrectv3.live/live/apara.m3u8
-#EXTINF:0, tv81https://live.anystreamrectv3.live/live/tv81.m3u8
-#EXTINF:0, livehttps://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
-#EXTINF:0, indexhttps://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:0, masterhttp://65.108.239.207:8080/stream/tvplus/tv4hd/master.m3u8
-#EXTINF:0, tvnethttps://live.anystreamrectv3.live/live/tvnet.m3u8
-#EXTINF:0, teve2https://live.anystreamrectv3.live/live/teve2.m3u8
-#EXTINF:0, tv85https://live.anystreamrectv3.live/live/tv85.m3u8
-#EXTINF:0, masterhttps://trt.daioncdn.net/trt-1/master.m3u8
-#EXTINF:0, trt1https://live.anystreamrectv3.live/live/trt1.m3u8
-#EXTINF:0, benguturkhttps://live.anystreamrectv3.live/live/benguturk.m3u8
-#EXTINF:0, startvhttps://live.anystreamrectv3.live/live/startv.m3u8
-#EXTINF:0, kanaldhttps://live.anystreamrectv3.live/live/kanald.m3u8
-#EXTINF:0, ntvhttps://live.anystreamrectv3.live/live/ntv.m3u8
-#EXTINF:0, master_720https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0, livehttps://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
-#EXTINF:0, indexhttps://tgrthaberdvr.blutv.com/blutv_tgrthaber2_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:0, indexhttps://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:0, indexhttps://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
-#EXTINF:0, cnnturkhttps://live.anystreamrectv3.live/live/cnnturk.m3u8
-#EXTINF:0, ahaberhttps://live.anystreamrectv3.live/live/ahaber.m3u8
-#EXTINF:0, indexhttps://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:0, livehttps://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
-#EXTINF:0, livehttps://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
-#EXTINF:0, livehttps://halktv.blutv.com/blutv_halktv_live/live.m3u8
-#EXTINF:0, powerturkhttps://live.anystreamrectv3.live/live/powerturk.m3u8
-#EXTINF:0, dreamturkhttps://live.anystreamrectv3.live/live/dreamturk.m3u8
-#EXTINF:0, nr1https://live.anystreamrectv3.live/live/nr1.m3u8
-#EXTINF:0, trtmuzikhttps://live.anystreamrectv3.live/live/trtmuzik.m3u8
-#EXTINF:0, nr1turkhttps://live.anystreamrectv3.live/live/nr1turk.m3u8
-#EXTINF:0, powerhttps://live.anystreamrectv3.live/live/power.m3u8
-#EXTINF:0, yer1https://live.anystreamrectv3.live/live/yer1.m3u8
-#EXTINF:0, yer2https://live.anystreamrectv3.live/live/yer2.m3u8
-#EXTINF:0, yer3https://live.anystreamrectv3.live/live/yer3.m3u8
-#EXTINF:0, yer4https://live.anystreamrectv3.live/live/yer4.m3u8
-#EXTINF:0, yer5https://live.anystreamrectv3.live/live/yer5.m3u8
-#EXTINF:0, warshttps://live.anystreamrectv3.live/live/wars.m3u8
-#EXTINF:0, box3https://live.anystreamrectv3.live/live/box3.m3u8
-#EXTINF:0, bsstarshttps://live.anystreamrectv3.live/live/bsstars.m3u8
-#EXTINF:0, sinemayerlihttps://live.anystreamrectv3.live/live/sinemayerli.m3u8
-#EXTINF:0, sinemayerli2https://live.anystreamrectv3.live/live/sinemayerli2.m3u8
-#EXTINF:0, anim1https://live.anystreamrectv3.live/live/anim1.m3u8
-#EXTINF:0, anim2https://live.anystreamrectv3.live/live/anim2.m3u8
-#EXTINF:0, anim3https://live.anystreamrectv3.live/live/anim3.m3u8
-#EXTINF:0, mvturkhttps://live.anystreamrectv3.live/live/mvturk.m3u8
-#EXTINF:0, sinemaailehttps://live.anystreamrectv3.live/live/sinemaaile.m3u8
-#EXTINF:0, sinemaaile2https://live.anystreamrectv3.live/live/sinemaaile2.m3u8
-#EXTINF:0, bspremier1https://live.anystreamrectv3.live/live/bspremier1.m3u8
-#EXTINF:0, kom1https://live.anystreamrectv3.live/live/kom1.m3u8
-#EXTINF:0, kom2https://live.anystreamrectv3.live/live/kom2.m3u8
-#EXTINF:0, kom3https://live.anystreamrectv3.live/live/kom3.m3u8
-#EXTINF:0, sinema2https://live.anystreamrectv3.live/live/sinema2.m3u8
-#EXTINF:0, sinemahttps://live.anystreamrectv3.live/live/sinema.m3u8
-#EXTINF:0, bsaction1https://live.anystreamrectv3.live/live/bsaction1.m3u8
-#EXTINF:0, bsturkhttps://live.anystreamrectv3.live/live/bsturk.m3u8
+#EXTINF:0, fox
+tvhttps://live.anystreamrectv3.live/live/foxtv.m3u8
+#EXTINF:0, index
+https://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0, live
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
+#EXTINF:0, index
+https://kontv.blutv.com/blutv_kontv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0, trtavaz
+https://live.anystreamrectv3.live/live/trtavaz.m3u8
+#EXTINF:0, atv1
+https://live.anystreamrectv3.live/live/atv1.m3u8
+#EXTINF:0, show
+https://live.anystreamrectv3.live/live/show.m3u8
+#EXTINF:0, index
+https://trtturk.blutv.com/blutv_trtturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:0, index
+https://ekoturk.blutv.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:0, master
+http://65.108.239.207:8080/stream/tvplus/semerkandhd/master.m3u8
+#EXTINF:0, vavtv
+https://live.anystreamrectv3.live/live/vavtv.m3u8
+#EXTINF:0, apara
+https://live.anystreamrectv3.live/live/apara.m3u8
+#EXTINF:0, tv81
+https://live.anystreamrectv3.live/live/tv81.m3u8
+#EXTINF:0, live
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
+#EXTINF:0, index
+https://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0, master
+http://65.108.239.207:8080/stream/tvplus/tv4hd/master.m3u8
+#EXTINF:0, tvnet
+https://live.anystreamrectv3.live/live/tvnet.m3u8
+#EXTINF:0, teve2
+https://live.anystreamrectv3.live/live/teve2.m3u8
+#EXTINF:0, tv85
+https://live.anystreamrectv3.live/live/tv85.m3u8
+#EXTINF:0, master
+https://trt.daioncdn.net/trt-1/master.m3u8
+#EXTINF:0, trt1
+https://live.anystreamrectv3.live/live/trt1.m3u8
+#EXTINF:0, benguturk
+https://live.anystreamrectv3.live/live/benguturk.m3u8
+#EXTINF:0, startv
+https://live.anystreamrectv3.live/live/startv.m3u8
+#EXTINF:0, kanald
+https://live.anystreamrectv3.live/live/kanald.m3u8
+#EXTINF:0, ntv
+https://live.anystreamrectv3.live/live/ntv.m3u8
+#EXTINF:0, master_720
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0, live
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
+#EXTINF:0, index
+https://tgrthaberdvr.blutv.com/blutv_tgrthaber2_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0, index
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0, index
+https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0, cnnturk
+https://live.anystreamrectv3.live/live/cnnturk.m3u8
+#EXTINF:0, ahaber
+https://live.anystreamrectv3.live/live/ahaber.m3u8
+#EXTINF:0, index
+https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0, live
+https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
+#EXTINF:0, live
+https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
+#EXTINF:0, live
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+#EXTINF:0, powerturk
+https://live.anystreamrectv3.live/live/powerturk.m3u8
+#EXTINF:0, dreamturk
+https://live.anystreamrectv3.live/live/dreamturk.m3u8
+#EXTINF:0, nr1
+https://live.anystreamrectv3.live/live/nr1.m3u8
+#EXTINF:0, trtmuzik
+https://live.anystreamrectv3.live/live/trtmuzik.m3u8
+#EXTINF:0, nr1turk
+https://live.anystreamrectv3.live/live/nr1turk.m3u8
+#EXTINF:0, power
+https://live.anystreamrectv3.live/live/power.m3u8
+#EXTINF:0, yer1
+https://live.anystreamrectv3.live/live/yer1.m3u8
+#EXTINF:0, yer2
+https://live.anystreamrectv3.live/live/yer2.m3u8
+#EXTINF:0, yer3
+https://live.anystreamrectv3.live/live/yer3.m3u8
+#EXTINF:0, yer4
+https://live.anystreamrectv3.live/live/yer4.m3u8
+#EXTINF:0, yer5
+https://live.anystreamrectv3.live/live/yer5.m3u8
+#EXTINF:0, wars
+https://live.anystreamrectv3.live/live/wars.m3u8
+#EXTINF:0, box3
+https://live.anystreamrectv3.live/live/box3.m3u8
+#EXTINF:0, bsstars
+https://live.anystreamrectv3.live/live/bsstars.m3u8
+#EXTINF:0, sinemayerli
+https://live.anystreamrectv3.live/live/sinemayerli.m3u8
+#EXTINF:0, sinemayerli2
+https://live.anystreamrectv3.live/live/sinemayerli2.m3u8
+#EXTINF:0, anim1
+https://live.anystreamrectv3.live/live/anim1.m3u8
+#EXTINF:0, anim2
+https://live.anystreamrectv3.live/live/anim2.m3u8
+#EXTINF:0, anim3
+https://live.anystreamrectv3.live/live/anim3.m3u8
+#EXTINF:0, mvturk
+https://live.anystreamrectv3.live/live/mvturk.m3u8
+#EXTINF:0, sinemaaile
+https://live.anystreamrectv3.live/live/sinemaaile.m3u8
+#EXTINF:0, sinemaaile2
+https://live.anystreamrectv3.live/live/sinemaaile2.m3u8
+#EXTINF:0, bspremier1
+https://live.anystreamrectv3.live/live/bspremier1.m3u8
+#EXTINF:0, kom1
+https://live.anystreamrectv3.live/live/kom1.m3u8
+#EXTINF:0, kom2
+https://live.anystreamrectv3.live/live/kom2.m3u8
+#EXTINF:0, kom3
+https://live.anystreamrectv3.live/live/kom3.m3u8
+#EXTINF:0, sinema2
+https://live.anystreamrectv3.live/live/sinema2.m3u8
+#EXTINF:0, sinema
+https://live.anystreamrectv3.live/live/sinema.m3u8
+#EXTINF:0, bsaction1
+https://live.anystreamrectv3.live/live/bsaction1.m3u8
+#EXTINF:0, bsturk
+https://live.anystreamrectv3.live/live/bsturk.m3u8
 #EXTINF:0, kor1
 https://live.anystreamrectv3.live/live/kor1.m3u8
 #EXTINF:0, kor2
