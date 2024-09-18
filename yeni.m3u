@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
 #EXTINF:-1 group-title=TR tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-http://dtv21.org:8080/live/sou0casa0dreamsat/0bGSP4bYgc0/196784.ts
+https://izle.livev.xyz/trt1/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
@@ -39,7 +39,7 @@ http://stream.tvcdn.net/haber/24-tv.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TVNET.tr" tvg-name="TVNET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
 http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TGRthaber.tr" tvg-name="TGRT HABER" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
-http://116.202.238.88/TRTHABER_TR/index.m3u8
+https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="sinevizyon.tr" tvg-name="SINEVIZYON" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEVIZYON
 http://bozztv.com/gin-trn09/gt-sinevizyon-1/index.m3u8
