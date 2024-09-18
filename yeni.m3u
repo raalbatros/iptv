@@ -10,7 +10,7 @@ http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ShowTV.tr"" tvg-name="Show TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
 http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Fox.tr" tvg-name="Now" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
-http://dtv21.org:8080/live/sou0casa0dreamsat/0bGSP4bYgc0/196790.ts
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 group-title=TR tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 http://hw1.jemtv.com/app/beyaz/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
@@ -27,7 +27,7 @@ http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Haberturk.tr" tvg-name="Haber Turk" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
 http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:-1 group-title=TR tvg-id="CNNTurk.tr" tvg-name="CNN Turk" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
-https://yayin2.canlitv.fun/livetv/cnnturk.stream/chunklist_w331898881.m3u8
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
 http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:-1 group-title=TR tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" ,A HABER
