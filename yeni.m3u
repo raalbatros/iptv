@@ -45,21 +45,8 @@ https://canli.tgrthaber.com/tgrt.m3u8
 http://stream.tvcdn.net/diger-eglence/sinema-tv-1.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Sinematv2.tr" tvg-name="Sinema Tv 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 2
 http://stream.tvcdn.net/diger-eglence/sinema-tv-2.m3u8
-
 #EXTINF:-1 group-title=TR tvg-id="a2tv.tr" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
-#EXTINF:-1 group-title=TR tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" ,TRT 2
-http://stream.tvcdn.net/eglence/trt-2.m3u8
-#EXTINF:-1 group-title=TR tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" ,TRT BELGESEL
-http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-#EXTINF:-1 group-title=TR tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" ,DMAX
-http://stream.tvcdn.net/eglence/dmax.m3u8
-#EXTINF:-1 group-title=TR tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" ,TLC
-http://stream.tvcdn.net/eglence/tlc.m3u8
-#EXTINF:-1 group-title=TR tvg-id="NatGeo.tr" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6286
-#EXTINF:-1 group-title=TR tvg-id="NatGeoWild.tr" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" ,NATIONAL GEOGRAPHIC WILD
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6287
 
 #EXTINF:-1 group-title=TR tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
