@@ -45,6 +45,10 @@ https://canli.tgrthaber.com/tgrt.m3u8
 http://stream.tvcdn.net/diger-eglence/sinema-tv-1.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Sinematv2.tr" tvg-name="Sinema Tv 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 2
 http://stream.tvcdn.net/diger-eglence/sinema-tv-2.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Superturk.tr" tvg-name="Superturk" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SUPERTURK
+http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Superturkmax.tr" tvg-name="Superturk Max" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SUPERTURK MAX
+http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
 #EXTINF:-1 group-title=TR tvg-id="a2tv.tr" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
 
