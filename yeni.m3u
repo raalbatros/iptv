@@ -47,16 +47,6 @@ http://bozztv.com/gin-trn09/gt-sinevizyon-1/index.m3u8
 http://bozztv.com/gin-trn09/gt-sinevizyon-2/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="movie.tr" tvg-name="MOVIE" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,MOVIE
 http://bozztv.com/gin-trn09/gt-sinevizyon-3/index.m3u8
-#EXTINF:-1 group-title=TR tvg-id="Sinemayerli.tr" tvg-name="SINEMA YERLI" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA YERLI
-http://dtv21.org:8080/live/sou0casa0dreamsat/0bGSP4bYgc0/10707.ts
-#EXTINF:-1 group-title=TR tvg-id="Sinemayerli2.tr" tvg-name="SINEMA YERLI 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA YERLI 2
-http://sstv1011.xyz:8080/kubifb/n97cCHn36S/123920
-#EXTINF:-1 group-title=TR tvg-id="Sinema1001.tr" tvg-name="Sinema Tv 1001" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1001
-http://dtv21.org:8080/live/sou0casa0dreamsat/0bGSP4bYgc0/10767.ts
-#EXTINF:-1 group-title=TR tvg-id="Sinema1002.tr" tvg-name="Sinema Tv 1002" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA 1002
-http://dtv21.org:8080/live/sou0casa0dreamsat/0bGSP4bYgc0/10769.ts
-#EXTINF:-1 group-title=TR tvg-id="Sinemaaile.tr" tvg-name="Sinema Tv Aile" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA AILE
-http://dtv21.org:8080/live/sou0casa0dreamsat/0bGSP4bYgc0/10705.ts
 #EXTINF:-1 group-title=TR tvg-id="Sinematv1.tr" tvg-name="Sinema Tv 1" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1
 http://stream.tvcdn.net/diger-eglence/sinema-tv-1.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Sinematv2.tr" tvg-name="Sinema Tv 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 2
