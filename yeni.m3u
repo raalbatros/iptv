@@ -41,12 +41,6 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TGRthaber.tr" tvg-name="TGRT HABER" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 group-title=TR tvg-id="sinevizyon.tr" tvg-name="SINEVIZYON" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEVIZYON
-http://bozztv.com/gin-trn09/gt-sinevizyon-1/index.m3u8
-#EXTINF:-1 group-title=TR tvg-id="realbox.tr" tvg-name="REALBOX" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,REALBOX
-http://bozztv.com/gin-trn09/gt-sinevizyon-2/index.m3u8
-#EXTINF:-1 group-title=TR tvg-id="movie.tr" tvg-name="MOVIE" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,MOVIE
-http://bozztv.com/gin-trn09/gt-sinevizyon-3/index.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Sinematv1.tr" tvg-name="Sinema Tv 1" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1
 http://stream.tvcdn.net/diger-eglence/sinema-tv-1.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Sinematv2.tr" tvg-name="Sinema Tv 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 2
