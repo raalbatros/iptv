@@ -18,7 +18,7 @@ http://hw1.jemtv.com/app/tv8/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
 http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Teve2.tr" tvg-name="Teve2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
-http://hw1.jemtv.com/app/teve2/chunks.m3u8
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 group-title=TR tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
 http://hw1.jemtv.com/app/360tv/playlist.m3u8
 
