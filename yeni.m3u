@@ -70,7 +70,7 @@ http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6287
 #EXTINF:-1 group-title=TR tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TV85.tr" tvg-name="TV 85" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
-https://live.anystreamrectv3.live/live/tv85.m3u8
+http://hw1.jemtv.com/app/tv85/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ASpor.tr" tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
 http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRTSporyildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
