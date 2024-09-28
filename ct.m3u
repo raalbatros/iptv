@@ -1,0 +1,694 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/kanal-7.png",Kanal 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-7-canli-yayin-izle
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/star-tv-canli-hd-izle.png",Star Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/startvcanli-yayin
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/show-tv-canli-yayin-hd.png",Show Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/showtv-canli
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/beyaz-tv.png",Beyaz Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/beyaz-tv
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/saban-tv.png",Şaban Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/saban-tv
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/euro-star.png",Euro Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/euro-star-canli
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/tgrt-eu.png",TGRT EU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tgrt-eu
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/show-turk.png",Show Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/show-turk-canli
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/trt-kurdi.png",TRT Kürdi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trtkurdi-canli
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/kanal-b.png",Kanal B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-b-canli
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/trt-turk.png",TRT Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trtturk-canli
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/trt-avaz.png",TRT Avaz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trtavaz-canli
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/ucankus-tv.png",Uçankuş Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ucankus-tv
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/show-max.png",Show Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/show-max-canli
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/tvem.png",TvEM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tvem
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/dugun-tv.png",Düğün Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/dugun-tv
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/trt-2.png",TRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trt2canlihd
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/tvo-izle.png",TVO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tvo-izle
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/kanal-7-avrupa.png",Kanal 7 Avrupa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-7-avrupa-canli
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/kanal-avrupa.png",Kanal Avrupa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-avrupa
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/yol-tv.png",Yol Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/yol-tv
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/cine1-canli.png",Cine1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/cine1-canli
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://tv.canlitv.vip/poster/cnbce-canli.png",CNBC-e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/cnbce-canli
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/flash-tv.png",Flash Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/flash-tv
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/sozcu-tv-canli.png",Sözcü Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/sozcu-tv-canli
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/trt-haber.png",TRT Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trthaber-canli
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/halk-tv.png",Halk Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/halk-tv-canli
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/a-haber-izle-13.png",A Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/a-haber-canli
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/haberturk-canli-hd.png",Habertürk Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/haberturk-canli-hd
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/haber-global.png",Haber Global
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/haber-global
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/tele1.png",Tele1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tele1-canli
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/kanal24.png",Kanal 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-24-canli
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/tgrt-haber.png",TGRT Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tgrthaber-canli
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/tv100.png",TV100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tv100
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/ulusal-kanal.png",Ulusal Kanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ulusal-kanal
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/bloomberght.png",Bloomberg HT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/bloomberg-ht-canli-hd-izle
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/ekoturk-tv.png",EkoTürk Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ekoturk-tv
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/krt-tv.png",KRT Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/krt-tv
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/tbmm-tv.png",Meclis Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/meclis-tv-canli
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/tv-360.png",Tv 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tv-360
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/benguturk-tv.png",Bengütürk Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/benguturk-tv
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/ibb-tv.png",İbb Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ibb-tv
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/ulke-tv.png",Ülke Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ulke-tv-canli
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/a-para.png",A Para
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/a-para-canli
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/tvnet.png",TVNET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tvnet
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/akit-tv.png",Akit Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/akit-tv
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/a-news-canli-yayin.png",A News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/a-news
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/bbn-turk-tv.png",BBN Türk TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/bbn-turk-tv
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/turkhaber-tv.png",Türk Haber TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/turkhaber-tv
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/tv-5.png",TV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tv5-canli
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/uzay-haber.png",Uzay Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/uzay-haber
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/cadde-tv.png",Cadde Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/cadde-tv
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/lider-haber-canli.png",Lider Haber Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/lider-haber-canli
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/mek-tv.png",Mek Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/mek-tv
+#EXTINF:-1 group-title="Haber" tvg-logo="https://tv.canlitv.vip/poster/world-turk-canli.png",World Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/world-turk-canli
+#EXTINF:-1 group-title="Spor" tvg-logo="https://tv.canlitv.vip/poster/trtspor-canli.png",TRT Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trtsporcanli-hd
+#EXTINF:-1 group-title="Spor" tvg-logo="https://tv.canlitv.vip/poster/bein-sports-haber.png",Bein Sports Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/beinsports-haber
+#EXTINF:-1 group-title="Spor" tvg-logo="https://tv.canlitv.vip/poster/trt-spor-yildiz.png",TRT Spor Yıldız
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trtsporyildiz-canlii
+#EXTINF:-1 group-title="Spor" tvg-logo="https://tv.canlitv.vip/poster/gs-tv.png",GS Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/gs-tv
+#EXTINF:-1 group-title="Spor" tvg-logo="https://tv.canlitv.vip/poster/fb-tv.png",FB Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/fb-tv
+#EXTINF:-1 group-title="Spor" tvg-logo="https://tv.canlitv.vip/poster/sports-tv.png",Sports Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/sports-tv
+#EXTINF:-1 group-title="Spor" tvg-logo="https://tv.canlitv.vip/poster/tivibu-spor.png",Tivibu Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tivibusporcanli
+#EXTINF:-1 group-title="Spor" tvg-logo="https://tv.canlitv.vip/poster/s-sport.png",S Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ssportcanli
+#EXTINF:-1 group-title="Spor" tvg-logo="https://tv.canlitv.vip/poster/s-sport-2-canli.png",S Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/s-sport-2-canli
+#EXTINF:-1 group-title="Spor" tvg-logo="https://tv.canlitv.vip/poster/ht-spor-canli.png",HT Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ht-spor-canli
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://tv.canlitv.vip/poster/vatan-tv.png",Vatan Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/vatan-tv
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://tv.canlitv.vip/poster/trt-muzik.png",TRT Müzik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trtmuzik-canli
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://tv.canlitv.vip/poster/power-turk-tv.png",Power Türk Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/power-turk-tv
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://tv.canlitv.vip/poster/power-tv.png",Power Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/power-tv
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://tv.canlitv.vip/poster/number-one-turk-tv.png",Number One Türk Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/number-one-turk-tv
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://tv.canlitv.vip/poster/slow-karadeniz-tv.png",Slow Karadeniz Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/slow-karadeniz-tv
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://tv.canlitv.vip/poster/milyon-tv.png",Milyon Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/milyon-tv
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://tv.canlitv.vip/poster/dream-tv.png",Dream Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/dream-tv
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://tv.canlitv.vip/poster/tatlises-tv.png",Tatlıses TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tatlises-tv
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://tv.canlitv.vip/poster/tempo-tv.png",Tempo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tempo-tv
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://tv.canlitv.vip/poster/yildiz-en-tv.png",Yıldız EN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/yildiz-en-tv
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://tv.canlitv.vip/poster/cartoon-network.png",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/cartoon-network
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://tv.canlitv.vip/poster/minika-cocuk.png",Minika Çocuk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/minika-cocuk-16
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://tv.canlitv.vip/poster/minika-go.png",Minika Go
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/minika-go-canli
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://tv.canlitv.vip/poster/trt-cocuk.png",TRT Çocuk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trtcocuk-canli
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://tv.canlitv.vip/poster/disney-channel.png",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/disneychannelcanli
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://tv.canlitv.vip/poster/tv4.png",Tv4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tv4
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://tv.canlitv.vip/poster/trt-diyanet-cocuk.png",TRT Diyanet Çocuk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trtdiyanetcocuk
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/meltem-tv.png",Meltem Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/meltem-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/semerkand-tv.png",Semerkand Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/semerkand-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/dost-tv.png",Dost Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/dost-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/trt-diyanet.png",Diyanet Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/diyanet-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/medine-tv.png",Medine Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/medine-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/hilal-tv.png",Hilal Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/hilal-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/lalegul-tv.png",Lalegül TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/lalegul-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/mesaj-tv.png",Mesaj Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/mesaj-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/gonca-tv.png",Gonca Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/gonca-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/fm-tv.png",FM Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/fm-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/on4-tv.png",On4 Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/on4-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/yasin-tv.png",Yasin Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/yasin-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/berat-tv.png",Berat TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/berat-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/kanal-12.png",Kanal 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-12
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/kudus-tv.png",Kudüs TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kudus-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/rehber-tv.png",Rehber TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/rehber-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/sat-7-turk.png",Sat-7 Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/sat-7-turk
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/vav-tv.png",Vav TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/vav-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/yesilyol-tv.png",Yeşilyol Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/yesilyol-tv
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/sam-tv-canli.png",Sam Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/sam-tv-canli
+#EXTINF:-1 group-title="Dini" tvg-logo="https://tv.canlitv.vip/poster/ikra-tv-canli.png",İkra Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ikra-tv-canli
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://tv.canlitv.vip/poster/trt-belgesel.png",TRT Belgesel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trtbelgesel-canli
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://tv.canlitv.vip/poster/akilli-tv.png",Akıllı Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/akilli-tv
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://tv.canlitv.vip/poster/tgrt-belgesel.png",TGRT Belgesel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tgrt-belgesel
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://tv.canlitv.vip/poster/bizimev-tv.png",Bizimev Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/bizimev-tv
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://tv.canlitv.vip/poster/koy-tv.png",Köy Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/koy-tv
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://tv.canlitv.vip/poster/yaban-tv.png",Yaban Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/yaban-tv
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://tv.canlitv.vip/poster/av-tv.png",Av Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/av-tv
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://tv.canlitv.vip/poster/ciftci-tv.png",Çiftçi Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ciftci-tv
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://tv.canlitv.vip/poster/toprak-tv.png",Toprak Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/toprak-tv
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://tv.canlitv.vip/poster/agro-tv.png",Agro Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/agro-tv
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://tv.canlitv.vip/poster/habitat-tv.png",Habitat TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/habitat-tv
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://tv.canlitv.vip/poster/tarim-tv.png",Tarım TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tarim-tv
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://tv.canlitv.vip/poster/tarim-turk-tv.png",Tarım Türk TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tarim-turk-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-42.png",Kanal 42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-42
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kon-tv.png",Kon Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kon-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kocaeli-tv.png",Kocaeli Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kocaeli-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-v.png",Kanal V
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-v
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/bursa-tv.png",Bursa Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/bursa-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/gaziantep-olay-tv.png",Gaziantep Olay Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/gaziantep-olay-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal26.png",Kanal 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal26
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-3.png",Kanal 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-3
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-68.png",Kanal 68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-68
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/tv1.png",TV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tv1-izle
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/tv-52.png",Tv52
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tv-52
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/karabuk-brt-tv.png",BRT Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/karabuk-brt-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/sivas-srt.png",Sivas SRT Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/sivas-srt
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/ton-tv.png",Ton Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ton-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-urfa.png",Kanal Urfa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-urfa
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/anadolu-tv.png",Anadolu Dernek Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/anadolu-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-firat.png",Kanal Fırat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-firat
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/tv-kayseri.png",TV Kayseri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tv-kayseri
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/rumeli-tv.png",Rumeli Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/rumeli-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/aksu-tv.png",Aksu Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/aksu-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/edessa-tv.png",Edessa Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/edessa-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-43.png",Kanal 43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-43
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/hrt-tv.png",HRT Akdeniz Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/hrt-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/line-tv.png",Line Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/line-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/guneydogu-tv.png",Güneydoğu Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/guneydogu-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kadirga-tv.png",Kadırga Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kadirga-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kardelen-tv.png",Kardelen Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kardelen-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/ert-sah-tv.png",ERT Şah Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ert-sah-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/diyar-tv.png",Diyar Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/diyar-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-32.png",Kanal 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-32
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/yasam-tv.png",Yaşam Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/yasam-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-ege.png",Kanal Ege
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-ege
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/altas-tv.png",Altaş TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/altas-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/art-tv-amasya.png",ART TV Amasya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/art-tv-amasya
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/as-tv.png",AS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/as-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/bitlis-tv.png",Bitlis TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/bitlis-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/cay-tv.png",Çay TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/cay-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/deha-tv.png",Deha TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/deha-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/drt-tv-denizli.png",DRT TV Denizli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/drt-tv-denizli
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/ege-turk-tv.png",Ege Türk TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ege-turk-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/ege-tv.png",Ege TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ege-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/es-tv.png",ES TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/es-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/icel-tv.png",İçel TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/icel-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-15.png",Kanal 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-15
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-19.png",Kanal 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-19
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-23.png",Kanal 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-23
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-33.png",Kanal 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-33
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kanal-34.png",Kanal 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-34
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/kent-turk-tv.png",Kent Türk TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kent-turk-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/koza-tv.png",Koza TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/koza-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/malatya-er-tv.png",Malatya ER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/malatya-er-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/manisa-tv.png",Manisa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/manisa-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/mavi-karadeniz-tv.png",Mavi Karadeniz TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/mavi-karadeniz-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/mercan-tv.png",Mercan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/mercan-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/merkez-tv.png",Merkez TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/merkez-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/pamukkale-tv.png",Pamukkale TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/pamukkale-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/sun-rtv.png",Sun RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/sun-rtv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/super-tv-tokat.png",Süper TV Tokat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/super-tv-tokat
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/tv-264.png",TV 264
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tv-264
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/tv-35.png",TV 35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tv-35
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/tv-41.png",TV 41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tv-41
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/tv-a.png",TV A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tv-a
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/tvden.png",tvDEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tvden
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/vizyon-58.png",Vizyon 58
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/vizyon-58
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/vuslat-tv.png",Vuslat TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/vuslat-tv
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/konya-olay-tv-canli.png",Konya Olay Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/konya-olay-tv-canli
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/aksaray-art-tv-canli.png",Aksaray ART Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/aksaray-art-tv-canli
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/trakya-turk-canli.png",Trakya Türk Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trakya-turk-canli
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://tv.canlitv.vip/poster/bir-tv-canli.png",Bir Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/bir-tv-canli
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://tv.canlitv.vip/poster/trt-arapca.png",TRT Arapça
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trtarapca-canli
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://tv.canlitv.vip/poster/rudaw-tv.png",Rüdaw Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/rudaw-tv
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://tv.canlitv.vip/poster/trt-world.png",TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/trtworldcanli
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://tv.canlitv.vip/poster/1-tv-georgia.png",1 TV Georgia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/1-tv-georgia
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://tv.canlitv.vip/poster/al-jazeera-arabic.png",Al Jazeera Arabic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/al-jazeera-arabic
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://tv.canlitv.vip/poster/al-jazeera-english.png",Al Jazeera English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/al-jazeera-english
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://tv.canlitv.vip/poster/ala-too-24.png",Ala Too 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ala-too-24
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://tv.canlitv.vip/poster/iran-international.png",İran International 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/iran-international
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://tv.canlitv.vip/poster/f1-tv-canli.png",F1 Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/f1-tv-canli
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/az-tv.png",Az Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/az-tv-canli
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/xezer-tv.png",Xezer Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/xezer-tv
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/atv-azad-tv.png",ATV Azad Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/atv-azad-tv
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/space-tv.png",Space Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/space-tv
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/muz-tv.png",Muz Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/muz-tv
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/medeniyet-tv.png",Medeniyet Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/medeniyet-tv
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/lider-tv.png",Lider Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/lider-tv
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/dalga-tv.png",Dalga Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/dalga-tv
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/arb-tv.png",ARB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/arb-tv-canli
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/arb-24-tv.png",ARB 24 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/arb-24-tv
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/cbc-az-tv.png",CBC AZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/cbc-az-tv
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/dunya-tv.png",Dünya TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/dunya-tv
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/real-tv.png",Real TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/real-tv
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/aznews-tv.png",Aznews Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/aznews-tv
+#EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://tv.canlitv.vip/poster/sehiyye-tv.png",Sehiyye Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/sehiyye-tv
+#EXTINF:-1 group-title="Kapanan" tvg-logo="https://tv.canlitv.vip/poster/tek-rumeli-tv.png",Tek Rumeli Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tek-rumeli-tv
+#EXTINF:-1 group-title="Kapanan" tvg-logo="https://tv.canlitv.vip/poster/ekin-tv.png",Ekin Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ekin-tv
+#EXTINF:-1 group-title="Kapanan" tvg-logo="https://tv.canlitv.vip/poster/halk-tv-euro.png",Halk Tv Euro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/halk-tv-euro-3
+#EXTINF:-1 group-title="Kapanan" tvg-logo="https://tv.canlitv.vip/poster/kidz-animez.png",Kidz Animez
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kidz-animez
+#EXTINF:-1 group-title="Kapanan" tvg-logo="https://tv.canlitv.vip/poster/makine-tv.png",Makine Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/makine-tv
+#EXTINF:-1 group-title="KKTC" tvg-logo="https://tv.canlitv.vip/poster/kanal-t.png",Kanal T
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kanal-t
+#EXTINF:-1 group-title="KKTC" tvg-logo="https://tv.canlitv.vip/poster/brt-3.png",brt 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/brt-3
+#EXTINF:-1 group-title="KKTC" tvg-logo="https://tv.canlitv.vip/poster/brt-2.png",brt 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/brt-2
+#EXTINF:-1 group-title="KKTC" tvg-logo="https://tv.canlitv.vip/poster/ada-tv.png",Ada TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/ada-tv
+#EXTINF:-1 group-title="KKTC" tvg-logo="https://tv.canlitv.vip/poster/brt-1-tv.png",BRT 1 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/brt-1-tv
+#EXTINF:-1 group-title="KKTC" tvg-logo="https://tv.canlitv.vip/poster/gunes-tv.png",Güneş TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/gunes-tv
+#EXTINF:-1 group-title="KKTC" tvg-logo="https://tv.canlitv.vip/poster/kibris-genc-tv.png",Kıbrıs Genç TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kibris-genc-tv
+#EXTINF:-1 group-title="KKTC" tvg-logo="https://tv.canlitv.vip/poster/kibris-tv.png",Kıbrıs TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/kibris-tv
+#EXTINF:-1 group-title="KKTC" tvg-logo="https://tv.canlitv.vip/poster/sim-tv.png",Sim TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/sim-tv
+#EXTINF:-1 group-title="KKTC" tvg-logo="https://tv.canlitv.vip/poster/tv-2020.png",TV 2020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/tv-2020
+#EXTINF:-1 group-title="TRT Eba Tv" tvg-logo="https://tv.canlitv.vip/poster/eba-tv-ilkokul.png",TRT Eba Tv İlkokul
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/eba-tv-ilkokul
+#EXTINF:-1 group-title="TRT Eba Tv" tvg-logo="https://tv.canlitv.vip/poster/eba-tv-ortaokul.png",TRT Eba Tv Ortaokul
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/eba-tv-ortaokul
+#EXTINF:-1 group-title="TRT Eba Tv" tvg-logo="https://tv.canlitv.vip/poster/eba-tv-lise.png",TRT Eba Tv Lise
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/eba-tv-lise
+#EXTINF:-1 group-title="Diger" tvg-logo="https://tv.canlitv.vip/poster/beykent-tv.png",Beykent TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/beykent-tv
+#EXTINF:-1 group-title="Diger" tvg-logo="https://tv.canlitv.vip/poster/turkmeneli-tv.png",Türkmeneli TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/turkmeneli-tv
+#EXTINF:-1 group-title="Diger" tvg-logo="https://tv.canlitv.vip/poster/universite-tv.png",Üniversite TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raalbatros.serv00.net/canlitvvip.php?url=https://tv.canlitv.vip/universite-tv
