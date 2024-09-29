@@ -1,25 +1,87 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml,https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/germanypremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
-
-#EXTINF:-1 group-title=TR tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
-group-title=TR tvg-id="KANAL D HD" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-http://hw1.jemtv.com/app/KanalD/playlist.m3u8
-group-title=TR tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
-group-title=TR tvg-id="STAR TV" tvg-name="STAR" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
-http://hw1.jemtv.com/app/StarTV/playlist.m3u8
-group-title=TR tvg-id="SHOW TV" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
-http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
-#EXTINF:-1 group-title=TR tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
-https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
-#EXTINF:-1 group-title=TR tvg-id="BEYAZ TV" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
-https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
-group-title=TR tvg-id="TV8" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
-http://hw1.jemtv.com/app/tv8/playlist.m3u8
-#EXTINF:-1 group-title=TR tvg-id="KANAL 7 HD" tvg-name="KANAL 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
-https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
-group-title=TR tvg-id="Teve2.tr" tvg-name="TEVE2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
-http://stream.tvcdn.net/eglence/teve2.m3u8
-#EXTINF:-1 group-title=TR tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
-https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8
-
+[CODE]#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Ahaber =》60saat
+http://162.212.179.32/gin-dvrfl05/gin-ahaber/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Aspor =》60saat
+http://162.212.179.32/gin-dvrfl05/gin-aspor/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Atv =》60saat
+http://162.212.179.32/gin-trn09/gin-atvv/index-1727283600-220000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",AtvEu =》60saat
+http://162.212.179.32/gin-dvrfl05/gin-atvavrupa/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Bshaber =》60saat
+http://162.212.179.32/gin-dvrfl05/gin-beinsportshaber/index-1727297762-140000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Cnn =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-cnnturk/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Flash =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-flashtv/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Fox =》60saat
+http://162.212.179.32/gin-trn09/gin-turkfoxtv/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Habertürk =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-haberturk/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Halktv =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-halktv/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",HG =》60saat
+http://162.212.179.32/gin-36bay3/gt-haberglobal/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Kanal7 =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-kanal7/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",KanalD =》60saat
+http://162.212.179.32/gin-36bay4/gt-kanald-2/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",KanalDEu =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-eurod/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",KralPop =》60saat
+index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",MaviKaradeniz =》60saat
+http://162.212.179.32/gin-36bay3/gt-mavikaradeniz/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Ntv =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-ntvtv/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Pwrtrk =》60saat
+http://162.212.179.32/gin-dvrfl05/gin-powerturk/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Showtürk =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-showtvturk/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Showtv =》60saat
+http://162.212.179.32/gin-trn09/gin-showtv/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Sinema1 =》60saat
+http://162.212.179.32/gin-trn09/gt-sinevizyon-1/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Sinema2 =》60saat
+http://162.212.179.32/gin-trn09/gt-sinevizyon-2/index-1727297762-140000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Sinema3 =》60saat
+http://162.212.179.32/gin-trn09/gt-sinevizyon-3/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Sinema4 =》60saat
+http://162.212.179.32/gin-trn09/gt-yesilcam-tv1/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Sinema5 =》60saat
+http://162.212.179.32/gin-trn09/gt-yesilcam-tv2/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Star =》60saat
+http://162.212.179.32/gin-trn09/gin-startv/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Tele1 =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-tele1/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",TgrtBelgesel =》60saat
+http://162.212.179.32/gin-dvrfl05/gin-tgrtbelgesel/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",TgrtEu =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-tgrteu/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",TgrtHaber =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-tgrthaber/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Trt1 =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-trt1eu/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Trt2 =》60saat
+http://162.212.179.32/gin-36bay3/gt-trt2/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",TrtBelgesel =》60saat
+http://162.212.179.32/gin-dvrfl05/gin-trtbelgesel/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",TrtHaber =》60saat
+http://162.212.179.32/gin-dvrfl05/gin-trthaber/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",TrtSpor =》60saat
+http://162.212.179.32/gin-dvrfl05/gin-trtspor/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",TrtSpor2 =》60saat
+http://162.212.179.32/gin-dvrfl05/gin-trtspor2/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",TrtSpor3 =》60saat
+http://162.212.179.32/gin-dvrfl05/gin-trtspor3/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",TrtTürk =》60saat
+http://162.212.179.32/gin-dvrfl05/gin-trtturk/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Tv2 =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-tv2tv/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Tv8 =》60saat
+http://162.212.179.32/gin-36bay4/gt-tv8tv-3/index-1727395200-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Tv100 =》 60saat
+http://162.212.179.32/trn03/gin-tv100turk/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",Ülketv =》 60saat
+http://162.212.179.32/gin-dvrfl05/gt-ulketv/index-1727283600-220300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Dvr Türkiye",360 =》 60saat
+http://162.212.179.32/gin-dvrfl05/gin-sky360/index-1727283600-220300.m3u8[/CODE]
