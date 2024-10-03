@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
 #EXTINF:-1 group-title=TR tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-http://92app.xyz:8080/live/denizli2020kadir@gmail.com/55081754/2192.ts
+http://cotun.xyz:8080/live/tgr1696/tg00/358053.ts
 #EXTINF:-1 group-title=TR tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
@@ -53,7 +53,7 @@ http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
 http://stream.tvcdn.net/eglence/a2.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
-http://92app.xyz:8080/live/denizli2020kadir@gmail.com/55081754/183.ts
+http://cotun.xyz:8080/live/tgr1696/tg00/6109.ts
 #EXTINF:-1 group-title=TR tvg-id="TV85.tr" tvg-name="TV 85" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
 http://hw1.jemtv.com/app/tv85/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ASpor.tr" tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
