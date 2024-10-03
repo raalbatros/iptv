@@ -1,0 +1,48 @@
+#EXTINF:-1,A2_TR
+http://65.21.85.175:8000/play/a00f/index.m3u8?token=livetv
+#EXTINF:-1,365
+http://65.21.85.175:8000/play/a00e/index.m3u8?token=livetv
+#EXTINF:-1,Bein Sports 1 HD
+http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+#EXTINF:-1,Bein Sports 2 HD
+http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
+#EXTINF:-1,Bein Sports 3 HD
+http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
+#EXTINF:-1,Bein Sports 4 HD
+http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
+#EXTINF:-1,Bein Sports Haber
+http://65.21.85.175:8000/play/a033/index.m3u8?token=livetv
+#EXTINF:-1,Beyaz
+http://65.21.85.175:8000/play/a021/index.m3u8?token=livetv
+#EXTINF:-1,CARTOON NETWORK
+http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+#EXTINF:-1,Discovery TR
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+#EXTINF:-1,DÄ°ZÄ° PREMIUM HD TR
+http://65.21.85.175:8000/play/a02j/index.m3u8?token=livetv
+#EXTINF:-1,DÄ°ZÄ°SMART MAX HD TR
+http://65.21.85.175:8000/play/a02l/index.m3u8?token=livetv
+#EXTINF:-1,Haber Global
+http://65.21.85.175:8000/play/a025/index.m3u8?token=livetv
+#EXTINF:-1,History
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:-1,SHOW MAX
+http://65.21.85.175:8000/play/a02d/index.m3u8?token=livetv
+#EXTINF:-1,Sinema Aile
+http://65.21.85.175:8000/play/a01v/index.m3u8?token=livetv
+#EXTINF:-1,Sinema Aile - 2
+http://65.21.85.175:8000/play/a01w/index.m3u8?token=livetv
+#EXTINF:-1,Sinema Aile -3
+http://65.21.85.175:8000/play/a01x/index.m3u8?token=livetv
+#EXTINF:-1,Sinema Aksion
+http://65.21.85.175:8000/play/a01y/index.m3u8?token=livetv
+#EXTINF:-1,Sinema TR
+http://65.21.85.175:8000/play/a02i/index.m3u8?token=livetv
+#EXTINF:-1,Sinema komedi
+http://65.21.85.175:8000/play/a01z/index.m3u8?token=livetv
+#EXTINF:-1,TMB AZ
+http://65.21.85.175:8000/play/a02o/index.m3u8?token=livetv
+#EXTINF:-1,TRT-1
+http://65.21.85.175:8000/play/a02k/index.m3u8?token=livetv
+#EXTINF:-1,TV-4
+http://65.21.85.175:8000/play/a022/index.m3u8?token=livetv
