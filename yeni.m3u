@@ -59,7 +59,7 @@ http://hw1.jemtv.com/app/tv85/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ASpor.tr" tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
 http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TRTSporyildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
-http://162.212.179.32/gin-dvrfl05/gin-trtspor2/playlist.m3u8
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TIVIBUSPOR 1" tvg-name="TIVIBUSPOR 1" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
 http://sstv1011.xyz:8080/kubifb/n97cCHn36S/6102
 #EXTINF:-1 group-title=TR tvg-id="TIVIBUSPOR 2" tvg-name="TIVIBUSPOR 2" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
