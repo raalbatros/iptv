@@ -42,15 +42,15 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="Sinematv1.tr" tvg-name="Sinema Tv 1" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1
-http://stream.tvcdn.net/diger-eglence/sinema-tv-1.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT1/chunklist_w1062008132.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Sinematv2.tr" tvg-name="Sinema Tv 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 2
-http://stream.tvcdn.net/diger-eglence/sinema-tv-2.m3u8
-#EXTINF:-1 group-title=TR tvg-id="Superturk.tr" tvg-name="Superturk" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SUPERTURK
-http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
-#EXTINF:-1 group-title=TR tvg-id="Superturkmax.tr" tvg-name="Superturk Max" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SUPERTURK MAX
-http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_2/chunklist_w897275783.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Superturk.tr" tvg-name="Sinema Tv 3" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 3
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT3/chunklist_w849353384.m3u8
+#EXTINF:-1 group-title=TR tvg-id="Superturkmax.tr" tvg-name="Sinema Tv 4" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 4
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT3/chunklist_w849353384.m3u8
 #EXTINF:-1 group-title=TR tvg-id="a2tv.tr" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
-http://stream.tvcdn.net/eglence/a2.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w693852459.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://sstv1011.xyz:8080/live/kubifb/n97cCHn36S/6109.ts
