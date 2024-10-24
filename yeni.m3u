@@ -10,7 +10,7 @@ http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ShowTV.tr"" tvg-name="Show TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ,SHOW TV
 http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="Fox.tr" tvg-name="Now" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
+http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 http://hw1.jemtv.com/app/beyaz/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
