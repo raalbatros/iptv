@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
 #EXTINF:-1 group-title=TR tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=57534&extension=m3u8
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=57535&extension=ts&play_token=duSOCg5VvU&sn2=062014N076273
 #EXTINF:-1 group-title=TR tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 #EXTINF:-1 group-title=TR tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
