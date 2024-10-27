@@ -51,6 +51,8 @@ http://mt0811.xyz:8080/live/nrby8767/bycn.1303/452849.ts
 http://mt0811.xyz:8080/live/nrby8767/bycn.1303/452852.ts
 #EXTINF:-1 group-title=TR tvg-id="a2tv.tr" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
+#EXTINF:-1 group-title=TR tvg-id="TRT4k.tr" tvg-name="TRT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/TRT-4K.jpg" ,TRT 4K
+https://trn03.tulix.tv/gt-trt4k/index.m3u8
 
 #EXTINF:-1 group-title=TR tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://mt0811.xyz:8080/live/nrby8767/bycn.1303/6109.ts
