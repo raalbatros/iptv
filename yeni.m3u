@@ -42,7 +42,7 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-id="Sinematv1.tr" tvg-name="Sinema Tv 1" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1
-http://65.21.85.175:8000/play/a01v/index.m3u8?token=livetv
+https://koprulu.global.ssl.fastly.net/1967516305.m3u8
 #EXTINF:-1 tvg-id="Sinematv2.tr" tvg-name="Sinema Tv 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 2
 https://koprulu.global.ssl.fastly.net/3531727990.m3u8
 #EXTINF:-1 tvg-id="Superturk.tr" tvg-name="Sinema Tv 3" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 3
