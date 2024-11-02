@@ -48,7 +48,7 @@ http://65.21.85.175:8000/play/a01y/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="Superturk.tr" tvg-name="Sinema Tv 3" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 3
 http://65.21.85.175:8000/play/a02i/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="Superturkmax.tr" tvg-name="Sinema Tv 4" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 4
-https://live-hz-6.livepush.io/live/emOgcO-lXLBJcAV1O/chunks.m3u8
+https://koprulu.global.ssl.fastly.net/1566323467.m3u8
 #EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-id="TRT4k.tr" tvg-name="TRT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/TRT-4K.jpg" ,TRT 4K
