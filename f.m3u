@@ -1,3 +1,6 @@
 #EXTM3U
-#EXTINF:0, Bein Sport 1
+#EXTINF:0, Bein Sport 720pFeeD
 http://192.168.0.111:8080/Rokkr.php?ID=22330664333caa81af60f4
+#EXTINF:0, Bein Sport Ozel Yayin
+http://192.168.0.111:8080/Rokkr.php?ID=145369231423771b595289
+
