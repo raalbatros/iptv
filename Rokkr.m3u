@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,4K TR: ATV HD |D
-https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/Rokkr.php?ID=232526128694327d240c9f
+http://localhost:8080/Rokkr.php?ID=232526128694327d240c9f
 #EXTINF:0,4K TR: A SPOR HD |D
 http://localhost/Rokkr.php?ID=1771137539496e523ffb8e
 #EXTINF:0,4K TR: KRT TV |D
