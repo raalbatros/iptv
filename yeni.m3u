@@ -75,9 +75,9 @@ https://lives.anystreamrectv3.live/live/ssport2.m3u8?token=livetv
 #EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN 1
 https://koprulu34.serv00.net/vavoorewrite.m3u8/?id=1091403912
 
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-https://koprulu.global.ssl.fastly.net/499485497.m3u8
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-https://koprulu.global.ssl.fastly.net/2233066433.m3u8
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-https://koprulu.global.ssl.fastly.net/662179620.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 abg
+http://abgfnx59.xyz:8080/live/mlh0240/mlh.90/456568.ts
+#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 mtt
+http://mt0811.xyz:8080/live/nrby8767/bycn.1303/456568.ts
+#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 sstv
+http://sstv1011.xyz:8080/live/kubifb/n97cCHn36S/456568.ts
