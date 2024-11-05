@@ -55,7 +55,7 @@ http://stream.tvcdn.net/eglence/a2.m3u8
 https://trn03.tulix.tv/gt-trt4k/index.m3u8
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
-https://helga.iptv2022.com/sh/trt_spor/tracks-v4a1/mono.m3u8
+https://trn03.tulix.tv/gt-trtspor1/index.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 85" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
 http://hw1.jemtv.com/app/tv85/playlist.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
