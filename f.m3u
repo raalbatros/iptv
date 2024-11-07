@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Trt 1
+http://192.168.0.111:8080/Rokkr.php?ID=30598377920516adb8412a
+#EXTINF:-1, Trt Spor
+http://192.168.0.111:8080/Rokkr.php?ID=2262969938a0a803706a13
 #EXTINF:-1, Bein Sport 720pFeeD
 http://192.168.0.111:8080/Rokkr.php?ID=22330664333caa81af60f4
 #EXTINF:-1, Bein Sport Ozel Yayin
@@ -11,9 +15,5 @@ http://192.168.0.111:8080/Rokkr.php?ID=211346239843ddede8fabc
 http://192.168.0.111:8080/Rokkr.php?ID=2123273598f3ea83219516
 #EXTINF:-1, SSport2
 http://192.168.0.111:8080/Rokkr.php?ID=9369082749f6a86f850c1
-#EXTINF:-1, Trt 1
-http://192.168.0.111:8080/Rokkr.php?ID=30598377920516adb8412a
-#EXTINF:-1, Trt Spor
-http://192.168.0.111:8080/Rokkr.php?ID=2262969938a0a803706a13
 #EXTINF:-1, Trt Spor Yıldız
 http://192.168.0.111:8080/Rokkr.php?ID=114501523f58e3a4b8ddd
