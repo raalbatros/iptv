@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 TRT 1
+https://koprulu.global.ssl.fastly.net/2041026135.m3u8
+#EXTINF:-1 TRT SPOR
+https://koprulu.global.ssl.fastly.net/2114335424.m3u8
+#EXTINF:-1 BEIN SPORTS 1 
+https://koprulu.global.ssl.fastly.net/300113394.m3u8
+#EXTINF:-1 BEIN SPORTS 1 HD
+https://koprulu.global.ssl.fastly.net/593493860.m3u8
+#EXTINF:-1 BEIN SPORTS 1 4K
+https://koprulu.global.ssl.fastly.net/1536730627.m3u8
+#EXTINF:-1 BEIN SPORTS 1 720p
+https://koprulu.global.ssl.fastly.net/2233066433.m3u8
+#EXTINF:-1 SSPORT 1
+https://koprulu.global.ssl.fastly.net/3346549722.m3u8
+#EXTINF:-1 SSPORT 2
+https://koprulu.global.ssl.fastly.net/1313768516.m3u8
+
