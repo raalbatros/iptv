@@ -1,289 +1,287 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png", Bein Sports 1
-https://tv.anystreamrectv21.xyz/live/bs1/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png", Bein Sports 1
-https://tv.anystreamrectv21.xyz/live/bs11/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png", Bein Sports 1
+#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Spor", Bein Sports 1
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bs1/index
+#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Spor", Bein Sports 1
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bs11/index
+#EXTINF:-1 tvg-id="148" tvg-name="Bein Sports 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png" group-title="Spor", Bein Sports 2
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bs2/index
+#EXTINF:-1 tvg-id="148" tvg-name="Bein Sports 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png" group-title="Spor", Bein Sports 2
 https://heylink.me/yenihaberler/
-#EXTINF:-1 tvg-id="148" tvg-name="Bein Sports 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png", Bein Sports 2
-https://tv.anystreamrectv21.xyz/live/bs2/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="148" tvg-name="Bein Sports 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png", Bein Sports 2
+#EXTINF:-1 tvg-id="147" tvg-name="Bein Sports 3" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png" group-title="Spor", Bein Sports 3
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bs3/index
+#EXTINF:-1 tvg-id="147" tvg-name="Bein Sports 3" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png" group-title="Spor", Bein Sports 3
 https://heylink.me/yenihaberler/
-#EXTINF:-1 tvg-id="147" tvg-name="Bein Sports 3" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png", Bein Sports 3
-https://tv.anystreamrectv21.xyz/live/bs3/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="147" tvg-name="Bein Sports 3" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png", Bein Sports 3
+#EXTINF:-1 tvg-id="146" tvg-name="Bein Sports 4" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/2ff145f33c044ec8e7e11fdde18aa844.png" group-title="Spor", Bein Sports 4
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bs4/index
+#EXTINF:-1 tvg-id="146" tvg-name="Bein Sports 4" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/2ff145f33c044ec8e7e11fdde18aa844.png" group-title="Spor", Bein Sports 4
 https://heylink.me/yenihaberler/
-#EXTINF:-1 tvg-id="146" tvg-name="Bein Sports 4" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/2ff145f33c044ec8e7e11fdde18aa844.png", Bein Sports 4
-https://tv.anystreamrectv21.xyz/live/bs4/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="146" tvg-name="Bein Sports 4" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/2ff145f33c044ec8e7e11fdde18aa844.png", Bein Sports 4
+#EXTINF:-1 tvg-id="145" tvg-name="Bein Sports 5" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/abff4cbc62b84597225b664e0e9c64f1.png" group-title="Spor", Bein Sports 5
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bs5/index
+#EXTINF:-1 tvg-id="145" tvg-name="Bein Sports 5" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/abff4cbc62b84597225b664e0e9c64f1.png" group-title="Spor", Bein Sports 5
 https://heylink.me/yenihaberler/
-#EXTINF:-1 tvg-id="145" tvg-name="Bein Sports 5" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/abff4cbc62b84597225b664e0e9c64f1.png", Bein Sports 5
-https://tv.anystreamrectv21.xyz/live/bs5/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="145" tvg-name="Bein Sports 5" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/abff4cbc62b84597225b664e0e9c64f1.png", Bein Sports 5
+#EXTINF:-1 tvg-id="144" tvg-name="Bein Sports Max 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/45e029fab41029ba5aa986cf157ab30e.png" group-title="Spor", Bein Sports Max 1
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bsmax1/index
+#EXTINF:-1 tvg-id="144" tvg-name="Bein Sports Max 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/45e029fab41029ba5aa986cf157ab30e.png" group-title="Spor", Bein Sports Max 1
 https://heylink.me/yenihaberler/
-#EXTINF:-1 tvg-id="144" tvg-name="Bein Sports Max 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/45e029fab41029ba5aa986cf157ab30e.png", Bein Sports Max 1
-https://tv.anystreamrectv21.xyz/live/bsmax1/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="144" tvg-name="Bein Sports Max 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/45e029fab41029ba5aa986cf157ab30e.png", Bein Sports Max 1
+#EXTINF:-1 tvg-id="142" tvg-name="Bein Sports Max 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/e0de03768014baae665e79af69d5198f.png" group-title="Spor", Bein Sports Max 2
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bsmax2/index
+#EXTINF:-1 tvg-id="142" tvg-name="Bein Sports Max 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/e0de03768014baae665e79af69d5198f.png" group-title="Spor", Bein Sports Max 2
 https://heylink.me/yenihaberler/
-#EXTINF:-1 tvg-id="142" tvg-name="Bein Sports Max 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/e0de03768014baae665e79af69d5198f.png", Bein Sports Max 2
-https://tv.anystreamrectv21.xyz/live/bsmax2/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="142" tvg-name="Bein Sports Max 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/e0de03768014baae665e79af69d5198f.png", Bein Sports Max 2
-https://heylink.me/yenihaberler/
-#EXTINF:-1 tvg-id="141" tvg-name="S SPORT 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg", S SPORT 1
-https://tv.anystreamrectv21.xyz/live/ss1/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="140" tvg-name="S SPORT 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/46e2f65ec582fdbc8edfd01899eca2a1.jpg", S SPORT 2
-https://lives.anystreamrectv3.live/live/ssport2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="139" tvg-name="Spor Smart 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png", Spor Smart 1
-https://lives.anystreamrectv3.live/live/smart1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="138" tvg-name="Spor Smart 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png", Spor Smart 2
-https://lives.anystreamrectv3.live/live/smart2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="137" tvg-name="Euro Sport 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/f40c9c2ad62bd4e3ff87d5859ea2bb54.jpg", Euro Sport 1
-https://lives.anystreamrectv3.live/live/euro1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="135" tvg-name="Euro Sport 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/8802d4e354a9ca77d6aa3bbd8362e3e8.png", Euro Sport 2
-https://lives.anystreamrectv3.live/live/euro2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="134" tvg-name="Tivibu Spor 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/e0837009bbe1e595a7c7364aa45d02f7.jpg", Tivibu Spor 1
-https://lives.anystreamrectv3.live/live/tivi1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="133" tvg-name="Tivibu Spor 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/8c23cd76a1f7c2b12ab4e757b45ca87f.jpg", Tivibu Spor 2
-https://lives.anystreamrectv3.live/live/tivi2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="132" tvg-name="Tivibu Spor 3" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/2dd58a06227ac0410461a0be92123f12.jpg", Tivibu Spor 3
-https://lives.anystreamrectv3.live/live/tivi3.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="131" tvg-name="Trt Spor HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/c9aa0ea0e7cf2e4ec3523352f7dfd8ff.jpg", Trt Spor HD
-https://lives.anystreamrectv3.live/live/trtspor.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="131" tvg-name="Trt Spor HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/c9aa0ea0e7cf2e4ec3523352f7dfd8ff.jpg", Trt Spor HD
-https://trt.daioncdn.net/trtspor/master.m3u8?app=web&?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="130" tvg-name="A Spor HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg", A Spor HD
-https://lives.anystreamrectv3.live/live/aspor.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="129" tvg-name="GS TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/155c62b2d55c69b9abbb2d9867adc1b8.jpg", GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="128" tvg-name="FB TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/56c7f2499a5ba8bab88be9cebaedd6be.jpg", FB TV
-https://lives.anystreamrectv3.live/live/fbtv.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="127" tvg-name="Nba TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/7b8b88c5d436a3cdecf4facb78342019.jpg", Nba TV
-https://lives.anystreamrectv3.live/live/nbatv.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="122" tvg-name="Sports TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/d3fa136e0548a46e2b55393a00a93296.jpg", Sports TV
-https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="114" tvg-name="TRT 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg", TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="114" tvg-name="TRT 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg", TRT 1
-https://lives.anystreamrectv3.live/live/trt1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="113" tvg-name="STAR TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/9077322c9860d2cd30e3f5cc3d46d56d.jpg", STAR TV
-https://lives.anystreamrectv3.live/live/startv.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="112" tvg-name="KANAL D" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/7c5c8e0ca5549732e5ceda6fcc62748d.jpg", KANAL D
-https://lives.anystreamrectv3.live/live/kanald.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="111" tvg-name="SHOW TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/93eebff893a76defd8ab61fdb69943c3.jpg", SHOW TV
-https://lives.anystreamrectv3.live/live/show.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="110" tvg-name="ATV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg", ATV
-https://lives.anystreamrectv3.live/live/atv1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="109" tvg-name="TV 8 HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/33204f43b374b3d0b662a80afa712518.jpg", TV 8 HD
-https://lives.anystreamrectv3.live/live/tv81.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="108" tvg-name="TV 8.5" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/48ec74f19b2e7707d89f70ace71eae1c.jpg", TV 8.5
-https://lives.anystreamrectv3.live/live/tv85.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="107" tvg-name="FOX TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/50824b68e8d4a1377f0d6ed9242d68d7.jpg", FOX TV
-https://lives.anystreamrectv3.live/live/foxtv.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="106" tvg-name="KANAL 7" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/9ebd243aafd11f7e8bd8409e04a13860.jpg", KANAL 7
-https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="105" tvg-name="BEYAZ TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f52aae2d29699a04cf4209cbe7367996.png", BEYAZ TV
-https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="103" tvg-name="TEVE 2 HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/2cf916833b3c64448b36830d2b238685.png", TEVE 2 HD
-https://lives.anystreamrectv3.live/live/teve2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="102" tvg-name="TRT HABER HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/d066e7368bc1ea6388e912650ec7354c.png", TRT HABER HD
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="101" tvg-name="HABER TURK HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/8cc654161cccc4a0b183615672809444.jpg", HABER TURK HD
-https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="100" tvg-name="A HABER HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/dc748243e0ce52f5315946c0f26f50fe.jpg", A HABER HD
-https://lives.anystreamrectv3.live/live/ahaber.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="99" tvg-name="CNN TURK HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/59310b5017a91855a65fd3993f085710.jpg", CNN TURK HD
-https://lives.anystreamrectv3.live/live/cnnturk.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="98" tvg-name="NTV HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/fc2233de54eddcc4b38e07e8eedb8446.jpg", NTV HD
-https://lives.anystreamrectv3.live/live/ntv.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="97" tvg-name="24 HABER HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/a7ee2263901d79464e2249d0b23217cf.jpg", 24 HABER HD
-https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="96" tvg-name="BLOOMBERG HT HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/fe34ebd140199c087be663e2c57ceb2f.jpg", BLOOMBERG HT HD
-https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="95" tvg-name="HALK TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/ba872632eff716bff680517fd72de5fd.jpg", HALK TV
-https://halktv.blutv.com/blutv_halktv_live/live.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="94" tvg-name="HABER GLOBAL" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/aa5d0e853efaf9070117c772c4db6358.jpg", HABER GLOBAL
-https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="93" tvg-name="TGRT HABER HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/fb4488783f29ccc9b6873395f6c001bd.jpg", TGRT HABER HD
-https://tgrthaberdvr.blutv.com/blutv_tgrthaber2_dvr/live_720p2000000kbps/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="91" tvg-name="ÜLKE TV HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/f308a739f78540555d8b8819f785eb4f.jpg", ÜLKE TV HD
-https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="89" tvg-name="NATIONAL GEO HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg", NATIONAL GEO HD
-https://lives.anystreamrectv3.live/live/natgeo.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="88" tvg-name="NATIONAL GEO WILD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/ae18d42e87a266954420b315bb23c749.jpg", NATIONAL GEO WILD
-https://lives.anystreamrectv3.live/live/natgeowild.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="87" tvg-name="HISTORY CHANNEL" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png", HISTORY CHANNEL
-https://lives.anystreamrectv3.live/live/history.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="86" tvg-name="BBC EARTH HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/9ed6faa15f968198d17c0362658f6b50.jpg", BBC EARTH HD
-https://lives.anystreamrectv3.live/live/bbc.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="85" tvg-name="TARİH TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png", TARİH TV
-https://lives.anystreamrectv3.live/live/tarihtv.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="84" tvg-name="Docubox" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/d90ba2bcb80b997800fbe4824f1d71c6.png", Docubox
-https://lives.anystreamrectv3.live/live/docubox.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="83" tvg-name="TLC" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/08cd8548f90ea341ac8bf315ec5ab4f9.jpg", TLC
-https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="81" tvg-name="DMAX HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/8c8f9b27a338d4b5713098251d9f5284.png", DMAX HD
-https://lives.anystreamrectv3.live/live/dmax.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="79" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/45a6752ed9a833b4d0303885092b8f54.png", DISCOVERY CHANNEL
-https://lives.anystreamrectv3.live/live/discovery.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="78" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/a83bf94e67fe34718d644ed9da8ca82d.png", DISCOVERY SCIENCE
-https://lives.anystreamrectv3.live/live/discs.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="77" tvg-name="TRT BELGESEL HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/cee1ae3bfe067fe869b8e20c0272938b.jpg", TRT BELGESEL HD
-https://lives.anystreamrectv3.live/live/trtbelgesel.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="76" tvg-name="BS ACTION 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/1883f1dfa1e69b6788849eaab4b1f8e7.png", BS ACTION 1
-https://lives.anystreamrectv3.live/live/bsaction1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="75" tvg-name="BS ACTION 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/eea767085468cec01d76212c696d1095.png", BS ACTION 2
-https://lives.anystreamrectv3.live/live/box3.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="74" tvg-name="BS FAMILY" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/a2f7541d9a7a2947275ba3b3d3b6cb47.png", BS FAMILY
-https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="73" tvg-name="FX Kanalı" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/8fd173c2cc744c90bc96ba5627b0d816.jpg", FX Kanalı
-https://lives.anystreamrectv3.live/live/fx.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="72" tvg-name="BS STARS" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/45d92ce49a65dd1e9823a55694fe2a7e.png", BS STARS
-https://lives.anystreamrectv3.live/live/bsstars.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="71" tvg-name="BS PREMIER" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/05607925151ae07d26cdf2c93b99e006.png", BS PREMIER
-https://lives.anystreamrectv3.live/live/bspremier1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="70" tvg-name="BS TURK" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/ebf8df7479a4ddd3c970c19490c2873f.png", BS TURK
-https://lives.anystreamrectv3.live/live/bsturk.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="67" tvg-name="Moviesmart Turk" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg", Moviesmart Turk
-https://lives.anystreamrectv3.live/live/mvturk.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="65" tvg-name="Epic Drama" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/18ed99225ff7be6e86ae21ba473f1a72.png", Epic Drama
-https://lives.anystreamrectv3.live/live/epicdrama.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="61" tvg-name="Sinema TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/40b261b65aeef4696661f2b497c55c89.png", Sinema TV
-https://lives.anystreamrectv3.live/live/sinema.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="60" tvg-name="Sinema TV 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/389d982cb693a94e1c6aae2ee5e34594.png", Sinema TV 2
-https://lives.anystreamrectv3.live/live/sinema2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="59" tvg-name="Sinema TV Aksiyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png", Sinema TV Aksiyon
-https://lives.anystreamrectv3.live/live/sinemaaksiyon.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="59" tvg-name="Sinema TV Aksiyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png", Sinema TV Aksiyon
-https://lives.anystreamrectv3.live/live/sinemaaksiyon2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="57" tvg-name="Sinema TV Komedi" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png", Sinema TV Komedi
-https://lives.anystreamrectv3.live/live/sinemakomedi.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="57" tvg-name="Sinema TV Komedi" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png", Sinema TV Komedi
-https://lives.anystreamrectv3.live/live/sinemakomedi2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="56" tvg-name="Sinema TV Yerli" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png", Sinema TV Yerli
-https://lives.anystreamrectv3.live/live/sinemayerli.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="56" tvg-name="Sinema TV Yerli" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png", Sinema TV Yerli
-https://lives.anystreamrectv3.live/live/sinemayerli2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="55" tvg-name="Sinema TV Aile" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png", Sinema TV Aile
-https://lives.anystreamrectv3.live/live/sinemaaile.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="55" tvg-name="Sinema TV Aile" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png", Sinema TV Aile
-https://lives.anystreamrectv3.live/live/sinemaaile2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="53" tvg-name="Sinema TV 1001" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/8c31ff828bc07a09eb52fb8312f23abb.png", Sinema TV 1001
-https://lives.anystreamrectv3.live/live/sinema1001.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="52" tvg-name="Sinema TV 1002" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/96603c9e4ba10ae864380f670e210cf0.png", Sinema TV 1002
-https://lives.anystreamrectv3.live/live/sinema1002.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="51" tvg-name="DREAM TÜRK TV HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/9756196c45fab27cf682ca813c12ceee.png", DREAM TÜRK TV HD
-https://lives.anystreamrectv3.live/live/dreamturk.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="50" tvg-name="TRT MUZIK HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/08508325378853b59bcb51a2451cb872.jpg", TRT MUZIK HD
-https://lives.anystreamrectv3.live/live/trtmuzik.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="49" tvg-name="POWER TURK HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/3817afb79e408b0a106a2c1c51281de9.jpg", POWER TURK HD
-https://lives.anystreamrectv3.live/live/powerturk.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="48" tvg-name="POWER TV HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/8610a3cb93710691265a4b50e76bf57d.jpg", POWER TV HD
-https://lives.anystreamrectv3.live/live/power.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="47" tvg-name="NR1 TURK HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/6a1816b24244ae99036e04ea13af3663.jpg", NR1 TURK HD
-https://lives.anystreamrectv3.live/live/nr1turk.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="46" tvg-name="Number 1 HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/7160f6b2568df0a9d1da11f02c1f866b.jpg", Number 1 HD
-https://lives.anystreamrectv3.live/live/nr1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="45" tvg-name="Sinema Mix" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cb8f8d4dabb5a2012e8bdd372b58f742.png", Sinema Mix
-https://lives.anystreamrectv3.live/live/mix1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="45" tvg-name="Sinema Mix" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cb8f8d4dabb5a2012e8bdd372b58f742.png", Sinema Mix
-https://lives.anystreamrectv3.live/live/mix2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="45" tvg-name="Sinema Mix" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cb8f8d4dabb5a2012e8bdd372b58f742.png", Sinema Mix
-https://lives.anystreamrectv3.live/live/mix3.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="45" tvg-name="Sinema Mix" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cb8f8d4dabb5a2012e8bdd372b58f742.png", Sinema Mix
-https://lives.anystreamrectv3.live/live/mix4.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="45" tvg-name="Sinema Mix" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cb8f8d4dabb5a2012e8bdd372b58f742.png", Sinema Mix
-https://lives.anystreamrectv3.live/live/mix5.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="44" tvg-name="Sinema Aksiyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/a79bce3220cae9212725457751044afc.png", Sinema Aksiyon
-https://lives.anystreamrectv3.live/live/aks1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="44" tvg-name="Sinema Aksiyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/a79bce3220cae9212725457751044afc.png", Sinema Aksiyon
-https://lives.anystreamrectv3.live/live/aks2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="44" tvg-name="Sinema Aksiyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/a79bce3220cae9212725457751044afc.png", Sinema Aksiyon
-https://lives.anystreamrectv3.live/live/aks3.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="43" tvg-name="Sinema Animasyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/d154cf1561a13d9be7a2b52ab89c0ea2.png", Sinema Animasyon
-https://lives.anystreamrectv3.live/live/anim1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="43" tvg-name="Sinema Animasyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/d154cf1561a13d9be7a2b52ab89c0ea2.png", Sinema Animasyon
-https://lives.anystreamrectv3.live/live/anim2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="43" tvg-name="Sinema Animasyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/d154cf1561a13d9be7a2b52ab89c0ea2.png", Sinema Animasyon
-https://lives.anystreamrectv3.live/live/anim3.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="42" tvg-name="Sinema Komedi" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/50f6731521a2b2056779a0b0ab5e265d.png", Sinema Komedi
-https://lives.anystreamrectv3.live/live/kom1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="42" tvg-name="Sinema Komedi" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/50f6731521a2b2056779a0b0ab5e265d.png", Sinema Komedi
-https://lives.anystreamrectv3.live/live/kom2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="42" tvg-name="Sinema Komedi" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/50f6731521a2b2056779a0b0ab5e265d.png", Sinema Komedi
-https://lives.anystreamrectv3.live/live/kom3.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="41" tvg-name="Sinema Korku" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/4cfa101adf435dcda3edc4ddfd67254e.png", Sinema Korku
-https://lives.anystreamrectv3.live/live/kor1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="41" tvg-name="Sinema Korku" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/4cfa101adf435dcda3edc4ddfd67254e.png", Sinema Korku
-https://lives.anystreamrectv3.live/live/kor2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="40" tvg-name="Sinema Gerilim" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/467c34febd72661dc04c193a2cf163a2.png", Sinema Gerilim
-https://lives.anystreamrectv3.live/live/ger1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="40" tvg-name="Sinema Gerilim" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/467c34febd72661dc04c193a2cf163a2.png", Sinema Gerilim
-https://lives.anystreamrectv3.live/live/ger2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="39" tvg-name="Sinema Bilim Kurgu" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/de7c4cb5b781e00bf77564f544f35d81.png", Sinema Bilim Kurgu
-https://lives.anystreamrectv3.live/live/bil1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="39" tvg-name="Sinema Bilim Kurgu" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/de7c4cb5b781e00bf77564f544f35d81.png", Sinema Bilim Kurgu
-https://lives.anystreamrectv3.live/live/bil2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="38" tvg-name="Sinema Türk" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f176cde7201da3934de1d8614147024e.png", Sinema Türk
-https://lives.anystreamrectv3.live/live/yer1.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="38" tvg-name="Sinema Türk" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f176cde7201da3934de1d8614147024e.png", Sinema Türk
-https://lives.anystreamrectv3.live/live/yer2.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="38" tvg-name="Sinema Türk" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f176cde7201da3934de1d8614147024e.png", Sinema Türk
-https://lives.anystreamrectv3.live/live/yer3.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="38" tvg-name="Sinema Türk" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f176cde7201da3934de1d8614147024e.png", Sinema Türk
-https://lives.anystreamrectv3.live/live/yer4.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="38" tvg-name="Sinema Türk" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f176cde7201da3934de1d8614147024e.png", Sinema Türk
-https://lives.anystreamrectv3.live/live/yer5.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="37" tvg-name="Sinema Star Wars" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/a2848d9808537233943902e2879c9c60.png", Sinema Star Wars
-https://lives.anystreamrectv3.live/live/wars.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="36" tvg-name="CARTON NETWORK" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/1a8262974a202c19d6543b82335e39de.jpg", CARTON NETWORK
-https://lives.anystreamrectv3.live/live/cartoonnetwork.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="35" tvg-name="Nickelodeon HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/4a6d8c2049dd4c014cd443a9cd411f3b.png", Nickelodeon HD
-https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="34" tvg-name="DA VINCI LEARNING" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/30ba57a0576414dcd86aef719e92edb0.jpg", DA VINCI LEARNING
-https://lives.anystreamrectv3.live/live/davinci.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="33" tvg-name="Disney JR" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/4a33046f4748f1d987b710da68d7b58f.png", Disney JR
-https://lives.anystreamrectv3.live/live/disneyjunior.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="32" tvg-name="LOVE NATURE" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/c34095b97dc3f94306666eec346defb8.png", LOVE NATURE
-https://lives.anystreamrectv3.live/live/lovenature.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="30" tvg-name="VIASAT HISTORY" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png", VIASAT HISTORY
-https://lives.anystreamrectv3.live/live/viasathistory.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="30" tvg-name="VIASAT HISTORY" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png", VIASAT HISTORY
-https://lives.anystreamrectv3.live/live/viasatexplore.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="29" tvg-name="TVNET" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/27c80e3806fdd33e2f72b20cd4256dec.jpg", TVNET
-https://lives.anystreamrectv3.live/live/tvnet.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="28" tvg-name="KON TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/da2883f3f44910691413d14b610a698f.png", KON TV
-https://kontv.blutv.com/blutv_kontv2/live_720p2000000kbps/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="27" tvg-name="A PARA" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f2bb635124158dc255e56fc7f6ef82a9.png", A PARA
-https://lives.anystreamrectv3.live/live/apara.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="26" tvg-name="SÖZCÜ TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/d2b37e56c23f53095350038e36c1c8ce.png", SÖZCÜ TV
-https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="25" tvg-name="BENGÜTÜRK" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/cad74c9ef922f64138434a3ebb0980be.jpg", BENGÜTÜRK
-https://lives.anystreamrectv3.live/live/benguturk.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="24" tvg-name="TV 100" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/54ebd649dea5b3654544975b9352f100.png", TV 100
-https://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="23" tvg-name="VAV TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/b2a5e7789991764e9a61d946114f47bf.png", VAV TV
-https://lives.anystreamrectv3.live/live/vavtv.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="22" tvg-name="TRT 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/614e1863861a3dbba1b1e107367b3e53.jpg", TRT 2
-https://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="21" tvg-name="TV4" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpeg/e97aaf070fbc2858ecabd8625f360eb2.jpeg", TV4
-http://65.108.239.207:8080/stream/tvplus/tv4hd/master.m3u8?u=admin&p=3910fe48bd4ea4cbf297cd9007805bd5ea7025f1e66cb7d0be50057f6cd788b1&?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="19" tvg-name="EKOTÜRK TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/fb842e4304d636a71d4cf0603ce6584f.jpg", EKOTÜRK TV
-https://ekoturk.blutv.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="18" tvg-name="TRT TÜRK" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/45fd54765eebb0b4e708c7448a2c8a93.jpg", TRT TÜRK
-https://trtturk.blutv.com/blutv_trtturk2/live_720p2000000kbps/index.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="17" tvg-name="TRT AVAZ" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/c1e29a27bff35f6c081fe9b7103953b8.jpg", TRT AVAZ
-https://lives.anystreamrectv3.live/live/trtavaz.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="16" tvg-name="SEMERKAND TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/8ac54924b9791ceedab2f302d9fe2946.jpg", SEMERKAND TV
-http://65.108.239.207:8080/stream/tvplus/semerkandhd/master.m3u8?u=admin&p=3910fe48bd4ea4cbf297cd9007805bd5ea7025f1e66cb7d0be50057f6cd788b1&?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="15" tvg-name="EDGE SPORT" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/8a761a4bafa75df9317e78baa2210221.png", EDGE SPORT
-https://lives.anystreamrectv3.live/live/edgesport.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="13" tvg-name="TİVİBU SPOR 4" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/921670222d56e1af5cde5b3474185425.jpg", TİVİBU SPOR 4
-https://lives.anystreamrectv3.live/live/tivi4.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="12" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/ddc793321e06b9f205e7b99ebca71e4b.jpg", TRT SPOR YILDIZ
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="11" tvg-name="HABİTAT TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/ee18fc18c8429b726109d423db53424a.jpg", HABİTAT TV
-https://lives.anystreamrectv3.live/live/habitat.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png", FASHION TV
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
-#EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png", FASHION TV
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8?token=lNMnuSsJrTB74ysfLagd3A&tms=1727157168
+#EXTINF:-1 tvg-id="141" tvg-name="S SPORT 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg" group-title="Spor", S SPORT 1
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=ss1/index
+#EXTINF:-1 tvg-id="140" tvg-name="S SPORT 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/46e2f65ec582fdbc8edfd01899eca2a1.jpg" group-title="Spor", S SPORT 2
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=ssport2
+#EXTINF:-1 tvg-id="139" tvg-name="Spor Smart 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png" group-title="Spor", Spor Smart 1
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=smart1
+#EXTINF:-1 tvg-id="138" tvg-name="Spor Smart 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png" group-title="Spor", Spor Smart 2
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=smart2
+#EXTINF:-1 tvg-id="137" tvg-name="Euro Sport 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/f40c9c2ad62bd4e3ff87d5859ea2bb54.jpg" group-title="Spor", Euro Sport 1
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=euro1
+#EXTINF:-1 tvg-id="135" tvg-name="Euro Sport 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/8802d4e354a9ca77d6aa3bbd8362e3e8.png" group-title="Spor", Euro Sport 2
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=euro2
+#EXTINF:-1 tvg-id="134" tvg-name="Tivibu Spor 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/e0837009bbe1e595a7c7364aa45d02f7.jpg" group-title="Spor", Tivibu Spor 1
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=tivi1
+#EXTINF:-1 tvg-id="133" tvg-name="Tivibu Spor 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/8c23cd76a1f7c2b12ab4e757b45ca87f.jpg" group-title="Spor", Tivibu Spor 2
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=tivi2
+#EXTINF:-1 tvg-id="132" tvg-name="Tivibu Spor 3" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/2dd58a06227ac0410461a0be92123f12.jpg" group-title="Spor", Tivibu Spor 3
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=tivi3
+#EXTINF:-1 tvg-id="131" tvg-name="Trt Spor HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/c9aa0ea0e7cf2e4ec3523352f7dfd8ff.jpg" group-title="Spor", Trt Spor HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=trtspor
+#EXTINF:-1 tvg-id="131" tvg-name="Trt Spor HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/c9aa0ea0e7cf2e4ec3523352f7dfd8ff.jpg" group-title="Spor", Trt Spor HD
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web&?token=lPI5B8vqoFMxJtSSzbjR4w&tms=1727583839
+#EXTINF:-1 tvg-id="130" tvg-name="A Spor HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg" group-title="Spor", A Spor HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=aspor
+#EXTINF:-1 tvg-id="129" tvg-name="GS TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/155c62b2d55c69b9abbb2d9867adc1b8.jpg" group-title="Spor", GS TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master
+#EXTINF:-1 tvg-id="128" tvg-name="FB TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/56c7f2499a5ba8bab88be9cebaedd6be.jpg" group-title="Spor", FB TV
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=fbtv
+#EXTINF:-1 tvg-id="127" tvg-name="Nba TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/7b8b88c5d436a3cdecf4facb78342019.jpg" group-title="Spor", Nba TV
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=nbatv
+#EXTINF:-1 tvg-id="122" tvg-name="Sports TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/d3fa136e0548a46e2b55393a00a93296.jpg" group-title="Spor", Sports TV
+https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index
+#EXTINF:-1 tvg-id="114" tvg-name="TRT 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg" group-title="Ulusal", TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720
+#EXTINF:-1 tvg-id="114" tvg-name="TRT 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg" group-title="Ulusal", TRT 1
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=trt1
+#EXTINF:-1 tvg-id="113" tvg-name="STAR TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/9077322c9860d2cd30e3f5cc3d46d56d.jpg" group-title="Ulusal", STAR TV
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=startv
+#EXTINF:-1 tvg-id="112" tvg-name="KANAL D" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/7c5c8e0ca5549732e5ceda6fcc62748d.jpg" group-title="Ulusal", KANAL D
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=kanald
+#EXTINF:-1 tvg-id="111" tvg-name="SHOW TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/93eebff893a76defd8ab61fdb69943c3.jpg" group-title="Ulusal", SHOW TV
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=show
+#EXTINF:-1 tvg-id="110" tvg-name="ATV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg" group-title="Ulusal", ATV
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=atv1
+#EXTINF:-1 tvg-id="109" tvg-name="TV 8 HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/33204f43b374b3d0b662a80afa712518.jpg" group-title="Ulusal", TV 8 HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=tv81
+#EXTINF:-1 tvg-id="108" tvg-name="TV 8.5" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/48ec74f19b2e7707d89f70ace71eae1c.jpg" group-title="Ulusal", TV 8.5
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=tv85
+#EXTINF:-1 tvg-id="107" tvg-name="FOX TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/50824b68e8d4a1377f0d6ed9242d68d7.jpg" group-title="Ulusal", FOX TV
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=foxtv
+#EXTINF:-1 tvg-id="106" tvg-name="KANAL 7" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/9ebd243aafd11f7e8bd8409e04a13860.jpg" group-title="Ulusal", KANAL 7
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live
+#EXTINF:-1 tvg-id="105" tvg-name="BEYAZ TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f52aae2d29699a04cf4209cbe7367996.png" group-title="Ulusal", BEYAZ TV
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live
+#EXTINF:-1 tvg-id="103" tvg-name="TEVE 2 HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/2cf916833b3c64448b36830d2b238685.png" group-title="Ulusal", TEVE 2 HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=teve2
+#EXTINF:-1 tvg-id="102" tvg-name="TRT HABER HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/d066e7368bc1ea6388e912650ec7354c.png" group-title="Haber", TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_720
+#EXTINF:-1 tvg-id="101" tvg-name="HABER TURK HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/8cc654161cccc4a0b183615672809444.jpg" group-title="Haber", HABER TURK HD
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live
+#EXTINF:-1 tvg-id="100" tvg-name="A HABER HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/dc748243e0ce52f5315946c0f26f50fe.jpg" group-title="Haber", A HABER HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=ahaber
+#EXTINF:-1 tvg-id="99" tvg-name="CNN TURK HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/59310b5017a91855a65fd3993f085710.jpg" group-title="Haber", CNN TURK HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=cnnturk
+#EXTINF:-1 tvg-id="98" tvg-name="NTV HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/fc2233de54eddcc4b38e07e8eedb8446.jpg" group-title="Haber", NTV HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=ntv
+#EXTINF:-1 tvg-id="97" tvg-name="24 HABER HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/a7ee2263901d79464e2249d0b23217cf.jpg" group-title="Haber", 24 HABER HD
+https://kanal24.blutv.com/blutv_kanal24_live/live
+#EXTINF:-1 tvg-id="96" tvg-name="BLOOMBERG HT HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/fe34ebd140199c087be663e2c57ceb2f.jpg" group-title="Haber", BLOOMBERG HT HD
+https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live
+#EXTINF:-1 tvg-id="95" tvg-name="HALK TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/ba872632eff716bff680517fd72de5fd.jpg" group-title="Haber", HALK TV
+https://halktv.blutv.com/blutv_halktv_live/live
+#EXTINF:-1 tvg-id="94" tvg-name="HABER GLOBAL" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/aa5d0e853efaf9070117c772c4db6358.jpg" group-title="Haber", HABER GLOBAL
+https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live_720p2000000kbps/index
+#EXTINF:-1 tvg-id="93" tvg-name="TGRT HABER HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/fb4488783f29ccc9b6873395f6c001bd.jpg" group-title="Haber", TGRT HABER HD
+https://tgrthaberdvr.blutv.com/blutv_tgrthaber2_dvr/live_720p2000000kbps/index
+#EXTINF:-1 tvg-id="91" tvg-name="ÜLKE TV HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/f308a739f78540555d8b8819f785eb4f.jpg" group-title="Haber", ÜLKE TV HD
+https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index
+#EXTINF:-1 tvg-id="89" tvg-name="NATIONAL GEO HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg" group-title="Belgesel", NATIONAL GEO HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=natgeo
+#EXTINF:-1 tvg-id="88" tvg-name="NATIONAL GEO WILD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/ae18d42e87a266954420b315bb23c749.jpg" group-title="Belgesel", NATIONAL GEO WILD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=natgeowild
+#EXTINF:-1 tvg-id="87" tvg-name="HISTORY CHANNEL" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png" group-title="Belgesel", HISTORY CHANNEL
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=history
+#EXTINF:-1 tvg-id="86" tvg-name="BBC EARTH HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/9ed6faa15f968198d17c0362658f6b50.jpg" group-title="Belgesel", BBC EARTH HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bbc
+#EXTINF:-1 tvg-id="85" tvg-name="TARİH TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" group-title="Belgesel", TARİH TV
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=tarihtv
+#EXTINF:-1 tvg-id="84" tvg-name="Docubox" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/d90ba2bcb80b997800fbe4824f1d71c6.png" group-title="Belgesel", Docubox
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=docubox
+#EXTINF:-1 tvg-id="83" tvg-name="TLC" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/08cd8548f90ea341ac8bf315ec5ab4f9.jpg" group-title="Belgesel", TLC
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live
+#EXTINF:-1 tvg-id="81" tvg-name="DMAX HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/8c8f9b27a338d4b5713098251d9f5284.png" group-title="Belgesel", DMAX HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=dmax
+#EXTINF:-1 tvg-id="79" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/45a6752ed9a833b4d0303885092b8f54.png" group-title="Belgesel", DISCOVERY CHANNEL
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=discovery
+#EXTINF:-1 tvg-id="78" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/a83bf94e67fe34718d644ed9da8ca82d.png" group-title="Belgesel", DISCOVERY SCIENCE
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=discs
+#EXTINF:-1 tvg-id="77" tvg-name="TRT BELGESEL HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/cee1ae3bfe067fe869b8e20c0272938b.jpg" group-title="Belgesel", TRT BELGESEL HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=trtbelgesel
+#EXTINF:-1 tvg-id="76" tvg-name="BS ACTION 1" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/1883f1dfa1e69b6788849eaab4b1f8e7.png" group-title="Sinema", BS ACTION 1
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bsaction1
+#EXTINF:-1 tvg-id="75" tvg-name="BS ACTION 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/eea767085468cec01d76212c696d1095.png" group-title="Sinema", BS ACTION 2
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=box3
+#EXTINF:-1 tvg-id="74" tvg-name="BS FAMILY" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/a2f7541d9a7a2947275ba3b3d3b6cb47.png" group-title="Sinema", BS FAMILY
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bsfamily
+#EXTINF:-1 tvg-id="73" tvg-name="FX Kanalı" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/8fd173c2cc744c90bc96ba5627b0d816.jpg" group-title="Sinema", FX Kanalı
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=fx
+#EXTINF:-1 tvg-id="72" tvg-name="BS STARS" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/45d92ce49a65dd1e9823a55694fe2a7e.png" group-title="Sinema", BS STARS
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bsstars
+#EXTINF:-1 tvg-id="71" tvg-name="BS PREMIER" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/05607925151ae07d26cdf2c93b99e006.png" group-title="Sinema", BS PREMIER
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bspremier1
+#EXTINF:-1 tvg-id="70" tvg-name="BS TURK" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/ebf8df7479a4ddd3c970c19490c2873f.png" group-title="Sinema", BS TURK
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bsturk
+#EXTINF:-1 tvg-id="67" tvg-name="Moviesmart Turk" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" group-title="Sinema", Moviesmart Turk
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=mvturk
+#EXTINF:-1 tvg-id="65" tvg-name="Epic Drama" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/18ed99225ff7be6e86ae21ba473f1a72.png" group-title="Sinema", Epic Drama
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=epicdrama
+#EXTINF:-1 tvg-id="61" tvg-name="Sinema TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/40b261b65aeef4696661f2b497c55c89.png" group-title="Sinema", Sinema TV
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=sinema
+#EXTINF:-1 tvg-id="60" tvg-name="Sinema TV 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/389d982cb693a94e1c6aae2ee5e34594.png" group-title="Sinema", Sinema TV 2
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=sinema2
+#EXTINF:-1 tvg-id="59" tvg-name="Sinema TV Aksiyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png" group-title="Sinema", Sinema TV Aksiyon
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=sinemaaksiyon
+#EXTINF:-1 tvg-id="59" tvg-name="Sinema TV Aksiyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png" group-title="Sinema", Sinema TV Aksiyon
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=sinemaaksiyon2
+#EXTINF:-1 tvg-id="57" tvg-name="Sinema TV Komedi" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png" group-title="Sinema", Sinema TV Komedi
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=sinemakomedi
+#EXTINF:-1 tvg-id="57" tvg-name="Sinema TV Komedi" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png" group-title="Sinema", Sinema TV Komedi
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=sinemakomedi2
+#EXTINF:-1 tvg-id="56" tvg-name="Sinema TV Yerli" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" group-title="Sinema", Sinema TV Yerli
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=sinemayerli
+#EXTINF:-1 tvg-id="56" tvg-name="Sinema TV Yerli" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" group-title="Sinema", Sinema TV Yerli
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=sinemayerli2
+#EXTINF:-1 tvg-id="55" tvg-name="Sinema TV Aile" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png" group-title="Sinema", Sinema TV Aile
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=sinemaaile
+#EXTINF:-1 tvg-id="55" tvg-name="Sinema TV Aile" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png" group-title="Sinema", Sinema TV Aile
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=sinemaaile2
+#EXTINF:-1 tvg-id="53" tvg-name="Sinema TV 1001" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/8c31ff828bc07a09eb52fb8312f23abb.png" group-title="Sinema", Sinema TV 1001
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=sinema1001
+#EXTINF:-1 tvg-id="52" tvg-name="Sinema TV 1002" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/96603c9e4ba10ae864380f670e210cf0.png" group-title="Sinema", Sinema TV 1002
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=sinema1002
+#EXTINF:-1 tvg-id="51" tvg-name="DREAM TÜRK TV HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/9756196c45fab27cf682ca813c12ceee.png" group-title="Müzik", DREAM TÜRK TV HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=dreamturk
+#EXTINF:-1 tvg-id="50" tvg-name="TRT MUZIK HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/08508325378853b59bcb51a2451cb872.jpg" group-title="Müzik", TRT MUZIK HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=trtmuzik
+#EXTINF:-1 tvg-id="49" tvg-name="POWER TURK HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/3817afb79e408b0a106a2c1c51281de9.jpg" group-title="Müzik", POWER TURK HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=powerturk
+#EXTINF:-1 tvg-id="48" tvg-name="POWER TV HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/8610a3cb93710691265a4b50e76bf57d.jpg" group-title="Müzik", POWER TV HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=power
+#EXTINF:-1 tvg-id="47" tvg-name="NR1 TURK HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/6a1816b24244ae99036e04ea13af3663.jpg" group-title="Müzik", NR1 TURK HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=nr1turk
+#EXTINF:-1 tvg-id="46" tvg-name="Number 1 HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/7160f6b2568df0a9d1da11f02c1f866b.jpg" group-title="Müzik", Number 1 HD
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=nr1
+#EXTINF:-1 tvg-id="45" tvg-name="Sinema Mix" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cb8f8d4dabb5a2012e8bdd372b58f742.png" group-title="Sinema", Sinema Mix
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=mix1
+#EXTINF:-1 tvg-id="45" tvg-name="Sinema Mix" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cb8f8d4dabb5a2012e8bdd372b58f742.png" group-title="Sinema", Sinema Mix
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=mix2
+#EXTINF:-1 tvg-id="45" tvg-name="Sinema Mix" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cb8f8d4dabb5a2012e8bdd372b58f742.png" group-title="Sinema", Sinema Mix
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=mix3
+#EXTINF:-1 tvg-id="45" tvg-name="Sinema Mix" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cb8f8d4dabb5a2012e8bdd372b58f742.png" group-title="Sinema", Sinema Mix
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=mix4
+#EXTINF:-1 tvg-id="45" tvg-name="Sinema Mix" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/cb8f8d4dabb5a2012e8bdd372b58f742.png" group-title="Sinema", Sinema Mix
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=mix5
+#EXTINF:-1 tvg-id="44" tvg-name="Sinema Aksiyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/a79bce3220cae9212725457751044afc.png" group-title="Sinema", Sinema Aksiyon
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=aks1
+#EXTINF:-1 tvg-id="44" tvg-name="Sinema Aksiyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/a79bce3220cae9212725457751044afc.png" group-title="Sinema", Sinema Aksiyon
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=aks2
+#EXTINF:-1 tvg-id="44" tvg-name="Sinema Aksiyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/a79bce3220cae9212725457751044afc.png" group-title="Sinema", Sinema Aksiyon
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=aks3
+#EXTINF:-1 tvg-id="43" tvg-name="Sinema Animasyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/d154cf1561a13d9be7a2b52ab89c0ea2.png" group-title="Sinema", Sinema Animasyon
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=anim1
+#EXTINF:-1 tvg-id="43" tvg-name="Sinema Animasyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/d154cf1561a13d9be7a2b52ab89c0ea2.png" group-title="Sinema", Sinema Animasyon
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=anim2
+#EXTINF:-1 tvg-id="43" tvg-name="Sinema Animasyon" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/d154cf1561a13d9be7a2b52ab89c0ea2.png" group-title="Sinema", Sinema Animasyon
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=anim3
+#EXTINF:-1 tvg-id="42" tvg-name="Sinema Komedi" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/50f6731521a2b2056779a0b0ab5e265d.png" group-title="Sinema", Sinema Komedi
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=kom1
+#EXTINF:-1 tvg-id="42" tvg-name="Sinema Komedi" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/50f6731521a2b2056779a0b0ab5e265d.png" group-title="Sinema", Sinema Komedi
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=kom2
+#EXTINF:-1 tvg-id="42" tvg-name="Sinema Komedi" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/50f6731521a2b2056779a0b0ab5e265d.png" group-title="Sinema", Sinema Komedi
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=kom3
+#EXTINF:-1 tvg-id="41" tvg-name="Sinema Korku" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/4cfa101adf435dcda3edc4ddfd67254e.png" group-title="Sinema", Sinema Korku
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=kor1
+#EXTINF:-1 tvg-id="41" tvg-name="Sinema Korku" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/4cfa101adf435dcda3edc4ddfd67254e.png" group-title="Sinema", Sinema Korku
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=kor2
+#EXTINF:-1 tvg-id="40" tvg-name="Sinema Gerilim" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/467c34febd72661dc04c193a2cf163a2.png" group-title="Sinema", Sinema Gerilim
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=ger1
+#EXTINF:-1 tvg-id="40" tvg-name="Sinema Gerilim" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/467c34febd72661dc04c193a2cf163a2.png" group-title="Sinema", Sinema Gerilim
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=ger2
+#EXTINF:-1 tvg-id="39" tvg-name="Sinema Bilim Kurgu" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/de7c4cb5b781e00bf77564f544f35d81.png" group-title="Sinema", Sinema Bilim Kurgu
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bil1
+#EXTINF:-1 tvg-id="39" tvg-name="Sinema Bilim Kurgu" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/de7c4cb5b781e00bf77564f544f35d81.png" group-title="Sinema", Sinema Bilim Kurgu
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=bil2
+#EXTINF:-1 tvg-id="38" tvg-name="Sinema Türk" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f176cde7201da3934de1d8614147024e.png" group-title="Sinema", Sinema Türk
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=yer1
+#EXTINF:-1 tvg-id="38" tvg-name="Sinema Türk" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f176cde7201da3934de1d8614147024e.png" group-title="Sinema", Sinema Türk
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=yer2
+#EXTINF:-1 tvg-id="38" tvg-name="Sinema Türk" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f176cde7201da3934de1d8614147024e.png" group-title="Sinema", Sinema Türk
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=yer3
+#EXTINF:-1 tvg-id="38" tvg-name="Sinema Türk" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f176cde7201da3934de1d8614147024e.png" group-title="Sinema", Sinema Türk
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=yer4
+#EXTINF:-1 tvg-id="38" tvg-name="Sinema Türk" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f176cde7201da3934de1d8614147024e.png" group-title="Sinema", Sinema Türk
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=yer5
+#EXTINF:-1 tvg-id="37" tvg-name="Sinema Star Wars" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/a2848d9808537233943902e2879c9c60.png" group-title="Sinema", Sinema Star Wars
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=wars
+#EXTINF:-1 tvg-id="36" tvg-name="CARTON NETWORK" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/1a8262974a202c19d6543b82335e39de.jpg" group-title="Çocuk", CARTON NETWORK
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=cartoonnetwork
+#EXTINF:-1 tvg-id="35" tvg-name="Nickelodeon HD" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/4a6d8c2049dd4c014cd443a9cd411f3b.png" group-title="Çocuk", Nickelodeon HD
+https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index
+#EXTINF:-1 tvg-id="34" tvg-name="DA VINCI LEARNING" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/30ba57a0576414dcd86aef719e92edb0.jpg" group-title="Çocuk", DA VINCI LEARNING
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=davinci
+#EXTINF:-1 tvg-id="33" tvg-name="Disney JR" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/4a33046f4748f1d987b710da68d7b58f.png" group-title="Çocuk", Disney JR
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=disneyjunior
+#EXTINF:-1 tvg-id="32" tvg-name="LOVE NATURE" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/c34095b97dc3f94306666eec346defb8.png" group-title="Belgesel", LOVE NATURE
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=lovenature
+#EXTINF:-1 tvg-id="30" tvg-name="VIASAT HISTORY" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" group-title="Belgesel", VIASAT HISTORY
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=viasathistory
+#EXTINF:-1 tvg-id="30" tvg-name="VIASAT HISTORY" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" group-title="Belgesel", VIASAT HISTORY
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=viasatexplore
+#EXTINF:-1 tvg-id="29" tvg-name="TVNET" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/27c80e3806fdd33e2f72b20cd4256dec.jpg" group-title="Ulusal", TVNET
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=tvnet
+#EXTINF:-1 tvg-id="28" tvg-name="KON TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/da2883f3f44910691413d14b610a698f.png" group-title="Ulusal", KON TV
+https://kontv.blutv.com/blutv_kontv2/live_720p2000000kbps/index
+#EXTINF:-1 tvg-id="27" tvg-name="A PARA" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/f2bb635124158dc255e56fc7f6ef82a9.png" group-title="Ulusal", A PARA
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=apara
+#EXTINF:-1 tvg-id="26" tvg-name="SÖZCÜ TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/d2b37e56c23f53095350038e36c1c8ce.png" group-title="Haber", SÖZCÜ TV
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index
+#EXTINF:-1 tvg-id="25" tvg-name="BENGÜTÜRK" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/cad74c9ef922f64138434a3ebb0980be.jpg" group-title="Ulusal", BENGÜTÜRK
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=benguturk
+#EXTINF:-1 tvg-id="24" tvg-name="TV 100" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/54ebd649dea5b3654544975b9352f100.png" group-title="Ulusal", TV 100
+https://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index
+#EXTINF:-1 tvg-id="23" tvg-name="VAV TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/b2a5e7789991764e9a61d946114f47bf.png" group-title="Ulusal", VAV TV
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=vavtv
+#EXTINF:-1 tvg-id="22" tvg-name="TRT 2" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/614e1863861a3dbba1b1e107367b3e53.jpg" group-title="Ulusal", TRT 2
+https://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index
+#EXTINF:-1 tvg-id="21" tvg-name="TV4" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpeg/e97aaf070fbc2858ecabd8625f360eb2.jpeg" group-title="Ulusal", TV4
+http://65.108.239.207:8080/stream/tvplus/tv4hd/master.m3u8?u=admin&p=3910fe48bd4ea4cbf297cd9007805bd5ea7025f1e66cb7d0be50057f6cd788b1&?token=C1b3XVTAGEuwVHmv_d8jYQ&tms=1727583840
+#EXTINF:-1 tvg-id="19" tvg-name="EKOTÜRK TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/fb842e4304d636a71d4cf0603ce6584f.jpg" group-title="Ulusal", EKOTÜRK TV
+https://ekoturk.blutv.com/blutv_ekoturk2/live_720p2000000kbps/index
+#EXTINF:-1 tvg-id="18" tvg-name="TRT TÜRK" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/45fd54765eebb0b4e708c7448a2c8a93.jpg" group-title="Ulusal", TRT TÜRK
+https://trtturk.blutv.com/blutv_trtturk2/live_720p2000000kbps/index
+#EXTINF:-1 tvg-id="17" tvg-name="TRT AVAZ" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/c1e29a27bff35f6c081fe9b7103953b8.jpg" group-title="Ulusal", TRT AVAZ
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=trtavaz
+#EXTINF:-1 tvg-id="16" tvg-name="SEMERKAND TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/8ac54924b9791ceedab2f302d9fe2946.jpg" group-title="Ulusal", SEMERKAND TV
+http://65.108.239.207:8080/stream/tvplus/semerkandhd/master.m3u8?u=admin&p=3910fe48bd4ea4cbf297cd9007805bd5ea7025f1e66cb7d0be50057f6cd788b1&?token=C1b3XVTAGEuwVHmv_d8jYQ&tms=1727583840
+#EXTINF:-1 tvg-id="15" tvg-name="EDGE SPORT" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/8a761a4bafa75df9317e78baa2210221.png" group-title="Spor", EDGE SPORT
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=edgesport
+#EXTINF:-1 tvg-id="13" tvg-name="TİVİBU SPOR 4" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/921670222d56e1af5cde5b3474185425.jpg" group-title="Spor", TİVİBU SPOR 4
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=tivi4
+#EXTINF:-1 tvg-id="12" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/ddc793321e06b9f205e7b99ebca71e4b.jpg" group-title="Spor", TRT SPOR YILDIZ
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor?token=C1b3XVTAGEuwVHmv_d8jYQ&tms=1727583840
+#EXTINF:-1 tvg-id="11" tvg-name="HABİTAT TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/jpg/ee18fc18c8429b726109d423db53424a.jpg" group-title="Belgesel", HABİTAT TV
+https://koprulu.global.ssl.fastly.net/rek.m3u8/?id=habitat
+#EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer", FASHION TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist
+#EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer", FASHION TV
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist
