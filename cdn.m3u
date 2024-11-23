@@ -1,58 +1,274 @@
-#EXTINF:-1, Power Love
-https://cdntv.online/low/pa3nc5dxwz/1636.m3u8
-#EXTINF:-1, PowerTurk Taptaze
-https://cdntv.online/low/pa3nc5dxwz/1637.m3u8
-#EXTINF:-1, kANAL Z
-https://cdntv.online/low/pa3nc5dxwz/1638.m3u8
-#EXTINF:-1, Kanal 15
-https://cdntv.online/low/pa3nc5dxwz/1639.m3u8
-#EXTINF:-1, Kanal 68
-https://cdntv.online/low/pa3nc5dxwz/1640.m3u8
-#EXTINF:-1, Akit TV
-https://cdntv.online/low/pa3nc5dxwz/1428.m3u8
-#EXTINF:-1, Al Hayat TV
-https://cdntv.online/low/pa3nc5dxwz/1429.m3u8
-#EXTINF:-1, CekmekÃ¶y TV
-https://cdntv.online/low/pa3nc5dxwz/1432.m3u8
-#EXTINF:-1, IBB TV
-https://cdntv.online/low/pa3nc5dxwz/1437.m3u8
-#EXTINF:-1, Milyon TV
-https://cdntv.online/low/pa3nc5dxwz/1439.m3u8
-#EXTINF:-1, SarÄ±yer TV
-https://cdntv.online/low/pa3nc5dxwz/1440.m3u8
-#EXTINF:-1, Sat7 TÃ¼rk
-https://cdntv.online/low/pa3nc5dxwz/1441.m3u8
-#EXTINF:-1, Tempo TV
-https://cdntv.online/low/pa3nc5dxwz/1442.m3u8
-#EXTINF:-1, TRT Avaz
-https://cdntv.online/low/pa3nc5dxwz/1444.m3u8
-#EXTINF:-1, TRT Belgesel
-https://cdntv.online/low/pa3nc5dxwz/1445.m3u8
-#EXTINF:-1, TRT EBA Ortaokul
-https://cdntv.online/low/pa3nc5dxwz/1448.m3u8
-#EXTINF:-1, TRT Haber
-https://cdntv.online/low/pa3nc5dxwz/1449.m3u8
-#EXTINF:-1, TRT KurdÃ®
-https://cdntv.online/low/pa3nc5dxwz/1450.m3u8
-#EXTINF:-1, TRT TÃ¼rk
-https://cdntv.online/low/pa3nc5dxwz/1451.m3u8
-#EXTINF:-1, TV4
-https://cdntv.online/low/pa3nc5dxwz/1453.m3u8
-#EXTINF:-1, TVnet
-https://cdntv.online/low/pa3nc5dxwz/1454.m3u8
-#EXTINF:-1, A Haber
-https://cdntv.online/low/pa3nc5dxwz/1272.m3u8
-#EXTINF:-1, TRT Cocuk
-https://cdntv.online/low/pa3nc5dxwz/1274.m3u8
-#EXTINF:-1, TRT Arapca
-https://cdntv.online/low/pa3nc5dxwz/1276.m3u8
-#EXTINF:-1, Power TV
-https://cdntv.online/low/pa3nc5dxwz/1277.m3u8
-#EXTINF:-1, TRT Muzik
-https://cdntv.online/low/pa3nc5dxwz/1278.m3u8
-#EXTINF:-1, TRT World
-https://cdntv.online/low/pa3nc5dxwz/1280.m3u8
-#EXTINF:-1, Power Turk
-https://cdntv.online/low/pa3nc5dxwz/1282.m3u8
-#EXTINF:-1, Can TV
-https://cdntv.online/low/pa3nc5dxwz/1283.m3u8
+#EXTINF:-1, 360 HD
+http://cdn.troya.one:80/ch1353/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB2NrUVD9BtTOC80pKdFTocU3ejMdUSjkwaiDqbyIHSK
+#EXTINF:-1, A Haber HD
+http://cdn.troya.one:80/ch2469/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEKjypyzlw-i00bpoFqPgYgP8qigrExNSUfkkeVrb6RJ
+#EXTINF:-1, A News HD
+http://cdn.troya.one:80/ch2470/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIBFRQ20_YhDCcbCjkDnymX6Ipa2FXHzytl1mlSqekGm
+#EXTINF:-1, A Spor HD
+http://cdn.troya.one:80/ch1354/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLs1CVIlkifP9_CRKAdPRqreM59SiIINBkocHFUzRwyg
+#EXTINF:-1, A Para HD
+http://cdn.troya.one:80/ch2471/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFzE5ivdQTfTh0KP6vlfNdcEZcwPiCjCJzm_9QMbfm8d
+#EXTINF:-1, ATV HD
+http://cdn.troya.one:80/ch1356/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHn3ufJ2o4ZcW861HUtNFCx7RY9tYqcf8hGkYyx4a1a1
+#EXTINF:-1, A2 TV HD
+http://cdn.troya.one:80/ch1355/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKOYiFsf78OBmF6nPn6OHcteIx1pIO4lphTpTgcgDy7h
+#EXTINF:-1, Akit TV HD
+http://cdn.troya.one:80/ch2472/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMpsHYaET2xUKupA-6v7_s1p4gw1Hywr6RItyfD_des6
+#EXTINF:-1, Beyaz TV HD
+http://cdn.troya.one:80/ch1454/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA9xT9Qhf8KoHOT1ZaMfStdP2AKhoivGwi4TFjj8spyx
+#EXTINF:-1, Baby TV
+http://cdn.troya.one:80/ch2473/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNg8CfqjFukOnkMVRX-z378GEP1Vulyuvb8e8plvwrs7
+#EXTINF:-1, BluTV Play 1
+http://cdn.troya.one:80/ch1460/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHacY5htGD3Kg5KJHrxx9nP6eSt_XQdNK38d--ahU2B6
+#EXTINF:-1, BluTV Play 2
+http://cdn.troya.one:80/ch1461/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEwM5zaabpZA9hHY20eNDz3H7G_M0H6GYlpMFb-mZiSY
+#EXTINF:-1, Bloomberg HT HD
+http://cdn.troya.one:80/ch1370/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMiWssb78t-mYZDFzjpiZ71PAUaHN_8aUHVArR4QseZm
+#EXTINF:-1, BBC Earth HD
+http://cdn.troya.one:80/ch1357/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDzFhOjcf8K79zl2GVlCgvdQvMs-BaEavsOFZeBuYo68
+#EXTINF:-1, Bein Gurme HD
+http://cdn.troya.one:80/ch1358/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOmGZdzuU_ViQ4MFPzqrejFPy_qIlwpv0Yr09BbA9i9V
+#EXTINF:-1, Bein IZ HD
+http://cdn.troya.one:80/ch1360/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJDqWVeef75mf-8RqTaEZLD14igSbvz-epdSOEfWH3AW
+#EXTINF:-1, Bein Movies Action  HD
+http://cdn.troya.one:80/ch1352/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iE1GpwE_5cbsSfQ6cpDfL2VwI7KLGy4rn52ktqldpmRh
+#EXTINF:-1, Bein Movies Action 2 HD
+http://cdn.troya.one:80/ch1361/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iN83O2peOsGwDpmn6s4nH9kMpovd8J7-Q77jo8OpK0a0
+#EXTINF:-1, Bein Movies Premiere HD
+http://cdn.troya.one:80/ch1365/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCEatLRqVtW7dKKL3jgUsLsZHwnH9TcjLDof5J3NYx4_
+#EXTINF:-1, Bein Movies Premiere 2 HD
+http://cdn.troya.one:80/ch1364/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNPl6ziUQmn6wiD5h_WMTfd2VD_SBasHv5C9xgMXZgsC
+#EXTINF:-1, Bein Movies Family HD
+http://cdn.troya.one:80/ch1363/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHIe3Qmheeplu71QO6vJDTAK92bK2740ox_b-r7GQSnu
+#EXTINF:-1, Bein Movies Stars HD
+http://cdn.troya.one:80/ch1366/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iM2-UFvxq403Rtcu60IU4gvmpC1ZjHZzBSErB8uyIq5-
+#EXTINF:-1, Bein Movies Turk HD
+http://cdn.troya.one:80/ch1367/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ4TTn_Hf4pFk_PROtFBxcxvENQQFJEUdwhQ2GisY4SN
+#EXTINF:-1, Bein Series 1 HD
+http://cdn.troya.one:80/ch1362/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDBolm09c5CnErbCGpXwJF-iFT0U1HF4zQtDAFK9EN8b
+#EXTINF:-1, Bein Series 2 HD
+http://cdn.troya.one:80/ch1369/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOZCaUHGCYqQeH7mjPfJQqQLIjDIagTh8as5ZXWndQOB
+#EXTINF:-1, Bein Series 3 HD
+http://cdn.troya.one:80/ch1368/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFlteHM6iH1-TkHnAoHIgqlpzOd2asOyuJwOprHdqfgw
+#EXTINF:-1, Bein Series 4 HD
+http://cdn.troya.one:80/ch1372/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPQKi_NJjwqLHb7-H3dPUkqFNbkEZOpF8xd8zKaKMGtf
+#EXTINF:-1, Bein Box Office 1 HD
+http://cdn.troya.one:80/ch1393/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFOjoiDnAz_KVFAI3A_QzFYUM8m-o4xLk-7TzaU7GarP
+#EXTINF:-1, Bein Box Office 2 HD
+http://cdn.troya.one:80/ch1392/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNvUmj7mL4nH_9xQBJnTTJwg6gBcR7g5_okJTWqxxc1r
+#EXTINF:-1, Bein Box Office 3 HD
+http://cdn.troya.one:80/ch1447/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKc5aYGdMNpEQ4VRtSbMtQ_VkhYCApEMFI1Ksuh6YFYM
+#EXTINF:-1, Bein Sports Haber HD
+http://cdn.troya.one:80/ch1351/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKK9TVzhhDF0RV3Isu7rJz73Cqm4wmrDoRN8fM8nnpJC
+#EXTINF:-1, Bein Sports 1 HD
+http://cdn.troya.one:80/ch1424/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBoHn_hRppBE1ytrdJKzD4l9hBX2CB5KadbjQf5hsv9I
+#EXTINF:-1, Bein Sports 2 HD
+http://cdn.troya.one:80/ch1425/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAb1gUxtifJa2PG2qIHR8nuvzAjym1DBSr5zvEWPngMx
+#EXTINF:-1, Bein Sports 3 HD
+http://cdn.troya.one:80/ch1426/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD55q9KTb_1558mORG8-ENNkfoDwnC839jq8qLSrdK2M
+#EXTINF:-1, Bein Sports 4 HD
+http://cdn.troya.one:80/ch1448/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKEL4p2SjnlZiN88VhC6-xkpVOwsfS9QlhEtX_34i1ec
+#EXTINF:-1, Bein Sports MAX 1 HD
+http://cdn.troya.one:80/ch1449/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAoBxmP66uSFfOr_ePqsC9zkFOLcbg7KUPPR1yWdFIr2
+#EXTINF:-1, Bein Sports MAX 2 HD
+http://cdn.troya.one:80/ch1450/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iChHVzHiGm-LMUFGoyb0xV40yS9uBlusAOP-FWtTzDRJ
+#EXTINF:-1, BRT 1 HD
+http://cdn.troya.one:80/ch2477/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFozKm0XZzg6_psH-rWY8U6yqvvJdkFWLbV-8ZZ-wrE8
+#EXTINF:-1, BRT 2 HD
+http://cdn.troya.one:80/ch2478/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC_ocrk8O7a9N_vshyaOBll5Cb9ZsIencOMEcmEcj7TI
+#EXTINF:-1, Benguturk
+http://cdn.troya.one:80/ch2475/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH_IpsOeTqS4xLYcGS9AhpbGlk7k5HYG21OxJl_UMbIG
+#EXTINF:-1, Bizim Ev TV
+http://cdn.troya.one:80/ch2476/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPd5kigo-SZbSe0x-Gbjp2j7TzwvQe6k62qVvcZvzGiR
+#EXTINF:-1, Cartoonito
+http://cdn.troya.one:80/ch1349/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJLDodnjlfupFYHq_KDzmUs4JppT9WkatelA3RfIiYUN
+#EXTINF:-1, Cartoon Network
+http://cdn.troya.one:80/ch2479/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAPOmSwyZnNpBVA6aNPjkLEUzSYbW2uUbCn6BXowdbot
+#EXTINF:-1, CNN HD
+http://cdn.troya.one:80/ch1371/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFUeCHpGHvtwYyZGzvrwRYTnh51w5uLpAYpcucVjVqGp
+#EXTINF:-1, Da Vinci HD
+http://cdn.troya.one:80/ch2480/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKFAFtEmDqihNifehLTCxOXs7ebLrGaFMRy6C_3FfcpG
+#EXTINF:-1, Discovery Channel HD
+http://cdn.troya.one:80/ch1373/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHRiWl2QF0bNnKOUoP7D-qRXJlvyL0kpuPNPq4e0CXxf
+#EXTINF:-1, Discovery Science HD
+http://cdn.troya.one:80/ch1374/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBU1MGO38w9Z-uhqPEdNyPiCLRbBI9IkxldcmoiizYVP
+#EXTINF:-1, Discovery ID
+http://cdn.troya.one:80/ch1463/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKJ9AA5knisDOxjtdNbnUgy9SkmPp7HwV45flQklVaU2
+#EXTINF:-1, Disney Channel
+http://cdn.troya.one:80/ch1375/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLzYXBxbfBq6Ob622te_DuW_6IuxflmBpKR3rcKP62b9
+#EXTINF:-1, Disney Jr
+http://cdn.troya.one:80/ch1376/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iH4uqB-itCcnXniqsYMRW2gLFaW1npM65K-g254Ejell
+#EXTINF:-1, Dizi Smart Max HD
+http://cdn.troya.one:80/ch1377/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOOghfLioVJWk7jIKm_VN5FAP-YKtPcUCsMoMQa4womz
+#EXTINF:-1, Dizi Smart Premium HD
+http://cdn.troya.one:80/ch1782/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAazuPykBIXVGMY89z-omMZ9LME7lOtuuwEeIMBJnKJT
+#EXTINF:-1, Dmax HD
+http://cdn.troya.one:80/ch1378/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJeV4EgnelMBvS7gbqXoWIGgzpsAZcN0nnny0uLlo8op
+#EXTINF:-1, DocuBox HD
+http://cdn.troya.one:80/ch1379/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF8lM8NSOYPtyPfFetk_nc278lIxgO8wNaADueaASEVo
+#EXTINF:-1, Dream Turk
+http://cdn.troya.one:80/ch1380/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB8gRuIT_jmMKeKFUptyhU3qZXlgQE2_voZUwCtuqvif
+#EXTINF:-1, Edge Sport HD
+http://cdn.troya.one:80/ch1383/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIeQtiX6qa3stZXp-ogXTsAoNeuE8nY2lkuDpXJwCyeN
+#EXTINF:-1, Eurosport 1 HD
+http://cdn.troya.one:80/ch2481/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGbKMJiwSEvyc8Kl2sVeUL4UaP15KvCJ0eMrZR_-Vwki
+#EXTINF:-1, Eurosport 2 HD
+http://cdn.troya.one:80/ch2482/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAvy4KPnDHBtYuRBHtVpjlACc8jThlZRQ50w6MlTEr6I
+#EXTINF:-1, FB TV HD
+http://cdn.troya.one:80/ch1382/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA1l8PL3XqJo1BqRX6lvYE5BjWrDSQPw8LaEjdDyYC49
+#EXTINF:-1, FilmBox HD
+http://cdn.troya.one:80/ch1384/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMMlNj_7FvZhhc93kfMr_8vlClEntP-AQb8CmL2H9ZIY
+#EXTINF:-1, FTV UHD
+http://cdn.troya.one:80/ch1456/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPG4OtFgHclbQDabkzmNLyRZHgbgmR2GMo7j1s59yaIf
+#EXTINF:-1, FX HD
+http://cdn.troya.one:80/ch1468/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMZwjMIcc6-tfZrbfbj15qRzIgn2U-7AjkGQlOiW3cXV
+#EXTINF:-1, Halk TV
+http://cdn.troya.one:80/ch2483/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGKadn1SgyA_tjodg_zXpH3kDZIqkKFy-gvo6sZ3Apgo
+#EXTINF:-1, Haber Global HD
+http://cdn.troya.one:80/ch1386/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC34fXfG_lqzVwouXatYwRUFZolfjZt3o-hSnNcN-9Nh
+#EXTINF:-1, Haber 61
+http://cdn.troya.one:80/ch1346/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iO41tBW2F0nBzbbMexUq-lQOI9DqJHNW1QO8TBkq2B9l
+#EXTINF:-1, Haberturk HD
+http://cdn.troya.one:80/ch1387/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCoaL1mQhEG9Kvt6a2WyMRaIV_NMkEXtibn818ZKntE9
+#EXTINF:-1, History HD
+http://cdn.troya.one:80/ch1783/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAX5Q0Z_qBFkjxiy_Q9vmS-QPcQO0939_-yAW54d_N2g
+#EXTINF:-1, Kanal 7 HD
+http://cdn.troya.one:80/ch1388/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCbDFK_DYNCtmIqUjjM2EytOMvEyxl6M8TwPSQftxdjd
+#EXTINF:-1, Kanal D HD
+http://cdn.troya.one:80/ch1389/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iESQQz2wazFdl1scyc_EfA-iixDrjtfbu33loSFF0T9c
+#EXTINF:-1, Love Nature 4K HD
+http://cdn.troya.one:80/ch1547/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKcRh_ScX0qCg34ddpn2SpxBRv5RXBGva7OLbe7mZlz9
+#EXTINF:-1, Minika Cocuk
+http://cdn.troya.one:80/ch1390/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iChS9roP1iSXKlwhehHbdSJAYxVNv9GZHV43SXv4bJEz
+#EXTINF:-1, Minika GO
+http://cdn.troya.one:80/ch1391/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLEsXbEuQ81UL52PKaLMyjRU1Ldkj9dsApJzWTl1TJ2N
+#EXTINF:-1, Movie Smart Turk HD
+http://cdn.troya.one:80/ch1394/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDuKCw4a3pO2i5DPjvkpL2mMp2ZZo1LxBYI-HnLfyrkY
+#EXTINF:-1, Movie Smart Classic HD
+http://cdn.troya.one:80/ch1529/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iExybFf2ZD1t0-kxpiuzMQ25COJkTLvEhXN3gbfFoj23
+#EXTINF:-1, Now HD
+http://cdn.troya.one:80/ch1385/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMBTz30BJ3GTPq_8smy5jhWVeoK-N4j3jg3njkRAweDK
+#EXTINF:-1, Nicktoons
+http://cdn.troya.one:80/ch2484/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPerLxyMxgn1qJoWuRkMCwxMrr7HXqNKmu0CmtjqLONB
+#EXTINF:-1, Nr1 HD
+http://cdn.troya.one:80/ch1465/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ3EtinPBdcw3EqAZiqSzHWtS25lHubj-G3wKCmLv8c0
+#EXTINF:-1, Nr1 Turk HD
+http://cdn.troya.one:80/ch1467/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHQitYHrHIUCEUU20YFaJTMLKH2saTaA5z-rVjsSYH9R
+#EXTINF:-1, NBA TV HD
+http://cdn.troya.one:80/ch1395/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOAncHhoZP3zT3G1gZD2R_pIUwGAP0e0IkKf6adp6UUf
+#EXTINF:-1, NTV HD
+http://cdn.troya.one:80/ch1396/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKGXxailv7T6IiCm5cTYWYzM1SWwYG1D-ztn_YpOJq8-
+#EXTINF:-1, Nat Geo HD
+http://cdn.troya.one:80/ch1350/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOI-jS8e68Wt0t-H9Wuv_Y31wQuAfTxSvgUH1nn21h6D
+#EXTINF:-1, Nat Geo Wild HD
+http://cdn.troya.one:80/ch1462/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCEboJs_HsgB8no2r7BK7SQn0mPlc_i8CqsAhdb6jx4p
+#EXTINF:-1, Power Turk HD
+http://cdn.troya.one:80/ch1466/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF1KTj0DYrS0MuoECLWX62uFvMvdPvheN3lg3vEFd8BN
+#EXTINF:-1, S Sport HD
+http://cdn.troya.one:80/ch1397/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLkaB7vsPrU3fKclL8Tfbx4hmYGDo7HAY3SwG4-AeAUT
+#EXTINF:-1, S Sport 2 HD
+http://cdn.troya.one:80/ch1398/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMOU4fNuy0auKghji7YXNzPtrNbL1TJvyGvx4u5lLwhF
+#EXTINF:-1, Show HD
+http://cdn.troya.one:80/ch1399/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFVD3gLF6drNRq77CNlkXW199B9_Z1TWTbs_D2hGh_hU
+#EXTINF:-1, Show Max HD
+http://cdn.troya.one:80/ch1400/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMH11r0WV0EDxd8PA8bLbluJrLna2-T33q_mbhCSuIFB
+#EXTINF:-1, Sozcu TV
+http://cdn.troya.one:80/ch2485/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAqmtgsqCA-OrxtYLcI3OJO_FuDfSpDPFH9UOqlkwOLq
+#EXTINF:-1, Sinema TV HD
+http://cdn.troya.one:80/ch1526/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMpTYsfNnZajIIoV0M6rL0uCbUXmfqKiYSMn_VF7gRhV
+#EXTINF:-1, Sinema TV 2 HD
+http://cdn.troya.one:80/ch1527/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ3RzNm__kEQXgvC1njSnR92KGb4QoF8nX3BBA0583Qo
+#EXTINF:-1, Sinema 1001 HD
+http://cdn.troya.one:80/ch1401/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAQnnZMweSmiNphhC8So0gFDUut1iEjrNfONpokIoGQI
+#EXTINF:-1, Sinema 1002 HD
+http://cdn.troya.one:80/ch1402/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJoC_UrSF9VCsRJfXOPx5UrJtWEl_P0SR1i5-nI5ZNPJ
+#EXTINF:-1, Sinema Aile HD
+http://cdn.troya.one:80/ch1404/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBJmtil4QXkBISKhSgM5bqIIREBFGoBjnQOm7kJ-rfe8
+#EXTINF:-1, Sinema Aile 2 HD
+http://cdn.troya.one:80/ch1403/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDPjwz79xpWDHBUCWut870d8_Rhr9uc3RtpcIFX23Djy
+#EXTINF:-1, Sinema Aksion HD
+http://cdn.troya.one:80/ch1459/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJlBNevcRIdVrVXQ1JDM9ySaq23FeMR4umsJtth3aMkY
+#EXTINF:-1, Sinema Aksion 2 HD
+http://cdn.troya.one:80/ch1405/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKMLVTykA6DbTQTQSn_5D6WXDzYOj4ygGWMb2S6jMs48
+#EXTINF:-1, Sinema Komedi HD
+http://cdn.troya.one:80/ch1407/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD39BxKCi6WcKTv8_DZjn-IB1zB1TiMIWrrIGZ1Yd0EX
+#EXTINF:-1, Sinema Komedi 2 HD
+http://cdn.troya.one:80/ch1406/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC2Xpn1YtieEbd4Kp0CjjcFt2err5O7rQ8KspjpBxp7U
+#EXTINF:-1, Sinema Yerli
+http://cdn.troya.one:80/ch1457/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iErd_MEpIOEc3ntI4OKnykbDr-JQHo_NqlcFU_TJjHhG
+#EXTINF:-1, Sinema Yerli 2
+http://cdn.troya.one:80/ch1458/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iP3LzW319mvYjd41KZIKtbNdyCeV6jalGAtn3iGekwnJ
+#EXTINF:-1, Spor Smart HD
+http://cdn.troya.one:80/ch1408/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJKGoRQwQhHYR-2VA3FV4Zp7yO6Pc5eoAMq-CF6fsouo
+#EXTINF:-1, Spor Smart 2 HD
+http://cdn.troya.one:80/ch1784/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iG6nSdyPZZFTuHCHDWxpKcNtM2TiHeyf97psLcacx9f9
+#EXTINF:-1, Star TV HD
+http://cdn.troya.one:80/ch1409/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFIJVkqBOMQd1rlbXWhExP5MxnpqP8wnm267n8tDirk2
+#EXTINF:-1, Tgrt Haber HD
+http://cdn.troya.one:80/ch1464/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJQQSXvglT8v5Fkr3smKagQ3NbnyYjNkC_htrjvdFa24
+#EXTINF:-1, Tele1 HD
+http://cdn.troya.one:80/ch2486/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCWklzAVynSUcEh7Xpjs1U9zv3Xq4nh5gAZN2cLd2-ow
+#EXTINF:-1, Teve2 HD
+http://cdn.troya.one:80/ch1410/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFsV7TAG-zdFIvw23EcbgChBNRWTVRmatrMrw4yMeymg
+#EXTINF:-1, TLC HD
+http://cdn.troya.one:80/ch1411/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKeJRaX1I21CmPsTq3M_agj78cvK3hEu8Am8Av-vTXX0
+#EXTINF:-1, TRT 4K UHD
+http://cdn.troya.one:80/ch1455/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iE1rags4gZzpKJXcsEHPHRgHUVYRDekjHbFArgL_Lb9w
+#EXTINF:-1, TRT 1 HD
+http://cdn.troya.one:80/ch1419/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKm6lJyS8x2yJIla_rDG0OZOp1e9u1n9pxZvBcQ2c13x
+#EXTINF:-1, TRT 2 HD
+http://cdn.troya.one:80/ch2487/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEuOCSfTVcr-2bdCZ4rM4WSq9hVG5w_fSVYQieerFADR
+#EXTINF:-1, TRT 3 HD
+http://cdn.troya.one:80/ch2488/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLLtS37r-RR9UDcM1TLVsv59Ss_K5wSoicZ2hyQ_fcGb
+#EXTINF:-1, TRT Belgesel HD
+http://cdn.troya.one:80/ch1412/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPnR5N1Yo5I3w3tUWL-egaSTeyRXed1_2RjpFwcjieEb
+#EXTINF:-1, TRT Haber HD
+http://cdn.troya.one:80/ch1414/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDjuYHH43tuL5YsSI1SfqTXLN908c-UutZmDbmzA0Jgk
+#EXTINF:-1, TRT Muzik HD
+http://cdn.troya.one:80/ch1415/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPuQzR3gfG575CyHXNRHm_M_K71p0BLCYT8VmYIrpIZT
+#EXTINF:-1, TRT Spor HD
+http://cdn.troya.one:80/ch1416/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ3m4VzCb3Jn1wGEyOcOKUdaE2bEn1AXHZrlFfjWmNfT
+#EXTINF:-1, TRT Spor Yildiz TV
+http://cdn.troya.one:80/ch2474/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMB-bE9kgpz_PWAukIa9sWDvBmXGlTVDksCekCCAPAeN
+#EXTINF:-1, TRT Turk HD
+http://cdn.troya.one:80/ch1417/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA83iRU8odRAx1yrXxeC-lJvGbjMMbqMJHHZDB_MPS5S
+#EXTINF:-1, TRT World HD
+http://cdn.troya.one:80/ch1418/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iBWFPPf3C4d5oyZapZsxqNPK4d-mXAEpMTsvJoOpFDLk
+#EXTINF:-1, TRT Cocuk HD
+http://cdn.troya.one:80/ch1413/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPGPAiRPLZnnd_g75rAAwoktXpseEWIMBhReDNEs_NXY
+#EXTINF:-1, TRT Avaz HD
+http://cdn.troya.one:80/ch1359/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iF2VDYX-Zq_FMItNYZhhFYi6S-9AVLr_KX5ZKka1ZTG-
+#EXTINF:-1, TRT Kurdi HD
+http://cdn.troya.one:80/ch1347/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJRVsmFcA7hM5A6HulWvJvEFyc62TWpHHlmfAfsRnSeg
+#EXTINF:-1, TV 100 HD
+http://cdn.troya.one:80/ch1420/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHwIJtcJdsQHghh75s9xUl9nVMdwWDLUoVCDcUL5-qm1
+#EXTINF:-1, TV 4 HD
+http://cdn.troya.one:80/ch1421/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDhLClPxhl7v-MyzDo0r4AK4Pw-yz3yu8xVOPTNzTYHM
+#EXTINF:-1, TV24 HD
+http://cdn.troya.one:80/ch1422/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDh1F9cfNSHQ-xVxNtebz2j08YPu-o7onPeEuXJfWVJ7
+#EXTINF:-1, TV8 HD
+http://cdn.troya.one:80/ch1423/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLugY7aRjkWC8DZ8I_L2kE9MGkH75JILUqnqG3TkDYSD
+#EXTINF:-1, TV 8.5 HD
+http://cdn.troya.one:80/ch1348/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKPdBfQONV8ed8313GkqAJ0ynMQ3TZ5tMheVs5nGn8wZ
+#EXTINF:-1, Tivibu Spor 1 HD
+http://cdn.troya.one:80/ch1451/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEb0pg9qFb9k_AcL-okd65FXnbFZQ7bxRk4z7ockWEHT
+#EXTINF:-1, Tivibu Spor 2 HD
+http://cdn.troya.one:80/ch1452/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCPVJoe3rdJf0vEnC6ISVf_x9Z-8kxrqFg5jLyE9cwRF
+#EXTINF:-1, Tivibu Spor 3 HD
+http://cdn.troya.one:80/ch1453/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGO3lXUYVcR9U6vyCV1qNEDTCP8XstwRlb2G8EpSkXI2
+#EXTINF:-1, Exxen 1 HD
+http://cdn.troya.one:80/ch1994/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPX_qKrkC75cxVPdZ8Q1Qpy8P3hJneEfDA98kZRTl4N-
+#EXTINF:-1, Exxen 2 HD
+http://cdn.troya.one:80/ch1995/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iObXg23K9i_VVg3hKpA-HvsPEyvbQz_gTljpjIXjELGZ
+#EXTINF:-1, Exxen 3 HD
+http://cdn.troya.one:80/ch1996/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iB9yh8ydOFzmXd3BVEF9MnC53kY2Fi6vFPHIx3c6jGgV
+#EXTINF:-1, Exxen 4 HD
+http://cdn.troya.one:80/ch1997/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iFPDsq9-FdqzfIGK3nI4uWYui4c7zZqk1lRdGK_KX0do
+#EXTINF:-1, Exxen 5 HD
+http://cdn.troya.one:80/ch1998/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHjPdiF-_7d6m-ROGc861BaQOtJGC1ma48m8tFB9Dmj3
+#EXTINF:-1, Exxen 6 HD
+http://cdn.troya.one:80/ch1999/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCVA6OH13aG4U_ODxtcMUpaFoguzCTmS6mvG9NS8pcIf
+#EXTINF:-1, Exxen 7 HD
+http://cdn.troya.one:80/ch2000/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAjkgk6Rv1DUi42PqlJnTVklEmE96hAlscJpc6hxrQOl
+#EXTINF:-1, Exxen 8 HD
+http://cdn.troya.one:80/ch2001/m
