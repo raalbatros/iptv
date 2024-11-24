@@ -27,7 +27,7 @@ http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Turk" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
 http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Turk" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
-http://casiotv.xyz:8080/live/snn2192/snn.353/6210.ts
+http://50.7.144.122:1935/livetv/cnnturk.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
 http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" ,A HABER
