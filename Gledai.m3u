@@ -1,115 +1,115 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:0,TRT 1
-http://raalbatros.serv00.net/Gledai?ID=trt1
+http://raalbatros.serv00.net/Gledai.php?ID=trt1
 #EXTINF:0,Atv
-http://raalbatros.serv00.net/Gledai?ID=atv
+http://raalbatros.serv00.net/Gledai.php?ID=atv
 #EXTINF:0,Now
-http://raalbatros.serv00.net/Gledai?ID=foxtv
+http://raalbatros.serv00.net/Gledai.php?ID=foxtv
 #EXTINF:0,Kanal D
-http://raalbatros.serv00.net/Gledai?ID=kanald
+http://raalbatros.serv00.net/Gledai.php?ID=kanald
 #EXTINF:0,Show
-http://raalbatros.serv00.net/Gledai?ID=showtv
+http://raalbatros.serv00.net/Gledai.php?ID=showtv
 #EXTINF:0,Star
-http://raalbatros.serv00.net/Gledai?ID=startv
+http://raalbatros.serv00.net/Gledai.php?ID=startv
 #EXTINF:0,24 Kitchen
-http://raalbatros.serv00.net/Gledai?ID=24kitchen
+http://raalbatros.serv00.net/Gledai.php?ID=24kitchen
 #EXTINF:0,AMC
-http://raalbatros.serv00.net/Gledai?ID=amc
+http://raalbatros.serv00.net/Gledai.php?ID=amc
 #EXTINF:0,Animal Planet
-http://raalbatros.serv00.net/Gledai?ID=animalplanet
+http://raalbatros.serv00.net/Gledai.php?ID=animalplanet
 #EXTINF:0,AXN
-http://raalbatros.serv00.net/Gledai?ID=axn
+http://raalbatros.serv00.net/Gledai.php?ID=axn
 #EXTINF:0,Balkanika TV
-http://raalbatros.serv00.net/Gledai?ID=balkanika
+http://raalbatros.serv00.net/Gledai.php?ID=balkanika
 #EXTINF:0,BNT 1
-http://raalbatros.serv00.net/Gledai?ID=bnt
+http://raalbatros.serv00.net/Gledai.php?ID=bnt
 #EXTINF:0,BNT 2
-http://raalbatros.serv00.net/Gledai?ID=bnt2
+http://raalbatros.serv00.net/Gledai.php?ID=bnt2
 #EXTINF:0,BNT 3
-http://raalbatros.serv00.net/Gledai?ID=bnthd
+http://raalbatros.serv00.net/Gledai.php?ID=bnthd
 #EXTINF:0,BNT 4
-http://raalbatros.serv00.net/Gledai?ID=bnt4
+http://raalbatros.serv00.net/Gledai.php?ID=bnt4
 #EXTINF:0,bTV
-http://raalbatros.serv00.net/Gledai?ID=btv
+http://raalbatros.serv00.net/Gledai.php?ID=btv
 #EXTINF:0,bTV Action
-http://raalbatros.serv00.net/Gledai?ID=btvaction
+http://raalbatros.serv00.net/Gledai.php?ID=btvaction
 #EXTINF:0,bTV Cinema
-http://raalbatros.serv00.net/Gledai?ID=btvcinema
+http://raalbatros.serv00.net/Gledai.php?ID=btvcinema
 #EXTINF:0,bTV Comedy
-http://raalbatros.serv00.net/Gledai?ID=btvcomedy
+http://raalbatros.serv00.net/Gledai.php?ID=btvcomedy
 #EXTINF:0,bTV Lady
-http://raalbatros.serv00.net/Gledai?ID=btvlady
+http://raalbatros.serv00.net/Gledai.php?ID=btvlady
 #EXTINF:0,Cartoon Network
-http://raalbatros.serv00.net/Gledai?ID=cartoon
+http://raalbatros.serv00.net/Gledai.php?ID=cartoon
 #EXTINF:0,Diema
-http://raalbatros.serv00.net/Gledai?ID=diema
+http://raalbatros.serv00.net/Gledai.php?ID=diema
 #EXTINF:0,Diema Family
-http://raalbatros.serv00.net/Gledai?ID=diemaf
+http://raalbatros.serv00.net/Gledai.php?ID=diemaf
 #EXTINF:0,Diema Sport
-http://raalbatros.serv00.net/Gledai?ID=diemasport
+http://raalbatros.serv00.net/Gledai.php?ID=diemasport
 #EXTINF:0,Diema Sport 2
-http://raalbatros.serv00.net/Gledai?ID=diemasport2
+http://raalbatros.serv00.net/Gledai.php?ID=diemasport2
 #EXTINF:0,Diema Sport 3
-http://raalbatros.serv00.net/Gledai?ID=diemasport3
+http://raalbatros.serv00.net/Gledai.php?ID=diemasport3
 #EXTINF:0,Discovery Channel
-http://raalbatros.serv00.net/Gledai?ID=discovery
+http://raalbatros.serv00.net/Gledai.php?ID=discovery
 #EXTINF:0,Disney Channel
-http://raalbatros.serv00.net/Gledai?ID=disney
+http://raalbatros.serv00.net/Gledai.php?ID=disney
 #EXTINF:0,DocuBox
-http://raalbatros.serv00.net/Gledai?ID=docubox
+http://raalbatros.serv00.net/Gledai.php?ID=docubox
 #EXTINF:0,Epic Drama
-http://raalbatros.serv00.net/Gledai?ID=epicdrama
+http://raalbatros.serv00.net/Gledai.php?ID=epicdrama
 #EXTINF:0,Eurosport 1
-http://raalbatros.serv00.net/Gledai?ID=eurosport
+http://raalbatros.serv00.net/Gledai.php?ID=eurosport
 #EXTINF:0,Eurosport 2
-http://raalbatros.serv00.net/Gledai?ID=eurosport2
+http://raalbatros.serv00.net/Gledai.php?ID=eurosport2
 #EXTINF:0,Fox Life
-http://raalbatros.serv00.net/Gledai?ID=foxlife
+http://raalbatros.serv00.net/Gledai.php?ID=foxlife
 #EXTINF:0,History Channel
-http://raalbatros.serv00.net/Gledai?ID=history
+http://raalbatros.serv00.net/Gledai.php?ID=history
 #EXTINF:0,Investigation Discovery
-http://raalbatros.serv00.net/Gledai?ID=idx
+http://raalbatros.serv00.net/Gledai.php?ID=idx
 #EXTINF:0,Kino Nova
-http://raalbatros.serv00.net/Gledai?ID=kino
+http://raalbatros.serv00.net/Gledai.php?ID=kino
 #EXTINF:0,Max Sport 1
-http://raalbatros.serv00.net/Gledai?ID=maxsport1
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport1
 #EXTINF:0,Max Sport 2
-http://raalbatros.serv00.net/Gledai?ID=maxsport2
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport2
 #EXTINF:0,Max Sport 3
-http://raalbatros.serv00.net/Gledai?ID=maxsport3
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
 #EXTINF:0,Max Sport 4
-http://raalbatros.serv00.net/Gledai?ID=maxsport4
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 #EXTINF:0,Movie Star
-http://raalbatros.serv00.net/Gledai?ID=moviestar
+http://raalbatros.serv00.net/Gledai.php?ID=moviestar
 #EXTINF:0,Nat Geo Wild
-http://raalbatros.serv00.net/Gledai?ID=natgeowild
+http://raalbatros.serv00.net/Gledai.php?ID=natgeowild
 #EXTINF:0,National Geographic
-http://raalbatros.serv00.net/Gledai?ID=ng
+http://raalbatros.serv00.net/Gledai.php?ID=ng
 #EXTINF:0,Nick Jr.
-http://raalbatros.serv00.net/Gledai?ID=nickjr
+http://raalbatros.serv00.net/Gledai.php?ID=nickjr
 #EXTINF:0,Nick Toons
-http://raalbatros.serv00.net/Gledai?ID=nicktoons
+http://raalbatros.serv00.net/Gledai.php?ID=nicktoons
 #EXTINF:0,Nickelodeon
-http://raalbatros.serv00.net/Gledai?ID=nickelodeon
+http://raalbatros.serv00.net/Gledai.php?ID=nickelodeon
 #EXTINF:0,Nova
-http://raalbatros.serv00.net/Gledai?ID=nova
+http://raalbatros.serv00.net/Gledai.php?ID=nova
 #EXTINF:0,Nova Sport
-http://raalbatros.serv00.net/Gledai?ID=novasport
+http://raalbatros.serv00.net/Gledai.php?ID=novasport
 #EXTINF:0,Planeta Folk
-http://raalbatros.serv00.net/Gledai?ID=planetafolk
+http://raalbatros.serv00.net/Gledai.php?ID=planetafolk
 #EXTINF:0,Planeta HD
-http://raalbatros.serv00.net/Gledai?ID=planetahd
+http://raalbatros.serv00.net/Gledai.php?ID=planetahd
 #EXTINF:0,Ring BG
-http://raalbatros.serv00.net/Gledai?ID=ringbg
+http://raalbatros.serv00.net/Gledai.php?ID=ringbg
 #EXTINF:0,STAR Channel
-http://raalbatros.serv00.net/Gledai?ID=fox
+http://raalbatros.serv00.net/Gledai.php?ID=fox
 #EXTINF:0,Star Crime
-http://raalbatros.serv00.net/Gledai?ID=foxcrime
+http://raalbatros.serv00.net/Gledai.php?ID=foxcrime
 #EXTINF:0,TLC
-http://raalbatros.serv00.net/Gledai?ID=tlc
+http://raalbatros.serv00.net/Gledai.php?ID=tlc
 #EXTINF:0,Viasat Explore
-http://raalbatros.serv00.net/Gledai?ID=viasat_explore
+http://raalbatros.serv00.net/Gledai.php?ID=viasat_explore
 #EXTINF:0,Viasat History
-http://raalbatros.serv00.net/Gledai?ID=viasat_history
+http://raalbatros.serv00.net/Gledai.php?ID=viasat_history
 #EXTINF:0,Viasat Nature
-http://raalbatros.serv00.net/Gledai?ID=viasat_nature
+http://raalbatros.serv00.net/Gledai.php?ID=viasat_nature
