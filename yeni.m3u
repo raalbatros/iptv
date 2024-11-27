@@ -9,7 +9,7 @@ http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" ,SHOW TV
 http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox" tvg-name="Now" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
+#EXTINF:-1 tvg-id="FOX" tvg-name="Now" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 http://hw1.jemtv.com/app/beyaz/playlist.m3u8
@@ -17,7 +17,7 @@ http://hw1.jemtv.com/app/beyaz/playlist.m3u8
 http://hw1.jemtv.com/app/tv8/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
 http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
-#EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
+#EXTINF:-1 tvg-id="teve2" tvg-name="Teve2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
 http://hw1.jemtv.com/app/360tv/playlist.m3u8
@@ -26,7 +26,7 @@ http://hw1.jemtv.com/app/360tv/playlist.m3u8
 http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
 #EXTINF:-1 tvg-id="Haber Türk" tvg-name="Haber Turk" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
 http://stream.tvcdn.net/haber/haberturk.m3u8
-#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="CNN Turk" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
+#EXTINF:-1 tvg-id="CNN Türk" tvg-name="CNN Turk" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
 https://trn03.tulix.tv/gt-cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
 http://stream.tvcdn.net/haber/trt-haber.m3u8
