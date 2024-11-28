@@ -1,9 +1,19 @@
+#EXTM3U
+#EXTINF:0, TRT 1
 https://us-cdn-1.varsportscdn1.lol/trt1/index.m3u8
+#EXTINF:0, TRT SPOR
 https://us-cdn-1.varsportscdn1.lol/trtspor/index.m3u8
+#EXTINF:0, TABII
 https://fr-cdn-1.varsportscdn1.lol/tabii/index.m3u8
+#EXTINF:0, TABII 1
 https://fr-cdn-1.varsportscdn1.lol/tabii1/index.m3u8
+#EXTINF:0, TABII 2
 https://fr-cdn-1.varsportscdn1.lol/tabii2/index.m3u8
+#EXTINF:0, TABII 3
 https://fr-cdn-1.varsportscdn1.lol/tabii3/index.m3u8
+#EXTINF:0, TABII 4
 https://fr-cdn-1.varsportscdn1.lol/tabii4/index.m3u8
+#EXTINF:0, TABII 5
 https://fr-cdn-1.varsportscdn1.lol/tabii5/index.m3u8
+#EXTINF:0, TABII 6
 https://fr-cdn-1.varsportscdn1.lol/tabii6/index.m3u8
