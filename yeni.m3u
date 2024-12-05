@@ -49,6 +49,8 @@ https://lives.anystreamrectv3.live/live/sinema1001.m3u8
 https://lives.anystreamrectv3.live/live/sinemaaksiyon.m3u8
 #EXTINF:-1 tvg-id="Superturkmax.tr" tvg-name="Sinema Tv 4" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 4
 https://lives.anystreamrectv3.live/live/sinemaaksiyon2.m3u8
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="NAT GEO WİLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NAT GEO WİLD
+http://ftnh1923.nl:8080/live/Xmetro/W7jCQGXcqH/6378.ts
 #EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-id="TRT4k.tr" tvg-name="TRT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/TRT-4K.jpg" ,TRT 4K
@@ -75,7 +77,7 @@ https://lives.anystreamrectv3.live/live/ssport2.m3u8
 #EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN 1
 http://ftnh1923.nl:8080/live/Xmetro/W7jCQGXcqH/80821.ts
 
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 abg
-http://abgfnx59.xyz:8080/live/mlh0240/mlh.90/35650.ts
+#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 ftn
+http://ftnh1923.nl:8080/live/Xmetro/W7jCQGXcqH/151112.ts
 #EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 maxbe
 http://maxbestugr.xyz:8080/live/mhm0948/bh.671/35650.ts
