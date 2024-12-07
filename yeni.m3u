@@ -42,15 +42,15 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-id="Sinematv1.tr" tvg-name="Sinema Tv 1" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1
-https://lives.anystreamrectv3.live/live/sinemayerli.m3u8
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMzczNTA5NzQ5YmE3YzVmNTExYTU=
 #EXTINF:-1 tvg-id="Sinematv2.tr" tvg-name="Sinema Tv 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 2
-https://lives.anystreamrectv3.live/live/sinema1001.m3u8
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg4NDc2NjA2ODEwOTZiMTNkNWM0Mg==
 #EXTINF:-1 tvg-id="Superturk.tr" tvg-name="Sinema Tv 3" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 3
-https://lives.anystreamrectv3.live/live/sinemaaksiyon.m3u8
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMDg2MDI5MjgxMjEzMDUyODg1Yjc=
 #EXTINF:-1 tvg-id="Superturkmax.tr" tvg-name="Sinema Tv 4" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 4
-https://lives.anystreamrectv3.live/live/sinemaaksiyon2.m3u8
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1ODUzNTczMTc1NzQ1MTY1ODQ0YzY=
 #EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="NAT GEO WİLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NAT GEO WİLD
-http://ftnh1923.nl:8080/live/Xmetro/W7jCQGXcqH/6378.ts
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMjQxNjYxNjJmODM5MWE3Y2E2Mw==
 #EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-id="TRT4k.tr" tvg-name="TRT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/TRT-4K.jpg" ,TRT 4K
@@ -69,7 +69,7 @@ https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
 https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkzNjkwODI3NDlmNmE4NmY4NTBjMQ==
 #EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN 1
-http://ftnh1923.nl:8080/live/Xmetro/W7jCQGXcqH/80821.ts
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwOTE0MDM5MTI1NTk2NWNlM2NiMDc=
 
 #EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 ozweb
 https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNjM4MjcyMjNiZmI5Y2UyMTJhMzU=
