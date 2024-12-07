@@ -64,20 +64,14 @@ http://hw1.jemtv.com/app/tv85/playlist.m3u8
 http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 tvg-id="TRTSporyildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
-#EXTINF:-1 tvg-id="TIVIBUSPOR 1" tvg-name="TIVIBUSPOR 1" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" ,TIVIBU SPOR 1
-https://lives.anystreamrectv3.live/live/tivi1.m3u8
-#EXTINF:-1 tvg-id="TIVIBUSPOR 2" tvg-name="TIVIBUSPOR 2" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" ,TIVIBU SPOR 2
-https://lives.anystreamrectv3.live/live/tivi2.m3u8
-#EXTINF:-1 tvg-id="TIVIBUSPOR 3" tvg-name="TIVIBUSPOR 3" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" ,TIVIBU SPOR 3
-https://lives.anystreamrectv3.live/live/tivi3.m3u8
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-https://lives.anystreamrectv3.live/live/ssport.m3u8
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMjMyNzM1OThmM2VhODMyMTk1MTY=
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-https://lives.anystreamrectv3.live/live/ssport2.m3u8
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkzNjkwODI3NDlmNmE4NmY4NTBjMQ==
 #EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN 1
 http://ftnh1923.nl:8080/live/Xmetro/W7jCQGXcqH/80821.ts
 
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 ftn
-http://ftnh1923.nl:8080/live/Xmetro/W7jCQGXcqH/151112.ts
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 maxbe
-http://maxbestugr.xyz:8080/live/mhm0948/bh.671/35650.ts
+#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 ozweb
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNjM4MjcyMjNiZmI5Y2UyMTJhMzU=
+#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 death
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NzEwNTg4OTI0NTkxMDNkZTc3YQ==
