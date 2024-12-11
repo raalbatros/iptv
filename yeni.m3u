@@ -55,6 +55,8 @@ https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-id="TRT4k.tr" tvg-name="TRT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/TRT-4K.jpg" ,TRT 4K
 https://trn03.tulix.tv/gt-trt4k/index.m3u8
+#EXTINF:-1 tvg-id="tabii.tr" tvg-name="TABİİ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Trt-tabii-logo.png" ,TABİİ TV
+https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist/0.m3u8
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://185.234.111.229:8000/play/a00e
