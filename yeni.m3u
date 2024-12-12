@@ -4,7 +4,7 @@ http://raalbatros.serv00.net/Gledai.php?ID=trt1
 #EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-https://trn03.tulix.tv/gt-atv-tv/tracks-v1a1/mono.m3u8
+http://raalbatros.serv00.net/Gledai.php?ID=atv
 #EXTINF:-1 tvg-id="Star" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" ,SHOW TV
