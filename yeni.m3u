@@ -4,7 +4,7 @@ https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9
 #EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://hw1.jemtv.com/app/KanalD/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-https://tgn.bozztv.com/trn03/gt-atv-tv/tracks-v1a1/mono.m3u8?nimblesessionid=538257866
+http://116.202.238.88/ATV_TR/index.m3u8
 #EXTINF:-1 tvg-id="Star" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 http://hw1.jemtv.com/app/StarTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" ,SHOW TV
