@@ -31,7 +31,7 @@ https://trn03.tulix.tv/gt-cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" ,A HABER
-http://stream.tvcdn.net/haber/a-haber.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1734403058/ei/ko9gZ5iuG5icp-oP6oq66AQ/ip/172.71.160.85/id/erCmQucF6_U.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-4g5lznl6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/x-caUCYCiK6LYvVose-4nCrbq5BsJGvUser2y0K_RobBpComO1aldENx4tJO3sw/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/2205000/met/1734381459,/mh/60/mip/95.223.78.84/mm/44/mn/sn-4g5lznl6/ms/lva/mv/m/mvi/3/pl/22/rmhost/rr1---sn-4g5lznl6.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51347747,51355912/mt/1734380922/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPcipY_l1cL2b4sog2CQ76eqre5PVOvjSTeELO-knfcaAiBsAfzmxF4GCVxnn0Qcf8DRoTlvf4mpHVpR4qPCmnmOpg%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/AGluJ3MwRgIhAKhziH3QqAlQ1X7hY_71g51VT_S6KPKH8JZDQY39kd62AiEAhbFhQhWtQKJy-CVKgiS-Y8SDa5PgDKtV4iIIXMBy4Zg%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="24" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TVNET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
@@ -59,9 +59,9 @@ https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playli
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://185.234.111.229:8000/play/a00e
 #EXTINF:-1 tvg-id="TV 8 5" tvg-name="TV 85" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
-http://hw1.jemtv.com/app/tv85/playlist.m3u8
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?=&sid=6zxwa58fn7fn&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=2
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
-http://stream.tvcdn.net/spor/a-spor.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1734402693/ei/JY5gZ4bZFIGjp-oPsOzw0Qk/ip/172.71.160.85/id/7uBpwcn2ZZ0.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-4g5lzner.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/x-caUNLU1Zxft1XRADaqfKG72fuWx7M89PbtVGnHqIfljBWRyC1LEmxp8RSXg3M/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/2445000/met/1734381094,/mh/G6/mip/95.223.78.84/mm/44/mn/sn-4g5lzner/ms/lva/mv/m/mvi/1/pl/22/rmhost/rr4---sn-4g5lzner.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51347747,51355912/mt/1734380683/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgCW3S8d_rwSYZEC_C1bpOldxTSGpNI-v6-4Gs4ZzgcFoCIQCHg0ULcMg1nTm6zfrVFKJO_esvvqfvz0icbU5o478B9g%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/AGluJ3MwRQIhANJiXlWW1NK7q861eMvgDozbDEzhnOTrpjgfb-lzrdtpAiAqd18ZJ_mcVfrr6qx1MQd1oUqrU9qv1JyRc3X6XDCJvQ%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="TRTSporyildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
