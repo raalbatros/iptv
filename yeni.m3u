@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NjIxOTkyNTgyMjJkOGNkODFkYzE=
 #EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-http://hw1.jemtv.com/app/KanalD/playlist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
 https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ1NTkzMDQyNTU5NDFjZGVmNzA1Zg==
 #EXTINF:-1 tvg-id="Star" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
@@ -10,22 +10,22 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" ,SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="Now" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
-http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
+https://trn03.tulix.tv/gt-foxturktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
-http://hw1.jemtv.com/app/beyaz/playlist.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
-http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-id="teve2" tvg-name="Teve2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
-http://hw1.jemtv.com/app/360tv/playlist.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
-http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
+https://trn03.tulix.tv/gt-ntvtv/index.m3u8
 #EXTINF:-1 tvg-id="Haber Türk" tvg-name="Haber Turk" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
-http://stream.tvcdn.net/haber/haberturk.m3u8
+https://trn03.tulix.tv/gt-haberturk/index.m3u8
 #EXTINF:-1 tvg-id="CNN Türk" tvg-name="CNN Türk" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
 https://trn03.tulix.tv/gt-cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
