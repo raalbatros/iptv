@@ -14,7 +14,7 @@ https://trn03.tulix.tv/gt-foxturktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+https://trn03.tulix.tv/gt-tv8-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-id="teve2" tvg-name="Teve2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
