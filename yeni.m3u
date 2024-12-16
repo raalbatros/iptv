@@ -32,8 +32,6 @@ https://trn03.tulix.tv/gt-cnnturk/index.m3u8
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" ,A HABER
 http://stream.tvcdn.net/haber/a-haber.m3u8
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" ,BLOOMBERG HT
-http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="24" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
 http://stream.tvcdn.net/haber/24-tv.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TVNET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
