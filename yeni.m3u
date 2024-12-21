@@ -69,7 +69,7 @@ https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9
 
 #EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 ozweb
 https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNTI0MjEwNTMwNDIwMzA5MGM1ZWI=
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 pw
-http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84872&t=live&f=ts
+#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 cdn
+https://it-cdn-1.varsportscdn1.lol/601/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 free
 http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
