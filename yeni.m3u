@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/download.php?file=turkeypremium2.xml"
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
-#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 tvg-id="Star" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
+#EXTINF:-1 tvg-id="Star.tr" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 http://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=SSgrVMtHVdsn1GTyw46WiA&e=1734987186
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" ,SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="Now" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
+#EXTINF:-1 tvg-id="FOX.tr" tvg-name="Now" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
 https://trn03.tulix.tv/gt-foxturktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -17,7 +17,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://trn03.tulix.tv/gt-tv8-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 tvg-id="teve2" tvg-name="Teve2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="Teve2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
