@@ -38,11 +38,11 @@ https://trn03.tulix.tv/gt-tvnet/index.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-id="Sinematv1.tr" tvg-name="Sinema Tv 1" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1
-http://ftnh1923.nl:8080/live/Xmetro/W7jCQGXcqH/220064.ts
+http://65.21.85.175:8000/play/a01w/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="Sinematv2.tr" tvg-name="Sinema Tv 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 2
-http://ftnh1923.nl:8080/live/Xmetro/W7jCQGXcqH/219954.ts
+http://65.21.85.175:8000/play/a01x/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="Superturk.tr" tvg-name="Sinema Tv 3" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 3
-http://ftnh1923.nl:8080/live/Xmetro/W7jCQGXcqH/220102.ts
+http://65.21.85.175:8000/play/a01z/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="Superturkmax.tr" tvg-name="Sinema Tv 4" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 4
 http://ftnh1923.nl:8080/live/Xmetro/W7jCQGXcqH/124803.ts
 #EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="NAT GEO WİLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NAT GEO WİLD
