@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,A2_TR
 http://65.21.85.175:8000/play/a00f/index.m3u8?token=livetv
 #EXTINF:-1,365
@@ -38,11 +39,7 @@ http://65.21.85.175:8000/play/a01x/index.m3u8?token=livetv
 http://65.21.85.175:8000/play/a01y/index.m3u8?token=livetv
 #EXTINF:-1,Sinema TR
 http://65.21.85.175:8000/play/a02i/index.m3u8?token=livetv
-#EXTINF:-1,Sinema komedi
+#EXTINF:-1,Sinema kanal
 http://65.21.85.175:8000/play/a01z/index.m3u8?token=livetv
-#EXTINF:-1,TMB AZ
-http://65.21.85.175:8000/play/a02o/index.m3u8?token=livetv
-#EXTINF:-1,TRT-1
-http://65.21.85.175:8000/play/a02k/index.m3u8?token=livetv
 #EXTINF:-1,TV-4
 http://65.21.85.175:8000/play/a022/index.m3u8?token=livetv
