@@ -22,17 +22,17 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="360" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
 https://trn03.tulix.tv/gt-ntvtv/index.m3u8
-#EXTINF:-1 tvg-id="Haber Türk" tvg-name="Haber Turk" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
+#EXTINF:-1 tvg-id="Haber Turk" tvg-name="Haber Turk" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
 https://trn03.tulix.tv/gt-haberturk/index.m3u8
-#EXTINF:-1 tvg-id="CNN Türk" tvg-name="CNN Türk" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
+#EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN Türk" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
 https://trn03.tulix.tv/gt-cnnturk/index.m3u8
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
+#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="24.tr" tvg-name="24" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
+#EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
-#EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TVNET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
+#EXTINF:-1 tvg-id="TV Net" tvg-name="TVNET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
 https://trn03.tulix.tv/gt-tvnet/index.m3u8
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT HABER" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 https://canli.tgrthaber.com/tgrt.m3u8
@@ -52,13 +52,13 @@ http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="TRT4k.tr" tvg-name="TRT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/TRT-4K.jpg" ,TRT 4K
 https://trn03.tulix.tv/gt-trt4k/index.m3u8
 
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
+#EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
 http://185.234.111.229:8000/play/a00e
-#EXTINF:-1 tvg-id="TV 8 5" tvg-name="TV 85" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
+#EXTINF:-1 tvg-id="TV 8,5" tvg-name="TV 85" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
 https://tv.arectv3.xyz/live/tv85.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
+#EXTINF:-1 tvg-id="a Spor" tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
 https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NTY3MTEwMzBlMGQyZDUzNGRkNWE=
-#EXTINF:-1 tvg-id="TRTSporyildiz.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
+#EXTINF:-1 tvg-id="TRT Spor Yıldız" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 https://tgn.bozztv.com/dvrfl05/gin-trtspor2/playlist.m3u8
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
 http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6825/index.m3u8
