@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/download.php?file=turkeypremium2.xml"
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+http://149.18.66.78:80/live/play/U1ZoeE1WQjZkMFV3VUM5SVdHdGlVbk5DVlZOWVEyUjFhRVpEU2pkb1psTmpia1JoUmxCNGFXOXlXVDA9/14759
 #EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
