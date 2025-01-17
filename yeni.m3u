@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml"
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-http://raalbatros.serv00.net/Gledai.php?ID=trt1
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
@@ -37,35 +37,31 @@ https://trn03.tulix.tv/gt-tvnet/index.m3u8
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT HABER" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 tvg-id="Sinema Tv 1001" tvg-name="Sinema Tv 1" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1
-http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6744/index.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv Aksiyon" tvg-name="Sinema Tv 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 2
-http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6745/index.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv" tvg-name="Sinema Tv 3" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 3
-http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6743/index.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv Aile 2" tvg-name="Sinema Tv 4" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 4
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Sinema Tv 1001" tvg-name="Sinema Tv 1" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1001
+http://live.admuspeh.my/8848/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="Sinema Tv Aksiyon" tvg-name="Sinema Tv 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV AKSIYON
+http://live.admuspeh.my/8839/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="Sinema Tv" tvg-name="Sinema Tv 3" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1
+http://live.admuspeh.my/8846/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="Sinema Tv Aile 2" tvg-name="Sinema Tv 4" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV AILE 2
+http://live.admuspeh.my/8853/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="Sinema Komedi" tvg-name="Sinema Komedi" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV KOMEDI
+http://live.admuspeh.my/8855/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="National Geographic WILD" tvg-name="NAT GEO WİLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NAT GEO WİLD
 http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6866/index.m3u8
 #EXTINF:-1 tvg-id="a2" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
-#EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/TRT-4K.jpg" ,TRT 4K
-https://trn03.tulix.tv/gt-trt4k/index.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
-http://185.234.111.229:8000/play/a00e
+http://live.admuspeh.my/8827/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="TV 8,5" tvg-name="TV 85" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
-https://tv.arectv3.xyz/live/tv85.m3u8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="a Spor" tvg-name="A Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
-https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NTY3MTEwMzBlMGQyZDUzNGRkNWE=
+https://x.canlitvapp.com/aspor/index.m3u8
 #EXTINF:-1 tvg-id="TRT Spor Yıldız" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 https://tgn.bozztv.com/dvrfl05/gin-trtspor2/playlist.m3u8
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6825/index.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" ,S SPORT 2
-https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyMzQ2MDQ4ODA2YTFhNWM0MTM3YzE=
-#EXTINF:-1 tvg-id="exxen" tvg-name="EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" ,EXXEN 1
-https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwOTE0MDM5MTI1NTk2NWNlM2NiMDc=
+http://live.admuspeh.my/8854/index.m3u8?token=4gPHp5ZVYqDAR4oz
 
 #EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 tvclub
 http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8
