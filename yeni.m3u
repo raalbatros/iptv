@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/download.php?file=turkeypremium2.xml"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml"
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 http://raalbatros.serv00.net/Gledai.php?ID=trt1
 #EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
