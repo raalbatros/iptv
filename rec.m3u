@@ -1,48 +1,68 @@
-Sinema Yerli
-https://tv.prectv5.sbs/live/sinemayerli.m3u8
-Sinema Yerli 2
-https://tv.prectv5.sbslive/sinemayerli2.m3u8
-BeinMovies Stars
-https://tv.prectv5.sbs/live/bsstars.m3u8
-BeinMovies Family
-https://tv.prectv5.sbs/live/bsfamily.m3u8
-BeinMovıes Turk
-https://tv.prectv5.sbs/live/bsturk.m3u8
-Sinema 2 TV
-https://tv.prectv5.sbs/live/sinema2.m3u8
-Sinema Aile
-https://tv.prectv5.sbs/live/sinemaaile.m3u8
-Sinema Aile 2
-https://tv.prectv5.sbs/live/sinemaaile2.m3u8
-Sinema 1001
-https://tv.prectv5.sbs/live/sinema1001.m3u8
-Sinema 1001 2
-https://tv.prectv5.sbs/live/sinema1002.m3u8
-Sinema Aksiyon 2
-https://tv.prectv5.sbs/live/sinemaaksiyon2.m3u8
-FX
-https://tv.prectv5.sbs/live/fx.m3u8
-TivibuSpor 1
-https://tv.prectv5.sbs/live/tivi1.m3u8
-TivibuSpor 2
-https://tv.prectv5.sbs/live/tivi2.m3u8
-TivibuSpor 3
-https://tv.prectv5.sbs/live/tivi3.m3u8
-TivibuSpor 4
-https://tv.prectv5.sbs/live/tivi4.m3u8
-S Sport
-https://tv.prectv5.sbs/live/ssport.m3u8
-S Sport 2
-https://tv.prectv5.sbs/live/ssport2.m3u8
-Smart Spor
-https://tv.prectv5.sbs/live/smart1.m3u8
-Smart Spor 2
-https://tv.prectv5.sbs/live/smart2.m3u8
-A Spor
-https://tv.prectv5.sbs/live/aspor.m3u8
-GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-FB TV
+#EXTINF:-1, kanald
+https://tv.prectv5.sbs/live/kanald.m3u8
+#EXTINF:-1, startv
+https://tv.prectv5.sbs/live/startv.m3u8
+#EXTINF:-1, atv
+https://tv.prectv5.sbs/live/atv1.m3u8
+#EXTINF:-1, show
+https://tv.prectv5.sbs/live/show.m3u8
+#EXTINF:-1, now
+https://tv.prectv5.sbs/live/foxtv.m3u8
+#EXTINF:-1, tv8
+https://tv.prectv5.sbs/live/tv81.m3u8
+#EXTINF:-1, tv85
+https://tv.prectv5.sbs/live/tv85.m3u8
+#EXTINF:-1, fbtv
 https://tv.prectv5.sbs/live/fbtv.m3u8
-EDGE
-https://tv.prectv5.sbs/live/edgesport.m3u8
+#EXTINF:-1, aspor
+https://tv.prectv5.sbs/live/aspor.m3u8
+#EXTINF:-1, fx
+https://tv.prectv5.sbs/live/fx.m3u8
+#EXTINF:-1, tarihtv
+https://tv.prectv5.sbs/live/tarihtv.m3u8
+#EXTINF:-1, bbc
+https://tv.prectv5.sbs/live/bbc.m3u8
+#EXTINF:-1, viasathistory
+https://tv.prectv5.sbs/live/viasathistory.m3u8
+#EXTINF:-1, viasatexplore
+https://tv.prectv5.sbs/live/viasatexplore.m3u8
+#EXTINF:-1, history
+https://tv.prectv5.sbs/live/history.m3u8
+#EXTINF:-1, natgeo
+https://tv.prectv5.sbs/live/natgeo.m3u8
+#EXTINF:-1, natgeowild
+https://tv.prectv5.sbs/live/natgeowild.m3u8
+#EXTINF:-1, nr1
+https://tv.prectv5.sbs/live/nr1.m3u8
+#EXTINF:-1, nr1turk
+https://tv.prectv5.sbs/live/nr1turk.m3u8
+#EXTINF:-1, power
+https://tv.prectv5.sbs/live/power.m3u8
+#EXTINF:-1, powerturk
+https://tv.prectv5.sbs/live/powerturk.m3u8
+#EXTINF:-1, dreamturk
+https://tv.prectv5.sbs/live/dreamturk.m3u8
+#EXTINF:-1, moviesmart turk
+https://tv.prectv5.sbs/live/mvturk.m3u8
+#EXTINF:-1, sinemaaile2
+https://tv.prectv5.sbs/live/sinemaaile2.m3u8
+#EXTINF:-1, bspremier1
+https://tv.prectv5.sbs/live/bspremier1.m3u8
+#EXTINF:-1, benseri 3
+https://tv.prectv5.sbs/live/box1.m3u8
+#EXTINF:-1, benseri 2
+https://tv.prectv5.sbs/live/box2.m3u8
+#EXTINF:-1, box3
+https://tv.prectv5.sbs/live/box3.m3u8
+#EXTINF:-1, bsstars
+https://tv.prectv5.sbs/live/bsstars.m3u8
+#EXTINF:-1, bsturk movies
+https://tv.prectv5.sbs/live/bsturk.m3u8
+#EXTINF:-1, benguturk
+https://tv.prectv5.sbs/live/benguturk.m3u8
+#EXTINF:-1, ntv
+https://tv.prectv5.sbs/live/ntv.m3u8
+#EXTINF:-1, cnnturk
+https://tv.prectv5.sbs/live/cnnturk.m3u8
+#EXTINF:-1, ahaber
+https://tv.prectv5.sbs/live/ahaber.m3u8
