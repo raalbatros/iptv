@@ -37,10 +37,12 @@ http://192.168.0.111:8080/Rokkr.php?ID=118248079646a66a1719d1
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT HABER" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 http://192.168.0.111:8080/Rokkr.php?ID=19071547044a8c9098562e
 
-#EXTINF:-1 tvg-id="Sinema Tv 1001" tvg-name="Sinema Tv 1" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1001
-http://live.admuspeh.my/8848/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="SİNEMA TV 1001 HD.tr" tvg-name="SİNEMA TV 1001 HD.tr" tvg-logo="https://i.pinimg.com/280x280_RS/08/ad/75/08ad75c00ad9f441558601b75260adb4.jpg" ,SINEMA TV 1001
+http://192.168.0.111:8080/Rokkr.php?ID=3117683628de2ef4d957d8
+#EXTINF:-1 tvg-id="SİNEMA TV 1002 HD.tr" tvg-name="SİNEMA 1002 HD.tr" tvg-logo="https://i.pinimg.com/280x280_RS/08/ad/75/08ad75c00ad9f441558601b75260adb4.jpg" ,SINEMA TV 1001
+http://192.168.0.111:8080/Rokkr.php?ID=42690420447f9173eb0324
 #EXTINF:-1 tvg-id="Sinema Tv Aksiyon" tvg-name="Sinema Tv 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV AKSIYON
-http://live.admuspeh.my/8839/index.m3u8?token=4gPHp5ZVYqDAR4oz
+http://192.168.0.111:8080/Rokkr.php?ID=42690420447f9173eb0324
 #EXTINF:-1 tvg-id="Sinema Tv" tvg-name="Sinema Tv 3" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1
 http://live.admuspeh.my/8846/index.m3u8?token=4gPHp5ZVYqDAR4oz
 #EXTINF:-1 tvg-id="Sinema Tv Aile 2" tvg-name="Sinema Tv 4" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV AILE 2
