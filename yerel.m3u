@@ -39,16 +39,16 @@ http://192.168.0.111:8080/Rokkr.php?ID=19071547044a8c9098562e
 
 #EXTINF:-1 tvg-id="SİNEMA TV 1001 HD.tr" tvg-name="SİNEMA TV 1001 HD.tr" tvg-logo="https://i.pinimg.com/280x280_RS/08/ad/75/08ad75c00ad9f441558601b75260adb4.jpg" ,SINEMA TV 1001
 http://192.168.0.111:8080/Rokkr.php?ID=3117683628de2ef4d957d8
-#EXTINF:-1 tvg-id="SİNEMA TV 1002 HD.tr" tvg-name="SİNEMA 1002 HD.tr" tvg-logo="https://i.pinimg.com/280x280_RS/08/ad/75/08ad75c00ad9f441558601b75260adb4.jpg" ,SINEMA TV 1001
+#EXTINF:-1 tvg-id="SİNEMA TV 1002 HD.tr" tvg-name="SİNEMA 1002 HD.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-1002_logo.png?1583261398" ,SINEMA TV 1002
 http://192.168.0.111:8080/Rokkr.php?ID=42690420447f9173eb0324
-#EXTINF:-1 tvg-id="Sinema Tv Aksiyon" tvg-name="Sinema Tv 2" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV AKSIYON
-http://192.168.0.111:8080/Rokkr.php?ID=42690420447f9173eb0324
-#EXTINF:-1 tvg-id="Sinema Tv" tvg-name="Sinema Tv 3" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1
-http://live.admuspeh.my/8846/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="Sinema Tv Aile 2" tvg-name="Sinema Tv 4" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV AILE 2
-http://live.admuspeh.my/8853/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:-1 tvg-id="Sinema Komedi" tvg-name="Sinema Komedi" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV KOMEDI
-http://live.admuspeh.my/8855/index.m3u8?token=4gPHp5ZVYqDAR4oz
+#EXTINF:-1 tvg-id="SİNEMA TV AKSİYON HD.tr" tvg-name="SİNEMA TV AKSİYON HD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-aksiyon-tr.png" ,SINEMA TV AKSIYON
+http://192.168.0.111:8080/Rokkr.php?ID=1293127897c9f6ab21147a
+#EXTINF:-1 tvg-id="SİNEMA TV HD.tr" tvg-name="SİNEMA TV HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWmJDjoHdPkD8U5PAt1aEEzbeGnkrQk7k7w&s" ,SINEMA TV 1
+http://192.168.0.111:8080/Rokkr.php?ID=1617719941e9c6c2c0efc4
+#EXTINF:-1 tvg-id="SİNEMA AİLE 2 HD.tr tvg-name="SİNEMA AİLE 2 HD.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV AILE 2
+http://192.168.0.111:8080/Rokkr.php?ID=31319110512703ab2a2c37
+#EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD.tr" tvg-name="SİNEMA KOMEDİ HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png" ,SINEMA TV KOMEDI
+http://192.168.0.111:8080/Rokkr.php?ID=2574496684d121da63bb3
 #EXTINF:-1 tvg-id="National Geographic WILD" tvg-name="NAT GEO WİLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NAT GEO WİLD
 http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6866/index.m3u8
 #EXTINF:-1 tvg-id="a2" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
