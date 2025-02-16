@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml"
+
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT1 HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 http://192.168.0.111:8080/Rokkr.php?ID=2346924541a665ce2b020a
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
