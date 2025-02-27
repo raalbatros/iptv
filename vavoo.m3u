@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:35,4K TR: ATV HD |D
 #EXTVLCOPT:network-caching=1000
-http://mehmetaslan.serv00.net/Rokr?ID=232526128694327d240c9f
+http://mehmetaslan.serv00.net/Play?ID=232526128694327d240c9f
 #EXTINF:0,4K TR: A SPOR HD |D
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=1771137539496e523ffb8e
@@ -1108,7 +1108,7 @@ http://mehmetaslan.serv00.net/Rokr?ID=2193427330dbfbcfe519e7
 #EXTINF:0,COCUK 3 HD |D
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=1310133020ffc33da7fd16
-#EXTINF:0,ÇOCUK SMART |E
+#EXTINF:0,Ã‡OCUK SMART |E
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=1884291733312566c56581
 #EXTINF:0,D #EXTVLCOPT:network-caching=1000
@@ -2199,13 +2199,13 @@ http://mehmetaslan.serv00.net/Rokr?ID=3638911954f8a4fedca19a
 #EXTINF:0,KONYA KON TV |D
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=3759364273d177b1ada569
-#EXTINF:0,KÖROGLU TV |E
+#EXTINF:0,KÃ–ROGLU TV |E
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=21632032351169858bbd00
 #EXTINF:0,KOSTEBEKGILLER TV |D
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=277878129753f1097adfc2
-#EXTINF:0,KÖY TV |E
+#EXTINF:0,KÃ–Y TV |E
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=870320507faff83fc993b
 #EXTINF:0,KOY TV |H
@@ -2256,7 +2256,7 @@ http://mehmetaslan.serv00.net/Rokr?ID=535260022df534095fe79
 #EXTINF:0,KUDUS TV |D
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=2114384051ad02567ce7d5
-#EXTINF:0,KUDÜS TV |E
+#EXTINF:0,KUDÃœS TV |E
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=30359517979d3689154f0a
 #EXTINF:0,KUDUS TV |H
@@ -2274,7 +2274,7 @@ http://mehmetaslan.serv00.net/Rokr?ID=354256147676b1250ea72
 #EXTINF:0,LALEGUL TV |D
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=2236287946bb56834345f7
-#EXTINF:0,LÂLEGÜL TV |E
+#EXTINF:0,LÃ‚LEGÃœL TV |E
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=10881498502503f1f9ca2f
 #EXTINF:0,LALEGUL TV |H
@@ -2787,7 +2787,7 @@ http://mehmetaslan.serv00.net/Rokr?ID=2878755344428b9920fbdf
 #EXTINF:0,SAT 7 TURK |D
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=2376090646b9a44c9cd207
-#EXTINF:0,SAT 7 TÜRK |E
+#EXTINF:0,SAT 7 TÃœRK |E
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=42280465626c49941f5722
 #EXTINF:0,SAT 7 TURK |H
@@ -3042,7 +3042,7 @@ http://mehmetaslan.serv00.net/Rokr?ID=23545438116f39508d0ac8
 #EXTINF:0,SUN TV |D
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=31228630320e7a1516b9e4
-#EXTINF:0,SÜNGER BOB |E
+#EXTINF:0,SÃœNGER BOB |E
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=38685820252e21af6a9978
 #EXTINF:0,SURELER VE T RKCE MEALI |D
@@ -3156,7 +3156,7 @@ http://mehmetaslan.serv00.net/Rokr?ID=2059334111806a6f9ae31c
 #EXTINF:0,TIVI 6 |E
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=7741680165e32ffbd7e99
-#EXTINF:0,TIVI TÜRK |E
+#EXTINF:0,TIVI TÃœRK |E
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=702157954a96ac2dfea45
 #EXTINF:0,TIVI TURK |H
@@ -3243,7 +3243,7 @@ http://mehmetaslan.serv00.net/Rokr?ID=38555974162786d8c4bde7
 #EXTINF:0,TRABZON HABER 61 TV HD |D
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=1840643644b83780fb80dc
-#EXTINF:0,TRAKYA TÜRK |E
+#EXTINF:0,TRAKYA TÃœRK |E
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=3097725079f25f2d2afd01
 #EXTINF:0,TRANSFORMERS |D
@@ -3402,7 +3402,7 @@ http://mehmetaslan.serv00.net/Rokr?ID=942180218b3408acd5943
 #EXTINF:0,TURKASAT KEMAL SUNAL |E
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=3672931370d0fbf6253cc
-#EXTINF:0,TÜRKHABER TV |E
+#EXTINF:0,TÃœRKHABER TV |E
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=2012038243a2f5ca916ee9
 #EXTINF:0,TURKMENLI TV |E
@@ -3528,7 +3528,7 @@ http://mehmetaslan.serv00.net/Rokr?ID=2916629658db45897de198
 #EXTINF:0,UCANKUS |H
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=3215571778eb6d4141cad8
-#EXTINF:0,ÜLKE TV |E
+#EXTINF:0,ÃœLKE TV |E
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Rokr?ID=30532066236df9c4b1c714
 #EXTINF:0,ULKE TV |H
