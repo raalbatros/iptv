@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:35,4K TR: ATV HD |D
 #EXTVLCOPT:network-caching=1000
-http://mehmetaslan.serv00.net/Play?ID=232526128694327d240c9f
+http://mehmetaslan.serv00.net/Play.php?ID=232526128694327d240c9f
 #EXTINF:0,4K TR: A SPOR HD |D
 #EXTVLCOPT:network-caching=1000
 http://mehmetaslan.serv00.net/Play?ID=1771137539496e523ffb8e
