@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 ,TRT 4K
+http://176.65.146.123:6001/play/a027/index.m3u8
+#EXTINF:-1 ,TRT1 HD
+http://176.65.146.123:6001/play/a01j/index.m3u8
+#EXTINF:-1 ,TRT 1
+http://176.65.146.123:6001/play/a028/index.m3u8
+#EXTINF:-1 ,TRT2 HD
+http://176.65.146.123:6001/play/a02e/index.m3u8
+#EXTINF:-1 ,TRT TURK
+http://176.65.146.123:6001/play/a02a/index.m3u8
+#EXTINF:-1 ,TRT BELGESEL
+http://176.65.146.123:6001/play/a02d/index.m3u8
+#EXTINF:-1 ,TRT BELGESEL HD
+http://176.65.146.123:6001/play/a01l/index.m3u8
+#EXTINF:-1 ,TRT COCUK
+http://176.65.146.123:6001/play/a02c/index.m3u8
+#EXTINF:-1 ,TRT COCUK HD
+http://176.65.146.123:6001/play/a01i/index.m3u8
+#EXTINF:-1 ,TRT DIYANET COCUK
+http://176.65.146.123:6001/play/a01n/index.m3u8
+#EXTINF:-1 ,ATV
+http://176.65.146.123:6001/play/a01o/index.m3u8
+#EXTINF:-1 ,ATV HD
+http://176.65.146.123:6001/play/a01t/index.m3u8
+#EXTINF:-1 ,SHOW HD
+http://176.65.146.123:6002/play/a01f/index.m3u8
+#EXTINF:-1 ,KANAL D
+http://176.65.146.123:6002/play/a01m/index.m3u8
+#EXTINF:-1 ,KANAL D HD
+http://176.65.146.123:6002/play/a00y/index.m3u8
+#EXTINF:-1 ,STAR TV
+http://176.65.146.123:6001/play/a01x/index.m3u8
+#EXTINF:-1 ,STAR TV HD
+http://176.65.146.123:6001/play/a020/index.m3u8
+#EXTINF:-1 ,NOW HD
+http://176.65.146.123:6002/play/a01j/index.m3u8
+#EXTINF:-1 ,KANAL 7 HD
+http://176.65.146.123:6002/play/a01k/index.m3u8
+#EXTINF:-1 ,TV8 HD
+http://176.65.146.123:6003/play/a00w/index.m3u8
+#EXTINF:-1 ,A2
+http://176.65.146.123:6001/play/a01w/index.m3u8
+#EXTINF:-1 ,SHOW MAX HD
+http://176.65.146.123:6002/play/a01i/index.m3u8
+#EXTINF:-1 ,TEVE2 HD
+http://176.65.146.123:6002/play/a010/index.m3u8
+#EXTINF:-1 ,TRT HABER
+http://176.65.146.123:6001/play/a029/index.m3u8
+#EXTINF:-1 ,AKIT TV HD
+http://176.65.146.123:6003/play/a00y/index.m3u8
+#EXTINF:-1 ,HABER GLOBAL HD
+http://176.65.146.123:6003/play/a00z/index.m3u8
+#EXTINF:-1 ,TGRT HABER HD
+http://176.65.146.123:6003/play/a010/index.m3u8
+#EXTINF:-1 ,HABERTURK HD
+http://176.65.146.123:6002/play/a01g/index.m3u8
+#EXTINF:-1 ,NTV
+http://176.65.146.123:6001/play/a01y/index.m3u8
+#EXTINF:-1 ,NTV HD
+http://176.65.146.123:6001/play/a021/index.m3u8
+#EXTINF:-1 ,CNN TÜRK HD
+http://176.65.146.123:6002/play/a00z/index.m3u8
+#EXTINF:-1 ,ULKE TV HD
+http://176.65.146.123:6002/play/a01l/index.m3u8
+#EXTINF:-1 ,EKOL TV HD
+http://176.65.146.123:6004/play/a01a/index.m3u8
+#EXTINF:-1 ,EKOTURK HD
+http://176.65.146.123:6004/play/a018/index.m3u8
+#EXTINF:-1 ,SZC
+http://176.65.146.123:6004/play/a019/index.m3u8
+#EXTINF:-1 ,TV 100 HD
+http://176.65.146.123:6004/play/a017/index.m3u8
+#EXTINF:-1 ,TRT SPOR HD
+http://176.65.146.123:6001/play/a01k/index.m3u8
+#EXTINF:-1 ,TRT SPOR YILDIZ
+http://176.65.146.123:6001/play/a02g/index.m3u8
+#EXTINF:-1 ,A SPOR
+http://176.65.146.123:6001/play/a01q/index.m3u8
+#EXTINF:-1 ,A SPOR HD
+http://176.65.146.123:6001/play/a01v/index.m3u8
+#EXTINF:-1 ,TRT 3-SPOR
+http://176.65.146.123:6001/play/a02b/index.m3u8
+#EXTINF:-1 ,TV8 5 HD
+http://176.65.146.123:6003/play/a00x/index.m3u8
+#EXTINF:-1 ,minikaCOCUK
+http://176.65.146.123:6001/play/a01r/index.m3u8
+#EXTINF:-1 ,minikaGO
+http://176.65.146.123:6001/play/a01s/index.m3u8
