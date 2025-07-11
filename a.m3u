@@ -3,23 +3,23 @@
 https://goldvod.org/tv/vavoo?id=2346924541bb8dc1f019a5
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 https://goldvod.org/tv/vavoo?id=4193250917cf3df9465a1d
-#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 tvg-id="Star" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" ,SHOW TV
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="Now" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
-https://trn03.tulix.tv/gt-foxturktv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
+#EXTINF:-1 tvg-id="ATV HD.tr" tvg-name="ATV HD.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
+https://goldvod.org/tv/vavoo?id=1332310706fc46b2298b36
+#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="STAR TV HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
+https://goldvod.org/tv/vavoo?id=39547900158ba4a99e1cd6
+#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" ,SHOW TV
+https://goldvod.org/tv/vavoo?id=39547900158ba4a99e1cd6
+#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW.tr" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
+https://goldvod.org/tv/vavoo?id=161305206b6ca8959b48c
+#EXTINF:-1 tvg-id="BEYAZ TV HD.tr" tvg-name="BEYAZ TV HD.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
-https://trn03.tulix.tv/gt-tv8-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
+#EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV8 HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
+https://goldvod.org/tv/vavoo?id=1662562034cfa73c7adbaa
+#EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-name="KANAL 7 HD.tr" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 tvg-id="teve2" tvg-name="Teve2" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
+#EXTINF:-1 tvg-id="TEVE2 HD.tr" tvg-name="TEVE2 HD.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1 tvg-id="360" tvg-name="360" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
+#EXTINF:-1 tvg-id="360 HD.tr" tvg-name="360 HD.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
