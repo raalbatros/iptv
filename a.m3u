@@ -22,19 +22,19 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="360 HD.tr" tvg-name="360 HD.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
-https://trn03.tulix.tv/gt-ntvtv/index.m3u8
-#EXTINF:-1 tvg-id="Haber Turk" tvg-name="Haber Turk" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
-https://trn03.tulix.tv/gt-haberturk/index.m3u8
-#EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN Türk" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
-https://trn03.tulix.tv/gt-cnnturk/index.m3u8
-#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
+#EXTINF:-1 tvg-id="NTV HD.tr" tvg-name="NTV HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
+https://canlitvulusal.xyz/live/ntv/index.m3u8
+#EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-name="HABERTÜRK HD.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-name="CNN TÜRK HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
+https://live-cdn-65984.varplaycdn.cfd/cnnturk/index.m3u8
+#EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-name="TRT HABER HD.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
+#EXTINF:-1 tvg-id="24 HD.tr" tvg-name="24 HD.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
-#EXTINF:-1 tvg-id="TV Net" tvg-name="TVNET" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
+#EXTINF:-1 tvg-id="TVNET HD.tr" tvg-name="TVNET HD.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
 https://trn03.tulix.tv/gt-tvnet/index.m3u8
-#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT HABER" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
+#EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-name="TGRT HABER HD.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-id="Sinema Tv 1001" tvg-name="Sinema Tv 1" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1001
