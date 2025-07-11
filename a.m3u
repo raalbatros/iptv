@@ -1,8 +1,8 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml"
-#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
-http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml"
+#EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT1 HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
+https://goldvod.org/tv/vavoo?id=2346924541bb8dc1f019a5
+#EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
+https://goldvod.org/tv/vavoo?id=4193250917cf3df9465a1d
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="Star" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
