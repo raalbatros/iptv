@@ -2,19 +2,19 @@
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT1 HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 http://sultansmart.serv00.net/VavoHD.php?ID=2346924541a665ce2b020a
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-https://goldvod.org/tv/vavoo?id=4193250917cf3df9465a1d
+http://sultansmart.serv00.net/VavoHD.php?ID=41932509172f8740206674
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-name="ATV HD.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-https://goldvod.org/tv/vavoo?id=1332310706fc46b2298b36
+http://sultansmart.serv00.net/VavoHD.php?ID=9621694941f31dcad99c6
 #EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="STAR TV HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
-https://goldvod.org/tv/vavoo?id=39547900158ba4a99e1cd6
+http://sultansmart.serv00.net/VavoHD.php?ID=3954790015fcca9d4816fd
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" ,SHOW TV
-https://goldvod.org/tv/vavoo?id=39547900158ba4a99e1cd6
+http://sultansmart.serv00.net/VavoHD.php?ID=3317405854c9cf5e5809e9
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW.tr" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
-https://goldvod.org/tv/vavoo?id=161305206b6ca8959b48c
+http://sultansmart.serv00.net/VavoHD.php?ID=3839621464e31f28b470b9
 #EXTINF:-1 tvg-id="BEYAZ TV HD.tr" tvg-name="BEYAZ TV HD.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV8 HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
-https://goldvod.org/tv/vavoo?id=1662562034cfa73c7adbaa
+http://sultansmart.serv00.net/VavoHD.php?ID=1991010324324f4a3ca707
 #EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-name="KANAL 7 HD.tr" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-id="TEVE2 HD.tr" tvg-name="TEVE2 HD.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2
@@ -23,7 +23,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-id="NTV HD.tr" tvg-name="NTV HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
-https://canlitvulusal.xyz/live/ntv/index.m3u8
+http://sultansmart.serv00.net/VavoHD.php?ID=28627103524fab14b7bac4
 #EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-name="HABERTÜRK HD.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-name="CNN TÜRK HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
@@ -37,36 +37,22 @@ https://trn03.tulix.tv/gt-tvnet/index.m3u8
 #EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-name="TGRT HABER HD.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 tvg-id="SİNEMA TV 1001 HD.tr" tvg-name=SİNEMA TV 1001 HD.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1001
-https://goldvod.org/tv/vavoo?id=2761385166466a6f28d774
-#EXTINF:-1 tvg-id="SİNEMA TV 1002 HD.tr" tvg-name=SİNEMA TV 1002 HD.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV 1002
-https://goldvod.org/tv/vavoo?id=10766438567db56db901b5
-#EXTINF:-1 tvg-id="SİNEMA YERLİ HD.tr" tvg-name="SİNEMA YERLİ HD.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV YERLI
-https://goldvod.org/tv/vavoo?id=3971603427f67ea837a51a
-#EXTINF:-1 tvg-id="SİNEMA TV 2 HD.tr" tvg-name="SİNEMA TV 2 HD.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SİNEMA TV 2
-https://goldvod.org/tv/vavoo?id=2950605243455369fa6da
-#EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD.tr" tvg-name="SİNEMA KOMEDİ HD.tr" tvg-logo="https://t3.ftcdn.net/jpg/05/90/75/40/240_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg" ,SINEMA TV KOMEDI
-https://goldvod.org/tv/vavoo?id=4407749494f84856f03db
-
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-name="NATIONAL GEOGRAPHIC WILD HD.tr tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NAT GEO WİLD
-https://live-cdn-65984.varplaycdn.cfd/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="A2 HD.tr" tvg-name="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
-http://89.187.191.41/A2-HD-TR/video.m3u8
-
 #EXTINF:-1 tvg-id="TRT SPOR HD.tr" tvg-name="TRT SPOR HD.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
-https://goldvod.org/tv/vavoo?id=2262969938ddae6a1a7898
+http://sultansmart.serv00.net/VavoHD.php?ID=60178869050cf32357098
 #EXTINF:-1 tvg-id="TV8,5 HD.tr" tvg-name="TV8,5 HD.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
-https://goldvod.org/tv/vavoo?id=1886743624c817d4676a81
+http://sultansmart.serv00.net/VavoHD.php?ID=2412205937b7ac34e2fb17
 #EXTINF:-1 tvg-id="A SPOR HD.tr" tvg-name="A SPOR HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
-https://goldvod.org/tv/vavoo?id=2777121053d08600063c17
+http://sultansmart.serv00.net/VavoHD.php?ID=2777121053b482966e2bc2
 #EXTINF:-1 tvg-id="TRT Spor Yıldız" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
-https://tgn.bozztv.com/dvrfl05/gin-trtspor2/playlist.m3u8
+http://sultansmart.serv00.net/VavoHD.php?ID=2689297527e22c6c4d2af5
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S SPORT" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT
-http://live.admuspeh.my/8854/index.m3u8?token=4gPHp5ZVYqDAR4oz
+http://sultansmart.serv00.net/VavoHD.php?ID=2123273598f3ea83219516
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="S SPORT 2" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" ,S SPORT 2
+http://sultansmart.serv00.net/VavoHD.php?ID=9369082749f6a86f850c1
 
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 tvclub
-http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 cdn
-https://it-cdn-1.varsportscdn1.lol/601/index.m3u8
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 free
-http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
+#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 4K FEED
+http://sultansmart.serv00.net/VavoHD.php?ID=1536730627e370a91a8c3f
+#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 8K FEED
+http://sultansmart.serv00.net/VavoHD.php?ID=211346239843ddede8fabc
+#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 OZEL YAYIN
+http://sultansmart.serv00.net/VavoHD.php?ID=145369231423771b595289
