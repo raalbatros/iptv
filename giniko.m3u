@@ -84,3 +84,5 @@ https://trn03.tulix.tv/gt-trtavaz/index.m3u8
 https://trn03.tulix.tv/gt-brt1/index.m3u8
 #EXTINF:-1,Unknown_1078
 https://trn03.tulix.tv/gt-brt2/index.m3u8
+#EXTINF:-1,Cartoon Network
+https://trn03.tulix.tv/gt-cartoontr/index.m3u8
