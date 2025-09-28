@@ -3,7 +3,7 @@ https://trn03.tulix.tv/gt-star-tv/index.m3u8
 #EXTINF:-1,Now
 https://trn03.tulix.tv/gt-fox-turk-tv/index.m3u8
 #EXTINF:-1,Atv
-https://trn03.tulix.tv/gt-a-tv-tv/index.m3u8
+https://trn03.tulix.tv/gt-a-tv-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tv 8
 https://trn03.tulix.tv/tv8-hdtv/index.m3u8
 #EXTINF:-1,Kanal D
@@ -71,4 +71,4 @@ https://trn03.tulix.tv/gt-tvnet/index.m3u8
 #EXTINF:-1,Trt Cocuk
 https://trn03.tulix.tv/gt-trtcocuk/index.m3u8
 #EXTINF:-1,Cartoon Network
-https://trn03.tulix.tv/gt-cartoontr/index.m3u8
+https://trn03.tulix.tv/gt-cartoontr/tracks-v1a1/mono.m3u8
