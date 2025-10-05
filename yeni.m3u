@@ -5,9 +5,9 @@ http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 http://78.128.125.60:9981/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
 http://95.174.71.114/TR-ATV/index.m3u8
-#EXTINF:-1 tvg-id="Star" tvg-name="Star TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" ,SHOW TV
+#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
+http://95.174.71.114:80/TR-STAR/index.m3u8
+#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" ,SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="Now" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
 https://trn03.tulix.tv/gt-foxturktv/tracks-v1a1/mono.m3u8
@@ -69,4 +69,5 @@ http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8
 https://it-cdn-1.varsportscdn1.lol/601/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 free
 http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
+
 
