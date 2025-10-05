@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" ,TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
-http://78.128.125.60:9981/play/a01h/index.m3u8
+http://95.174.71.114/TR-KANAL-D/index.m3u8
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
 http://95.174.71.114/TR-ATV/index.m3u8
 #EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
@@ -76,5 +76,6 @@ https://cdn-8878.varplaycdn.cfd/600/index.m3u8
 https://bs.arectv33.sbs/static/bs1.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://cdn-2002.betconnecthdlivecdn.site/601/index.m3u8
+
 
 
