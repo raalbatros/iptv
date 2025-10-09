@@ -41,8 +41,8 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
 #EXTINF:-1 tvg-id="ŞÖMİNE PLUS.tr" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" ,FIL TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
-#EXTINF:-1 tvg-id="ŞÖMİNE PLUS.tr" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" ,TIVI TURK
-https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 tvg-id="ŞÖMİNE PLUS.tr" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" ,YANSIMA SINEMA
+https://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 #EXTINF:-1 tvg-id="ŞÖMİNE PLUS.tr" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" ,SINEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
@@ -76,6 +76,7 @@ https://cdn-8878.varplaycdn.cfd/600/index.m3u8
 https://bs.arectv33.sbs/static/bs1.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://cdn-2002.betconnecthdlivecdn.site/601/index.m3u8
+
 
 
 
