@@ -8,15 +8,15 @@ http://116.202.238.88/AHABER_TR/index.m3u8
 http://116.202.238.88/SHOWTV_TR/index.m3u8
 #EXTINF:-1,Kanal D
 http://116.202.238.88/KANALD_TR/index.m3u8
-EXTINF:-1,Star Tv
+#EXTINF:-1,Star Tv
 http://116.202.238.88/STARTV_TR/index.m3u8
 #EXTINF:-1,Kanal D
 http://116.202.238.88/KANALD_TR/index.m3u8
-EXTINF:-1,Fox Tv
+#EXTINF:-1,Fox Tv
 http://116.202.238.88/FOXTV_TR/index.m3u8
-EXTINF:-1,Tv8
+#EXTINF:-1,Tv8
 http://116.202.238.88/TV8_TR/index.m3u8
-EXTINF:-1,Tv8.5
+#EXTINF:-1,Tv8.5
 http://116.202.238.88/TV8.5_TR/index.m3u8
 EXTINF:-1,TRT 1
 http://116.202.238.88/TRT1_TR/index.m3u8
