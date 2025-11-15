@@ -35,7 +35,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 tvg-id="TVNET HD.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
 https://trn03.tulix.tv/gt-tvnet/index.m3u8
 #EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
-https://canli.tgrthaber.com/tgrt.m3u8
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
 
 #EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" ,TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
@@ -76,6 +76,7 @@ https://cdn-8878.varplaycdn.cfd/600/index.m3u8
 https://bs.arectv33.sbs/static/bs1.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://cdn-2002.betconnecthdlivecdn.site/601/index.m3u8
+
 
 
 
