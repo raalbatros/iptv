@@ -64,12 +64,9 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="tabii spor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" ,TABII SPOR
 https://v.arectv30.sbs/static/tabi.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 cdn
-https://cdn-8878.varplaycdn.cfd/600/index.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 rectv
-https://bs.arectv33.sbs/static/bs1.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-http://cdn-2002.betconnecthdlivecdn.site/601/index.m3u8
+http://live.net-spor-e6a.workers.dev/?ID=1
+
 
 
 
