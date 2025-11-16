@@ -21,11 +21,11 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-id="NTV HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
-https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8
+https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
 #EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
-http://78.128.125.60:9981/play/a01f/index.m3u8
+http://95.174.71.114:80/TR-CNN-TURK/index.m3u8
 #EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="24 HD.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
@@ -52,7 +52,7 @@ https://tv-trtbelgesel-dai.medya.trt.com.tr/master_3.m3u8
 https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="TRT SPOR HD.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
-http://78.128.125.60:9980/play/a01n/index.m3u8
+http://85.209.248.3:9897/trt3spor
 #EXTINF:-1 tvg-id="TV8,5 HD.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="A SPOR HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
@@ -60,11 +60,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8
 #EXTINF:-1 tvg-id="HT SPOR.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ht-spor-buyuk.webp/275px-Ht-spor-buyuk.webp.png" ,HT SPOR
-https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="tabii spor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" ,TABII SPOR
 https://v.arectv30.sbs/static/tabi.m3u8
-#EXTINF:-1 tvg-id="tabii spor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" ,TABII SPOR 1
-https://v.arectv30.sbs/static/tabi1.m3u8
 
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1 cdn
 https://cdn-8878.varplaycdn.cfd/600/index.m3u8
@@ -72,6 +70,7 @@ https://cdn-8878.varplaycdn.cfd/600/index.m3u8
 https://bs.arectv33.sbs/static/bs1.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://cdn-2002.betconnecthdlivecdn.site/601/index.m3u8
+
 
 
 
