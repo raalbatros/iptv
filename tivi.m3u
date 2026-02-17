@@ -1,133 +1,59 @@
-
 #EXTM3U
 #EXTINF:-1,Film Ekranı
-
 https://cdn-eu.tivimivi.com/streams/98/1920x1080/index.m3u8
-
-#EXTINF:-1,brt2 hd
-
-https://cdn-eu.tivimivi.com/streams/103/1920x1080/index.m3u8
-
-#EXTINF:-1,brt1 hd
-
-https://cdn-eu.tivimivi.com/streams/104/1920x1080/index.m3u8
-
-#EXTINF:-1,azoomee
-
-https://cdn-eu.tivimivi.com/streams/102/1920x1080/index.m3u8
-
-#EXTINF:-1,Belgesel Ekran
-
-https://cdn-eu.tivimivi.com/streams/101/1920x1080/index.m3u8
-
 #EXTINF:-1,TV 8_5
-
 https://cdn-eu.tivimivi.com/streams/106/1920x1080/index.m3u8
-
-#EXTINF:-1,8
-
+#EXTINF:-1,TV 8
 https://cdn-eu.tivimivi.com/streams/107/1920x1080/index.m3u8
-
-#EXTINF:-1,Show
-
+#EXTINF:-1,Show TV
 https://cdn-eu.tivimivi.com/streams/109/1920x1080/index.m3u8
-
 #EXTINF:-1,Haber Türk
-
 https://cdn-eu.tivimivi.com/streams/110/1920x1080/index.m3u8
-
-#EXTINF:-1,Canlı
-
+#EXTINF:-1,Bloomberg HT
 https://cdn-eu.tivimivi.com/streams/111/1920x1080/index.m3u8
-
-#EXTINF:-1,Gösteri Max
-
+#EXTINF:-1,Show Max
 https://cdn-eu.tivimivi.com/streams/112/1920x1080/index.m3u8
-
-#EXTINF:-1,
-
+#EXTINF:-1, Kanal D
 https://cdn-eu.tivimivi.com/streams/113/1920x1080/index.m3u8
-
-#EXTINF:-1,Dizi
-
+#EXTINF:-1,Star TV
 https://cdn-eu.tivimivi.com/streams/118/1920x1080/index.m3u8
-
 #EXTINF:-1,CNN Türk
-
 https://cdn-eu.tivimivi.com/streams/114/1920x1080/index.m3u8
-
 #EXTINF:-1,TLC
-
 https://cdn-eu.tivimivi.com/streams/115/1920x1080/index.m3u8
-
 #EXTINF:-1,TV 100
-
 https://cdn-eu.tivimivi.com/streams/116/1920x1080/index.m3u8
-
-#EXTINF:-1,
-
+#EXTINF:-1, Sözcü
 https://cdn-eu.tivimivi.com/streams/117/1920x1080/index.m3u8
-
 #EXTINF:-1,DMAX
-
 https://cdn-eu.tivimivi.com/streams/119/1920x1080/index.m3u8
-
 #EXTINF:-1,aSpor
-
 https://cdn-eu.tivimivi.com/streams/122/1920x1080/index.m3u8
-
 #EXTINF:-1,aHBR
-
-https://cdn-eu.tivimivi.com/streams/123
- /1920x1080/index.m3u8
+https://cdn-eu.tivimivi.com/streams/123/1920x1080/index.m3u8
 #EXTINF:-1,atv
-
 https://cdn-eu.tivimivi.com/streams/121/1920x1080/index.m3u8
-
 #EXTINF:-1,CNBS-e
-
 https://cdn-eu.tivimivi.com/streams/120/1920x1080/index.m3u8
-
 #EXTINF:-1,ENERJi
-
 https://cdn-eu.tivimivi.com/streams/136/1920x1080/index.m3u8
-
 #EXTINF:-1,NTV
-
 https://cdn-eu.tivimivi.com/streams/128/1920x1080/index.m3u8
-
 #EXTINF:-1,Dans 95_5 FM HD
-
 https://cdn-eu.tivimivi.com/streams/135/1920x1080/index.m3u8
-
 #EXTINF:-1,TRT GENC
-
 https://cdn-eu.tivimivi.com/streams/139/1920x1080/index.m3u8
-
 #EXTINF:-1,HT SPOR
-
 https://cdn-eu.tivimivi.com/streams/140/1920x1080/index.m3u8
-
 #EXTINF:-1,sim
-
 https://cdn-eu.tivimivi.com/streams/142/1920x1080/index.m3u8
-
 #EXTINF:-1,KIBRIS
-
 https://cdn-eu.tivimivi.com/streams/150/1920x1080/index.m3u8
-
 #EXTINF:-1,CN
-
 https://cdn-eu.tivimivi.com/streams/151/1920x1080/index.m3u8
-
 #EXTINF:-1,Kozmo Spor
-
 https://cdn-eu.tivimivi.com/streams/152/1920x1080/index.m3u8
-
 #EXTINF:-1,TRT1
-
 https://cdn-eu.tivimivi.com/streams/153/1920x1080/index.m3u8
-
 #EXTINF:-1,NHK World Japan
-
 https://cdn-eu.tivimivi.com/streams/157/1920x1080/index.m3u8
