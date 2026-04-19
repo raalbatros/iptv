@@ -68,6 +68,8 @@ https://v.arectv30.sbs/static/tabi.m3u8
 http://live.net-spor-e6a.workers.dev/?ID=1
 
 
+#EXTINF:-1 tvg-type="movie" group-title="Filmler", Test Video
+https://user-images.githubusercontent.com/77414773/187233301-bfd02e66-525b-41b2-90cc-35d256d6eecc.mp4
 
 
 
