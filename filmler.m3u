@@ -53,10 +53,10 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="HT SPOR.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/ht-spor-buyuk.png?rkt=DfS6Tgv6Hjr93k3" ,HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="tabii spor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tabii_-_TRT_Logo.png/500px-Tabii_-_TRT_Logo.png" ,TABII SPOR
-https://v.arectv30.sbs/static/tabi.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-http://live.net-spor-e6a.workers.dev/?ID=1
+https://betconnectstreamserver1001.site/601/mono.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
+https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
 #EXTINF:-1 group-title="Filmler" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b7/Ta%C5%9FacakBuDeniz.jpg/250px-Ta%C5%9FacakBuDeniz.jpg", Taşacak Bu Deniz
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tasacak.Bu.Deniz.SON.mkv
