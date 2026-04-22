@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey2.xml, https://www.open-epg.com/files/turkey1.xml, https://www.open-epg.com/files/germany5.xml"
-#EXTINF:-1 group-title="Live TV" tvg-id="TRT1 HD.tr" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png ,TRT 1
-http://89.187.191.41/TRT-1-HD-TR/index.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="TRT1 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" ,TRT 1
+http://85.209.248.3:9897/trt1
 #EXTINF:-1 group-title="Live TV" tvg-id="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="ATV HD.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
@@ -44,7 +44,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAv3CFSoF-CswpDf6HEnAekqOLmQ_t002VrW-MN1iHEWFXK4XtDG_Hm6g7f8by6bBGBI&usqp=CAU" ,TRT BELGESEL
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master_3.m3u8
+http://85.209.248.3:9897/trtbelgesel
 #EXTINF:-1 group-title="Live TV" tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" ,TLC
 https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="TRT SPOR HD.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
@@ -55,9 +55,9 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
 http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="HT SPOR.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ht-spor-buyuk.webp/275px-Ht-spor-buyuk.webp.png" ,HT SPOR
+#EXTINF:-1 group-title="Live TV" tvg-id="HT SPOR.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/ht-spor-buyuk.png?rkt=DfS6Tgv6Hjr93k3" ,HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="tabii spor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" ,TABII SPOR
+#EXTINF:-1 group-title="Live TV" tvg-id="tabii spor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tabii_-_TRT_Logo.png/500px-Tabii_-_TRT_Logo.png" ,TABII SPOR
 https://v.arectv30.sbs/static/tabi.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 http://live.net-spor-e6a.workers.dev/?ID=1
