@@ -1,40 +1,37 @@
 name: Film Arşivi Güncellemesi
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # Bu satırı ekleyin
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  update-films:
+  scrape-films:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     
     steps:
-      - uses: actions/checkout@v4
+      - name: Repoyu indir
+        uses: actions/checkout@v4
       
-      - uses: actions/setup-node@v4
+      - name: Node.js kur
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
       
-      - run: npm install axios
+      - name: Bağımlılıkları yükle
+        run: npm install axios
       
-      - run: node scripts/film-scraper.js
+      - name: Filmleri tara
+        run: node scripts/film-scraper.js
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
       
-      - run: |
+      - name: Değişiklikleri kaydet
+        run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add filmler/
+          git add filmler/ || true
           git diff --quiet && git diff --staged --quiet || git commit -m "🎬 Film güncellemesi $(date +'%Y-%m-%d')"
           git push
