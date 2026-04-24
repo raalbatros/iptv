@@ -28,7 +28,7 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
       
       - name: Birleşik M3U oluştur (4 kategori)
-        run: node scripts/birlesik-iptv.js
+        run: node scripts/iptv.js
       
       - name: GitHub'a gönder
         run: |
