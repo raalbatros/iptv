@@ -1,11 +1,11 @@
 #EXTM3U
-# IPTV Listesi - 24.04.2026 08:20:35
+# IPTV Listesi - 24.04.2026 08:22:16
 
 
 # ========== 📺 CANLI TV ==========
 x-tvg-url="https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey2.xml, https://www.open-epg.com/files/turkey1.xml, https://www.open-epg.com/files/germany5.xml"
 #EXTINF:-1 group-title="Live TV" tvg-id="TRT1 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" ,TRT 1
-http://87.246.54.249:8080/TRT1/index.m3u8
+https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="ATV HD.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
