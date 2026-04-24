@@ -1,84 +1,59 @@
-const fs = require('fs');
 const axios = require('axios');
+const fs = require('fs');
 
-// KAYNAKLAR (4 kategori)
+// KAYNAKLAR
 const KAYNAKLAR = [
     {
         ad: "📺 CANLI TV",
-        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/canlitv.m3u",
-        dosya: "canlitv.m3u"
+        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/canlitv.m3u"
     },
     {
         ad: "🎬 FİLMLER",
-        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/filmler/films.m3u",
-        dosya: "filmler/films.m3u"
+        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/filmler/films.m3u"
     },
     {
         ad: "📺 DİZİ SON BÖLÜMLER",
-        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/dizison.m3u",
-        dosya: "dizison.m3u"
+        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/dizison.m3u"
     },
     {
         ad: "⭐ TAVSİYE",
-        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/tavsiye.m3u",
-        dosya: "tavsiye.m3u"
+        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/tavsiye.m3u"
     }
 ];
 
-const OUTPUT_FILE = "iptv.m3u";
-
-// URL'den dosya indir
 async function indir(url) {
     try {
-        const response = await axios.get(url, { timeout: 15000 });
+        const response = await axios.get(url, { timeout: 10000 });
         return response.data;
     } catch (error) {
-        console.error(`❌ İndirme hatası (${url}):`, error.message);
+        console.error(`❌ Hata: ${url} - ${error.message}`);
         return null;
     }
 }
 
-// M3U içeriğini düzenle (başlık temizleme)
-function temizle(icerik) {
-    if (!icerik) return "";
-    // #EXTM3U başlığını kaldır (en başa bir kere yazacağız)
-    return icerik.replace('#EXTM3U', '').trim();
-}
-
 async function main() {
-    console.log("🔗 BİRLEŞİK IPTV LİSTESİ OLUŞTURULUYOR...\n");
+    console.log("🔗 IPTV birleştiriliyor...\n");
     
     let birlesik = '#EXTM3U\n';
-    birlesik += `# Birleşik IPTV Listesi\n`;
-    birlesik += `# Oluşturulma: ${new Date().toLocaleString('tr-TR')}\n`;
-    birlesik += `# Kategori Sayısı: ${KAYNAKLAR.length}\n\n`;
+    birlesik += `# IPTV Listesi - ${new Date().toLocaleString('tr-TR')}\n\n`;
     
     for (const kaynak of KAYNAKLAR) {
         console.log(`📥 ${kaynak.ad} indiriliyor...`);
         const icerik = await indir(kaynak.url);
         
         if (icerik) {
-            const temizIcerik = temizle(icerik);
-            birlesik += `\n# ==========================================\n`;
-            birlesik += `# ${kaynak.ad}\n`;
-            birlesik += `# Kaynak: ${kaynak.url}\n`;
-            birlesik += `# ==========================================\n`;
-            birlesik += temizIcerik;
+            let temiz = icerik.replace('#EXTM3U', '').trim();
+            birlesik += `\n# ========== ${kaynak.ad} ==========\n`;
+            birlesik += temiz;
             birlesik += `\n`;
-            console.log(`   ✅ Başarılı`);
+            console.log(`   ✅ Eklendi`);
         } else {
-            console.log(`   ⚠️ Atlandı (indirilemedi)`);
+            console.log(`   ⚠️ Atlanıyor`);
         }
     }
     
-    // Dosyayı kaydet
-    fs.writeFileSync(OUTPUT_FILE, birlesik);
-    
-    console.log(`\n✅ BİRLEŞTİRME TAMAMLANDI!`);
-    console.log(`📁 Çıktı: ${OUTPUT_FILE}`);
-    console.log(`📊 Dosya boyutu: ${(birlesik.length / 1024).toFixed(2)} KB`);
-    console.log(`\n📺 SON M3U LİNKİ:`);
-    console.log(`https://raw.githubusercontent.com/raalbatros/iptv/main/iptv.m3u`);
+    fs.writeFileSync('iptv.m3u', birlesik);
+    console.log(`\n✅ iptv.m3u oluşturuldu!`);
 }
 
 main().catch(console.error);
