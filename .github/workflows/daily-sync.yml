@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Repoyu indir
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
       - name: Node.js kur
         uses: actions/setup-node@v4
@@ -28,11 +30,10 @@ jobs:
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
       
-      - name: GitHub'a gönder
+      - name: GitHub'a zorla gönder
         run: |
           git config user.name "GitHub Actions Bot"
-          git config.user.email "actions@github.com"
+          git config user.email "actions@github.com"
           git add filmler/films.m3u
-          git commit -m "🎬 Film arşivi güncellendi $(date +'%Y-%m-%d')" || echo "Değişiklik yok"
-          git pull origin main --no-rebase
-          git push
+          git commit -m "🎬 Film güncellemesi $(date +'%Y-%m-%d')" || true
+          git push --force origin main
