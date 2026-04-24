@@ -1,11 +1,11 @@
 #EXTM3U
-# IPTV Listesi - 24.04.2026 08:22:16
+# IPTV Listesi - 24.04.2026 08:24:38
+# Toplam kaynak: 4
 
 
 # ========== 📺 CANLI TV ==========
-x-tvg-url="https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey2.xml, https://www.open-epg.com/files/turkey1.xml, https://www.open-epg.com/files/germany5.xml"
 #EXTINF:-1 group-title="Live TV" tvg-id="TRT1 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" ,TRT 1
-https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
+http://87.246.54.249:8080/TRT1/index.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="ATV HD.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
@@ -64,12 +64,6 @@ https://betconnectstreamserver1001.site/601/mono.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
 # ========== 🎬 FİLMLER ==========
-# Film Arşivi - 24.04.2026
-# Toplam: 2932 film
-# ⭐ Rating: IMDb puanı yüksek olanlar önce gelir
-# 🇹🇷 Yerli filmler ayrı kategoridedir
-
-# 🆕 VİZYONDAKİLER (10 adet)
 #EXTINF:-1 group-title="Vizyondakiler" tvg-logo="https://image.tmdb.org/t/p/w500/nFzNpaniq5qQxWio18oJZQXeaZb.jpg", Şampiyon Keçi: Tüm Zamanların En İyisi ⭐ 7.9
 https://vidmody.com/vs/tt27613895
 #EXTINF:-1 group-title="Vizyondakiler" tvg-logo="https://image.tmdb.org/t/p/w500/d9EoZcvt7hABQUEb4ZzYI3Ao5ge.jpg", Suç 101 ⭐ 6.962
@@ -90,14 +84,10 @@ https://vidmody.com/vs/tt26735622
 https://vidmody.com/vs/tt28682323
 #EXTINF:-1 group-title="Vizyondakiler" tvg-logo="https://image.tmdb.org/t/p/w500/1oWms9YonVlnpNXnoo96TlSBkgf.jpg", Sessiz Tepe: Dönüş ⭐ 5.236
 https://vidmody.com/vs/tt22868010
-
-# 🇹🇷 YERLİ FİLMLER (2 adet)
 #EXTINF:-1 group-title="Yerli Filmler" tvg-logo="https://image.tmdb.org/t/p/w500/sOfUbzu6OUL5cscGODPdpHn9C1g.jpg", 7. Koğuştaki Mucize (2019) ⭐ 8.252
 https://vidmody.com/vs/tt10431500
 #EXTINF:-1 group-title="Yerli Filmler" tvg-logo="https://image.tmdb.org/t/p/w500/98JYjLElGk8cHYd2FT0DLK11CcJ.jpg", İki Dünya Bir Dilek (2025) ⭐ 7.409
 https://vidmody.com/vs/tt36499994
-
-# 🎬 2026 (37 adet)
 #EXTINF:-1 group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w500/nFzNpaniq5qQxWio18oJZQXeaZb.jpg", Şampiyon Keçi: Tüm Zamanların En İyisi ⭐ 7.9
 https://vidmody.com/vs/tt27613895
 #EXTINF:-1 group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w500/kyfsiPQsJxdgf8gOtYkUhwojN6l.jpg", David Attenborough: Bir Goril Hikâyesi ⭐ 7.882
@@ -172,8 +162,6 @@ https://vidmody.com/vs/tt39369643
 https://vidmody.com/vs/tt34498610
 #EXTINF:-1 group-title="2026" tvg-logo="https://image.tmdb.org/t/p/w500/1oWms9YonVlnpNXnoo96TlSBkgf.jpg", Sessiz Tepe: Dönüş ⭐ 5.236
 https://vidmody.com/vs/tt22868010
-
-# 🎬 2025 (83 adet)
 #EXTINF:-1 group-title="2025" tvg-logo="https://image.tmdb.org/t/p/w500/dUbacBfy6M0EBLPssQhJFhtHxIU.jpg", Chainsaw Man - The Movie: Reze Arc ⭐ 8.328
 https://vidmody.com/vs/tt30472557
 #EXTINF:-1 group-title="2025" tvg-logo="https://image.tmdb.org/t/p/w500/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg", Ağzımdan Kaçtı ⭐ 8.297
@@ -274,8 +262,6 @@ https://vidmody.com/vs/tt22898462
 https://vidmody.com/vs/tt12299608
 #EXTINF:-1 group-title="2025" tvg-logo="https://image.tmdb.org/t/p/w500/eVYcwDY2NM0Wd7HJb7yg3nHutBB.jpg", Ölüme Koşan Adam ⭐ 6.8
 https://vidmody.com/vs/tt14107334
-
-# 🎬 2024 (78 adet)
 #EXTINF:-1 group-title="2024" tvg-logo="https://image.tmdb.org/t/p/w500/wIPEakWqEBfpqtw7dXaVUQ5Qz8E.jpg", Vahşi Robot ⭐ 8.307
 https://vidmody.com/vs/tt29623480
 #EXTINF:-1 group-title="2024" tvg-logo="https://image.tmdb.org/t/p/w500/n7OWJcSBBZ3zHw42JJBIh7PH80n.jpg", Yolun Başında ⭐ 8.215
@@ -376,8 +362,6 @@ https://vidmody.com/vs/tt17279496
 https://vidmody.com/vs/tt5822536
 #EXTINF:-1 group-title="2024" tvg-logo="https://image.tmdb.org/t/p/w500/99keBLz0m5kfjSO6K5byZxdHcBi.jpg", Omen: İlk Kehanet ⭐ 6.818
 https://vidmody.com/vs/tt5672290
-
-# 🎬 2023 (81 adet)
 #EXTINF:-1 group-title="2023" tvg-logo="https://image.tmdb.org/t/p/w500/2k49onFB4SnbMWgczIhf1JWl6Tr.jpg", Örümcek-Adam: Örümcek-Evrenine Geçiş ⭐ 8.333
 https://vidmody.com/vs/tt9362722
 #EXTINF:-1 group-title="2023" tvg-logo="https://image.tmdb.org/t/p/w500/b7gDkAKvW2Gwz6eZBuJTkOUn95g.jpg", Black Clover: Sword of the Wizard King ⭐ 8.086
@@ -478,8 +462,6 @@ https://vidmody.com/vs/tt1517268
 https://vidmody.com/vs/tt13375076
 #EXTINF:-1 group-title="2023" tvg-logo="https://image.tmdb.org/t/p/w500/l16wpQSFzdmAiMc8kD8SumxqBvL.jpg", Çığlık 6 ⭐ 6.9
 https://vidmody.com/vs/tt17663992
-
-# 🎬 2022 (87 adet)
 #EXTINF:-1 group-title="2022" tvg-logo="https://image.tmdb.org/t/p/w500/8HrGy5aPcOwqpykEFyDGegT4gsR.jpg", Çizmeli Kedi: Son Dilek ⭐ 8.201
 https://vidmody.com/vs/tt3915174
 #EXTINF:-1 group-title="2022" tvg-logo="https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg", Top Gun: Maverick ⭐ 8.152
@@ -580,8 +562,6 @@ https://vidmody.com/vs/tt8760708
 https://vidmody.com/vs/tt9114286
 #EXTINF:-1 group-title="2022" tvg-logo="https://image.tmdb.org/t/p/w500/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg", İyi Şanslar Leo Grande ⭐ 7
 https://vidmody.com/vs/tt13352968
-
-# 🎬 2021 (83 adet)
 #EXTINF:-1 group-title="2021" tvg-logo="https://image.tmdb.org/t/p/w500/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg", Palmer ⭐ 8.121
 https://vidmody.com/vs/tt6857376
 #EXTINF:-1 group-title="2021" tvg-logo="https://image.tmdb.org/t/p/w500/eghritQqJBZN3V4MxcE2iT5UQTP.jpg", Zack Snyder'ın Adalet Birliği ⭐ 8.1
@@ -682,8 +662,6 @@ https://vidmody.com/vs/tt7638348
 https://vidmody.com/vs/tt13872248
 #EXTINF:-1 group-title="2021" tvg-logo="https://image.tmdb.org/t/p/w500/j04Oepj3LGTWSb1ltXm0pcy50Xq.jpg", Hırsızlar Ordusu ⭐ 6.802
 https://vidmody.com/vs/tt13024674
-
-# 🎬 2020 (79 adet)
 #EXTINF:-1 group-title="2020" tvg-logo="https://image.tmdb.org/t/p/w500/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg", Gabriel'in Cehennemi ⭐ 8.385
 https://vidmody.com/vs/tt11316854
 #EXTINF:-1 group-title="2020" tvg-logo="https://image.tmdb.org/t/p/w500/4lR2xlb6NPIqZR07qxXK2dVRJmS.jpg", Ömür Gibi Bir Yıl ⭐ 8.231
@@ -784,8 +762,6 @@ https://vidmody.com/vs/tt8850222
 https://vidmody.com/vs/tt6772802
 #EXTINF:-1 group-title="2020" tvg-logo="https://image.tmdb.org/t/p/w500/eFAAidZissRvn3mYlr2t3Lb5uzZ.jpg", Bloodshot: Durdurulamaz Güç ⭐ 6.681
 https://vidmody.com/vs/tt1634106
-
-# 🎬 2019 (86 adet)
 #EXTINF:-1 group-title="2019" tvg-logo="https://image.tmdb.org/t/p/w500/nx7TmJDMkgyBc09DVo5ze52Wt3F.jpg", Parazit ⭐ 8.494
 https://vidmody.com/vs/tt6751668
 #EXTINF:-1 group-title="2019" tvg-logo="https://image.tmdb.org/t/p/w500/zx1uMVXSJrzYCA8KTpmeEBqBx66.jpg", Avengers: Son Oyun ⭐ 8.234
@@ -886,8 +862,6 @@ https://vidmody.com/vs/tt5884052
 https://vidmody.com/vs/tt1560220
 #EXTINF:-1 group-title="2019" tvg-logo="https://image.tmdb.org/t/p/w500/uslyV3FkKdQHMxpdnvq1bL4YfYV.jpg", Jumanji: Yeni Seviye ⭐ 6.876
 https://vidmody.com/vs/tt7975244
-
-# 🎬 2018 (88 adet)
 #EXTINF:-1 group-title="2018" tvg-logo="https://image.tmdb.org/t/p/w500/ii2MsmBmTL5kQuvBRCtKokUAF8v.jpg", Örümcek Adam: Örümcek Evreninde ⭐ 8.394
 https://vidmody.com/vs/tt4633694
 #EXTINF:-1 group-title="2018" tvg-logo="https://image.tmdb.org/t/p/w500/7FQTJyrvhUp9oYDhHgujWRlxUES.jpg", Avengers: Sonsuzluk Savaşı ⭐ 8.2
@@ -988,8 +962,6 @@ https://vidmody.com/vs/tt1270797
 https://vidmody.com/vs/tt2737304
 #EXTINF:-1 group-title="2018" tvg-logo="https://image.tmdb.org/t/p/w500/xNcm0kmMOmE5lxRiDaA6bmx4unH.jpg", Adalet 2 ⭐ 6.783
 https://vidmody.com/vs/tt3766354
-
-# 🎬 2017 (85 adet)
 #EXTINF:-1 group-title="2017" tvg-logo="https://image.tmdb.org/t/p/w500/f9Ro5x36UTDdHFrhnHeXqlhBVRF.jpg", Coco ⭐ 8.197
 https://vidmody.com/vs/tt2380307
 #EXTINF:-1 group-title="2017" tvg-logo="https://image.tmdb.org/t/p/w500/zgVBZr9JnA1OrXXe0z1F757qUiW.jpg", Mucize ⭐ 8.107
@@ -1090,8 +1062,6 @@ https://vidmody.com/vs/tt1959563
 https://vidmody.com/vs/tt4630562
 #EXTINF:-1 group-title="2017" tvg-logo="https://image.tmdb.org/t/p/w500/e15yYkxZp27Lg433mQaydIKwDU7.jpg", Arabalar 3 ⭐ 6.853
 https://vidmody.com/vs/tt3606752
-
-# 🎬 2016 (87 adet)
 #EXTINF:-1 group-title="2016" tvg-logo="https://image.tmdb.org/t/p/w500/jkK6XdJqSCm7maDV8xgbE0JVNIP.jpg", Senin Adın ⭐ 8.477
 https://vidmody.com/vs/tt5311514
 #EXTINF:-1 group-title="2016" tvg-logo="https://image.tmdb.org/t/p/w500/2Sy0anrKQ13GKgX78EXnGGpYUtz.jpg", Savaş Vadisi ⭐ 8.189
@@ -1192,8 +1162,6 @@ https://vidmody.com/vs/tt1935859
 https://vidmody.com/vs/tt2660888
 #EXTINF:-1 group-title="2016" tvg-logo="https://image.tmdb.org/t/p/w500/zHzBTd502IZf60x8n2g0TB01vPF.jpg", Sessiz ⭐ 6.734
 https://vidmody.com/vs/tt5022702
-
-# 🎬 2015 (86 adet)
 #EXTINF:-1 group-title="2015" tvg-logo="https://image.tmdb.org/t/p/w500/wLTAsQeJh8jfBAjMDyJc7MNIziI.jpg", İnsan ⭐ 8.5
 https://vidmody.com/vs/tt3327994
 #EXTINF:-1 group-title="2015" tvg-logo="https://image.tmdb.org/t/p/w500/wc61Az3rZvK2hMNbDp66xrggFeO.jpg", Gizli Dünya ⭐ 7.995
@@ -1294,8 +1262,6 @@ https://vidmody.com/vs/tt4046784
 https://vidmody.com/vs/tt0369610
 #EXTINF:-1 group-title="2015" tvg-logo="https://image.tmdb.org/t/p/w500/2sN8BYqnYBAo8b2x6hfmWjDztiA.jpg", Kızıl Tepe ⭐ 6.66
 https://vidmody.com/vs/tt2554274
-
-# 🎬 2014 (90 adet)
 #EXTINF:-1 group-title="2014" tvg-logo="https://image.tmdb.org/t/p/w500/xbiycuc84TrieEWwkkuH2hoEa9S.jpg", Yıldızlararası ⭐ 8.47
 https://vidmody.com/vs/tt0816692
 #EXTINF:-1 group-title="2014" tvg-logo="https://image.tmdb.org/t/p/w500/q3Ev5vIC3fklycV9kfpVIdbRe14.jpg", Whiplash ⭐ 8.375
@@ -1396,8 +1362,6 @@ https://vidmody.com/vs/tt0435651
 https://vidmody.com/vs/tt1791528
 #EXTINF:-1 group-title="2014" tvg-logo="https://image.tmdb.org/t/p/w500/82bZ816lXLqAVPp0wsvE5S2SuGu.jpg", İnanılmaz Örümcek-Adam 2 ⭐ 6.532
 https://vidmody.com/vs/tt1872181
-
-# 🎬 2013 (89 adet)
 #EXTINF:-1 group-title="2013" tvg-logo="https://image.tmdb.org/t/p/w500/eAFaMmceNmX4OZbmmzWQY4n9yIw.jpg", Tutsak ⭐ 8.103
 https://vidmody.com/vs/tt1392214
 #EXTINF:-1 group-title="2013" tvg-logo="https://image.tmdb.org/t/p/w500/wmFzjCp0tDFexGOzraOSRnHHaB3.jpg", Prenses Kaguya Masalı ⭐ 8.096
@@ -1498,8 +1462,6 @@ https://vidmody.com/vs/tt1535108
 https://vidmody.com/vs/tt1981115
 #EXTINF:-1 group-title="2013" tvg-logo="https://image.tmdb.org/t/p/w500/unP9F2Wc1AmAuxYUv8ABgUCikkM.jpg", Genç ve Güzel ⭐ 6.503
 https://vidmody.com/vs/tt2752200
-
-# 🎬 2012 (84 adet)
 #EXTINF:-1 group-title="2012" tvg-logo="https://image.tmdb.org/t/p/w500/wjN6Cg2Ow7eP1HotskuDyVQQiKb.jpg", Zincirsiz ⭐ 8.19
 https://vidmody.com/vs/tt1853728
 #EXTINF:-1 group-title="2012" tvg-logo="https://image.tmdb.org/t/p/w500/lJH1vMl21YFHnB98FiIXO7SIwEb.jpg", Onur Savaşı ⭐ 8.1
@@ -1600,8 +1562,6 @@ https://vidmody.com/vs/tt1277953
 https://vidmody.com/vs/tt1446714
 #EXTINF:-1 group-title="2012" tvg-logo="https://image.tmdb.org/t/p/w500/7nIuYxZn8VUAWjHVARGuUpAmCql.jpg", Gri Kurt ⭐ 6.574
 https://vidmody.com/vs/tt1601913
-
-# 🎬 2011 (85 adet)
 #EXTINF:-1 group-title="2011" tvg-logo="https://image.tmdb.org/t/p/w500/tiyHlhIS4Tm6HK8XdwRZX4cc4tS.jpg", Can Dostum ⭐ 8.269
 https://vidmody.com/vs/tt1675434
 #EXTINF:-1 group-title="2011" tvg-logo="https://image.tmdb.org/t/p/w500/vVye4gxVd6sar2UlK3AgHDYqSge.jpg", Duyguların Rengi ⭐ 8.197
@@ -1702,8 +1662,6 @@ https://vidmody.com/vs/tt1298650
 https://vidmody.com/vs/tt0472399
 #EXTINF:-1 group-title="2011" tvg-logo="https://image.tmdb.org/t/p/w500/mWd5Qt2qzIleEgZ4aSR7EvaKrex.jpg", Nedimeler ⭐ 6.505
 https://vidmody.com/vs/tt1478338
-
-# 🎬 2010 (93 adet)
 #EXTINF:-1 group-title="2010" tvg-logo="https://image.tmdb.org/t/p/w500/xn0Kcg4e6p0mLxVS3nAWhNmW2Ni.jpg", Başlangıç ⭐ 8.372
 https://vidmody.com/vs/tt1375666
 #EXTINF:-1 group-title="2010" tvg-logo="https://image.tmdb.org/t/p/w500/epp8lnSQEWe9cYQACEhBDZTY18L.jpg", Zindan Adası ⭐ 8.198
@@ -1804,8 +1762,6 @@ https://vidmody.com/vs/tt1226273
 https://vidmody.com/vs/tt0944835
 #EXTINF:-1 group-title="2010" tvg-logo="https://image.tmdb.org/t/p/w500/r6OOHSheg3cKP217nsHx5tkRa6W.jpg", A Takımı ⭐ 6.411
 https://vidmody.com/vs/tt0429493
-
-# 🎬 2009 (84 adet)
 #EXTINF:-1 group-title="2009" tvg-logo="https://image.tmdb.org/t/p/w500/w3M2SpS71EBl3oXmUGHet2rCm71.jpg", Soysuzlar Çetesi ⭐ 8.217
 https://vidmody.com/vs/tt0361748
 #EXTINF:-1 group-title="2009" tvg-logo="https://image.tmdb.org/t/p/w500/790t62GrOvAeSo9Oalbar22boPb.jpg", Hachi: Bir Köpeğin Hikayesi ⭐ 8.005
@@ -1906,8 +1862,6 @@ https://vidmody.com/vs/tt0386117
 https://vidmody.com/vs/tt0844708
 #EXTINF:-1 group-title="2009" tvg-logo="https://image.tmdb.org/t/p/w500/aeZeLvLIZA5eOvkKIeD5CfnIcqJ.jpg", Kara Büyü ⭐ 6.474
 https://vidmody.com/vs/tt1127180
-
-# 🎬 2008 (87 adet)
 #EXTINF:-1 group-title="2008" tvg-logo="https://image.tmdb.org/t/p/w500/7IPCEr7ifdH5CtU97QG7XgAAtOp.jpg", Kara Şövalye ⭐ 8.528
 https://vidmody.com/vs/tt0468569
 #EXTINF:-1 group-title="2008" tvg-logo="https://image.tmdb.org/t/p/w500/jzCpGwWHUwby14KPJJWla9ybY81.jpg", Vol.i ⭐ 8.11
@@ -2008,8 +1962,6 @@ https://vidmody.com/vs/tt0493464
 https://vidmody.com/vs/tt0479952
 #EXTINF:-1 group-title="2008" tvg-logo="https://image.tmdb.org/t/p/w500/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg", Horton ⭐ 6.518
 https://vidmody.com/vs/tt0451079
-
-# 🎬 2007 (91 adet)
 #EXTINF:-1 group-title="2007" tvg-logo="https://image.tmdb.org/t/p/w500/4HaeMedO6VQKtcxidDA5U1aZs5x.jpg", Kan Dökülecek ⭐ 8.077
 https://vidmody.com/vs/tt0469494
 #EXTINF:-1 group-title="2007" tvg-logo="https://image.tmdb.org/t/p/w500/wFMkqerSlifIae2cja6K1fdvz2G.jpg", Özel Tim ⭐ 8.056
@@ -2110,8 +2062,6 @@ https://vidmody.com/vs/tt0498399
 https://vidmody.com/vs/tt1077258
 #EXTINF:-1 group-title="2007" tvg-logo="https://image.tmdb.org/t/p/w500/5FGW46MSMZJ50cIfErFRWKaCMJD.jpg", Şüphe ⭐ 6.683
 https://vidmody.com/vs/tt0486822
-
-# 🎬 2006 (89 adet)
 #EXTINF:-1 group-title="2006" tvg-logo="https://image.tmdb.org/t/p/w500/wiSuje8hdVuwM0pvhtSFirCHmJF.jpg", Prestij ⭐ 8.206
 https://vidmody.com/vs/tt0482571
 #EXTINF:-1 group-title="2006" tvg-logo="https://image.tmdb.org/t/p/w500/8dnfEnLpLJh7dRHnkN8AfIo4mpq.jpg", Köstebek ⭐ 8.16
@@ -2212,8 +2162,6 @@ https://vidmody.com/vs/tt0477347
 https://vidmody.com/vs/tt0327084
 #EXTINF:-1 group-title="2006" tvg-logo="https://image.tmdb.org/t/p/w500/chLSeqLbFGdX3cfOwxXPq8LEGUZ.jpg", Yaratıklar ⭐ 6.54
 https://vidmody.com/vs/tt0439815
-
-# 🎬 2005 (85 adet)
 #EXTINF:-1 group-title="2005" tvg-logo="https://image.tmdb.org/t/p/w500/kQI7KgSdh0UuHEkk2XWx7udA9Wd.jpg", Aşk ve Gurur ⭐ 8
 https://vidmody.com/vs/tt0414387
 #EXTINF:-1 group-title="2005" tvg-logo="https://image.tmdb.org/t/p/w500/5jhuepk2hnINBE2RtsEgffdXLXW.jpg", Harry Potter ve Ateş Kadehi ⭐ 7.801
@@ -2314,8 +2262,6 @@ https://vidmody.com/vs/tt0407304
 https://vidmody.com/vs/tt0396269
 #EXTINF:-1 group-title="2005" tvg-logo="https://image.tmdb.org/t/p/w500/wvnVgT3j1bGXTNYyFfzpJCLX1I6.jpg", Robotlar ⭐ 6.481
 https://vidmody.com/vs/tt0358082
-
-# 🎬 2004 (86 adet)
 #EXTINF:-1 group-title="2004" tvg-logo="https://image.tmdb.org/t/p/w500/8rUEO5BjmWEQcGUm5SmO134NBC3.jpg", Yürüyen Şato ⭐ 8.387
 https://vidmody.com/vs/tt0347149
 #EXTINF:-1 group-title="2004" tvg-logo="https://image.tmdb.org/t/p/w500/zZl2T3yj80dwaWBeOWZQoFOJwGe.jpg", Sil Baştan ⭐ 8.091
@@ -2416,8 +2362,6 @@ https://vidmody.com/vs/tt0338348
 https://vidmody.com/vs/tt0167190
 #EXTINF:-1 group-title="2004" tvg-logo="https://image.tmdb.org/t/p/w500/sC861qfdaNMcoQnHbhGzqmOWw5S.jpg", Büyük Hazine ⭐ 6.651
 https://vidmody.com/vs/tt0368891
-
-# 🎬 2003 (84 adet)
 #EXTINF:-1 group-title="2003" tvg-logo="https://image.tmdb.org/t/p/w500/qwigzi0gOcXZRxbm488wT31t2UZ.jpg", Yüzüklerin Efendisi: Kralın Dönüşü ⭐ 8.496
 https://vidmody.com/vs/tt0167260
 #EXTINF:-1 group-title="2003" tvg-logo="https://image.tmdb.org/t/p/w500/xpa9ybm6tYGna5LseqSXvKpSSJn.jpg", İhtiyar Delikanlı ⭐ 8.238
@@ -2518,8 +2462,6 @@ https://vidmody.com/vs/tt0348124
 https://vidmody.com/vs/tt0318155
 #EXTINF:-1 group-title="2003" tvg-logo="https://image.tmdb.org/t/p/w500/7lyxwOg7SdGff79yKCQmJ3AKWSf.jpg", Korku Kapanı ⭐ 6.383
 https://vidmody.com/vs/tt0295700
-
-# 🎬 2002 (85 adet)
 #EXTINF:-1 group-title="2002" tvg-logo="https://image.tmdb.org/t/p/w500/ltoNh0NJ8hJTOKbuRvTNc8918Mi.jpg", Tanrı Kent ⭐ 8.429
 https://vidmody.com/vs/tt0317248
 #EXTINF:-1 group-title="2002" tvg-logo="https://image.tmdb.org/t/p/w500/AaiH8Yocbg0VMfs0PyXJTJbWrp2.jpg", Yüzüklerin Efendisi: İki Kule ⭐ 8.415
@@ -2620,8 +2562,6 @@ https://vidmody.com/vs/tt0187738
 https://vidmody.com/vs/tt0267626
 #EXTINF:-1 group-title="2002" tvg-logo="https://image.tmdb.org/t/p/w500/tafDYI10ZhorJ6nmsPqUfzQpRLn.jpg", Sonsuz Aşk ⭐ 6.52
 https://vidmody.com/vs/tt0259288
-
-# 🎬 2001 (82 adet)
 #EXTINF:-1 group-title="2001" tvg-logo="https://image.tmdb.org/t/p/w500/xvOEOMCzfV8qXkd1n1btZ8q4Psd.jpg", Ruhların Kaçışı ⭐ 8.534
 https://vidmody.com/vs/tt0245429
 #EXTINF:-1 group-title="2001" tvg-logo="https://image.tmdb.org/t/p/w500/37kdeAEyw8YlVLaAhYazBRAni9S.jpg", Yüzüklerin Efendisi: Yüzük Kardeşliği ⭐ 8.432
@@ -2722,8 +2662,6 @@ https://vidmody.com/vs/tt0261392
 https://vidmody.com/vs/tt0159273
 #EXTINF:-1 group-title="2001" tvg-logo="https://image.tmdb.org/t/p/w500/uIUIA16GTSFdRvOZDAYK71nr7E9.jpg", Mumya Dönüyor ⭐ 6.398
 https://vidmody.com/vs/tt0209163
-
-# 🎬 2000 (77 adet)
 #EXTINF:-1 group-title="2000" tvg-logo="https://image.tmdb.org/t/p/w500/kRSCWiRPEVhUIleK1bZKMZ5uZ4p.jpg", Gladyatör ⭐ 8.224
 https://vidmody.com/vs/tt0172495
 #EXTINF:-1 group-title="2000" tvg-logo="https://image.tmdb.org/t/p/w500/31yNVJl968krAHy3f5nFB6kLl7i.jpg", Akıl Defteri ⭐ 8.177
@@ -2824,8 +2762,6 @@ https://vidmody.com/vs/tt0163978
 https://vidmody.com/vs/tt0177971
 #EXTINF:-1 group-title="2000" tvg-logo="https://image.tmdb.org/t/p/w500/nQdBE1P0r4ZrgGqy5EX8sL2kXG6.jpg", Üçüncü Göz ⭐ 6.474
 https://vidmody.com/vs/tt0219699
-
-# 🎬 1999 (74 adet)
 #EXTINF:-1 group-title="1999" tvg-logo="https://image.tmdb.org/t/p/w500/6ZNnKbdDRQm0ftkq3OKiDrwZkIN.jpg", Yeşil Yol ⭐ 8.504
 https://vidmody.com/vs/tt0120689
 #EXTINF:-1 group-title="1999" tvg-logo="https://image.tmdb.org/t/p/w500/yjMuqAyJUoQZGWsZ0vZuYj5inAR.jpg", Dövüş Kulübü ⭐ 8.4
@@ -2926,8 +2862,6 @@ https://vidmody.com/vs/tt0142342
 https://vidmody.com/vs/tt0142688
 #EXTINF:-1 group-title="1999" tvg-logo="https://image.tmdb.org/t/p/w500/mhr9xRpjOBqlBjgDwtiOx6FsLvV.jpg", 8 Milimetre ⭐ 6.476
 https://vidmody.com/vs/tt0134273
-
-# 🎬 1998 (80 adet)
 #EXTINF:-1 group-title="1998" tvg-logo="https://image.tmdb.org/t/p/w500/gR1LQ4WEO9eJlA1Niv6JxOcukUY.jpg", Geçmişin Gölgesinde ⭐ 8.327
 https://vidmody.com/vs/tt0120586
 #EXTINF:-1 group-title="1998" tvg-logo="https://image.tmdb.org/t/p/w500/td38NLfhvwotZhKKHGXd71BKiox.jpg", 1900 Efsanesi ⭐ 8.243
@@ -3028,8 +2962,6 @@ https://vidmody.com/vs/tt0119223
 https://vidmody.com/vs/tt0120744
 #EXTINF:-1 group-title="1998" tvg-logo="https://image.tmdb.org/t/p/w500/dGWO2HmrbQiINuF7ZhAYbp2qfO3.jpg", Fakülte ⭐ 6.561
 https://vidmody.com/vs/tt0133751
-
-# 🎬 1997 (73 adet)
 #EXTINF:-1 group-title="1997" tvg-logo="https://image.tmdb.org/t/p/w500/bPliFlnRsZmH9Mr7F2CDqRsh50H.jpg", Hayat Güzeldir ⭐ 8.438
 https://vidmody.com/vs/tt0118799
 #EXTINF:-1 group-title="1997" tvg-logo="https://image.tmdb.org/t/p/w500/8d1goRMzqe0lonBQXaVaqmEXA8n.jpg", Prenses Mononoke ⭐ 8.324
@@ -3130,8 +3062,6 @@ https://vidmody.com/vs/tt0120347
 https://vidmody.com/vs/tt0119994
 #EXTINF:-1 group-title="1997" tvg-logo="https://image.tmdb.org/t/p/w500/ysfD96fF56BEzpktyDWChC8Epgs.jpg", Aşıklar ⭐ 6.298
 https://vidmody.com/vs/tt0119381
-
-# 🎬 1996 (61 adet)
 #EXTINF:-1 group-title="1996" tvg-logo="https://image.tmdb.org/t/p/w500/y0HmDV0bZDTtXWHqqYYbT9XoshB.jpg", Trainspotting ⭐ 7.959
 https://vidmody.com/vs/tt0117951
 #EXTINF:-1 group-title="1996" tvg-logo="https://image.tmdb.org/t/p/w500/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg", Fargo ⭐ 7.849
@@ -3232,8 +3162,6 @@ https://vidmody.com/vs/tt0115438
 https://vidmody.com/vs/tt0116040
 #EXTINF:-1 group-title="1996" tvg-logo="https://image.tmdb.org/t/p/w500/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg", Babam Söz Verdi ⭐ 6.1
 https://vidmody.com/vs/tt0116705
-
-# 🎬 1995 (63 adet)
 #EXTINF:-1 group-title="1995" tvg-logo="https://image.tmdb.org/t/p/w500/3qpOnTbxPK2HeHObBHttcvQHLGI.jpg", Yedi ⭐ 8.38
 https://vidmody.com/vs/tt0114369
 #EXTINF:-1 group-title="1995" tvg-logo="https://image.tmdb.org/t/p/w500/6GZuBIZnBvbt3yi8hfq4RHVIb5P.jpg", Olağan Şüpheliler ⭐ 8.17
@@ -3334,8 +3262,6 @@ https://vidmody.com/vs/tt0112642
 https://vidmody.com/vs/tt0112281
 #EXTINF:-1 group-title="1995" tvg-logo="https://image.tmdb.org/t/p/w500/rUhN1mk3uwHHwoeWqzgngLz2Eh7.jpg", Cesur Domuz Bebe ⭐ 6.267
 https://vidmody.com/vs/tt0112431
-
-# 🎬 1994 (60 adet)
 #EXTINF:-1 group-title="1994" tvg-logo="https://image.tmdb.org/t/p/w500/7T2SDS5efuJiK45oyKoEzf9RKjw.jpg", Esaretin Bedeli ⭐ 8.718
 https://vidmody.com/vs/tt0111161
 #EXTINF:-1 group-title="1994" tvg-logo="https://image.tmdb.org/t/p/w500/AgY33Wtg4737MhYopJSFyKWhKsO.jpg", Ucuz Roman ⭐ 8.485
@@ -3436,8 +3362,6 @@ https://vidmody.com/vs/tt0107952
 https://vidmody.com/vs/tt0110678
 #EXTINF:-1 group-title="1994" tvg-logo="https://image.tmdb.org/t/p/w500/4xPG8pPMyeoec48gKWbbC85EC8j.jpg", Boş Kafalılar ⭐ 6.167
 https://vidmody.com/vs/tt0109068
-
-# 🎬 1993 (65 adet)
 #EXTINF:-1 group-title="1993" tvg-logo="https://image.tmdb.org/t/p/w500/2mOH8EqumIaepdP94e0cy4Xnyg7.jpg", Schindler'in Listesi ⭐ 8.567
 https://vidmody.com/vs/tt0108052
 #EXTINF:-1 group-title="1993" tvg-logo="https://image.tmdb.org/t/p/w500/maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg", Jurassic Park ⭐ 7.967
@@ -3538,8 +3462,6 @@ https://vidmody.com/vs/tt0107144
 https://vidmody.com/vs/tt0107362
 #EXTINF:-1 group-title="1993" tvg-logo="https://image.tmdb.org/t/p/w500/mXCM7pmUFUGp7QzSmare3RITe6n.jpg", Zor Hedef ⭐ 6.481
 https://vidmody.com/vs/tt0107076
-
-# 🎬 1992 (64 adet)
 #EXTINF:-1 group-title="1992" tvg-logo="https://image.tmdb.org/t/p/w500/s20CFCa4rlkL2l3uDJyljkZwB90.jpg", Rezervuar Köpekleri ⭐ 8.115
 https://vidmody.com/vs/tt0105236
 #EXTINF:-1 group-title="1992" tvg-logo="https://image.tmdb.org/t/p/w500/l5QZ6V0TjH0BGSqG5uk4yKmzTwF.jpg", Affedilmeyen ⭐ 7.907
@@ -3640,8 +3562,6 @@ https://vidmody.com/vs/tt0105414
 https://vidmody.com/vs/tt0104412
 #EXTINF:-1 group-title="1992" tvg-logo="https://image.tmdb.org/t/p/w500/qer4dQQATYs5vHxpU8LFOsbY1L8.jpg", Evrenin Askerleri ⭐ 6.3
 https://vidmody.com/vs/tt0105698
-
-# 🎬 1991 (57 adet)
 #EXTINF:-1 group-title="1991" tvg-logo="https://image.tmdb.org/t/p/w500/4AoIoP6q006blFeb7vV9kKPD4En.jpg", Kuzuların Sessizliği ⭐ 8.345
 https://vidmody.com/vs/tt0102926
 #EXTINF:-1 group-title="1991" tvg-logo="https://image.tmdb.org/t/p/w500/2e2oJJKdNrxg8k74ty3fB90xLfl.jpg", Terminatör 2: Mahşer Günü ⭐ 8.144
@@ -3742,8 +3662,6 @@ https://vidmody.com/vs/tt0103060
 https://vidmody.com/vs/tt0101764
 #EXTINF:-1 group-title="1991" tvg-logo="https://image.tmdb.org/t/p/w500/ngY8TkL3YzW1Xv8t2Afim6047pq.jpg", Mavi göle dönüş ⭐ 6.191
 https://vidmody.com/vs/tt0102782
-
-# 🎬 1990 (72 adet)
 #EXTINF:-1 group-title="1990" tvg-logo="https://image.tmdb.org/t/p/w500/oMPDt1rNLYEVRpigNLaiTnibVn8.jpg", Sıkı Dostlar ⭐ 8.453
 https://vidmody.com/vs/tt0099685
 #EXTINF:-1 group-title="1990" tvg-logo="https://image.tmdb.org/t/p/w500/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg", Kurtlarla Dans ⭐ 7.837
