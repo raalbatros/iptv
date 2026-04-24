@@ -31,8 +31,8 @@ jobs:
       - name: GitHub'a gönder
         run: |
           git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-          git pull origin main --rebase
+          git config.user.email "actions@github.com"
           git add filmler/films.m3u
-          git diff --quiet && git diff --staged --quiet || git commit -m "🎬 Film arşivi güncellendi $(date +'%Y-%m-%d')"
+          git commit -m "🎬 Film arşivi güncellendi $(date +'%Y-%m-%d')" || echo "Değişiklik yok"
+          git pull origin main --no-rebase
           git push
