@@ -1,23 +1,27 @@
 const axios = require('axios');
 const fs = require('fs');
 
-// KAYNAKLAR
+// KAYNAKLAR - her birine özel grup adı
 const KAYNAKLAR = [
     {
         ad: "📺 CANLI TV",
-        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/canlitv.m3u"
+        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/canlitv.m3u",
+        grup: "Canlı TV"
     },
     {
-        ad: "🎬 FİLMLER",
-        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/filmler/films.m3u"
+        ad: "⭐ TAVSİYE FİLMLER",
+        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/tavsiye.m3u",
+        grup: "Tavsiye Filmler"
     },
     {
-        ad: "📺 DİZİ SON BÖLÜMLER",
-        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/dizison.m3u"
+        ad: "📺 DİZİLER",
+        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/dizison.m3u",
+        grup: "Diziler"
     },
     {
-        ad: "⭐ TAVSİYE",
-        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/tavsiye.m3u"
+        ad: "🎬 FİLM ARŞİVİ",
+        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/filmler/films.m3u",
+        grup: "Filmler"
     }
 ];
 
@@ -31,28 +35,39 @@ async function indir(url) {
     }
 }
 
-// M3U içeriğini temizle (sadece kanal/film satırlarını al)
-function temizle(icerik) {
+// M3U içeriğini temizle ve grup adını değiştir
+function temizleVeGrupla(icerik, yeniGrup) {
     if (!icerik) return "";
     
     const lines = icerik.split('\n');
     const temizSatirlar = [];
-    let inHeader = true;
     
-    for (const line of lines) {
+    for (let i = 0; i < lines.length; i++) {
+        let line = lines[i];
+        
         // #EXTM3U başlığını atla
         if (line.startsWith('#EXTM3U')) continue;
         
         // x-tvg-url gibi ekstra başlıkları atla
         if (line.includes('x-tvg-url')) continue;
         
-        // Sadece #EXTINF ve URL satırlarını al
-        if (line.startsWith('#EXTINF') || (line.startsWith('#') && line.includes('group-title'))) {
+        // #EXTINF satırlarındaki group-title'ı değiştir
+        if (line.startsWith('#EXTINF')) {
+            // Eski group-title'ı bul ve yenisiyle değiştir
+            line = line.replace(/group-title="[^"]*"/, `group-title="${yeniGrup}"`);
+            
+            // Eğer group-title yoksa ekle
+            if (!line.includes('group-title=')) {
+                line = line.replace('#EXTINF:-1', `#EXTINF:-1 group-title="${yeniGrup}"`);
+            }
             temizSatirlar.push(line);
-        } else if (line.trim() && !line.startsWith('#')) {
+        } 
+        // URL satırları
+        else if (line.trim() && !line.startsWith('#')) {
             temizSatirlar.push(line);
-        } else if (line.startsWith('#') && !line.includes('EXTINF') && !line.includes('group-title')) {
-            // Açıklama satırlarını (# ile başlayan ama EXTINF olmayan) atla
+        }
+        // Diğer # ile başlayan satırları (yorum) atla
+        else if (line.startsWith('#') && !line.includes('EXTINF')) {
             continue;
         }
     }
@@ -65,19 +80,19 @@ async function main() {
     
     let birlesik = '#EXTM3U\n';
     birlesik += `# IPTV Listesi - ${new Date().toLocaleString('tr-TR')}\n`;
-    birlesik += `# Toplam kaynak: ${KAYNAKLAR.length}\n\n`;
+    birlesik += `# Kategoriler: Canlı TV, Tavsiye Filmler, Diziler, Filmler\n\n`;
     
     for (const kaynak of KAYNAKLAR) {
         console.log(`📥 ${kaynak.ad} indiriliyor...`);
         const icerik = await indir(kaynak.url);
         
         if (icerik) {
-            const temizIcerik = temizle(icerik);
+            const temizIcerik = temizleVeGrupla(icerik, kaynak.grup);
             if (temizIcerik.trim()) {
                 birlesik += `\n# ========== ${kaynak.ad} ==========\n`;
                 birlesik += temizIcerik;
                 birlesik += `\n`;
-                console.log(`   ✅ Eklendi`);
+                console.log(`   ✅ Eklendi (${kaynak.grup})`);
             } else {
                 console.log(`   ⚠️ İçerik boş`);
             }
@@ -88,6 +103,7 @@ async function main() {
     
     fs.writeFileSync('iptv.m3u', birlesik);
     console.log(`\n✅ iptv.m3u oluşturuldu!`);
+    console.log(`   Kategoriler: ${KAYNAKLAR.map(k => k.grup).join(', ')}`);
 }
 
 main().catch(console.error);
