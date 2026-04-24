@@ -12,13 +12,8 @@ if (!fs.existsSync('filmler')) {
     fs.mkdirSync('filmler');
 }
 
-// BİRDEN FAZLA VİDEO KAYNAĞI
-const KAYNAKLAR = [
-    { name: "vidmody", url: (id) => `https://vidmody.com/vs/${id}`, type: "imdb" },
-    { name: "vidsrc", url: (id) => `https://vidsrc.xyz/embed/movie/${id}`, type: "tmdb" },
-    { name: "vidsrc2", url: (id) => `https://vidsrc.in/embed/movie/${id}`, type: "tmdb" },
-    { name: "multiembed", url: (id) => `https://multiembed.to/video/${id}/movie`, type: "tmdb" }
-];
+// SADECE VIDMODY (çalışan tek kaynak)
+const VIDMODY_URL = "https://vidmody.com/vs";
 
 async function getImdbId(tmdbId) {
     try {
@@ -39,35 +34,17 @@ async function checkLink(url) {
     }
 }
 
-async function findWorkingLink(tmdbId, imdbId) {
-    for (const kaynak of KAYNAKLAR) {
-        let url;
-        if (kaynak.type === "imdb" && imdbId) {
-            url = kaynak.url(imdbId);
-        } else if (kaynak.type === "tmdb" && tmdbId) {
-            url = kaynak.url(tmdbId);
-        } else {
-            continue;
-        }
-        
-        if (await checkLink(url)) {
-            return { url, source: kaynak.name };
-        }
-    }
-    return null;
-}
-
 async function scrape() {
-    console.log("🎬 Film arşivi taranıyor (çoklu kaynak)...\n");
+    console.log("🎬 Film arşivi taranıyor (sadece vidmody)...\n");
     
     const movies = [];
-    const years = [2026, 2025, 2024, 2023, 2022, 2021, 2020];
+    const years = [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015];
     let totalChecked = 0;
     
     for (const year of years) {
         console.log(`📅 ${year} taranıyor...`);
         
-        for (let page = 1; page <= 5; page++) {
+        for (let page = 1; page <= 8; page++) {
             const url = `https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY}&language=tr&sort_by=popularity.desc&primary_release_year=${year}&page=${page}`;
             
             try {
@@ -78,19 +55,22 @@ async function scrape() {
                 for (const movie of results) {
                     totalChecked++;
                     const imdbId = await getImdbId(movie.id);
-                    const linkData = await findWorkingLink(movie.id, imdbId);
                     
-                    if (linkData && linkData.url) {
-                        movies.push({
-                            title: movie.title,
-                            year: year,
-                            link: linkData.url,
-                            source: linkData.source,
-                            poster: movie.poster_path ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` : ""
-                        });
-                        console.log(`   ✓ ${movie.title} (${year}) - ${linkData.source}`);
+                    if (imdbId) {
+                        const link = `${VIDMODY_URL}/${imdbId}`;
+                        const ok = await checkLink(link);
+                        
+                        if (ok) {
+                            movies.push({
+                                title: movie.title,
+                                year: year,
+                                link: link,
+                                poster: movie.poster_path ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` : ""
+                            });
+                            console.log(`   ✓ ${movie.title} (${year})`);
+                        }
                     }
-                    await new Promise(r => setTimeout(r, 100));
+                    await new Promise(r => setTimeout(r, 50));
                 }
             } catch(e) {
                 console.log(`   Sayfa ${page} hatası`);
@@ -104,6 +84,7 @@ async function scrape() {
     m3u += `# Film Arşivi - ${new Date().toLocaleDateString('tr-TR')}\n`;
     m3u += `# Toplam: ${movies.length} film (${totalChecked} film kontrol edildi)\n\n`;
     
+    // Yıllara göre grupla
     const yillar = {};
     for (const m of movies) {
         if (!yillar[m.year]) yillar[m.year] = [];
