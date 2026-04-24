@@ -31,22 +31,56 @@ async function indir(url) {
     }
 }
 
+// M3U içeriğini temizle (sadece kanal/film satırlarını al)
+function temizle(icerik) {
+    if (!icerik) return "";
+    
+    const lines = icerik.split('\n');
+    const temizSatirlar = [];
+    let inHeader = true;
+    
+    for (const line of lines) {
+        // #EXTM3U başlığını atla
+        if (line.startsWith('#EXTM3U')) continue;
+        
+        // x-tvg-url gibi ekstra başlıkları atla
+        if (line.includes('x-tvg-url')) continue;
+        
+        // Sadece #EXTINF ve URL satırlarını al
+        if (line.startsWith('#EXTINF') || (line.startsWith('#') && line.includes('group-title'))) {
+            temizSatirlar.push(line);
+        } else if (line.trim() && !line.startsWith('#')) {
+            temizSatirlar.push(line);
+        } else if (line.startsWith('#') && !line.includes('EXTINF') && !line.includes('group-title')) {
+            // Açıklama satırlarını (# ile başlayan ama EXTINF olmayan) atla
+            continue;
+        }
+    }
+    
+    return temizSatirlar.join('\n');
+}
+
 async function main() {
     console.log("🔗 IPTV birleştiriliyor...\n");
     
     let birlesik = '#EXTM3U\n';
-    birlesik += `# IPTV Listesi - ${new Date().toLocaleString('tr-TR')}\n\n`;
+    birlesik += `# IPTV Listesi - ${new Date().toLocaleString('tr-TR')}\n`;
+    birlesik += `# Toplam kaynak: ${KAYNAKLAR.length}\n\n`;
     
     for (const kaynak of KAYNAKLAR) {
         console.log(`📥 ${kaynak.ad} indiriliyor...`);
         const icerik = await indir(kaynak.url);
         
         if (icerik) {
-            let temiz = icerik.replace('#EXTM3U', '').trim();
-            birlesik += `\n# ========== ${kaynak.ad} ==========\n`;
-            birlesik += temiz;
-            birlesik += `\n`;
-            console.log(`   ✅ Eklendi`);
+            const temizIcerik = temizle(icerik);
+            if (temizIcerik.trim()) {
+                birlesik += `\n# ========== ${kaynak.ad} ==========\n`;
+                birlesik += temizIcerik;
+                birlesik += `\n`;
+                console.log(`   ✅ Eklendi`);
+            } else {
+                console.log(`   ⚠️ İçerik boş`);
+            }
         } else {
             console.log(`   ⚠️ Atlanıyor`);
         }
