@@ -2,11 +2,11 @@ name: Film Arşivi Güncellemesi
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
-  scrape-films:
+  update-films:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -23,15 +23,16 @@ jobs:
       - name: Bağımlılıkları yükle
         run: npm install axios
       
-      - name: Filmleri tara
+      - name: Filmleri tara ve M3U oluştur
         run: node scripts/film-scraper.js
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
       
-      - name: Değişiklikleri kaydet
+      - name: GitHub'a gönder
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add filmler/ || true
-          git diff --quiet && git diff --staged --quiet || git commit -m "🎬 Film güncellemesi $(date +'%Y-%m-%d')"
+          git pull origin main --rebase
+          git add filmler/films.m3u
+          git diff --quiet && git diff --staged --quiet || git commit -m "🎬 Film arşivi güncellendi $(date +'%Y-%m-%d')"
           git push
