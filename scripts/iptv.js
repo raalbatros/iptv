@@ -15,7 +15,7 @@ const KAYNAKLAR = [
     },
     {
         ad: "📺 DİZİLER",
-        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/dizison.m3u",
+        url: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/ds.m3u",
         grup: "Diziler"
     },
     {
