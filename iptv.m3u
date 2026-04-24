@@ -1,0 +1,121 @@
+#EXTM3U
+# Birleşik IPTV Listesi
+# Oluşturulma: 24.04.2026 07:07:24
+# Kategori Sayısı: 4
+
+
+# ==========================================
+# 📺 CANLI TV
+# Kaynak: https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/canlitv.m3u
+# ==========================================
+x-tvg-url="https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey2.xml, https://www.open-epg.com/files/turkey1.xml, https://www.open-epg.com/files/germany5.xml"
+#EXTINF:-1 group-title="Live TV" tvg-id="TRT1 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" ,TRT 1
+http://87.246.54.249:8080/TRT1/index.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="ATV HD.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="STAR TV HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="SHOW TV HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" ,SHOW TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="NOW.tr" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
+https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="BEYAZ TV HD.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="TV8 HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
+http://89.187.191.41/TV8-HD-TR/video.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="KANAL 7 HD.tr" tvg-logo="https://i.postimg.cc/DZfstCkb/kanal-7.png" ,KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="360 HD.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" ,360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="NTV HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" ,NTV
+https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="HABERTÜRK HD.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABER TURK
+https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8b65nnyxpdwm&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2
+#EXTINF:-1 group-title="Live TV" tvg-id="CNN TÜRK HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" ,CNN TÜRK HD
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="TRT HABER HD.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" ,TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="24 HD.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" ,24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="TVNET HD.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" ,TV NET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="TGRT HABER HD.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" ,TGRT HABER HD
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tabii_-_TRT_Logo.png/500px-Tabii_-_TRT_Logo.png" ,TABII TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
+#EXTINF:-1 group-title="Live TV" tvg-id="ŞÖMİNE PLUS.tr" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" ,SINEMA TV
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="ŞÖMİNE PLUS.tr" tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" ,SINEMA
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2
+http://89.187.191.41/A2-HD-TR/video.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAv3CFSoF-CswpDf6HEnAekqOLmQ_t002VrW-MN1iHEWFXK4XtDG_Hm6g7f8by6bBGBI&usqp=CAU" ,TRT BELGESEL
+http://85.209.248.3:9897/trtbelgesel
+#EXTINF:-1 group-title="Live TV" tvg-id="TRT SPOR HD.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" ,TRT SPOR
+http://85.209.248.3:9897/trt3spor
+#EXTINF:-1 group-title="Live TV" tvg-id="TV8,5 HD.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" ,TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="A SPOR HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" ,A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" ,TRT SPOR YILDIZ
+http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="HT SPOR.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/ht-spor-buyuk.png?rkt=DfS6Tgv6Hjr93k3" ,HT SPOR
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
+https://betconnectstreamserver1001.site/601/mono.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
+https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+
+# ==========================================
+# 🎬 FİLMLER
+# Kaynak: https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/filmler/films.m3u
+# ==========================================
+# Film Arşivi - 24.04.2026
+# Toplam: 10 film
+
+#EXTINF:-1 group-title="2025" tvg-logo="https://image.tmdb.org/t/p/w500/8kknNk7PbOcDUXynUZYZ7EHnKAA.jpg", Avatar: Ateş ve Kül
+https://vidmody.com/vs/tt83533
+#EXTINF:-1 group-title="2025" tvg-logo="https://image.tmdb.org/t/p/w500/uLXxpWRfoIPfB2fwM8hsAMIjSWf.jpg", The Crucifix: Blood of the Exorcist
+https://vidmody.com/vs/tt1352874
+#EXTINF:-1 group-title="2025" tvg-logo="https://image.tmdb.org/t/p/w500/eIM28fkVIhPKkjOjfS01UAZXPM8.jpg", Demon Slayer: Sonsuzluk Kalesi
+https://vidmody.com/vs/tt1311031
+#EXTINF:-1 group-title="2025" tvg-logo="https://image.tmdb.org/t/p/w500/1AlZ25eQsA36dMzVmUuorTjwgAy.jpg", Süper Mario Kardeşler Filmi
+https://vidmody.com/vs/tt502356
+#EXTINF:-1 group-title="2025" tvg-logo="https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg", undertone
+https://vidmody.com/vs/tt1480387
+#EXTINF:-1 group-title="2025" tvg-logo="https://image.tmdb.org/t/p/w500/xdvMX5L7bdonl2geaXL3laTCSr2.jpg", Zootropolis 2
+https://vidmody.com/vs/tt1084242
+#EXTINF:-1 group-title="2025" tvg-logo="https://image.tmdb.org/t/p/w500/3hOdkmU8Y2C1vO1cyBcBVUmrj04.jpg", Şeytan Marka Giyer
+https://vidmody.com/vs/tt350
+#EXTINF:-1 group-title="2025" tvg-logo="https://image.tmdb.org/t/p/w500/o25Tk1FYQi2BLk0OEAvx2h69QvB.jpg", Gölge Avı
+https://vidmody.com/vs/tt1419406
+#EXTINF:-1 group-title="2025" tvg-logo="https://image.tmdb.org/t/p/w500/50piNowdOEXQbwJyx1d9S5vdohi.jpg", Hizmetçi
+https://vidmody.com/vs/tt1368166
+#EXTINF:-1 group-title="2025" tvg-logo="https://image.tmdb.org/t/p/w500/3LImXqQxj43xmztC2cBySOsiE1q.jpg", Ölümün Sesi
+https://vidmody.com/vs/tt1193501
+
+# ==========================================
+# 📺 DİZİ SON BÖLÜMLER
+# Kaynak: https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/dizison.m3u
+# ==========================================
+#EXTINF:-1,KURULUS OSMAN
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Osman.SON.mkv
+#EXTINF:-1,DEHA
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Deha.SON.mkv
+#EXTINF:-1,MEHMED FETİHLER SULTANI
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
+#EXTINF:-1,KIZILCIK SERBETI
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizilcik.Serbeti.SON.mkv
+#EXTINF:-1 group-title="Filmler" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b7/Ta%C5%9FacakBuDeniz.jpg/250px-Ta%C5%9FacakBuDeniz.jpg", Taşacak Bu Deniz
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tasacak.Bu.Deniz.SON.mkv
+#EXTINF:-1 group-title="Filmler" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/62/2162-78636766.jpg", Sevdiğim Sensin
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sevdigim.Sensin.SON.mkv
+
+# ==========================================
+# ⭐ TAVSİYE
+# Kaynak: https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/tavsiye.m3u
+# ==========================================
+#EXTINF:-1 tvg-logo="http://img.youtube.com/vi/XAlfZQ-lw1o/mqdefault.jpg" group-title="Filmler", Rüzgarı Dizginleyen Çocuk
+http://movie.okru.workers.dev/7344972048776.mp4
