@@ -1,138 +1,79 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const TMDB_API_KEY = process.env.TMDB_API_KEY;
+const API_KEY = process.env.TMDB_API_KEY;
 
-if (!TMDB_API_KEY) {
-  console.error("TMDB_API_KEY bulunamadı!");
-  process.exit(1);
+console.log("🎬 Film taraması başlıyor...");
+console.log("API anahtarı:", API_KEY ? "✅ Var" : "❌ Yok");
+
+if (!API_KEY) {
+    console.error("HATA: TMDB_API_KEY bulunamadı!");
+    process.exit(1);
 }
 
-const TMDB_BASE = "https://api.themoviedb.org/3";
-const VIDMODY_BASE = "https://vidmody.com/vs";
-
+// Klasör kontrolü
 if (!fs.existsSync('filmler')) {
-  fs.mkdirSync('filmler');
+    fs.mkdirSync('filmler');
+    console.log("📁 filmler klasörü oluşturuldu");
 }
 
-async function checkLink(url) {
-  try {
-    const response = await axios.head(url, { timeout: 3000 });
-    return response.status === 200;
-  } catch {
-    return false;
-  }
-}
+// Filmleri topla
+const allMovies = [];
 
-async function getImdbId(tmdbId) {
-  try {
-    const url = `${TMDB_BASE}/movie/${tmdbId}/external_ids?api_key=${TMDB_API_KEY}`;
-    const response = await axios.get(url);
-    return response.data.imdb_id;
-  } catch {
-    return null;
-  }
-}
-
-async function scrapeMovies() {
-  console.log("Film taraması başlıyor...\n");
-  
-  const allMovies = [];
-  const years = [2026, 2025, 2024];
-  
-  for (const year of years) {
-    console.log(`${year} taranıyor...`);
-    
-    for (let page = 1; page <= 5; page++) {
-      const url = `${TMDB_BASE}/discover/movie?api_key=${TMDB_API_KEY}&language=tr&sort_by=popularity.desc&primary_release_year=${year}&page=${page}`;
-      
-      try {
-        const response = await axios.get(url);
-        const results = response.data.results;
+// Sadece küçük bir test - 2025 popüler filmleri
+async function testFetch() {
+    try {
+        const url = `https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY}&language=tr&sort_by=popularity.desc&year=2025&page=1`;
+        console.log(`🌐 İstek yapılıyor: ${url.substring(0, 80)}...`);
         
-        if (results.length === 0) break;
+        const response = await axios.get(url, { timeout: 10000 });
+        const movies = response.data.results;
         
-        for (const movie of results) {
-          const imdbId = await getImdbId(movie.id);
-          
-          if (imdbId) {
-            const link = `${VIDMODY_BASE}/${imdbId}`;
-            const isValid = await checkLink(link);
-            
-            if (isValid) {
-              allMovies.push({
+        console.log(`📊 ${movies.length} film bulundu`);
+        
+        for (const movie of movies.slice(0, 10)) { // Sadece ilk 10 film
+            allMovies.push({
                 id: movie.id,
                 title: movie.title,
-                year: year,
-                link: link,
+                year: 2025,
+                link: `https://vidmody.com/vs/tt${movie.id}`,
                 poster: movie.poster_path ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` : ""
-              });
-              console.log(`   ${movie.title} (${year})`);
-            }
-          }
-        }
-        
-      } catch (error) {
-        console.log(`   Hata: ${error.message}`);
-        break;
-      }
-    }
-  }
-  
-  // Yerli filmler
-  console.log("\nYerli filmler taranıyor...");
-  for (let page = 1; page <= 3; page++) {
-    const url = `${TMDB_BASE}/discover/movie?api_key=${TMDB_API_KEY}&language=tr&sort_by=popularity.desc&with_original_language=tr&page=${page}`;
-    
-    try {
-      const response = await axios.get(url);
-      
-      for (const movie of response.data.results) {
-        const imdbId = await getImdbId(movie.id);
-        
-        if (imdbId) {
-          const link = `${VIDMODY_BASE}/${imdbId}`;
-          const isValid = await checkLink(link);
-          
-          if (isValid) {
-            const year = movie.release_date ? movie.release_date.split('-')[0] : "?";
-            allMovies.push({
-              id: movie.id,
-              title: `${movie.title} (${year})`,
-              year: "Yerli",
-              link: link,
-              poster: movie.poster_path ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` : ""
             });
-            console.log(`   ${movie.title}`);
-          }
+            console.log(`   ✓ ${movie.title}`);
         }
-      }
+        
     } catch (error) {
-      break;
+        console.error("❌ Hata:", error.message);
+        if (error.response) {
+            console.error("   Status:", error.response.status);
+        }
+        process.exit(1);
     }
-  }
-  
-  // M3U oluştur
-  let m3u = '#EXTM3U\n';
-  m3u += `# Film Arşivi - ${new Date().toLocaleDateString('tr-TR')}\n`;
-  m3u += `# Toplam: ${allMovies.length} film\n\n`;
-  
-  const turkish = allMovies.filter(m => m.year === "Yerli");
-  const others = allMovies.filter(m => m.year !== "Yerli");
-  
-  for (const movie of turkish) {
-    m3u += `#EXTINF:-1 group-title="Yerli Filmler" tvg-logo="${movie.poster}", ${movie.title}\n`;
-    m3u += `${movie.link}\n`;
-  }
-  
-  for (const movie of others) {
-    m3u += `#EXTINF:-1 group-title="${movie.year}" tvg-logo="${movie.poster}", ${movie.title}\n`;
-    m3u += `${movie.link}\n`;
-  }
-  
-  fs.writeFileSync('filmler/films.m3u', m3u);
-  
-  console.log(`\nTamamlandi! Toplam film: ${allMovies.length}`);
 }
 
-scrapeMovies().catch(console.error);
+// M3U oluştur
+function saveM3U() {
+    let m3u = '#EXTM3U\n';
+    m3u += `# Film Arşivi - ${new Date().toLocaleDateString('tr-TR')}\n`;
+    m3u += `# Toplam: ${allMovies.length} film\n\n`;
+    
+    for (const movie of allMovies) {
+        m3u += `#EXTINF:-1 group-title="${movie.year}" tvg-logo="${movie.poster}", ${movie.title}\n`;
+        m3u += `${movie.link}\n`;
+    }
+    
+    fs.writeFileSync('filmler/films.m3u', m3u);
+    console.log(`\n✅ filmler/films.m3u kaydedildi (${allMovies.length} film)`);
+}
+
+// Ana işlem
+async function main() {
+    await testFetch();
+    saveM3U();
+    console.log("\n✨ İşlem tamamlandı!");
+}
+
+main().catch(error => {
+    console.error("❌ Ana işlem hatası:", error);
+    process.exit(1);
+});
