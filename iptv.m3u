@@ -1,5 +1,5 @@
 #EXTM3U
-# IPTV Listesi - 24.04.2026 13:50:16
+# IPTV Listesi - 24.04.2026 19:02:03
 # Kategoriler: Canlı TV, Tavsiye Filmler, Diziler, Filmler
 
 
@@ -66,14 +66,6 @@ https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 # ========== ⭐ TAVSİYE FİLMLER ==========
 #EXTINF:-1 tvg-logo="http://img.youtube.com/vi/XAlfZQ-lw1o/mqdefault.jpg" group-title="Tavsiye Filmler", Rüzgarı Dizginleyen Çocuk
 http://movie.okru.workers.dev/7344972048776.mp4
-
-# ========== 📺 DİZİLER ==========
-#EXTINF:-1 group-title="Diziler" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b7/Ta%C5%9FacakBuDeniz.jpg/250px-Ta%C5%9FacakBuDeniz.jpg", TAŞACAK BU DENİZ
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tasacak.Bu.Deniz.SON.mkv
-#EXTINF:-1 group-title="Diziler" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/62/2162-78636766.jpg", SEVDİĞİM SENSİN
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sevdigim.Sensin.SON.mkv
-#EXTINF:-1 group-title="Diziler" tvg-logo="https://www.kinoundco.de/image/posters/A8fHgHmcEQU1UcOcXhW3NXtwwcZ.jpg", MEHMED FETİHLER SULTANI
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
 
 # ========== 🎬 FİLM ARŞİVİ ==========
 #EXTINF:-1 group-title="Filmler" tvg-logo="https://image.tmdb.org/t/p/w500/nFzNpaniq5qQxWio18oJZQXeaZb.jpg", Şampiyon Keçi: Tüm Zamanların En İyisi ⭐ 7.9
