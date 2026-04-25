@@ -1,67 +1,28 @@
 #EXTM3U
-
-#EXTINF:-1 group-title=&quot;&#128171;GINIKO&#128171;&quot; tvg-logo=&quot;
-http://ginikoturkish.com/channels/logo/trt-1-epg-.gif&quot;,trt 1
-
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://ginikoturkish.com/channels/logo/trt-1-epg-.gif",TRT 1
 https://trn03.tulix.tv/gt-trt-1-tv/index.m3u8
-
-#EXTINF:-1 group-title=&quot;&#128171;GINIKO&#128171;&quot; tvg-logo=&quot;
-http://ginikoturkish.com/channels/logo/atv-epg-.jpg&quot;,atv
-
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://ginikoturkish.com/channels/logo/atv-epg-.jpg",ATV
 https://trn03.tulix.tv/gt-atv-live/index.m3u8
-
-#EXTINF:-1 group-title=&quot;&#128171;GINIKO&#128171;&quot; tvg-logo=&quot;
-http://ginikoturkish.com/channels/logo/atv-avrupa.png&quot;,atv avrupa
-
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://ginikoturkish.com/channels/logo/atv-avrupa.png",ATV Avrupa
 https://trn03.tulix.tv/gt-atv-avrupa-tv/index.m3u8
-
-#EXTINF:-1 group-title=&quot;&#128171;GINIKO&#128171;&quot; tvg-logo=&quot;
-http://ginikoturkish.com/channels/logo/kanal-d-epg-.jpg&quot;,kanal d
-
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://ginikoturkish.com/channels/logo/kanal-d-epg-.jpg",Kanal D
 https://trn03.tulix.tv/gt-kanald-1tv/index.m3u8
-
-#EXTINF:-1 group-title=&quot;&#128171;GINIKO&#128171;&quot; tvg-logo=&quot;
-http://ginikoturkish.com/channels/logo/show-tv-epg-.png&quot;,show tv
-
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://ginikoturkish.com/channels/logo/show-tv-epg-.png",Show TV
 https://trn03.tulix.tv/gt-shows-tv/index.m3u8
-
-#EXTINF:-1 group-title=&quot;&#128171;GINIKO&#128171;&quot; tvg-logo=&quot;
-http://ginikoturkish.com/channels/logo/star-tv-epg-.png&quot;,star
-
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://ginikoturkish.com/channels/logo/star-tv-epg-.png",Star TV
 https://trn03.tulix.tv/gt-star-tv1/index.m3u8
-
-#EXTINF:-1 group-title=&quot;&#128171;GINIKO&#128171;&quot; tvg-logo=&quot;
-http://ginikoturkish.com/channels/logo/tv8-epg-.png&quot;,tv8
-
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://ginikoturkish.com/channels/logo/tv8-epg-.png",TV8
 https://trn03.tulix.tv/tv8-hd-tv/index.m3u8
-
-#EXTINF:-1 group-title=&quot;&#128171;GINIKO&#128171;&quot; tvg-logo=&quot;
-http://ginikoturkish.com/channels/logo/tv8-int-epg-.jpg&quot;,tv8 int
-
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://ginikoturkish.com/channels/logo/tv8-int-epg-.jpg",TV8 Int
 https://trn03.tulix.tv/gt-tv8international/index.m3u8
-
-#EXTINF:-1 group-title=&quot;&#128171;GINIKO&#128171;&quot; tvg-logo=&quot;
-http://ginikoturkish.com/channels/logo/tv8-5-epg-.jpg&quot;,tv8_5
-
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://ginikoturkish.com/channels/logo/tv8-5-epg-.jpg",TV8_5
 https://trn03.tulix.tv/gt-tv8_5/index.m3u8
-
-#EXTINF:-1 group-title=&quot;&#128171;GINIKO&#128171;&quot; tvg-logo=&quot;
-http://ginikoturkish.com/channels/logo/now-tv-epg-.gif&quot;,now
-
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://ginikoturkish.com/channels/logo/now-tv-epg-.gif",Now TV
 https://trn03.tulix.tv/gt-nowtv-live/index.m3u8
-
-#EXTINF:-1 group-title=&quot;&#128171;GINIKO&#128171;&quot; tvg-logo=&quot;
-http://ginikoturkish.com/channels/logo/beyaz-tv-epg-.png&quot;,beyaz tv
-
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://ginikoturkish.com/channels/logo/beyaz-tv-epg-.png",Beyaz TV
 https://trn03.tulix.tv/gt-beyaztv/index.m3u8
-
-#EXTINF:-1 group-title=&quot;&#128171;GINIKO&#128171;&quot; tvg-logo=&quot;
-http://ginikoturkish.com/channels/logo/kanal-7-epg-.jpg&quot;,kanal 7
-
-https://trn03.tulix.tv/gt-kanal7/index.m3u8
-
-#EXTINF:-1 group-title=&quot;&#128171;GINIKO&#128171;&quot; tvg-logo=&quot;
-http://ginikoturkish.com/channels/logo/ulke-tv.png&quot;,ulke tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://ginikoturkish.com/channels/logo/kanal-7-epg-.jpg",Kanal 7
+https://trn03.tulix.tv/gt-kanal7/index.m3u8http://ginikoturkish.com/channels/logo/ulke-tv.png&quot;,ulke tv
 
 https://trn03.tulix.tv/gt-ulketv/index.m3u8
 
