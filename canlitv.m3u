@@ -4,13 +4,13 @@ http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" ,KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="ATV HD.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" ,ATV
-http://89.187.191.41/ATV-HD-TR/video.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="STAR TV HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" ,STAR TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="SHOW TV HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" ,SHOW TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="NOW.tr" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" ,NOW TV
-https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="BEYAZ TV HD.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" ,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="TV8 HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" ,TV8
@@ -53,7 +53,5 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="HT SPOR.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/ht-spor-buyuk.png?rkt=DfS6Tgv6Hjr93k3" ,HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
-#EXTINF:-1 group-title="Live TV" tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
-https://betconnectstreamserver1001.site/601/mono.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" ,beIN SPORTS 1
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
