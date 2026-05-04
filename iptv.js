@@ -1,6 +1,6 @@
 const CONFIG = {
-  USERNAME: "raa",
-  PASSWORD: "1324",
+  USERNAME: "raalbatros",
+  PASSWORD: "1111",
   SOURCES: {
     LIVE: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/canlitv.m3u",
     MOVIES_DS: "https://raw.githubusercontent.com/raalbatros/iptv/refs/heads/main/ds.m3u",
