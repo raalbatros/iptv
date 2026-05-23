@@ -136,13 +136,19 @@
     width:34px;height:34px;border-radius:8px;object-fit:cover;background:var(--surface2);
     border:1px solid var(--border);flex-shrink:0
   }
-  .ch-name{font-size:13px;flex:0 0 150px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .ch-link,.ch-epg{
+  .ch-name{
+    font-size:13px;
+    flex:0 0 150px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis
+  }
+  .ch-link,.ch-epg,.ch-title{
     flex:1;padding:8px 12px;background:#fff;border:1px solid var(--border);
     border-radius:10px;color:var(--text);font-size:12px;font-family:'DM Sans',sans-serif;
     outline:none;transition:border-color .15s
   }
-  .ch-link:focus,.ch-epg:focus{border-color:var(--accent2)}
+  .ch-link:focus,.ch-epg:focus,.ch-title:focus{border-color:var(--accent2)}
   .filled{border-color:#1f9d5566}
   .row-actions{display:flex;gap:6px;flex-shrink:0}
   .modal-overlay{
@@ -464,8 +470,8 @@ function renderEditor(){
         <img class="poster-img" src="${c.logo || ''}" onerror="this.style.display='none'">
       </div>
       <div class="series-details">
-        <div class="series-title-display">${c.name}</div>
-        <div class="series-desc">Kanal linki, logo, EPG ID ve yedek bağlantılar burada düzenlenir. Yedek linkler dışa aktarıma girmez.</div>
+        <div class="series-title-display">${c.name || 'Kanal Adı Yok'}</div>
+        <div class="series-desc">Kanal linki, isim, logo, EPG ID ve yedek bağlantılar burada düzenlenir. Yedek linkler dışa aktarıma girmez.</div>
         <div class="series-tags">
           <span class="tag">EPG: ${c.epgId || '-'}</span>
           <span class="tag">${(c.backups || []).length} yedek</span>
@@ -490,6 +496,15 @@ function renderEditor(){
 
   const backups = c.backups || [];
   document.getElementById('channelPanel').innerHTML = `
+    <div class="channel-row">
+      <div class="ch-num">N</div>
+      <div class="ch-name">Kanal Adı</div>
+      <input class="ch-title" type="text" value="${escapeHtml(c.name || '')}" oninput="updateField('name', this.value); this.classList.toggle('filled', this.value.length>0)" placeholder="Kanal adı">
+      <div class="row-actions">
+        <button class="btn btn-danger btn-sm" onclick="clearField('name')">Sil</button>
+      </div>
+    </div>
+
     <div class="channel-row">
       <div class="ch-num">#</div>
       <div class="ch-name">Ana Link</div>
