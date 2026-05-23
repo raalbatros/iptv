@@ -136,12 +136,12 @@
     border:1px solid var(--border);flex-shrink:0
   }
   .ch-name{font-size:13px;flex:0 0 150px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .ch-link,.ch-epg,.ch-backup{
+  .ch-link,.ch-epg{
     flex:1;padding:8px 12px;background:#fff;border:1px solid var(--border);
     border-radius:10px;color:var(--text);font-size:12px;font-family:'DM Sans',sans-serif;
     outline:none;transition:border-color .15s
   }
-  .ch-link:focus,.ch-epg:focus,.ch-backup:focus{border-color:var(--accent2)}
+  .ch-link:focus,.ch-epg:focus{border-color:var(--accent2)}
   .filled{border-color:#1f9d5566}
   .row-actions{display:flex;gap:6px;flex-shrink:0}
   .modal-overlay{
@@ -251,7 +251,7 @@
     <div class="form-group">
       <label>Yedek Linkler</label>
       <div id="backupLinksBox"></div>
-      <div class="small-note">İstersen boş yedek kutucuklar daha sonra artırılabilir.</div>
+      <div class="small-note">Bu alanlar sadece bu sayfada saklanır, M3U dışa aktarımına eklenmez.</div>
       <div style="margin-top:8px;">
         <button class="btn btn-ghost btn-sm" onclick="addBackupField()">+ Yedek Kutusu Ekle</button>
       </div>
@@ -304,7 +304,6 @@
 let data = { channels: [] };
 let activeChannel = null;
 let backupCount = 3;
-let backupTimer = null;
 
 function loadData(){
   try { data = JSON.parse(localStorage.getItem('m3uLiveEditor') || '{"channels":[]}'); }
@@ -403,7 +402,7 @@ function renderChannelList(){
       <img class="series-poster-thumb" src="${c.logo || ''}" onerror="this.style.display='none'">
       <div class="series-info">
         <div class="series-name">${c.name}</div>
-        <div class="series-meta">${c.backups?.length || 0} yedek link</div>
+        <div class="series-meta">${c.epgId ? c.epgId : 'EPG yok'}</div>
       </div>
       <button class="btn btn-danger btn-sm del-btn" onclick="event.stopPropagation();deleteChannel(${i})">✕</button>
     </div>
@@ -429,13 +428,13 @@ function renderEditor(){
       </div>
       <div class="series-details">
         <div class="series-title-display">${c.name}</div>
-        <div class="series-desc">Kanal linki, logo, EPG ID ve yedek bağlantılar burada düzenlenir.</div>
+        <div class="series-desc">Kanal linki, logo, EPG ID ve yedek bağlantılar burada düzenlenir. Yedek linkler dışa aktarıma girmez.</div>
         <div class="series-tags">
           <span class="tag">EPG: ${c.epgId || '-'}</span>
           <span class="tag">${(c.backups || []).length} yedek</span>
         </div>
         <div style="margin-top:12px;display:flex;gap:8px;flex-wrap:wrap;">
-          <button class="btn btn-ghost btn-sm" onclick="addBackupToChannel()">+ Yedek Link Ekle</button>
+          <button class="btn btn-ghost btn-sm" onclick="addBackupToChannel()">+ Yedek Kutusu</button>
           <button class="btn btn-danger btn-sm" onclick="deleteChannel(${activeChannel})">Kanalı Sil</button>
         </div>
       </div>
@@ -485,7 +484,7 @@ function renderEditor(){
       <div class="channel-row">
         <div class="ch-num">${idx+1}</div>
         <div class="ch-name">Yedek ${idx+1}</div>
-        <input class="ch-backup" type="text" value="${escapeHtml(b || '')}" oninput="updateBackup(${idx}, this.value); this.classList.toggle('filled', this.value.length>0)" placeholder="https://...">
+        <input class="ch-link" type="text" value="${escapeHtml(b || '')}" oninput="updateBackup(${idx}, this.value); this.classList.toggle('filled', this.value.length>0)" placeholder="https://...">
         <div class="row-actions">
           <button class="btn btn-danger btn-sm" onclick="deleteBackup(${idx})">Sil</button>
         </div>
@@ -506,7 +505,6 @@ function updateField(key, value){
   saveData();
   renderChannelList();
 }
-
 function clearField(key){
   const c = data.channels[activeChannel];
   if(!c) return;
@@ -515,7 +513,6 @@ function clearField(key){
   renderEditor();
   renderChannelList();
 }
-
 function updateBackup(idx, value){
   const c = data.channels[activeChannel];
   if(!c) return;
@@ -524,7 +521,6 @@ function updateBackup(idx, value){
   saveData();
   renderChannelList();
 }
-
 function deleteBackup(idx){
   const c = data.channels[activeChannel];
   if(!c) return;
@@ -533,7 +529,6 @@ function deleteBackup(idx){
   renderEditor();
   renderChannelList();
 }
-
 function addBackupToChannel(n=1){
   const c = data.channels[activeChannel];
   if(!c) return;
@@ -543,7 +538,6 @@ function addBackupToChannel(n=1){
   renderEditor();
   renderChannelList();
 }
-
 function removeBackupLast(){
   const c = data.channels[activeChannel];
   if(!c || !(c.backups||[]).length) return;
@@ -552,13 +546,11 @@ function removeBackupLast(){
   renderEditor();
   renderChannelList();
 }
-
 function saveCurrentChannel(){
   saveData();
   renderChannelList();
   setStatus('Kanal kaydedildi', 'ok');
 }
-
 function deleteChannel(i){
   if(!confirm(`"${data.channels[i].name}" silinsin mi?`)) return;
   data.channels.splice(i,1);
@@ -575,34 +567,17 @@ function generateM3U(){
   const epgLinks = [s.epg1, s.epg2].filter(Boolean);
   if(epgLinks.length) m3u += ` url-tvg="${epgLinks.join(',')}"`;
   m3u += '\n';
-
   m3u += `# Generated: ${new Date().toLocaleString('tr-TR')}\n\n`;
 
   for(const ch of data.channels){
-    const urls = [ch.url, ...(ch.backups || []).filter(Boolean)];
-    const firstUrl = urls[0] || '';
-    const group = 'Live TV';
     const attrs = [];
     if(ch.epgId) attrs.push(`tvg-id="${escapeAttr(ch.epgId)}"`);
     attrs.push(`tvg-name="${escapeAttr(ch.name)}"`);
     if(ch.logo) attrs.push(`tvg-logo="${escapeAttr(ch.logo)}"`);
-    attrs.push(`group-title="${group}"`);
-
+    attrs.push(`group-title="Live TV"`);
     m3u += `#EXTINF:-1 ${attrs.join(' ')},${ch.name}\n`;
-    m3u += `${firstUrl}\n`;
-
-    for(let i=1;i<urls.length;i++){
-      const bName = `${ch.name} Backup ${i}`;
-      const bAttrs = [];
-      if(ch.epgId) bAttrs.push(`tvg-id="${escapeAttr(ch.epgId)}"`);
-      bAttrs.push(`tvg-name="${escapeAttr(bName)}"`);
-      if(ch.logo) bAttrs.push(`tvg-logo="${escapeAttr(ch.logo)}"`);
-      bAttrs.push(`group-title="${group}"`);
-      m3u += `#EXTINF:-1 ${bAttrs.join(' ')},${bName}\n`;
-      m3u += `${urls[i]}\n`;
-    }
+    m3u += `${ch.url || ''}\n`;
   }
-
   return m3u;
 }
 
@@ -656,8 +631,11 @@ async function saveToGithub(){
 
 function escapeHtml(str){
   return String(str || '')
-    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
-    .replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;')
+    .replace(/'/g,'&#39;');
 }
 function escapeAttr(str){ return escapeHtml(str).replace(/\n/g,' ').trim(); }
 
