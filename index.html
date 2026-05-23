@@ -455,39 +455,89 @@ input{
 
 </div>
 
+<!-- SADECE BU SCRIPT BLOĞUNU MEVCUT SCRIPT İLE DEĞİŞTİR -->
+
 <script>
 
 let data = { channels: [] };
-
 let activeChannel = null;
-
 let backupCount = 3;
-
 let dragIndex = null;
 
 function loadData(){
   try{
-    data = JSON.parse(localStorage.getItem('m3uLiveEditor') || '{"channels":[]}');
-  }catch{
+    data = JSON.parse(
+      localStorage.getItem('m3uLiveEditor') || '{"channels":[]}'
+    );
+  }catch(e){
     data = { channels: [] };
   }
 }
 
 function saveData(){
-  localStorage.setItem('m3uLiveEditor', JSON.stringify(data));
+  localStorage.setItem(
+    'm3uLiveEditor',
+    JSON.stringify(data)
+  );
 }
 
-function setStatus(msg, type){
-  const el = document.getElementById('statusMsg');
+function loadSettings(){
 
-  el.textContent = msg;
+  const s = JSON.parse(
+    localStorage.getItem('m3uLiveSettings') || '{}'
+  );
 
-  el.style.color =
-    type === 'ok'
-      ? 'green'
-      : type === 'err'
-      ? 'red'
-      : '#666';
+  if (s.token)
+    document.getElementById('ghToken').value = s.token;
+
+  if (s.repo)
+    document.getElementById('ghRepo').value = s.repo;
+
+  if (s.path)
+    document.getElementById('ghPath').value = s.path;
+
+  if (s.epg1)
+    document.getElementById('epg1').value = s.epg1;
+
+  if (s.epg2)
+    document.getElementById('epg2').value = s.epg2;
+}
+
+function getSettings(){
+
+  return JSON.parse(
+    localStorage.getItem('m3uLiveSettings') || '{}'
+  );
+}
+
+function saveSettings(){
+
+  const s = {
+
+    token:
+      document.getElementById('ghToken').value.trim(),
+
+    repo:
+      document.getElementById('ghRepo').value.trim(),
+
+    path:
+      document.getElementById('ghPath').value.trim(),
+
+    epg1:
+      document.getElementById('epg1').value.trim(),
+
+    epg2:
+      document.getElementById('epg2').value.trim()
+  };
+
+  localStorage.setItem(
+    'm3uLiveSettings',
+    JSON.stringify(s)
+  );
+
+  closeModal('settingsModal');
+
+  setStatus('Ayarlar kaydedildi', 'ok');
 }
 
 function showModal(id){
@@ -499,7 +549,23 @@ function closeModal(id){
 }
 
 function showSettings(){
-  alert('Ayar bölümü burada olacak.');
+  loadSettings();
+  showModal('settingsModal');
+}
+
+function setStatus(msg, type){
+
+  const el =
+    document.getElementById('statusMsg');
+
+  el.textContent = msg;
+
+  el.style.color =
+    type === 'ok'
+      ? 'var(--green)'
+      : type === 'err'
+      ? 'var(--red)'
+      : 'var(--text-dim)';
 }
 
 function showAddChannel(){
@@ -518,21 +584,30 @@ function showAddChannel(){
 
 function renderBackupFields(){
 
-  const box = document.getElementById('backupLinksBox');
+  const box =
+    document.getElementById('backupLinksBox');
 
   box.innerHTML = '';
 
   for(let i=0;i<backupCount;i++){
 
-    const div = document.createElement('div');
+    const wrap = document.createElement('div');
 
-    div.className = 'form-group';
+    wrap.className = 'form-group';
 
-    div.innerHTML = `
-      <input type="text" class="backup-input" placeholder="https://...">
+    wrap.style.marginBottom = '8px';
+
+    wrap.innerHTML = `
+      <label>Yedek Link ${i+1}</label>
+
+      <input
+        type="text"
+        class="backup-input"
+        placeholder="https://..."
+      >
     `;
 
-    box.appendChild(div);
+    box.appendChild(wrap);
   }
 }
 
@@ -545,6 +620,22 @@ function addBackupField(){
 
 function addChannel(){
 
+  const name =
+    document.getElementById('chName')
+    .value.trim() || 'Yeni Kanal';
+
+  const url =
+    document.getElementById('chUrl')
+    .value.trim();
+
+  const logo =
+    document.getElementById('chLogo')
+    .value.trim();
+
+  const epgId =
+    document.getElementById('chEpgId')
+    .value.trim();
+
   const backups =
     [...document.querySelectorAll('.backup-input')]
     .map(i => i.value.trim())
@@ -554,38 +645,67 @@ function addChannel(){
 
     id: Date.now(),
 
-    name: document.getElementById('chName').value.trim(),
+    name,
 
-    url: document.getElementById('chUrl').value.trim(),
+    url,
 
-    logo: document.getElementById('chLogo').value.trim(),
+    logo,
 
-    epgId: document.getElementById('chEpgId').value.trim(),
+    epgId,
 
     backups
-
   });
 
   saveData();
 
+  closeModal('addChannelModal');
+
   renderChannelList();
 
-  closeModal('addChannelModal');
+  selectChannel(data.channels.length - 1);
+}
+
+function moveChannel(from, to){
+
+  if(to < 0) return;
+
+  if(to >= data.channels.length) return;
+
+  if(from === to) return;
+
+  const item =
+    data.channels.splice(from,1)[0];
+
+  data.channels.splice(to,0,item);
+
+  saveData();
+
+  activeChannel = to;
+
+  renderChannelList();
+
+  renderEditor();
 }
 
 function renderChannelList(){
 
-  const list = document.getElementById('channelList');
+  const list =
+    document.getElementById('channelList');
 
-  list.innerHTML = data.channels.map((c,i)=>`
+  list.innerHTML =
+    data.channels.map((c,i)=>`
 
     <div
-      class="series-item ${activeChannel===i?'active':''}"
+      class="series-item ${activeChannel === i ? 'active' : ''}"
+
       draggable="true"
 
-      ondragstart="handleDragStart(${i},event)"
+      ondragstart="handleDragStart(${i}, event)"
+
       ondragover="handleDragOver(event)"
-      ondrop="handleDrop(${i},event)"
+
+      ondrop="handleDrop(${i}, event)"
+
       ondragend="handleDragEnd(event)"
 
       onclick="selectChannel(${i})"
@@ -596,29 +716,48 @@ function renderChannelList(){
       <img
         class="series-poster-thumb"
         src="${c.logo || ''}"
+
         onerror="this.style.display='none'"
       >
 
       <div class="series-info">
-        <div class="series-name">${c.name || 'İsimsiz Kanal'}</div>
+
+        <div class="series-name">
+          ${c.name}
+        </div>
 
         <div class="series-meta">
           ${c.epgId || 'EPG yok'}
         </div>
+
       </div>
+
+      <button
+        class="btn btn-danger btn-sm del-btn"
+
+        onclick="
+          event.stopPropagation();
+          deleteChannel(${i})
+        "
+      >
+        ✕
+      </button>
 
     </div>
 
   `).join('');
 }
 
-function handleDragStart(index,e){
+function handleDragStart(index, e){
 
   dragIndex = index;
 
   e.dataTransfer.effectAllowed = 'move';
 
-  e.dataTransfer.setData('text/plain', index);
+  e.dataTransfer.setData(
+    'text/plain',
+    index
+  );
 
   e.currentTarget.classList.add('dragging');
 }
@@ -627,16 +766,18 @@ function handleDragOver(e){
   e.preventDefault();
 }
 
-function handleDrop(index,e){
+function handleDrop(index, e){
 
   e.preventDefault();
 
   const fromIndex =
-    Number(e.dataTransfer.getData('text/plain'));
+    Number(
+      e.dataTransfer.getData('text/plain')
+    );
 
   if(isNaN(fromIndex)) return;
 
-  moveChannel(fromIndex,index);
+  moveChannel(fromIndex, index);
 }
 
 function handleDragEnd(e){
@@ -644,19 +785,6 @@ function handleDragEnd(e){
   e.currentTarget.classList.remove('dragging');
 
   dragIndex = null;
-}
-
-function moveChannel(from,to){
-
-  if(from===to) return;
-
-  const item = data.channels.splice(from,1)[0];
-
-  data.channels.splice(to,0,item);
-
-  saveData();
-
-  renderChannelList();
 }
 
 function selectChannel(i){
@@ -667,9 +795,11 @@ function selectChannel(i){
 
   renderEditor();
 
-  document.getElementById('emptyState').style.display='none';
+  document.getElementById('emptyState')
+    .style.display = 'none';
 
-  document.getElementById('editorArea').style.display='flex';
+  document.getElementById('editorArea')
+    .style.display = 'flex';
 }
 
 function renderEditor(){
@@ -682,20 +812,25 @@ function renderEditor(){
 
     <div class="editor-top">
 
-      <img
-        class="poster-img"
-        src="${c.logo || ''}"
-        onerror="this.style.display='none'"
-      >
+      <div class="poster-area">
 
-      <div>
+        <img
+          class="poster-img"
+          src="${c.logo || ''}"
+
+          onerror="this.style.display='none'"
+        >
+
+      </div>
+
+      <div class="series-details">
 
         <div class="series-title-display">
-          ${c.name || 'İsimsiz Kanal'}
+          ${c.name || 'Kanal Adı Yok'}
         </div>
 
         <div class="series-desc">
-          Kanal düzenleme paneli
+          Kanal ayarlarını düzenleyebilirsin.
         </div>
 
       </div>
@@ -703,111 +838,222 @@ function renderEditor(){
     </div>
   `;
 
+  const backups = c.backups || [];
+
   document.getElementById('channelPanel').innerHTML = `
+
+    <!-- KANAL ADI -->
 
     <div class="channel-row">
 
       <div class="ch-num">N</div>
 
-      <div class="ch-name">Kanal Adı</div>
+      <div class="ch-name">
+        Kanal Adı
+      </div>
 
       <input
         class="ch-title"
+
         type="text"
+
         value="${escapeHtml(c.name || '')}"
 
+        placeholder="Kanal adı"
+
         oninput="
-          updateField('name',this.value);
-          this.classList.toggle('filled',this.value.length>0)
+          updateField('name', this.value);
+
+          this.classList.toggle(
+            'filled',
+            this.value.length>0
+          )
         "
       >
 
+      <div class="row-actions">
+
+        <button
+          class="btn btn-danger btn-sm"
+
+          onclick="clearField('name')"
+        >
+          Sil
+        </button>
+
+      </div>
+
     </div>
+
+    <!-- ANA LİNK -->
 
     <div class="channel-row">
 
       <div class="ch-num">#</div>
 
-      <div class="ch-name">Ana Link</div>
+      <div class="ch-name">
+        Ana Link
+      </div>
 
       <input
         class="ch-link"
+
         type="text"
+
         value="${escapeHtml(c.url || '')}"
 
+        placeholder="https://..."
+
         oninput="
-          updateField('url',this.value);
-          this.classList.toggle('filled',this.value.length>0)
+          updateField('url', this.value);
+
+          this.classList.toggle(
+            'filled',
+            this.value.length>0
+          )
         "
       >
 
+      <div class="row-actions">
+
+        <button
+          class="btn btn-danger btn-sm"
+
+          onclick="clearField('url')"
+        >
+          Sil
+        </button>
+
+      </div>
+
     </div>
+
+    <!-- LOGO -->
 
     <div class="channel-row">
 
       <div class="ch-num">L</div>
 
-      <div class="ch-name">Logo</div>
+      <div class="ch-name">
+        Logo
+      </div>
 
       <input
         class="ch-link"
+
         type="text"
+
         value="${escapeHtml(c.logo || '')}"
 
+        placeholder="https://..."
+
         oninput="
-          updateField('logo',this.value);
-          this.classList.toggle('filled',this.value.length>0)
+          updateField('logo', this.value);
+
+          this.classList.toggle(
+            'filled',
+            this.value.length>0
+          )
         "
       >
 
     </div>
+
+    <!-- EPG -->
 
     <div class="channel-row">
 
       <div class="ch-num">E</div>
 
-      <div class="ch-name">EPG</div>
+      <div class="ch-name">
+        EPG
+      </div>
 
       <input
         class="ch-link"
+
         type="text"
+
         value="${escapeHtml(c.epgId || '')}"
 
+        placeholder="epg.id"
+
         oninput="
-          updateField('epgId',this.value);
-          this.classList.toggle('filled',this.value.length>0)
+          updateField('epgId', this.value);
+
+          this.classList.toggle(
+            'filled',
+            this.value.length>0
+          )
         "
       >
 
     </div>
 
-    ${(c.backups || []).map((b,idx)=>`
+    <!-- YEDEKLER -->
+
+    ${backups.map((b, idx) => `
 
       <div class="channel-row">
 
-        <div class="ch-num">${idx+1}</div>
+        <div class="ch-num">
+          ${idx+1}
+        </div>
 
-        <div class="ch-name">Yedek</div>
+        <div class="ch-name">
+          Yedek ${idx+1}
+        </div>
 
         <input
           class="ch-link"
+
           type="text"
-          value="${escapeHtml(b)}"
+
+          value="${escapeHtml(b || '')}"
+
+          placeholder="https://..."
 
           oninput="
-            updateBackup(${idx},this.value);
-            this.classList.toggle('filled',this.value.length>0)
+            updateBackup(${idx}, this.value);
+
+            this.classList.toggle(
+              'filled',
+              this.value.length>0
+            )
           "
         >
+
+        <div class="row-actions">
+
+          <button
+            class="btn btn-danger btn-sm"
+
+            onclick="deleteBackup(${idx})"
+          >
+            Sil
+          </button>
+
+        </div>
 
       </div>
 
     `).join('')}
 
+    <div style="margin-top:10px;">
+
+      <button
+        class="btn btn-ghost btn-sm"
+
+        onclick="addBackupToChannel()"
+      >
+        + Yedek Kutu
+      </button>
+
+    </div>
   `;
 }
 
-function updateField(key,value){
+function updateField(key, value){
 
   const c = data.channels[activeChannel];
 
@@ -819,45 +1065,173 @@ function updateField(key,value){
 
   renderChannelList();
 
-  renderEditor();
+  const title =
+    document.querySelector(
+      '.series-title-display'
+    );
+
+  if(title){
+
+    title.textContent =
+      c.name || 'Kanal Adı Yok';
+  }
 }
 
-function updateBackup(idx,value){
+function clearField(key){
 
   const c = data.channels[activeChannel];
 
   if(!c) return;
+
+  c[key] = '';
+
+  saveData();
+
+  renderEditor();
+
+  renderChannelList();
+}
+
+function updateBackup(idx, value){
+
+  const c = data.channels[activeChannel];
+
+  if(!c) return;
+
+  c.backups = c.backups || [];
 
   c.backups[idx] = value;
 
   saveData();
 }
 
+function deleteBackup(idx){
+
+  const c = data.channels[activeChannel];
+
+  if(!c) return;
+
+  c.backups =
+    c.backups.filter((_,i)=>i!==idx);
+
+  saveData();
+
+  renderEditor();
+}
+
+function addBackupToChannel(){
+
+  const c = data.channels[activeChannel];
+
+  if(!c) return;
+
+  c.backups = c.backups || [];
+
+  c.backups.push('');
+
+  saveData();
+
+  renderEditor();
+}
+
+function deleteChannel(i){
+
+  if(
+    !confirm(
+      `"${data.channels[i].name}" silinsin mi?`
+    )
+  ) return;
+
+  data.channels.splice(i,1);
+
+  saveData();
+
+  activeChannel = null;
+
+  document.getElementById('emptyState')
+    .style.display = 'flex';
+
+  document.getElementById('editorArea')
+    .style.display = 'none';
+
+  renderChannelList();
+}
+
 function generateM3U(){
 
-  let m3u = '#EXTM3U\n\n';
+  const s = getSettings();
+
+  let m3u = '#EXTM3U';
+
+  const epgLinks =
+    [s.epg1, s.epg2].filter(Boolean);
+
+  if(epgLinks.length){
+
+    m3u += `
+ url-tvg="${epgLinks.join(',')}"`;
+  }
+
+  m3u += '\n';
+
+  m3u += `
+# Generated:
+${new Date().toLocaleString('tr-TR')}
+
+`;
 
   for(const ch of data.channels){
 
-    m3u += `#EXTINF:-1 tvg-id="${ch.epgId || ''}" tvg-logo="${ch.logo || ''}",${ch.name}\n`;
+    const attrs = [];
 
-    m3u += `${ch.url || ''}\n`;
+    if(ch.epgId){
+
+      attrs.push(
+        `tvg-id="${escapeAttr(ch.epgId)}"`
+      );
+    }
+
+    attrs.push(
+      `tvg-name="${escapeAttr(ch.name)}"`
+    );
+
+    if(ch.logo){
+
+      attrs.push(
+        `tvg-logo="${escapeAttr(ch.logo)}"`
+      );
+    }
+
+    attrs.push(
+      `group-title="Live TV"`
+    );
+
+    m3u += `
+#EXTINF:-1 ${attrs.join(' ')},${ch.name}
+`;
+
+    m3u += `
+${ch.url || ''}
+`;
   }
 
   return m3u;
 }
 
 /*
-YEDEK LİNKLER BURADA BİLEREK KULLANILMIYOR
-SADECE localStorage'da saklanıyor
-M3U export'a gitmiyor
+YEDEK LİNKLER
+M3U DOSYASINA GÖNDERİLMİYOR
+SADECE PANELDE SAKLANIYOR
 */
 
 async function saveToGithub(){
 
   console.log(generateM3U());
 
-  setStatus('M3U oluşturuldu', 'ok');
+  setStatus(
+    'M3U hazırlandı',
+    'ok'
+  );
 }
 
 function escapeHtml(str){
@@ -865,17 +1239,31 @@ function escapeHtml(str){
   return String(str || '')
 
     .replace(/&/g,'&amp;')
+
     .replace(/</g,'&lt;')
+
     .replace(/>/g,'&gt;')
+
     .replace(/"/g,'&quot;')
+
     .replace(/'/g,'&#39;');
 }
 
-document.querySelectorAll('.modal-overlay').forEach(m=>{
+function escapeAttr(str){
 
-  m.addEventListener('click',e=>{
+  return escapeHtml(str)
+    .replace(/\n/g,' ')
+    .trim();
+}
 
-    if(e.target===m){
+document
+.querySelectorAll('.modal-overlay')
+
+.forEach(m => {
+
+  m.addEventListener('click', e => {
+
+    if(e.target === m){
 
       m.classList.remove('show');
     }
@@ -883,6 +1271,8 @@ document.querySelectorAll('.modal-overlay').forEach(m=>{
 });
 
 loadData();
+
+loadSettings();
 
 renderChannelList();
 
