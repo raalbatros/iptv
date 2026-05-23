@@ -129,7 +129,8 @@
   .ch-num{
     width:36px;height:36px;border-radius:10px;background:var(--surface2);
     display:flex;align-items:center;justify-content:center;
-    font-family:'Syne',sans-serif;font-weight:700;font-size:13px;color:var(--text-dim);flex-shrink:0
+    font-family:'Syne',sans-serif;font-weight:700;font-size:13px;color:var(--text-dim);flex-shrink:0;
+    cursor:grab; user-select:none
   }
   .ch-logo{
     width:34px;height:34px;border-radius:8px;object-fit:cover;background:var(--surface2);
@@ -179,9 +180,7 @@
   .del-btn{opacity:0;transition:opacity .15s}
   .series-item:hover .del-btn{opacity:1}
   .small-note{font-size:12px;color:var(--text-dim);margin-top:6px}
-  .epg-list{
-    display:grid;grid-template-columns:1fr;gap:8px
-  }
+  .epg-list{display:grid;grid-template-columns:1fr;gap:8px}
   .epg-item{
     display:flex;gap:8px;align-items:center;padding:10px;border:1px solid var(--border);
     background:var(--surface2);border-radius:12px
@@ -304,6 +303,7 @@
 let data = { channels: [] };
 let activeChannel = null;
 let backupCount = 3;
+let dragIndex = null;
 
 function loadData(){
   try { data = JSON.parse(localStorage.getItem('m3uLiveEditor') || '{"channels":[]}'); }
@@ -395,10 +395,31 @@ function addChannel(){
   selectChannel(data.channels.length - 1);
 }
 
+function moveChannel(from, to){
+  if(to < 0 || to >= data.channels.length || from === to) return;
+  const item = data.channels.splice(from, 1)[0];
+  data.channels.splice(to, 0, item);
+  saveData();
+  if(activeChannel === from) activeChannel = to;
+  else if(activeChannel !== null) {
+    if(from < activeChannel && to >= activeChannel) activeChannel--;
+    else if(from > activeChannel && to <= activeChannel) activeChannel++;
+  }
+  renderChannelList();
+  if(activeChannel !== null) renderEditor();
+}
+
 function renderChannelList(){
   const list = document.getElementById('channelList');
   list.innerHTML = data.channels.map((c,i)=>`
-    <div class="series-item ${activeChannel === i ? 'active' : ''}" onclick="selectChannel(${i})">
+    <div class="series-item ${activeChannel === i ? 'active' : ''}"
+         draggable="true"
+         ondragstart="handleDragStart(${i}, event)"
+         ondragover="handleDragOver(event)"
+         ondrop="handleDrop(${i}, event)"
+         ondragend="handleDragEnd(event)"
+         onclick="selectChannel(${i})">
+      <div class="ch-num" title="Sürükle">↕</div>
       <img class="series-poster-thumb" src="${c.logo || ''}" onerror="this.style.display='none'">
       <div class="series-info">
         <div class="series-name">${c.name}</div>
@@ -407,6 +428,22 @@ function renderChannelList(){
       <button class="btn btn-danger btn-sm del-btn" onclick="event.stopPropagation();deleteChannel(${i})">✕</button>
     </div>
   `).join('');
+}
+
+function handleDragStart(index, e){
+  dragIndex = index;
+  e.currentTarget.style.opacity = '0.5';
+}
+function handleDragOver(e){
+  e.preventDefault();
+}
+function handleDrop(index, e){
+  e.preventDefault();
+  moveChannel(dragIndex, index);
+}
+function handleDragEnd(e){
+  e.currentTarget.style.opacity = '1';
+  dragIndex = null;
 }
 
 function selectChannel(i){
