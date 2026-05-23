@@ -4,1279 +4,675 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>M3U Canlı TV Editörü</title>
-
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
-
 <style>
-:root{
-  --bg:#f5f7fb;
-  --surface:#ffffff;
-  --surface2:#eef2f8;
-  --border:#d9e1ec;
-  --accent:#2d6cdf;
-  --accent2:#6b5cff;
-  --text:#162033;
-  --text-dim:#6b7280;
-  --red:#e5484d;
-  --green:#1f9d55;
-  --shadow:0 10px 30px rgba(22,32,51,.08);
-}
-
-*{
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
-}
-
-body{
-  font-family:'DM Sans',sans-serif;
-  background:var(--bg);
-  color:var(--text);
-  height:100vh;
-  display:flex;
-  flex-direction:column;
-  overflow:hidden;
-}
-
-header{
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  padding:12px 24px;
-  background:var(--surface);
-  border-bottom:1px solid var(--border);
-  flex-shrink:0;
-  box-shadow:var(--shadow);
-}
-
-.logo{
-  font-family:'Syne',sans-serif;
-  font-weight:800;
-  font-size:18px;
-}
-
-.logo span{
-  color:var(--accent);
-}
-
-.header-actions{
-  display:flex;
-  gap:10px;
-  align-items:center;
-}
-
-#statusMsg{
-  font-size:13px;
-  color:var(--text-dim);
-}
-
-.btn{
-  padding:8px 16px;
-  border-radius:10px;
-  border:none;
-  cursor:pointer;
-  font-size:13px;
-  font-weight:600;
-  transition:.15s;
-}
-
-.btn-accent{
-  background:var(--accent);
-  color:#fff;
-}
-
-.btn-ghost{
-  background:transparent;
-  border:1px solid var(--border);
-}
-
-.btn-danger{
-  background:transparent;
-  color:var(--red);
-  border:1px solid #e5484d33;
-}
-
-.btn-sm{
-  padding:5px 10px;
-  font-size:12px;
-}
-
-.app{
-  display:flex;
-  flex:1;
-  overflow:hidden;
-}
-
-.left-panel{
-  width:280px;
-  background:var(--surface);
-  border-right:1px solid var(--border);
-  display:flex;
-  flex-direction:column;
-}
-
-.panel-header{
-  padding:14px 16px;
-  border-bottom:1px solid var(--border);
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-}
-
-.panel-title{
-  font-family:'Syne',sans-serif;
-  font-size:13px;
-  font-weight:700;
-  color:var(--text-dim);
-}
-
-.series-list{
-  flex:1;
-  overflow-y:auto;
-  padding:8px;
-}
-
-.series-item{
-  padding:10px 12px;
-  border-radius:10px;
-  margin-bottom:6px;
-  display:flex;
-  align-items:center;
-  gap:10px;
-  cursor:pointer;
-  border:1px solid transparent;
-  transition:.15s;
-}
-
-.series-item:hover{
-  background:var(--surface2);
-}
-
-.series-item.active{
-  background:var(--surface2);
-  border-color:#2d6cdf33;
-}
-
-.series-item.dragging{
-  opacity:.4;
-  transform:scale(.98);
-}
-
-.series-poster-thumb{
-  width:32px;
-  height:32px;
-  border-radius:8px;
-  object-fit:cover;
-  background:var(--border);
-}
-
-.series-info{
-  flex:1;
-  min-width:0;
-}
-
-.series-name{
-  font-size:13px;
-  font-weight:600;
-  white-space:nowrap;
-  overflow:hidden;
-  text-overflow:ellipsis;
-}
-
-.series-meta{
-  font-size:11px;
-  color:var(--text-dim);
-}
-
-.right-panel{
-  flex:1;
-  display:flex;
-  flex-direction:column;
-  overflow:hidden;
-}
-
-.empty-state{
-  flex:1;
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  justify-content:center;
-  gap:16px;
-  color:var(--text-dim);
-}
-
-.empty-icon{
-  font-size:48px;
-}
-
-.series-editor{
-  padding:24px;
-}
-
-.editor-top{
-  display:flex;
-  gap:20px;
-}
-
-.poster-img{
-  width:100px;
-  height:100px;
-  border-radius:14px;
-  object-fit:cover;
-  background:var(--surface2);
-}
-
-.series-title-display{
-  font-family:'Syne',sans-serif;
-  font-size:24px;
-  font-weight:800;
-  margin-bottom:8px;
-}
-
-.series-desc{
-  font-size:13px;
-  color:var(--text-dim);
-}
-
-.episodes-panel{
-  flex:1;
-  overflow-y:auto;
-  padding:16px 24px;
-}
-
-.channel-row{
-  display:flex;
-  align-items:center;
-  gap:10px;
-  padding:10px 12px;
-  background:var(--surface);
-  border-radius:12px;
-  margin-bottom:8px;
-  border:1px solid var(--border);
-}
-
-.ch-num{
-  width:36px;
-  height:36px;
-  border-radius:10px;
-  background:var(--surface2);
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  font-weight:700;
-  font-size:13px;
-  cursor:grab;
-  user-select:none;
-}
-
-.ch-name{
-  width:120px;
-  font-size:13px;
-}
-
-.ch-link,.ch-title{
-  flex:1;
-  padding:8px 12px;
-  border-radius:10px;
-  border:1px solid var(--border);
-  font-size:12px;
-  outline:none;
-}
-
-.filled{
-  border-color:#1f9d5566;
-}
-
-.row-actions{
-  display:flex;
-  gap:6px;
-}
-
-.modal-overlay{
-  position:fixed;
-  inset:0;
-  background:#0008;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  opacity:0;
-  pointer-events:none;
-  transition:.2s;
-}
-
-.modal-overlay.show{
-  opacity:1;
-  pointer-events:all;
-}
-
-.modal{
-  background:var(--surface);
-  border-radius:18px;
-  padding:24px;
-  width:500px;
-  max-width:95vw;
-}
-
-.modal-title{
-  font-family:'Syne',sans-serif;
-  font-size:16px;
-  font-weight:700;
-  margin-bottom:16px;
-}
-
-.form-group{
-  margin-bottom:14px;
-}
-
-label{
-  display:block;
-  margin-bottom:6px;
-  font-size:12px;
-}
-
-input{
-  width:100%;
-  padding:10px 12px;
-  border-radius:10px;
-  border:1px solid var(--border);
-}
-
-.modal-actions{
-  display:flex;
-  justify-content:flex-end;
-  gap:8px;
-  margin-top:16px;
-}
+  :root{
+    --bg:#f5f7fb;
+    --surface:#ffffff;
+    --surface2:#eef2f8;
+    --border:#d9e1ec;
+    --accent:#2d6cdf;
+    --accent2:#6b5cff;
+    --text:#162033;
+    --text-dim:#6b7280;
+    --red:#e5484d;
+    --green:#1f9d55;
+    --shadow:0 10px 30px rgba(22,32,51,.08);
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{
+    font-family:'DM Sans',sans-serif;
+    background:var(--bg);
+    color:var(--text);
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    overflow:hidden
+  }
+  header{
+    display:flex;align-items:center;justify-content:space-between;
+    padding:12px 24px;background:var(--surface);border-bottom:1px solid var(--border);
+    flex-shrink:0;box-shadow:var(--shadow)
+  }
+  .logo{font-family:'Syne',sans-serif;font-weight:800;font-size:18px;letter-spacing:-.5px}
+  .logo span{color:var(--accent)}
+  .header-actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  #statusMsg{font-size:13px;color:var(--text-dim);min-width:140px}
+  .btn{
+    padding:8px 16px;border-radius:10px;border:none;cursor:pointer;
+    font-family:'DM Sans',sans-serif;font-size:13px;font-weight:600;
+    transition:.15s ease;white-space:nowrap
+  }
+  .btn-accent{background:var(--accent);color:#fff}
+  .btn-accent:hover{filter:brightness(.95)}
+  .btn-ghost{background:transparent;color:var(--text-dim);border:1px solid var(--border)}
+  .btn-ghost:hover{border-color:var(--accent);color:var(--accent)}
+  .btn-danger{background:transparent;color:var(--red);border:1px solid #e5484d33}
+  .btn-danger:hover{background:#e5484d10}
+  .btn-sm{padding:5px 10px;font-size:12px}
+  .app{display:flex;flex:1;overflow:hidden}
+  .left-panel{
+    width:290px;flex-shrink:0;background:var(--surface);
+    border-right:1px solid var(--border);display:flex;flex-direction:column
+  }
+  .panel-header{
+    padding:14px 16px;border-bottom:1px solid var(--border);
+    display:flex;align-items:center;justify-content:space-between;gap:8px
+  }
+  .panel-title{
+    font-family:'Syne',sans-serif;font-weight:700;font-size:13px;
+    color:var(--text-dim);text-transform:uppercase;letter-spacing:1px
+  }
+  .series-list{flex:1;overflow-y:auto;padding:8px}
+  .series-item{
+    padding:10px 12px;border-radius:10px;cursor:pointer;
+    margin-bottom:6px;transition:.15s;border:1px solid transparent;
+    display:flex;align-items:center;gap:10px
+  }
+  .series-item:hover{background:var(--surface2)}
+  .series-item.active{background:var(--surface2);border-color:#2d6cdf33}
+  .series-poster-thumb{
+    width:32px;height:32px;border-radius:8px;object-fit:cover;
+    background:var(--border);flex-shrink:0
+  }
+  .series-info{flex:1;min-width:0}
+  .series-name{font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .series-meta{font-size:11px;color:var(--text-dim);margin-top:2px}
+  .reorder-arrows{display:flex;flex-direction:column;gap:2px;flex-shrink:0}
+  .arrow-btn{
+    width:24px;height:18px;border-radius:6px;border:1px solid var(--border);
+    background:#fff;color:var(--text-dim);font-size:11px;cursor:pointer;line-height:1
+  }
+  .arrow-btn:hover{border-color:var(--accent);color:var(--accent)}
+  .right-panel{flex:1;display:flex;flex-direction:column;overflow:hidden}
+  .empty-state{
+    flex:1;display:flex;flex-direction:column;align-items:center;
+    justify-content:center;gap:16px;color:var(--text-dim)
+  }
+  .empty-icon{font-size:48px;opacity:.35}
+  .empty-text{font-size:15px}
+  .series-editor{flex:1;overflow-y:auto;padding:24px}
+  .editor-top{display:flex;gap:20px;margin-bottom:24px}
+  .poster-area{width:100px;flex-shrink:0;display:flex;flex-direction:column;gap:8px}
+  .poster-img{
+    width:100px;height:100px;border-radius:14px;object-fit:cover;
+    background:var(--surface2);border:1px solid var(--border)
+  }
+  .series-details{flex:1}
+  .series-title-display{
+    font-family:'Syne',sans-serif;font-weight:800;font-size:24px;margin-bottom:6px
+  }
+  .series-desc{font-size:13px;color:var(--text-dim);line-height:1.6;max-height:64px;overflow:hidden}
+  .series-tags{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+  .tag{
+    padding:3px 10px;border-radius:20px;font-size:11px;font-weight:600;
+    background:var(--surface2);border:1px solid var(--border);color:var(--text-dim)
+  }
+  .list-topbar{
+    display:flex;justify-content:space-between;align-items:center;gap:10px;
+    padding:0 24px 12px 24px;flex-wrap:wrap
+  }
+  .season-tabs{
+    display:flex;gap:4px;padding:0 24px;border-bottom:1px solid var(--border);
+    flex-shrink:0;overflow-x:auto;background:transparent;align-items:center
+  }
+  .season-tab{
+    padding:10px 16px;font-size:13px;font-weight:600;cursor:pointer;
+    border-bottom:2px solid transparent;color:var(--text-dim);white-space:nowrap;
+    transition:.15s;background:none;border-top:none;border-left:none;border-right:none;
+    font-family:'DM Sans',sans-serif
+  }
+  .season-tab:hover{color:var(--text)}
+  .season-tab.active{color:var(--accent);border-bottom-color:var(--accent)}
+  .season-tab.add-tab{color:var(--accent2)}
+  .episodes-panel{flex:1;overflow-y:auto;padding:16px 24px}
+  .channel-row{
+    display:flex;align-items:center;gap:10px;padding:10px 12px;
+    background:var(--surface);border-radius:12px;margin-bottom:8px;
+    border:1px solid var(--border);box-shadow:0 4px 14px rgba(22,32,51,.04)
+  }
+  .channel-row:hover{border-color:#b9c6d8}
+  .ch-num{
+    width:36px;height:36px;border-radius:10px;background:var(--surface2);
+    display:flex;align-items:center;justify-content:center;
+    font-family:'Syne',sans-serif;font-weight:700;font-size:13px;color:var(--text-dim);
+    flex-shrink:0; cursor:grab; user-select:none
+  }
+  .ch-logo{
+    width:34px;height:34px;border-radius:8px;object-fit:cover;background:var(--surface2);
+    border:1px solid var(--border);flex-shrink:0
+  }
+  .ch-name{
+    font-size:13px;
+    flex:0 0 150px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis
+  }
+  .ch-link,.ch-epg,.ch-title{
+    flex:1;padding:8px 12px;background:#fff;border:1px solid var(--border);
+    border-radius:10px;color:var(--text);font-size:12px;font-family:'DM Sans',sans-serif;
+    outline:none;transition:border-color .15s
+  }
+  .ch-link:focus,.ch-epg:focus,.ch-title:focus{border-color:var(--accent2)}
+  .filled{border-color:#1f9d5566}
+  .row-actions{display:flex;gap:6px;flex-shrink:0}
+  .modal-overlay{
+    position:fixed;inset:0;background:#0008;display:flex;
+    align-items:center;justify-content:center;z-index:100;
+    opacity:0;pointer-events:none;transition:opacity .2s
+  }
+  .modal-overlay.show{opacity:1;pointer-events:all}
+  .modal{
+    background:var(--surface);border:1px solid var(--border);border-radius:18px;
+    padding:24px;width:520px;max-width:95vw;box-shadow:var(--shadow);
+    transform:translateY(20px);transition:transform .2s;max-height:90vh;overflow:auto
+  }
+  .modal-overlay.show .modal{transform:translateY(0)}
+  .modal-title{font-family:'Syne',sans-serif;font-weight:700;font-size:16px;margin-bottom:16px}
+  .form-group{margin-bottom:14px}
+  label{display:block;font-size:12px;color:var(--text-dim);margin-bottom:6px;font-weight:600}
+  input[type=text],input[type=number],textarea{
+    width:100%;padding:10px 12px;background:var(--surface2);border:1px solid var(--border);
+    border-radius:10px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:13px;
+    outline:none;transition:border-color .15s
+  }
+  input:focus,textarea:focus{border-color:var(--accent2)}
+  .modal-actions{display:flex;gap:8px;justify-content:flex-end;margin-top:18px;flex-wrap:wrap}
+  ::-webkit-scrollbar{width:4px;height:4px}
+  ::-webkit-scrollbar-track{background:transparent}
+  ::-webkit-scrollbar-thumb{background:#c7d0dd;border-radius:2px}
+  .del-btn{opacity:0;transition:opacity .15s}
+  .series-item:hover .del-btn{opacity:1}
+  .small-note{font-size:12px;color:var(--text-dim);margin-top:6px}
 </style>
 </head>
-
 <body>
 
 <header>
   <div class="logo">m3u<span>live</span></div>
-
   <div class="header-actions">
     <span id="statusMsg"></span>
-
-    <button class="btn btn-ghost btn-sm" onclick="showSettings()">
-      ⚙ Ayarlar
-    </button>
-
-    <button class="btn btn-accent" onclick="saveToGithub()">
-      ↑ GitHub'a Kaydet
-    </button>
+    <button class="btn btn-ghost btn-sm" onclick="showSettings()">⚙ Ayarlar</button>
+    <button class="btn btn-accent" onclick="saveToGithub()">↑ GitHub'a Kaydet</button>
   </div>
 </header>
 
 <div class="app">
-
   <div class="left-panel">
-
     <div class="panel-header">
       <span class="panel-title">Kanallar</span>
-
-      <button class="btn btn-accent btn-sm" onclick="showAddChannel()">
-        + Ekle
-      </button>
+      <button class="btn btn-accent btn-sm" onclick="showAddChannel()">+ Ekle</button>
     </div>
-
     <div class="series-list" id="channelList"></div>
-
   </div>
 
   <div class="right-panel">
-
     <div class="empty-state" id="emptyState">
       <div class="empty-icon">📡</div>
-      <div>Soldan kanal seç</div>
+      <div class="empty-text">Soldan bir kanal seç</div>
+      <button class="btn btn-ghost" onclick="showAddChannel()">+ Yeni Kanal Ekle</button>
     </div>
 
     <div id="editorArea" style="display:none; flex-direction:column; flex:1; overflow:hidden;">
-
       <div class="series-editor" id="channelEditor"></div>
-
+      <div id="editorTools"></div>
       <div class="episodes-panel" id="channelPanel"></div>
-
     </div>
-
   </div>
-
 </div>
-
-<!-- Kanal Ekle -->
 
 <div class="modal-overlay" id="addChannelModal">
-
   <div class="modal">
-
     <div class="modal-title">Yeni Kanal Ekle</div>
-
     <div class="form-group">
       <label>Kanal Adı</label>
-      <input type="text" id="chName">
+      <input type="text" id="chName" placeholder="TRT 1">
     </div>
-
     <div class="form-group">
       <label>Kanal Linki</label>
-      <input type="text" id="chUrl">
+      <input type="text" id="chUrl" placeholder="https://...m3u8">
     </div>
-
     <div class="form-group">
-      <label>Logo</label>
-      <input type="text" id="chLogo">
+      <label>Kanal Logosu</label>
+      <input type="text" id="chLogo" placeholder="https://...png">
     </div>
-
     <div class="form-group">
       <label>EPG ID</label>
-      <input type="text" id="chEpgId">
+      <input type="text" id="chEpgId" placeholder="trt1.tr">
     </div>
-
     <div class="form-group">
       <label>Yedek Linkler</label>
-
       <div id="backupLinksBox"></div>
-
-      <button class="btn btn-ghost btn-sm" onclick="addBackupField()" style="margin-top:8px;">
-        + Yedek Ekle
-      </button>
+      <div class="small-note">Bu alanlar sadece bu sayfada saklanır, M3U dışa aktarımına eklenmez.</div>
+      <div style="margin-top:8px;">
+        <button class="btn btn-ghost btn-sm" onclick="addBackupField()">+ Yedek Kutusu Ekle</button>
+      </div>
     </div>
-
     <div class="modal-actions">
-      <button class="btn btn-ghost" onclick="closeModal('addChannelModal')">
-        İptal
-      </button>
-
-      <button class="btn btn-accent" onclick="addChannel()">
-        Ekle
-      </button>
+      <button class="btn btn-ghost" onclick="closeModal('addChannelModal')">İptal</button>
+      <button class="btn btn-accent" onclick="addChannel()">Ekle</button>
     </div>
-
   </div>
-
 </div>
 
-<!-- SADECE BU SCRIPT BLOĞUNU MEVCUT SCRIPT İLE DEĞİŞTİR -->
+<div class="modal-overlay" id="settingsModal">
+  <div class="modal">
+    <div class="modal-title">⚙ Genel Ayarlar</div>
+    <div class="form-group">
+      <label>GitHub Token</label>
+      <input type="text" id="ghToken" placeholder="ghp_xxxxx">
+    </div>
+    <div class="form-group">
+      <label>GitHub Repo</label>
+      <input type="text" id="ghRepo" placeholder="kullanici/repo">
+    </div>
+    <div class="form-group">
+      <label>M3U Dosya Yolu</label>
+      <input type="text" id="ghPath" placeholder="playlist/live.m3u">
+    </div>
+    <div class="form-group">
+      <label>Birinci EPG Linki</label>
+      <input type="text" id="epg1" placeholder="https://...xml">
+    </div>
+    <div class="form-group">
+      <label>İkinci EPG Linki</label>
+      <input type="text" id="epg2" placeholder="https://...xml">
+    </div>
+    <div class="modal-actions">
+      <button class="btn btn-ghost" onclick="closeModal('settingsModal')">İptal</button>
+      <button class="btn btn-accent" onclick="saveSettings()">Kaydet</button>
+    </div>
+  </div>
+</div>
 
 <script>
-
 let data = { channels: [] };
 let activeChannel = null;
 let backupCount = 3;
 let dragIndex = null;
 
 function loadData(){
-  try{
-    data = JSON.parse(
-      localStorage.getItem('m3uLiveEditor') || '{"channels":[]}'
-    );
-  }catch(e){
-    data = { channels: [] };
-  }
+  try { data = JSON.parse(localStorage.getItem('m3uLiveEditor') || '{"channels":[]}'); }
+  catch(e){ data = { channels: [] }; }
 }
-
-function saveData(){
-  localStorage.setItem(
-    'm3uLiveEditor',
-    JSON.stringify(data)
-  );
-}
+function saveData(){ localStorage.setItem('m3uLiveEditor', JSON.stringify(data)); }
 
 function loadSettings(){
-
-  const s = JSON.parse(
-    localStorage.getItem('m3uLiveSettings') || '{}'
-  );
-
-  if (s.token)
-    document.getElementById('ghToken').value = s.token;
-
-  if (s.repo)
-    document.getElementById('ghRepo').value = s.repo;
-
-  if (s.path)
-    document.getElementById('ghPath').value = s.path;
-
-  if (s.epg1)
-    document.getElementById('epg1').value = s.epg1;
-
-  if (s.epg2)
-    document.getElementById('epg2').value = s.epg2;
+  const s = JSON.parse(localStorage.getItem('m3uLiveSettings') || '{}');
+  if (s.token) document.getElementById('ghToken').value = s.token;
+  if (s.repo) document.getElementById('ghRepo').value = s.repo;
+  if (s.path) document.getElementById('ghPath').value = s.path;
+  if (s.epg1) document.getElementById('epg1').value = s.epg1;
+  if (s.epg2) document.getElementById('epg2').value = s.epg2;
 }
-
-function getSettings(){
-
-  return JSON.parse(
-    localStorage.getItem('m3uLiveSettings') || '{}'
-  );
-}
+function getSettings(){ return JSON.parse(localStorage.getItem('m3uLiveSettings') || '{}'); }
 
 function saveSettings(){
-
   const s = {
-
-    token:
-      document.getElementById('ghToken').value.trim(),
-
-    repo:
-      document.getElementById('ghRepo').value.trim(),
-
-    path:
-      document.getElementById('ghPath').value.trim(),
-
-    epg1:
-      document.getElementById('epg1').value.trim(),
-
-    epg2:
-      document.getElementById('epg2').value.trim()
+    token: document.getElementById('ghToken').value.trim(),
+    repo: document.getElementById('ghRepo').value.trim(),
+    path: document.getElementById('ghPath').value.trim(),
+    epg1: document.getElementById('epg1').value.trim(),
+    epg2: document.getElementById('epg2').value.trim()
   };
-
-  localStorage.setItem(
-    'm3uLiveSettings',
-    JSON.stringify(s)
-  );
-
+  localStorage.setItem('m3uLiveSettings', JSON.stringify(s));
   closeModal('settingsModal');
-
   setStatus('Ayarlar kaydedildi', 'ok');
 }
 
-function showModal(id){
-  document.getElementById(id).classList.add('show');
-}
-
-function closeModal(id){
-  document.getElementById(id).classList.remove('show');
-}
-
-function showSettings(){
-  loadSettings();
-  showModal('settingsModal');
-}
-
+function showModal(id){ document.getElementById(id).classList.add('show'); }
+function closeModal(id){ document.getElementById(id).classList.remove('show'); }
+function showSettings(){ loadSettings(); showModal('settingsModal'); }
 function setStatus(msg, type){
-
-  const el =
-    document.getElementById('statusMsg');
-
+  const el = document.getElementById('statusMsg');
   el.textContent = msg;
-
-  el.style.color =
-    type === 'ok'
-      ? 'var(--green)'
-      : type === 'err'
-      ? 'var(--red)'
-      : 'var(--text-dim)';
+  el.style.color = type === 'ok' ? 'var(--green)' : type === 'err' ? 'var(--red)' : 'var(--text-dim)';
 }
 
 function showAddChannel(){
-
   document.getElementById('chName').value = '';
   document.getElementById('chUrl').value = '';
   document.getElementById('chLogo').value = '';
   document.getElementById('chEpgId').value = '';
-
   backupCount = 3;
-
   renderBackupFields();
-
   showModal('addChannelModal');
 }
 
 function renderBackupFields(){
-
-  const box =
-    document.getElementById('backupLinksBox');
-
+  const box = document.getElementById('backupLinksBox');
   box.innerHTML = '';
-
   for(let i=0;i<backupCount;i++){
-
     const wrap = document.createElement('div');
-
     wrap.className = 'form-group';
-
     wrap.style.marginBottom = '8px';
-
     wrap.innerHTML = `
       <label>Yedek Link ${i+1}</label>
-
-      <input
-        type="text"
-        class="backup-input"
-        placeholder="https://..."
-      >
+      <input type="text" class="backup-input" placeholder="https://... (opsiyonel)">
     `;
-
     box.appendChild(wrap);
   }
 }
 
 function addBackupField(){
-
   backupCount++;
-
   renderBackupFields();
 }
 
 function addChannel(){
+  const name = document.getElementById('chName').value.trim() || 'Yeni Kanal';
+  const url = document.getElementById('chUrl').value.trim();
+  const logo = document.getElementById('chLogo').value.trim();
+  const epgId = document.getElementById('chEpgId').value.trim();
+  const backups = [...document.querySelectorAll('.backup-input')].map(i => i.value.trim()).filter(Boolean);
 
-  const name =
-    document.getElementById('chName')
-    .value.trim() || 'Yeni Kanal';
-
-  const url =
-    document.getElementById('chUrl')
-    .value.trim();
-
-  const logo =
-    document.getElementById('chLogo')
-    .value.trim();
-
-  const epgId =
-    document.getElementById('chEpgId')
-    .value.trim();
-
-  const backups =
-    [...document.querySelectorAll('.backup-input')]
-    .map(i => i.value.trim())
-    .filter(Boolean);
-
-  data.channels.push({
-
-    id: Date.now(),
-
-    name,
-
-    url,
-
-    logo,
-
-    epgId,
-
-    backups
-  });
-
+  data.channels.push({ id: Date.now(), name, url, logo, epgId, backups });
   saveData();
-
   closeModal('addChannelModal');
-
   renderChannelList();
-
   selectChannel(data.channels.length - 1);
 }
 
 function moveChannel(from, to){
-
-  if(to < 0) return;
-
-  if(to >= data.channels.length) return;
-
-  if(from === to) return;
-
-  const item =
-    data.channels.splice(from,1)[0];
-
-  data.channels.splice(to,0,item);
-
+  if(to < 0 || to >= data.channels.length || from === to) return;
+  const item = data.channels.splice(from, 1)[0];
+  data.channels.splice(to, 0, item);
   saveData();
 
-  activeChannel = to;
+  if(activeChannel === from) activeChannel = to;
+  else if(activeChannel !== null){
+    if(from < activeChannel && to >= activeChannel) activeChannel--;
+    else if(from > activeChannel && to <= activeChannel) activeChannel++;
+  }
 
   renderChannelList();
-
-  renderEditor();
+  if(activeChannel !== null) renderEditor();
 }
 
 function renderChannelList(){
-
-  const list =
-    document.getElementById('channelList');
-
-  list.innerHTML =
-    data.channels.map((c,i)=>`
-
-    <div
-      class="series-item ${activeChannel === i ? 'active' : ''}"
-
-      draggable="true"
-
-      ondragstart="handleDragStart(${i}, event)"
-
-      ondragover="handleDragOver(event)"
-
-      ondrop="handleDrop(${i}, event)"
-
-      ondragend="handleDragEnd(event)"
-
-      onclick="selectChannel(${i})"
-    >
-
-      <div class="ch-num">↕</div>
-
-      <img
-        class="series-poster-thumb"
-        src="${c.logo || ''}"
-
-        onerror="this.style.display='none'"
-      >
-
+  const list = document.getElementById('channelList');
+  list.innerHTML = data.channels.map((c,i)=>`
+    <div class="series-item ${activeChannel === i ? 'active' : ''}"
+         draggable="true"
+         ondragstart="handleDragStart(${i}, event)"
+         ondragover="handleDragOver(event)"
+         ondrop="handleDrop(${i}, event)"
+         ondragend="handleDragEnd(event)"
+         onclick="selectChannel(${i})">
+      <div class="ch-num" title="Sürükle">↕</div>
+      <img class="series-poster-thumb" src="${c.logo || ''}" onerror="this.style.display='none'">
       <div class="series-info">
-
-        <div class="series-name">
-          ${c.name}
-        </div>
-
-        <div class="series-meta">
-          ${c.epgId || 'EPG yok'}
-        </div>
-
+        <div class="series-name">${c.name}</div>
+        <div class="series-meta">${c.epgId ? c.epgId : 'EPG yok'}</div>
       </div>
-
-      <button
-        class="btn btn-danger btn-sm del-btn"
-
-        onclick="
-          event.stopPropagation();
-          deleteChannel(${i})
-        "
-      >
-        ✕
-      </button>
-
+      <div class="reorder-arrows" onclick="event.stopPropagation()">
+        <button class="arrow-btn" title="Yukarı taşı" onclick="moveChannel(${i}, ${i - 1})">↑</button>
+        <button class="arrow-btn" title="Aşağı taşı" onclick="moveChannel(${i}, ${i + 1})">↓</button>
+      </div>
+      <button class="btn btn-danger btn-sm del-btn" onclick="event.stopPropagation();deleteChannel(${i})">✕</button>
     </div>
-
   `).join('');
 }
 
 function handleDragStart(index, e){
-
   dragIndex = index;
-
-  e.dataTransfer.effectAllowed = 'move';
-
-  e.dataTransfer.setData(
-    'text/plain',
-    index
-  );
-
-  e.currentTarget.classList.add('dragging');
+  e.currentTarget.style.opacity = '0.5';
 }
-
-function handleDragOver(e){
-  e.preventDefault();
-}
-
+function handleDragOver(e){ e.preventDefault(); }
 function handleDrop(index, e){
-
   e.preventDefault();
-
-  const fromIndex =
-    Number(
-      e.dataTransfer.getData('text/plain')
-    );
-
-  if(isNaN(fromIndex)) return;
-
-  moveChannel(fromIndex, index);
+  moveChannel(dragIndex, index);
 }
-
 function handleDragEnd(e){
-
-  e.currentTarget.classList.remove('dragging');
-
+  e.currentTarget.style.opacity = '1';
   dragIndex = null;
 }
 
 function selectChannel(i){
-
   activeChannel = i;
-
   renderChannelList();
-
   renderEditor();
-
-  document.getElementById('emptyState')
-    .style.display = 'none';
-
-  document.getElementById('editorArea')
-    .style.display = 'flex';
+  document.getElementById('emptyState').style.display = 'none';
+  document.getElementById('editorArea').style.display = 'flex';
 }
 
 function renderEditor(){
-
   const c = data.channels[activeChannel];
-
   if(!c) return;
 
   document.getElementById('channelEditor').innerHTML = `
-
     <div class="editor-top">
-
       <div class="poster-area">
-
-        <img
-          class="poster-img"
-          src="${c.logo || ''}"
-
-          onerror="this.style.display='none'"
-        >
-
+        <img class="poster-img" src="${c.logo || ''}" onerror="this.style.display='none'">
       </div>
-
       <div class="series-details">
-
-        <div class="series-title-display">
-          ${c.name || 'Kanal Adı Yok'}
+        <div class="series-title-display">${c.name || 'Kanal Adı Yok'}</div>
+        <div class="series-desc">Kanal linki, isim, logo, EPG ID ve yedek bağlantılar burada düzenlenir. Yedek linkler dışa aktarıma girmez.</div>
+        <div class="series-tags">
+          <span class="tag">EPG: ${c.epgId || '-'}</span>
+          <span class="tag">${(c.backups || []).length} yedek</span>
         </div>
-
-        <div class="series-desc">
-          Kanal ayarlarını düzenleyebilirsin.
+        <div style="margin-top:12px;display:flex;gap:8px;flex-wrap:wrap;">
+          <button class="btn btn-ghost btn-sm" onclick="addBackupToChannel()">+ Yedek Kutusu</button>
+          <button class="btn btn-danger btn-sm" onclick="deleteChannel(${activeChannel})">Kanalı Sil</button>
         </div>
-
       </div>
+    </div>
+  `;
 
+  document.getElementById('editorTools').innerHTML = `
+    <div class="list-topbar">
+      <div style="font-size:13px;color:var(--text-dim);font-weight:600;">Kanal Alanları</div>
+      <div style="display:flex;gap:8px;flex-wrap:wrap;">
+        <button class="btn btn-accent btn-sm" onclick="saveCurrentChannel()">Kaydet</button>
+        <button class="btn btn-danger btn-sm" onclick="removeBackupLast()">Son Yedeği Sil</button>
+      </div>
     </div>
   `;
 
   const backups = c.backups || [];
-
   document.getElementById('channelPanel').innerHTML = `
-
-    <!-- KANAL ADI -->
-
     <div class="channel-row">
-
       <div class="ch-num">N</div>
-
-      <div class="ch-name">
-        Kanal Adı
-      </div>
-
-      <input
-        class="ch-title"
-
-        type="text"
-
-        value="${escapeHtml(c.name || '')}"
-
-        placeholder="Kanal adı"
-
-        oninput="
-          updateField('name', this.value);
-
-          this.classList.toggle(
-            'filled',
-            this.value.length>0
-          )
-        "
-      >
-
+      <div class="ch-name">Kanal Adı</div>
+      <input class="ch-title" type="text" value="${escapeHtml(c.name || '')}" oninput="updateField('name', this.value); renderChannelList()" placeholder="Kanal adı">
       <div class="row-actions">
-
-        <button
-          class="btn btn-danger btn-sm"
-
-          onclick="clearField('name')"
-        >
-          Sil
-        </button>
-
+        <button class="btn btn-danger btn-sm" onclick="clearField('name')">Sil</button>
       </div>
-
     </div>
 
-    <!-- ANA LİNK -->
-
     <div class="channel-row">
-
       <div class="ch-num">#</div>
-
-      <div class="ch-name">
-        Ana Link
-      </div>
-
-      <input
-        class="ch-link"
-
-        type="text"
-
-        value="${escapeHtml(c.url || '')}"
-
-        placeholder="https://..."
-
-        oninput="
-          updateField('url', this.value);
-
-          this.classList.toggle(
-            'filled',
-            this.value.length>0
-          )
-        "
-      >
-
+      <div class="ch-name">Ana Link</div>
+      <input class="ch-link" type="text" value="${escapeHtml(c.url || '')}" oninput="updateField('url', this.value); this.classList.toggle('filled', this.value.length>0)" placeholder="https://...">
       <div class="row-actions">
-
-        <button
-          class="btn btn-danger btn-sm"
-
-          onclick="clearField('url')"
-        >
-          Sil
-        </button>
-
+        <button class="btn btn-danger btn-sm" onclick="clearField('url')">Sil</button>
       </div>
-
     </div>
 
-    <!-- LOGO -->
-
     <div class="channel-row">
-
       <div class="ch-num">L</div>
-
-      <div class="ch-name">
-        Logo
+      <div class="ch-name">Logo</div>
+      <input class="ch-link" type="text" value="${escapeHtml(c.logo || '')}" oninput="updateField('logo', this.value); this.classList.toggle('filled', this.value.length>0)" placeholder="https://...png">
+      <div class="row-actions">
+        <button class="btn btn-danger btn-sm" onclick="clearField('logo')">Sil</button>
       </div>
-
-      <input
-        class="ch-link"
-
-        type="text"
-
-        value="${escapeHtml(c.logo || '')}"
-
-        placeholder="https://..."
-
-        oninput="
-          updateField('logo', this.value);
-
-          this.classList.toggle(
-            'filled',
-            this.value.length>0
-          )
-        "
-      >
-
     </div>
-
-    <!-- EPG -->
 
     <div class="channel-row">
-
       <div class="ch-num">E</div>
-
-      <div class="ch-name">
-        EPG
+      <div class="ch-name">EPG ID</div>
+      <input class="ch-epg" type="text" value="${escapeHtml(c.epgId || '')}" oninput="updateField('epgId', this.value); renderChannelList()" placeholder="channel.epg.id">
+      <div class="row-actions">
+        <button class="btn btn-danger btn-sm" onclick="clearField('epgId')">Sil</button>
       </div>
-
-      <input
-        class="ch-link"
-
-        type="text"
-
-        value="${escapeHtml(c.epgId || '')}"
-
-        placeholder="epg.id"
-
-        oninput="
-          updateField('epgId', this.value);
-
-          this.classList.toggle(
-            'filled',
-            this.value.length>0
-          )
-        "
-      >
-
     </div>
-
-    <!-- YEDEKLER -->
 
     ${backups.map((b, idx) => `
-
       <div class="channel-row">
-
-        <div class="ch-num">
-          ${idx+1}
-        </div>
-
-        <div class="ch-name">
-          Yedek ${idx+1}
-        </div>
-
-        <input
-          class="ch-link"
-
-          type="text"
-
-          value="${escapeHtml(b || '')}"
-
-          placeholder="https://..."
-
-          oninput="
-            updateBackup(${idx}, this.value);
-
-            this.classList.toggle(
-              'filled',
-              this.value.length>0
-            )
-          "
-        >
-
+        <div class="ch-num">${idx+1}</div>
+        <div class="ch-name">Yedek ${idx+1}</div>
+        <input class="ch-link" type="text" value="${escapeHtml(b || '')}" oninput="updateBackup(${idx}, this.value); this.classList.toggle('filled', this.value.length>0)" placeholder="https://...">
         <div class="row-actions">
-
-          <button
-            class="btn btn-danger btn-sm"
-
-            onclick="deleteBackup(${idx})"
-          >
-            Sil
-          </button>
-
+          <button class="btn btn-danger btn-sm" onclick="deleteBackup(${idx})">Sil</button>
         </div>
-
       </div>
-
     `).join('')}
 
-    <div style="margin-top:10px;">
-
-      <button
-        class="btn btn-ghost btn-sm"
-
-        onclick="addBackupToChannel()"
-      >
-        + Yedek Kutu
-      </button>
-
+    <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:10px;">
+      <button class="btn btn-ghost btn-sm" onclick="addBackupToChannel()">+ Boş Yedek Kutu Ekle</button>
+      <button class="btn btn-ghost btn-sm" onclick="addBackupToChannel(3)">+ 3 Yedek Kutu Ekle</button>
     </div>
   `;
 }
 
 function updateField(key, value){
-
   const c = data.channels[activeChannel];
-
   if(!c) return;
-
   c[key] = value;
-
   saveData();
-
-  renderChannelList();
-
-  const title =
-    document.querySelector(
-      '.series-title-display'
-    );
-
-  if(title){
-
-    title.textContent =
-      c.name || 'Kanal Adı Yok';
-  }
 }
-
 function clearField(key){
-
   const c = data.channels[activeChannel];
-
   if(!c) return;
-
   c[key] = '';
-
   saveData();
-
   renderEditor();
-
   renderChannelList();
 }
-
 function updateBackup(idx, value){
-
   const c = data.channels[activeChannel];
-
   if(!c) return;
-
   c.backups = c.backups || [];
-
   c.backups[idx] = value;
-
   saveData();
 }
-
 function deleteBackup(idx){
-
   const c = data.channels[activeChannel];
-
   if(!c) return;
-
-  c.backups =
-    c.backups.filter((_,i)=>i!==idx);
-
+  c.backups = (c.backups || []).filter((_, i) => i !== idx);
   saveData();
-
   renderEditor();
+  renderChannelList();
 }
-
-function addBackupToChannel(){
-
+function addBackupToChannel(n=1){
   const c = data.channels[activeChannel];
-
   if(!c) return;
-
   c.backups = c.backups || [];
-
-  c.backups.push('');
-
+  for(let i=0;i<n;i++) c.backups.push('');
   saveData();
-
   renderEditor();
+  renderChannelList();
 }
-
-function deleteChannel(i){
-
-  if(
-    !confirm(
-      `"${data.channels[i].name}" silinsin mi?`
-    )
-  ) return;
-
-  data.channels.splice(i,1);
-
+function removeBackupLast(){
+  const c = data.channels[activeChannel];
+  if(!c || !(c.backups||[]).length) return;
+  c.backups.pop();
   saveData();
-
+  renderEditor();
+  renderChannelList();
+}
+function saveCurrentChannel(){
+  saveData();
+  renderChannelList();
+  setStatus('Kanal kaydedildi', 'ok');
+}
+function deleteChannel(i){
+  if(!confirm(`"${data.channels[i].name}" silinsin mi?`)) return;
+  data.channels.splice(i,1);
+  saveData();
   activeChannel = null;
-
-  document.getElementById('emptyState')
-    .style.display = 'flex';
-
-  document.getElementById('editorArea')
-    .style.display = 'none';
-
+  document.getElementById('emptyState').style.display = 'flex';
+  document.getElementById('editorArea').style.display = 'none';
   renderChannelList();
 }
 
 function generateM3U(){
-
   const s = getSettings();
-
   let m3u = '#EXTM3U';
-
-  const epgLinks =
-    [s.epg1, s.epg2].filter(Boolean);
-
-  if(epgLinks.length){
-
-    m3u += `
- url-tvg="${epgLinks.join(',')}"`;
-  }
-
+  const epgLinks = [s.epg1, s.epg2].filter(Boolean);
+  if(epgLinks.length) m3u += ` url-tvg="${epgLinks.join(',')}"`;
   m3u += '\n';
-
-  m3u += `
-# Generated:
-${new Date().toLocaleString('tr-TR')}
-
-`;
+  m3u += `# Generated: ${new Date().toLocaleString('tr-TR')}\n\n`;
 
   for(const ch of data.channels){
-
     const attrs = [];
-
-    if(ch.epgId){
-
-      attrs.push(
-        `tvg-id="${escapeAttr(ch.epgId)}"`
-      );
-    }
-
-    attrs.push(
-      `tvg-name="${escapeAttr(ch.name)}"`
-    );
-
-    if(ch.logo){
-
-      attrs.push(
-        `tvg-logo="${escapeAttr(ch.logo)}"`
-      );
-    }
-
-    attrs.push(
-      `group-title="Live TV"`
-    );
-
-    m3u += `
-#EXTINF:-1 ${attrs.join(' ')},${ch.name}
-`;
-
-    m3u += `
-${ch.url || ''}
-`;
+    if(ch.epgId) attrs.push(`tvg-id="${escapeAttr(ch.epgId)}"`);
+    attrs.push(`tvg-name="${escapeAttr(ch.name)}"`);
+    if(ch.logo) attrs.push(`tvg-logo="${escapeAttr(ch.logo)}"`);
+    attrs.push(`group-title="Live TV"`);
+    m3u += `#EXTINF:-1 ${attrs.join(' ')},${ch.name}\n`;
+    m3u += `${ch.url || ''}\n`;
   }
-
   return m3u;
 }
 
-/*
-YEDEK LİNKLER
-M3U DOSYASINA GÖNDERİLMİYOR
-SADECE PANELDE SAKLANIYOR
-*/
-
 async function saveToGithub(){
+  const s = getSettings();
+  if(!s.token || !s.repo || !s.path){
+    showSettings();
+    setStatus('Önce ayarları doldur!', 'err');
+    return;
+  }
 
-  console.log(generateM3U());
+  setStatus('Kaydediliyor...', '');
+  const m3u = generateM3U();
+  const encoded = btoa(unescape(encodeURIComponent(m3u)));
 
-  setStatus(
-    'M3U hazırlandı',
-    'ok'
-  );
+  try{
+    let sha = null;
+    try{
+      const getRes = await fetch(`https://api.github.com/repos/${s.repo}/contents/${s.path}`, {
+        headers:{ 'Authorization': `token ${s.token}`, 'Accept':'application/vnd.github.v3+json' }
+      });
+      if(getRes.ok){ const j = await getRes.json(); sha = j.sha; }
+    }catch(e){}
+
+    const body = {
+      message: `M3U güncellendi - ${new Date().toLocaleDateString('tr-TR')}`,
+      content: encoded,
+      ...(sha ? { sha } : {})
+    };
+
+    const res = await fetch(`https://api.github.com/repos/${s.repo}/contents/${s.path}`, {
+      method:'PUT',
+      headers:{
+        'Authorization': `token ${s.token}`,
+        'Content-Type':'application/json',
+        'Accept':'application/vnd.github.v3+json'
+      },
+      body: JSON.stringify(body)
+    });
+
+    if(res.ok){
+      setStatus(`✓ Kaydedildi — ${data.channels.length} kanal`, 'ok');
+    } else {
+      const err = await res.json();
+      setStatus('Hata: ' + (err.message || res.status), 'err');
+    }
+  }catch(e){
+    setStatus('Hata: ' + e.message, 'err');
+  }
 }
 
 function escapeHtml(str){
-
   return String(str || '')
-
     .replace(/&/g,'&amp;')
-
     .replace(/</g,'&lt;')
-
     .replace(/>/g,'&gt;')
-
     .replace(/"/g,'&quot;')
-
     .replace(/'/g,'&#39;');
 }
+function escapeAttr(str){ return escapeHtml(str).replace(/\n/g,' ').trim(); }
 
-function escapeAttr(str){
-
-  return escapeHtml(str)
-    .replace(/\n/g,' ')
-    .trim();
-}
-
-document
-.querySelectorAll('.modal-overlay')
-
-.forEach(m => {
-
-  m.addEventListener('click', e => {
-
-    if(e.target === m){
-
-      m.classList.remove('show');
-    }
-  });
+document.querySelectorAll('.modal-overlay').forEach(m => {
+  m.addEventListener('click', e => { if(e.target === m) m.classList.remove('show'); });
 });
 
 loadData();
-
 loadSettings();
-
 renderChannelList();
-
 </script>
-
 </body>
 </html>
