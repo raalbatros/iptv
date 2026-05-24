@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml"
-# Generated: 24.05.2026 10:46:31
+# Generated: 24.05.2026 10:59:31
 
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="Live TV",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
@@ -13,3 +13,9 @@ http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" group-title="Live TV",NOW
 https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
+#EXTINF:-1 tvg-id="BEYAZ TV HD.tr" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="Live TV",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV 8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="Live TV",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-name="KANAL 7" tvg-logo="https://e7.pngegg.com/pngimages/361/407/png-clipart-kanal-7-high-definition-television-television-channel-streaming-television-others-television-angle.png" group-title="Live TV",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
