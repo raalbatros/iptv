@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml"
-# Generated: 24.05.2026 10:59:31
+# Generated: 24.05.2026 12:09:56
 
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="Live TV",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
@@ -19,3 +19,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-name="KANAL 7" tvg-logo="https://e7.pngegg.com/pngimages/361/407/png-clipart-kanal-7-high-definition-television-television-channel-streaming-television-others-television-angle.png" group-title="Live TV",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 tvg-id="360 HD.tr" tvg-name="360 TV" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="Live TV",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 tvg-id="NTV HD.tr" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="Live TV",NTV
+https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
