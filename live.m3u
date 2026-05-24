@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml"
-# Generated: 24.05.2026 22:01:02
+# Generated: 24.05.2026 22:04:49
 
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="Live TV",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
@@ -67,3 +67,15 @@ https://cdn01.medialive.one:2096/SAUDIQURANFHD/tracks-v1a1/mono.ts.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/saudi_sunnah-avc1_600000=2-mp4a_145600_ara=3.m3u8
 #EXTINF:-1 tvg-id="TRT SPOR HD.tr" tvg-name="TRT SPOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNu1KowYW0Ywy_-lMPzCvLGBMUaNIUAUIcwGGX1iLjHzhRclixpxWjf4lLG9QeYDPg754&amp;usqp=CAU" group-title="Live TV",TRT SPOR
 http://85.209.248.3:9897/trt3spor
+#EXTINF:-1 tvg-id="A SPOR HD.tr" tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="Live TV",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+#EXTINF:-1 tvg-id="TV8,5 HD.tr" tvg-name="TV 8.5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="Live TV",TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:-1 tvg-id="TRT SPOR YILDIZ.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://vectorseek.com/wp-content/uploads/2025/12/TRT-Spor-Yildiz-Logo-PNG-SVG-Vector.png" group-title="Live TV",TRT SPOR YILDIZ
+http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8
+#EXTINF:-1 tvg-id="HT SPOR.tr" tvg-name="HT SPOR" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/ht-spor-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Live TV",HT SPOR
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-name="BEINSPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Live TV",BEINSPORTS 1
+https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-name="BEINSPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Live TV",BEINSPORTS 1
+https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
