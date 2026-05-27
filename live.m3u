@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/germany.xml"
-# Generated: 24.05.2026 22:06:38
+# Generated: 27.05.2026 07:11:58
 
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="Live TV",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
@@ -59,8 +59,6 @@ https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RTL_Cornerlogo.svg/3840px-RTL_Cornerlogo.svg.png" group-title="Live TV",RTL
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
-#EXTINF:-1 tvg-name="ZDF NEO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXxUks16d8o6tkd9HasovjUIZiI5n_zsNacw&amp;s" group-title="Live TV",ZDF NEO
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-name="MAKKAH TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCVPXXnt4LxrLpCI6sRKfYu0bZkjHUg1WkQ&amp;s" group-title="Live TV",MAKKAH TV
 https://cdn01.medialive.one:2096/SAUDIQURANFHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="MADINAH TV" tvg-logo="https://e7.pngegg.com/pngimages/758/259/png-clipart-medina-mecca-television-channel-streaming-media-others-miscellaneous-television.png" group-title="Live TV",MADINAH TV
