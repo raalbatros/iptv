@@ -1,211 +1,305 @@
 #EXTM3U
-#EXTINF:-1 group-title="Dizi Son Bölüm" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b7/Ta%C5%9FacakBuDeniz.jpg/250px-Ta%C5%9FacakBuDeniz.jpg", TAŞACAK BU DENİZ
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tasacak.Bu.Deniz.SON.mkv
-#EXTINF:-1 group-title="Dizi Son Bölüm" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/62/2162-78636766.jpg", SEVDİĞİM SENSİN
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sevdigim.Sensin.SON.mkv
-#EXTINF:-1 group-title="Dizi Son Bölüm" tvg-logo="https://www.kinoundco.de/image/posters/A8fHgHmcEQU1UcOcXhW3NXtwwcZ.jpg", MEHMED FETİHLER SULTANI
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
 
-#EXTINF:8105,A.B.#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Dizi Son Bölüm", A.B.İ
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/A.B.I.SON.mkv
-#EXTINF:0,AILE SAADETI
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", AİLE SADETI
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Aile.Saadeti.SON.mkv
-#EXTINF:0,Annem Ankara
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", ANNEM ANKARA
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Annem.Ankara.SON.mkv
-#EXTINF:0,Arka Sokaklar
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", ARKA SOKAKLAR
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
-#EXTINF:0,A#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", AŞK EVLİLİK BOŞANMA
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Evlilik.Bosanma.SON.mkv
-#EXTINF:0,A#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", AŞK VE GÖZYAŞI
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Ve.Gozyasi.SON.mkv
-#EXTINF:0,A#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", AŞK VE TAHT
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.ve.Taht.SON.mkv
-#EXTINF:0,Aynadaki Yabanc#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", AYNADAKİ YABANCI
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Aynadaki.Yabanci.SON.mkv
-#EXTINF:0,AYNI YA#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", AYNI YAĞMUR ALTINDA
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ayni.Yagmur.Altinda.SON.mkv
-#EXTINF:0,Bahar
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", BAHAR
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bahar.SON.mkv
-#EXTINF:0,Ba#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", BAŞKA BİR GÜN
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Baska.Bir.Gun.SON.mkv
-#EXTINF:0,Ben Leman
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", BEN LEMAN
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ben.Leman.SON.mkv
-#EXTINF:0,Ben Onun Annesiyim
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", BEN ONUN ANNESİYİM
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ben.Onun.Annesiyim.SON.mkv
-#EXTINF:0,Bereketli Topraklar
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", BEREKETLİ TOPRAKLAR
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bereketli.Topraklar.SON.mkv
-#EXTINF:0,Bir Gece Masal#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", BİR GECE MASALI
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Gece.Masali.SON.mkv
-#EXTINF:0,Bir Zamanlar Istanbul
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", BİR ZAMANLAR İSTANBUL
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Zamanlar.Istanbul.SON.mkv
-#EXTINF:0,Can Borcu
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", CAN BORCU
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Can.Borcu.SON.mkv
-#EXTINF:0,Çarp#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", ÇARPINTI
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Carpinti.SON.mkv
-#EXTINF:0,Cennetin Çocuklar#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", CENNETİN ÇOCUKLARI
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cennetin.Cocuklari.SON.mkv
-#EXTINF:0,Çift Ki#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", ÇİFT KİŞİLİK ODA
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cift.Kisilik.Oda.SON.mkv
-#EXTINF:0,Çirkin
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", ÇİRKİN
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cirkin.SON.mkv
-#EXTINF:0,Çok Güzel Hareketler
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", ÇOK GÜZEL HAREKETLER
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cok.Guzel.Hareketler.SON.mkv
-#EXTINF:0,Daha 17
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", DAHA 17
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Daha.17.SON.mkv
-#EXTINF:0,Deha
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", DEHA
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Deha.SON.mkv
-#EXTINF:0,Esref Rüya
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", EŞREF RÜYA
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
-#EXTINF:0,Evlilik Güzeldir
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", EVLİLİK GÜZELDİR
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Evlilik.Guzeldir.SON.mkv
-#EXTINF:0,Gizli Bahçe
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", GİZLİ BAHÇE
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gizli.Bahce.SON.mkv
-#EXTINF:0,Gönül Da#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", GÖNÜL DAĞI
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gonul.Dagi.SON.mkv
-#EXTINF:0,Gözleri Karadeniz
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", GÖZLERİ KARADENİZ
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gozleri.KaraDeniz.SON.mkv
-#EXTINF:0,Güldür Güldür
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", GÜLDÜR GÜLDÜR SHOW
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guldur.Guldur.Show.SON.mkv
-#EXTINF:0,Güller Ve Günahlar
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", GÜLLER VE GÜNAHLAR
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.ve.Gunahlar.SON.mkv
-#EXTINF:0,Güne#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", GÜNEŞİN DOĞDUĞU YER
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gunesin.Dogdugu.Yer.SON.mkv
-#EXTINF:0,Güzel A#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", GÜZEL AŞKLAR DİYARI
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guzel.Asklar.Diyari.SON.mkv
-#EXTINF:0,Halef
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", HALEF
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Halef.SON.mkv
-#EXTINF:0,Haysiyet
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", HAYSİYET
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Haysiyet.SON.mkv
-#EXTINF:0,Holding
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", HOLDİNG
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Holding.SON.mkv
-#EXTINF:0,Hudutsuz Sevda
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", HUDUTSUZ SEVDA
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Hudutsuz.Sevda.SON.mkv
-#EXTINF:0,Inci Taneleri
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", İNCİ TANELERİ
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Inci.Taneleri.SON.mkv
-#EXTINF:0,Kalpazan
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KALPAZAN
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kalpazan.SON.mkv
-#EXTINF:0,Kara A#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KARA AĞAÇ DESTANI
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kara.Agac.Destani.SON.mkv
-#EXTINF:0,Karadut
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KARADUT
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Karadut.SON.mkv
-#EXTINF:0,Kardelenler
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KARDELENLER
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kardelenler.SON.mkv
-#EXTINF:0,Kirli Sepeti
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KİRLİ SEPETİ
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kirli.Sepeti.SON.mkv
-#EXTINF:0,K#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KISKANMAK
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kiskanmak.SON.mkv
-#EXTINF:0,K#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KIZIL GONcalar
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizil.Goncalar.SON.mkv
-#EXTINF:0,K#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KIZILCIK ŞERBETİ
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizilcik.Serbeti.SON.mkv
-#EXTINF:0,Konu#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KONUŞANLAR
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Konusanlar.SON.mkv
-#EXTINF:0,Kör Nokta
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KÖR NOKTA
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kor.Nokta.SON.mkv
-#EXTINF:0,Kötü Kan
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KÖTÜ KAN
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kotu.Kan.SON.mkv
-#EXTINF:0,Kral Kaybederse
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KRAL KAYBEDERSE
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kral.Kaybederse.SON.mkv
-#EXTINF:0,Kudüs Fatihi Selahaddin Eyyubi
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KUDÜS FATİHİ SELAHADDİN EYYUBİ
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
-#EXTINF:0,Kurulu#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KURULUŞ ORHAN
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Orhan.SON.mkv
-#EXTINF:0,Kurulu#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", KURULUŞ OSMAN
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Osman.SON.mkv
-#EXTINF:0,Leyla
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", LEYLA
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Leyla.SON.mkv
-#EXTINF:0,Mehmed Fetihler Sultan#EXTVLCOPT:network-caching=1000
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
-#EXTINF:0,Mercsn Kösk
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", MERCAN KÖŞK
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mercan.Kosk.SON.mkv
-#EXTINF:0,Muhtemel A#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", MUHTEMEL AŞK
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Muhtemel.Ask.SON.mkv
-#EXTINF:0,Piyasa
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", PİYASA
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Piyasa.SON.mkv
-#EXTINF:0,RÜYA G#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", RÜYA GİBİ
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ruya.Gibi.SON.mkv
-#EXTINF:0,Sahipsizler
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", SAHİPSİZLER
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
-#EXTINF:0,Sahtekarlar
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", SAHTEKARLAR
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahtekarlar.SON.mkv
-#EXTINF:0,SAKINCALI
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", SAKINCALI
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sakincali.SON.mkv
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", ŞAKİRPAŞA AİLESİ
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sakirpasa.Ailesi.SON.mkv
-#EXTINF:0,Sand#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", SANDIK KOKUSU
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sandik.Kokusu.SON.mkv
-#EXTINF:0,Sen A#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", SEN AĞLAMA İSTANBUL
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sen.Aglama.istanbul.SON.mkv
-#EXTINF:0,Sevdan Bir Ate#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", SEVDAN BİR ATEŞ
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sevdan.Bir.Ates.SON.mkv
-#EXTINF:0,Sevdi#EXTVLCOPT:network-caching=1000
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sevdigim.Sensin.SON.mkv
-#EXTINF:0,Siyah Kalp
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", SİYAH KALP
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Siyah.Kalp.SON.mkv
-#EXTINF:0,Ta#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", TAŞ KAĞIT MAKAS
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tas.Kagit.Makas.SON.mkv
-#EXTINF:0,Ta#EXTVLCOPT:network-caching=1000
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tasacak.Bu.Deniz.SON.mkv
-#EXTINF:0,Te#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", TEŞKİLAT
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Teskilat.SON.mkv
-#EXTINF:8266,Tuzlu Kahve
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", TUZLU KAHVE
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tuzlu.Kahve.SON.mkv
-#EXTINF:0,Uzak #EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", UZAK ŞEHİR
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
-#EXTINF:0,Veliaht
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", VELİAHT
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Veliaht.SON.mkv
-#EXTINF:0,Yabani
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", YABANİ
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yabani.SON.mkv
-#EXTINF:0,Yalan
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", YALAN
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yalan.SON.mkv
-#EXTINF:0,Yal#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", YALI ÇAPKINI
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
-#EXTINF:0,Yer Alt#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", YER ALTI
+#EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
-#EXTINF:0,Zembilli
+
+#EXTINF:-1 group-title="Dizi Son Bölüm", ZEMBİLLİ
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
-
