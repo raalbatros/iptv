@@ -1,305 +1,238 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", A.B.İ
+#EXTINF:-1 tvg-id="A.B." tvg-name="A.B." tvg-logo="https://image.tmdb.org/t/p/w500/aB.jpg" group-title="Dizi Son Bölümler",A.B.
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/A.B.I.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", AİLE SADETI
+#EXTINF:-1 tvg-id="Aile Saadeti" tvg-name="Aile Saadeti" tvg-logo="https://image.tmdb.org/t/p/w500/aileSaadeti.jpg" group-title="Dizi Son Bölümler",Aile Saadeti
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Aile.Saadeti.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", ANNEM ANKARA
+#EXTINF:-1 tvg-id="Annem Ankara" tvg-name="Annem Ankara" tvg-logo="https://image.tmdb.org/t/p/w500/annemAnkara.jpg" group-title="Dizi Son Bölümler",Annem Ankara
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Annem.Ankara.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", ARKA SOKAKLAR
+#EXTINF:-1 tvg-id="Arka Sokaklar" tvg-name="Arka Sokaklar" tvg-logo="https://image.tmdb.org/t/p/w500/arkaSokaklar.jpg" group-title="Dizi Son Bölümler",Arka Sokaklar
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", AŞK EVLİLİK BOŞANMA
+#EXTINF:-1 tvg-id="Aşk Evlilik Boşanma" tvg-name="Aşk Evlilik Boşanma" tvg-logo="https://image.tmdb.org/t/p/w500/askEvlilik.jpg" group-title="Dizi Son Bölümler",Aşk Evlilik Boşanma
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Evlilik.Bosanma.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", AŞK VE GÖZYAŞI
+#EXTINF:-1 tvg-id="Aşk ve Gözyaşı" tvg-name="Aşk ve Gözyaşı" tvg-logo="https://image.tmdb.org/t/p/w500/askVeGozyasi.jpg" group-title="Dizi Son Bölümler",Aşk ve Gözyaşı
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Ve.Gozyasi.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", AŞK VE TAHT
+#EXTINF:-1 tvg-id="Aşk ve Taht" tvg-name="Aşk ve Taht" tvg-logo="https://image.tmdb.org/t/p/w500/askVeTaht.jpg" group-title="Dizi Son Bölümler",Aşk ve Taht
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.ve.Taht.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", AYNADAKİ YABANCI
+#EXTINF:-1 tvg-id="Aynadaki Yabancı" tvg-name="Aynadaki Yabancı" tvg-logo="https://image.tmdb.org/t/p/w500/aynadakiYabanci.jpg" group-title="Dizi Son Bölümler",Aynadaki Yabancı
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Aynadaki.Yabanci.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", AYNI YAĞMUR ALTINDA
+#EXTINF:-1 tvg-id="Aynı Yağmur Altında" tvg-name="Aynı Yağmur Altında" tvg-logo="https://image.tmdb.org/t/p/w500/ayniYagmur.jpg" group-title="Dizi Son Bölümler",Aynı Yağmur Altında
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ayni.Yagmur.Altinda.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", BAHAR
+#EXTINF:-1 tvg-id="Bahar" tvg-name="Bahar" tvg-logo="https://image.tmdb.org/t/p/w500/bahar.jpg" group-title="Dizi Son Bölümler",Bahar
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bahar.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", BAŞKA BİR GÜN
+#EXTINF:-1 tvg-id="Başka Bir Gün" tvg-name="Başka Bir Gün" tvg-logo="https://image.tmdb.org/t/p/w500/baskaBirGun.jpg" group-title="Dizi Son Bölümler",Başka Bir Gün
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Baska.Bir.Gun.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", BEN LEMAN
+#EXTINF:-1 tvg-id="Ben Leman" tvg-name="Ben Leman" tvg-logo="https://image.tmdb.org/t/p/w500/benLeman.jpg" group-title="Dizi Son Bölümler",Ben Leman
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ben.Leman.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", BEN ONUN ANNESİYİM
+#EXTINF:-1 tvg-id="Ben Onun Annesiyim" tvg-name="Ben Onun Annesiyim" tvg-logo="https://image.tmdb.org/t/p/w500/benOnunAnnesiyim.jpg" group-title="Dizi Son Bölümler",Ben Onun Annesiyim
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ben.Onun.Annesiyim.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", BEREKETLİ TOPRAKLAR
+#EXTINF:-1 tvg-id="Bereketli Topraklar" tvg-name="Bereketli Topraklar" tvg-logo="https://image.tmdb.org/t/p/w500/bereketliTopraklar.jpg" group-title="Dizi Son Bölümler",Bereketli Topraklar
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bereketli.Topraklar.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", BİR GECE MASALI
+#EXTINF:-1 tvg-id="Bir Gece Masalı" tvg-name="Bir Gece Masalı" tvg-logo="https://image.tmdb.org/t/p/w500/birGeceMasali.jpg" group-title="Dizi Son Bölümler",Bir Gece Masalı
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Gece.Masali.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", BİR ZAMANLAR İSTANBUL
+#EXTINF:-1 tvg-id="Bir Zamanlar İstanbul" tvg-name="Bir Zamanlar İstanbul" tvg-logo="https://image.tmdb.org/t/p/w500/birZamanlarIstanbul.jpg" group-title="Dizi Son Bölümler",Bir Zamanlar İstanbul
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Zamanlar.Istanbul.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", CAN BORCU
+#EXTINF:-1 tvg-id="Can Borcu" tvg-name="Can Borcu" tvg-logo="https://image.tmdb.org/t/p/w500/canBorcu.jpg" group-title="Dizi Son Bölümler",Can Borcu
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Can.Borcu.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", ÇARPINTI
+#EXTINF:-1 tvg-id="Çarpıntı" tvg-name="Çarpıntı" tvg-logo="https://image.tmdb.org/t/p/w500/carpinti.jpg" group-title="Dizi Son Bölümler",Çarpıntı
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Carpinti.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", CENNETİN ÇOCUKLARI
+#EXTINF:-1 tvg-id="Cennetin Çocukları" tvg-name="Cennetin Çocukları" tvg-logo="https://image.tmdb.org/t/p/w500/cennetinCocuklari.jpg" group-title="Dizi Son Bölümler",Cennetin Çocukları
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cennetin.Cocuklari.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", ÇİFT KİŞİLİK ODA
+#EXTINF:-1 tvg-id="Çift Kişilik Oda" tvg-name="Çift Kişilik Oda" tvg-logo="https://image.tmdb.org/t/p/w500/ciftKisilikOda.jpg" group-title="Dizi Son Bölümler",Çift Kişilik Oda
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cift.Kisilik.Oda.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", ÇİRKİN
+#EXTINF:-1 tvg-id="Çirkin" tvg-name="Çirkin" tvg-logo="https://image.tmdb.org/t/p/w500/cirkin.jpg" group-title="Dizi Son Bölümler",Çirkin
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cirkin.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", ÇOK GÜZEL HAREKETLER
+#EXTINF:-1 tvg-id="Çok Güzel Hareketler" tvg-name="Çok Güzel Hareketler" tvg-logo="https://image.tmdb.org/t/p/w500/cokGuzelHareketler.jpg" group-title="Dizi Son Bölümler",Çok Güzel Hareketler
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cok.Guzel.Hareketler.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", DAHA 17
+#EXTINF:-1 tvg-id="Daha 17" tvg-name="Daha 17" tvg-logo="https://image.tmdb.org/t/p/w500/daha17.jpg" group-title="Dizi Son Bölümler",Daha 17
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Daha.17.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", DEHA
+#EXTINF:-1 tvg-id="Deha" tvg-name="Deha" tvg-logo="https://image.tmdb.org/t/p/w500/deha.jpg" group-title="Dizi Son Bölümler",Deha
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Deha.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", EŞREF RÜYA
+#EXTINF:-1 tvg-id="Eşref Rüya" tvg-name="Eşref Rüya" tvg-logo="https://image.tmdb.org/t/p/w500/esrefRuya.jpg" group-title="Dizi Son Bölümler",Eşref Rüya
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", EVLİLİK GÜZELDİR
+#EXTINF:-1 tvg-id="Evlilik Güzeldir" tvg-name="Evlilik Güzeldir" tvg-logo="https://image.tmdb.org/t/p/w500/evlilikGuzeldir.jpg" group-title="Dizi Son Bölümler",Evlilik Güzeldir
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Evlilik.Guzeldir.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", GİZLİ BAHÇE
+#EXTINF:-1 tvg-id="Gizli Bahçe" tvg-name="Gizli Bahçe" tvg-logo="https://image.tmdb.org/t/p/w500/gizliBahce.jpg" group-title="Dizi Son Bölümler",Gizli Bahçe
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gizli.Bahce.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", GÖNÜL DAĞI
+#EXTINF:-1 tvg-id="Gönül Dağı" tvg-name="Gönül Dağı" tvg-logo="https://image.tmdb.org/t/p/w500/gonulDagi.jpg" group-title="Dizi Son Bölümler",Gönül Dağı
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gonul.Dagi.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", GÖZLERİ KARADENİZ
+#EXTINF:-1 tvg-id="Gözleri Karadeniz" tvg-name="Gözleri Karadeniz" tvg-logo="https://image.tmdb.org/t/p/w500/gozleriKaradeniz.jpg" group-title="Dizi Son Bölümler",Gözleri Karadeniz
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gozleri.KaraDeniz.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", GÜLDÜR GÜLDÜR SHOW
+#EXTINF:-1 tvg-id="Güldür Güldür" tvg-name="Güldür Güldür" tvg-logo="https://image.tmdb.org/t/p/w500/guldurGuldur.jpg" group-title="Dizi Son Bölümler",Güldür Güldür
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guldur.Guldur.Show.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", GÜLLER VE GÜNAHLAR
+#EXTINF:-1 tvg-id="Güller ve Günahlar" tvg-name="Güller ve Günahlar" tvg-logo="https://image.tmdb.org/t/p/w500/gullerVeGunahlar.jpg" group-title="Dizi Son Bölümler",Güller ve Günahlar
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.ve.Gunahlar.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", GÜNEŞİN DOĞDUĞU YER
+#EXTINF:-1 tvg-id="Güneşin Doğduğu Yer" tvg-name="Güneşin Doğduğu Yer" tvg-logo="https://image.tmdb.org/t/p/w500/gunesinDogduguYer.jpg" group-title="Dizi Son Bölümler",Güneşin Doğduğu Yer
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gunesin.Dogdugu.Yer.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", GÜZEL AŞKLAR DİYARI
+#EXTINF:-1 tvg-id="Güzel Aşklar Diyarı" tvg-name="Güzel Aşklar Diyarı" tvg-logo="https://image.tmdb.org/t/p/w500/guzelAsklarDiyari.jpg" group-title="Dizi Son Bölümler",Güzel Aşklar Diyarı
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guzel.Asklar.Diyari.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", HALEF
+#EXTINF:-1 tvg-id="Halef" tvg-name="Halef" tvg-logo="https://image.tmdb.org/t/p/w500/halef.jpg" group-title="Dizi Son Bölümler",Halef
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Halef.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", HAYSİYET
+#EXTINF:-1 tvg-id="Haysiyet" tvg-name="Haysiyet" tvg-logo="https://image.tmdb.org/t/p/w500/haysiyet.jpg" group-title="Dizi Son Bölümler",Haysiyet
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Haysiyet.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", HOLDİNG
+#EXTINF:-1 tvg-id="Holding" tvg-name="Holding" tvg-logo="https://image.tmdb.org/t/p/w500/holding.jpg" group-title="Dizi Son Bölümler",Holding
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Holding.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", HUDUTSUZ SEVDA
+#EXTINF:-1 tvg-id="Hudutsuz Sevda" tvg-name="Hudutsuz Sevda" tvg-logo="https://image.tmdb.org/t/p/w500/hudutsuzSevda.jpg" group-title="Dizi Son Bölümler",Hudutsuz Sevda
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Hudutsuz.Sevda.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", İNCİ TANELERİ
+#EXTINF:-1 tvg-id="İnci Taneleri" tvg-name="İnci Taneleri" tvg-logo="https://image.tmdb.org/t/p/w500/inciTaneleri.jpg" group-title="Dizi Son Bölümler",İnci Taneleri
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Inci.Taneleri.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KALPAZAN
+#EXTINF:-1 tvg-id="Kalpazan" tvg-name="Kalpazan" tvg-logo="https://image.tmdb.org/t/p/w500/kalpazan.jpg" group-title="Dizi Son Bölümler",Kalpazan
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kalpazan.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KARA AĞAÇ DESTANI
+#EXTINF:-1 tvg-id="Kara Ağaç Destanı" tvg-name="Kara Ağaç Destanı" tvg-logo="https://image.tmdb.org/t/p/w500/karaAgacDestani.jpg" group-title="Dizi Son Bölümler",Kara Ağaç Destanı
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kara.Agac.Destani.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KARADUT
+#EXTINF:-1 tvg-id="Karadut" tvg-name="Karadut" tvg-logo="https://image.tmdb.org/t/p/w500/karadut.jpg" group-title="Dizi Son Bölümler",Karadut
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Karadut.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KARDELENLER
+#EXTINF:-1 tvg-id="Kardelenler" tvg-name="Kardelenler" tvg-logo="https://image.tmdb.org/t/p/w500/kardelenler.jpg" group-title="Dizi Son Bölümler",Kardelenler
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kardelenler.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KİRLİ SEPETİ
+#EXTINF:-1 tvg-id="Kirli Sepeti" tvg-name="Kirli Sepeti" tvg-logo="https://image.tmdb.org/t/p/w500/kirliSepeti.jpg" group-title="Dizi Son Bölümler",Kirli Sepeti
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kirli.Sepeti.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KISKANMAK
+#EXTINF:-1 tvg-id="Kıskanmak" tvg-name="Kıskanmak" tvg-logo="https://image.tmdb.org/t/p/w500/kiskanmak.jpg" group-title="Dizi Son Bölümler",Kıskanmak
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kiskanmak.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KIZIL GONcalar
+#EXTINF:-1 tvg-id="Kızıl Goncalar" tvg-name="Kızıl Goncalar" tvg-logo="https://image.tmdb.org/t/p/w500/kizilGoncalar.jpg" group-title="Dizi Son Bölümler",Kızıl Goncalar
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizil.Goncalar.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KIZILCIK ŞERBETİ
+#EXTINF:-1 tvg-id="Kızılcık Şerbeti" tvg-name="Kızılcık Şerbeti" tvg-logo="https://image.tmdb.org/t/p/w500/kizilcikSerbeti.jpg" group-title="Dizi Son Bölümler",Kızılcık Şerbeti
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizilcik.Serbeti.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KONUŞANLAR
+#EXTINF:-1 tvg-id="Konuşanlar" tvg-name="Konuşanlar" tvg-logo="https://image.tmdb.org/t/p/w500/konusanlar.jpg" group-title="Dizi Son Bölümler",Konuşanlar
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Konusanlar.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KÖR NOKTA
+#EXTINF:-1 tvg-id="Kör Nokta" tvg-name="Kör Nokta" tvg-logo="https://image.tmdb.org/t/p/w500/korNokta.jpg" group-title="Dizi Son Bölümler",Kör Nokta
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kor.Nokta.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KÖTÜ KAN
+#EXTINF:-1 tvg-id="Kötü Kan" tvg-name="Kötü Kan" tvg-logo="https://image.tmdb.org/t/p/w500/kotuKan.jpg" group-title="Dizi Son Bölümler",Kötü Kan
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kotu.Kan.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KRAL KAYBEDERSE
+#EXTINF:-1 tvg-id="Kral Kaybederse" tvg-name="Kral Kaybederse" tvg-logo="https://image.tmdb.org/t/p/w500/kralKaybederse.jpg" group-title="Dizi Son Bölümler",Kral Kaybederse
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kral.Kaybederse.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KUDÜS FATİHİ SELAHADDİN EYYUBİ
+#EXTINF:-1 tvg-id="Kudüs Fatihi Selahaddin Eyyubi" tvg-name="Kudüs Fatihi Selahaddin Eyyubi" tvg-logo="https://image.tmdb.org/t/p/w500/selahaddinEyyubi.jpg" group-title="Dizi Son Bölümler",Kudüs Fatihi Selahaddin Eyyubi
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KURULUŞ ORHAN
+#EXTINF:-1 tvg-id="Kuruluş Orhan" tvg-name="Kuruluş Orhan" tvg-logo="https://image.tmdb.org/t/p/w500/kurulusOrhan.jpg" group-title="Dizi Son Bölümler",Kuruluş Orhan
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Orhan.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", KURULUŞ OSMAN
+#EXTINF:-1 tvg-id="Kuruluş Osman" tvg-name="Kuruluş Osman" tvg-logo="https://image.tmdb.org/t/p/w500/kurulusOsman.jpg" group-title="Dizi Son Bölümler",Kuruluş Osman
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Osman.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", LEYLA
+#EXTINF:-1 tvg-id="Leyla" tvg-name="Leyla" tvg-logo="https://image.tmdb.org/t/p/w500/leyla.jpg" group-title="Dizi Son Bölümler",Leyla
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Leyla.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", MERCAN KÖŞK
+#EXTINF:-1 tvg-id="Mehmed Fetihler Sultanı" tvg-name="Mehmed Fetihler Sultanı" tvg-logo="https://image.tmdb.org/t/p/w500/mehmedFetihlerSultani.jpg" group-title="Dizi Son Bölümler",Mehmed Fetihler Sultanı
+#EXTVLCOPT:network-caching=1000
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
+#EXTINF:-1 tvg-id="Mercan Köşk" tvg-name="Mercan Köşk" tvg-logo="https://image.tmdb.org/t/p/w500/mercanKosk.jpg" group-title="Dizi Son Bölümler",Mercan Köşk
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mercan.Kosk.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", MUHTEMEL AŞK
+#EXTINF:-1 tvg-id="Muhtemel Aşk" tvg-name="Muhtemel Aşk" tvg-logo="https://image.tmdb.org/t/p/w500/muhtemelAsk.jpg" group-title="Dizi Son Bölümler",Muhtemel Aşk
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Muhtemel.Ask.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", PİYASA
+#EXTINF:-1 tvg-id="Piyasa" tvg-name="Piyasa" tvg-logo="https://image.tmdb.org/t/p/w500/piyasa.jpg" group-title="Dizi Son Bölümler",Piyasa
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Piyasa.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", RÜYA GİBİ
+#EXTINF:-1 tvg-id="Rüya Gibi" tvg-name="Rüya Gibi" tvg-logo="https://image.tmdb.org/t/p/w500/ruyaGibi.jpg" group-title="Dizi Son Bölümler",Rüya Gibi
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ruya.Gibi.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", SAHİPSİZLER
+#EXTINF:-1 tvg-id="Sahipsizler" tvg-name="Sahipsizler" tvg-logo="https://image.tmdb.org/t/p/w500/sahipsizler.jpg" group-title="Dizi Son Bölümler",Sahipsizler
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", SAHTEKARLAR
+#EXTINF:-1 tvg-id="Sahtekarlar" tvg-name="Sahtekarlar" tvg-logo="https://image.tmdb.org/t/p/w500/sahtekarlar.jpg" group-title="Dizi Son Bölümler",Sahtekarlar
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahtekarlar.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", SAKINCALI
+#EXTINF:-1 tvg-id="Sakıncalı" tvg-name="Sakıncalı" tvg-logo="https://image.tmdb.org/t/p/w500/sakincali.jpg" group-title="Dizi Son Bölümler",Sakıncalı
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sakincali.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", ŞAKİRPAŞA AİLESİ
+#EXTINF:-1 tvg-id="Şakirpaşa Ailesi" tvg-name="Şakirpaşa Ailesi" tvg-logo="https://image.tmdb.org/t/p/w500/sakirpasaAilesi.jpg" group-title="Dizi Son Bölümler",Şakirpaşa Ailesi
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sakirpasa.Ailesi.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", SANDIK KOKUSU
+#EXTINF:-1 tvg-id="Sandık Kokusu" tvg-name="Sandık Kokusu" tvg-logo="https://image.tmdb.org/t/p/w500/sandikKokusu.jpg" group-title="Dizi Son Bölümler",Sandık Kokusu
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sandik.Kokusu.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", SEN AĞLAMA İSTANBUL
+#EXTINF:-1 tvg-id="Sen Ağlama İstanbul" tvg-name="Sen Ağlama İstanbul" tvg-logo="https://image.tmdb.org/t/p/w500/senAglamaIstanbul.jpg" group-title="Dizi Son Bölümler",Sen Ağlama İstanbul
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sen.Aglama.istanbul.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", SEVDAN BİR ATEŞ
+#EXTINF:-1 tvg-id="Sevdan Bir Ateş" tvg-name="Sevdan Bir Ateş" tvg-logo="https://image.tmdb.org/t/p/w500/sevdanBirAtes.jpg" group-title="Dizi Son Bölümler",Sevdan Bir Ateş
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sevdan.Bir.Ates.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", SİYAH KALP
+#EXTINF:-1 tvg-id="Sevdiğim Sensin" tvg-name="Sevdiğim Sensin" tvg-logo="https://image.tmdb.org/t/p/w500/sevdigimSensin.jpg" group-title="Dizi Son Bölümler",Sevdiğim Sensin
+#EXTVLCOPT:network-caching=1000
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sevdigim.Sensin.SON.mkv
+#EXTINF:-1 tvg-id="Siyah Kalp" tvg-name="Siyah Kalp" tvg-logo="https://image.tmdb.org/t/p/w500/siyahKalp.jpg" group-title="Dizi Son Bölümler",Siyah Kalp
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Siyah.Kalp.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", TAŞ KAĞIT MAKAS
+#EXTINF:-1 tvg-id="Taş Kağıt Makas" tvg-name="Taş Kağıt Makas" tvg-logo="https://image.tmdb.org/t/p/w500/tasKagitMakas.jpg" group-title="Dizi Son Bölümler",Taş Kağıt Makas
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tas.Kagit.Makas.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", TEŞKİLAT
+#EXTINF:-1 tvg-id="Taşacak Bu Deniz" tvg-name="Taşacak Bu Deniz" tvg-logo="https://image.tmdb.org/t/p/w500/tasacakBuDeniz.jpg" group-title="Dizi Son Bölümler",Taşacak Bu Deniz
+#EXTVLCOPT:network-caching=1000
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tasacak.Bu.Deniz.SON.mkv
+#EXTINF:-1 tvg-id="Teşkilat" tvg-name="Teşkilat" tvg-logo="https://image.tmdb.org/t/p/w500/teskilat.jpg" group-title="Dizi Son Bölümler",Teşkilat
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Teskilat.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", TUZLU KAHVE
+#EXTINF:-1 tvg-id="Tuzlu Kahve" tvg-name="Tuzlu Kahve" tvg-logo="https://image.tmdb.org/t/p/w500/tuzluKahve.jpg" group-title="Dizi Son Bölümler",Tuzlu Kahve
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tuzlu.Kahve.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", UZAK ŞEHİR
+#EXTINF:-1 tvg-id="Uzak Şehir" tvg-name="Uzak Şehir" tvg-logo="https://image.tmdb.org/t/p/w500/uzakSehir.jpg" group-title="Dizi Son Bölümler",Uzak Şehir
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", VELİAHT
+#EXTINF:-1 tvg-id="Veliaht" tvg-name="Veliaht" tvg-logo="https://image.tmdb.org/t/p/w500/veliaht.jpg" group-title="Dizi Son Bölümler",Veliaht
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Veliaht.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", YABANİ
+#EXTINF:-1 tvg-id="Yabani" tvg-name="Yabani" tvg-logo="https://image.tmdb.org/t/p/w500/yabani.jpg" group-title="Dizi Son Bölümler",Yabani
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yabani.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", YALAN
+#EXTINF:-1 tvg-id="Yalan" tvg-name="Yalan" tvg-logo="https://image.tmdb.org/t/p/w500/yalan.jpg" group-title="Dizi Son Bölümler",Yalan
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yalan.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", YALI ÇAPKINI
+#EXTINF:-1 tvg-id="Yalı Çapkını" tvg-name="Yalı Çapkını" tvg-logo="https://image.tmdb.org/t/p/w500/yaliCapkini.jpg" group-title="Dizi Son Bölümler",Yalı Çapkını
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", YER ALTI
+#EXTINF:-1 tvg-id="Yer Altı" tvg-name="Yer Altı" tvg-logo="https://image.tmdb.org/t/p/w500/yerAlti.jpg" group-title="Dizi Son Bölümler",Yer Altı
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm", ZEMBİLLİ
+#EXTINF:-1 tvg-id="Zembilli" tvg-name="Zembilli" tvg-logo="https://image.tmdb.org/t/p/w500/zembilli.jpg" group-title="Dizi Son Bölümler",Zembilli
 #EXTVLCOPT:network-caching=1000
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
