@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/epg.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml"
 # Generated: 23.10.2026 23:20:24
 
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="Live TV",TRT 1
