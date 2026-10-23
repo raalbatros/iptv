@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/germany.xml"
-# Generated: 23.10.2026 23:17:20
+# Generated: 23.10.2026 23:18:42
 
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="Live TV",TRT 1
 http://176.65.153.12:6001/play/a04f/index.m3u8
@@ -26,7 +26,7 @@ https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
 #EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-name="HABER TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Haberturk_logo.png" group-title="Live TV",HABER TURK
 https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8b65nnyxpdwm&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2
 #EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-name="CNN TURK" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Live TV",CNN TURK
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+http://176.65.153.12:6004/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-name="TRT HABER" tvg-logo="https://logowik.com/content/uploads/images/trt-haber5539.jpg" group-title="Live TV",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="24 HD.tr" tvg-name="24 TV" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="Live TV",24 TV
@@ -46,9 +46,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-id="A2 HD.tr" tvg-name="A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="Live TV",A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAv3CFSoF-CswpDf6HEnAekqOLmQ_t002VrW-MN1iHEWFXK4XtDG_Hm6g7f8by6bBGBI&amp;usqp=CAU" group-title="Live TV",TRT BELGESEL
-http://85.209.248.3:9897/trtbelgesel
-#EXTINF:-1 tvg-id="TRT 4K.tr" tvg-name="TRT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuf0VbbCYUyd_hUcaxw_iOtp84-aGKdfkvog&amp;s" group-title="Live TV",TRT 4K
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/4001/index.m3u8
+http://176.65.153.12:6001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="DMAX HD.tr" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="Live TV",DMAX
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2290/index.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" group-title="Live TV",TLC
