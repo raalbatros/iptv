@@ -1,18 +1,18 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/germany.xml"
-# Generated: 27.05.2026 07:11:58
+# Generated: 23.10.2026 23:10:19
 
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="Live TV",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="KANAL D" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="Live TV",KANAL D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="Live TV",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="STAR TV" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="Live TV",STAR TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Live TV",SHOW TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" group-title="Live TV",NOW
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
 #EXTINF:-1 tvg-id="BEYAZ TV HD.tr" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="Live TV",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV 8" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="Live TV",TV 8
@@ -32,7 +32,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="24 HD.tr" tvg-name="24 TV" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="Live TV",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 tvg-id="TVNET HD.tr" tvg-name="TV NET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tvnet_logo_%282022%29.svg/1280px-Tvnet_logo_%282022%29.svg.png" group-title="Live TV",TV NET
-https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-name="TGRT HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="Live TV",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
 #EXTINF:-1 tvg-id="tabii TV.tr" tvg-name="TABII TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tabii_-_TRT_Logo.png/500px-Tabii_-_TRT_Logo.png" group-title="Live TV",TABII TV
@@ -46,7 +46,13 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-id="A2 HD.tr" tvg-name="A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="Live TV",A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAv3CFSoF-CswpDf6HEnAekqOLmQ_t002VrW-MN1iHEWFXK4XtDG_Hm6g7f8by6bBGBI&amp;usqp=CAU" group-title="Live TV",TRT BELGESEL
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master_3.m3u8
+http://85.209.248.3:9897/trtbelgesel
+#EXTINF:-1 tvg-id="TRT 4K.tr" tvg-name="TRT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuf0VbbCYUyd_hUcaxw_iOtp84-aGKdfkvog&amp;s" group-title="Live TV",TRT 4K
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/4001/index.m3u8
+#EXTINF:-1 tvg-id="DMAX HD.tr" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="Live TV",DMAX
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2290/index.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" group-title="Live TV",TLC
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6915/index.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="https://zdf-brandguide.nbg1.your-objectstorage.com/pictures/pictures/1590/97bd6aa6146b80381f5cb10f25cd26ae15d02819/BG_QG_DE_Logo_03_updt.png" group-title="Live TV",ZDF
 https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="TAGESSCHAU 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png" group-title="Live TV",TAGESSCHAU 24
@@ -54,7 +60,7 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RTL_Cornerlogo.svg/3840px-RTL_Cornerlogo.svg.png" group-title="Live TV",RTL
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 #EXTINF:-1 tvg-name="MAKKAH TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCVPXXnt4LxrLpCI6sRKfYu0bZkjHUg1WkQ&amp;s" group-title="Live TV",MAKKAH TV
-https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+https://cdn01.medialive.one:2096/SAUDIQURANFHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="MADINAH TV" tvg-logo="https://e7.pngegg.com/pngimages/758/259/png-clipart-medina-mecca-television-channel-streaming-media-others-miscellaneous-television.png" group-title="Live TV",MADINAH TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/saudi_sunnah-avc1_600000=2-mp4a_145600_ara=3.m3u8
 #EXTINF:-1 tvg-id="TRT SPOR HD.tr" tvg-name="TRT SPOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNu1KowYW0Ywy_-lMPzCvLGBMUaNIUAUIcwGGX1iLjHzhRclixpxWjf4lLG9QeYDPg754&amp;usqp=CAU" group-title="Live TV",TRT SPOR
@@ -68,6 +74,6 @@ http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8
 #EXTINF:-1 tvg-id="HT SPOR.tr" tvg-name="HT SPOR" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/ht-spor-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Live TV",HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-name="BEINSPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Live TV",BEINSPORTS 1
-https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-name="BEINSPORTS 1" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Live TV",BEINSPORTS 1
 https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
