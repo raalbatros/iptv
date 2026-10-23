@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/germany.xml"
-# Generated: 23.10.2026 23:18:42
+# Generated: 23.10.2026 23:19:54
 
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="Live TV",TRT 1
 http://176.65.153.12:6001/play/a04f/index.m3u8
@@ -48,9 +48,9 @@ http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-name="TRT BELGESEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAv3CFSoF-CswpDf6HEnAekqOLmQ_t002VrW-MN1iHEWFXK4XtDG_Hm6g7f8by6bBGBI&amp;usqp=CAU" group-title="Live TV",TRT BELGESEL
 http://176.65.153.12:6001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="DMAX HD.tr" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="Live TV",DMAX
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2290/index.m3u8
+http://176.65.153.12:6004/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" group-title="Live TV",TLC
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6915/index.m3u8
+http://176.65.153.66:6001/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="https://zdf-brandguide.nbg1.your-objectstorage.com/pictures/pictures/1590/97bd6aa6146b80381f5cb10f25cd26ae15d02819/BG_QG_DE_Logo_03_updt.png" group-title="Live TV",ZDF
 https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="TAGESSCHAU 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png" group-title="Live TV",TAGESSCHAU 24
