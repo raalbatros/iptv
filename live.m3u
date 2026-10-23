@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml,https://www.open-epg.com/files/germany.xml"
-# Generated: 23.10.2026 23:30:37
+# Generated: 23.10.2026 23:31:42
 
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="Live TV",TRT 1
 http://176.65.153.12:6001/play/a04f/index.m3u8
@@ -65,7 +65,7 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/saudi_sunnah-
 http://176.65.153.66:6001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="A SPOR HD.tr" tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="Live TV",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:-1 tvg-id="TV8,5 HD.tr" tvg-name="TV 8.5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="Live TV",TV 8.5
+#EXTINF:-1 tvg-id="TV8,5 HD.tr" tvg-name="TV 8.5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4qElY7QObmPD5qVV3SPwTsGMp7zJcTtYSGwQHR7yM85SBtsFZHNgewo&amp;s=10" group-title="Live TV",TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="TRT SPOR YILDIZ.tr" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://vectorseek.com/wp-content/uploads/2025/12/TRT-Spor-Yildiz-Logo-PNG-SVG-Vector.png" group-title="Live TV",TRT SPOR YILDIZ
 http://176.65.153.12:6002/play/a068/index.m3u8
