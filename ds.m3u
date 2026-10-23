@@ -1,241 +1,178 @@
 #EXTM3U
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Tuzlu Kahve
-tvg-logo="https://www.dizidad.com/wp-content/uploads/2026/09/tuzlu-kahve-izle.jpg"
+
+#EXTINF:-1 tvg-logo="https://www.dizidad.com/wp-content/uploads/2026/09/tuzlu-kahve-izle.jpg" group-title="Dizi Son Bölüm",Tuzlu Kahve
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tuzlu.Kahve.SON.mkv
 
-
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Annem Ankara
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9m9YfLq7cVbSzJgYqKxZ4xWq5hR.jpg" group-title="Dizi Son Bölüm",Annem Ankara
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Annem.Ankara.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Arka Sokaklar
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8jqQ8bWqZ4yQzQ2oWqXQZ5WqZ4y.jpg" group-title="Dizi Son Bölüm",Arka Sokaklar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Aşk Evlilik Boşanma
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/askEvlilik.jpg" group-title="Dizi Son Bölüm",Aşk Evlilik Boşanma
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Evlilik.Bosanma.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Aşk Ve Gözyaşı
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/askVeGozyasi.jpg" group-title="Dizi Son Bölüm",Aşk Ve Gözyaşı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Ve.Gozyasi.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Aynadaki Yabancı
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aynadakiYabanci.jpg" group-title="Dizi Son Bölüm",Aynadaki Yabancı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Aynadaki.Yabanci.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Bahar
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bahar.jpg" group-title="Dizi Son Bölüm",Bahar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bahar.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Başka Bir Gün
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/baskaBirGun.jpg" group-title="Dizi Son Bölüm",Başka Bir Gün
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Baska.Bir.Gun.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Ben Leman
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/benLeman.jpg" group-title="Dizi Son Bölüm",Ben Leman
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ben.Leman.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Bir Gece Masalı
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/birGeceMasali.jpg" group-title="Dizi Son Bölüm",Bir Gece Masalı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Gece.Masali.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Bir Zamanlar Istanbul
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/birZamanlarIstanbul.jpg" group-title="Dizi Son Bölüm",Bir Zamanlar Istanbul
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Zamanlar.Istanbul.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Can Borcu
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/canBorcu.jpg" group-title="Dizi Son Bölüm",Can Borcu
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Can.Borcu.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Çarpıntı
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/carpinti.jpg" group-title="Dizi Son Bölüm",Çarpıntı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Carpinti.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Cennetin Çocukları
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cennetinCocuklari.jpg" group-title="Dizi Son Bölüm",Cennetin Çocukları
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cennetin.Cocuklari.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Çift Kişilik Oda
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ciftKisilikOda.jpg" group-title="Dizi Son Bölüm",Çift Kişilik Oda
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cift.Kisilik.Oda.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Çok Güzel Hareketler
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cokGuzelHareketler.jpg" group-title="Dizi Son Bölüm",Çok Güzel Hareketler
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cok.Guzel.Hareketler.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Deha
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/deha.jpg" group-title="Dizi Son Bölüm",Deha
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Deha.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Esref Rüya
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/esrefRuya.jpg" group-title="Dizi Son Bölüm",Eşref Rüya
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Gizli Bahçe
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gizliBahce.jpg" group-title="Dizi Son Bölüm",Gizli Bahçe
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gizli.Bahce.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Gönül Dağı
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gonulDagi.jpg" group-title="Dizi Son Bölüm",Gönül Dağı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gonul.Dagi.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Gözleri Karadeniz
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gozleriKaradeniz.jpg" group-title="Dizi Son Bölüm",Gözleri Karadeniz
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gozleri.KaraDeniz.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Güldür Güldür
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/guldurGuldur.jpg" group-title="Dizi Son Bölüm",Güldür Güldür
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guldur.Guldur.Show.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Güzel Aşklar Diyarı
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/guzelAsklarDiyari.jpg" group-title="Dizi Son Bölüm",Güzel Aşklar Diyarı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guzel.Asklar.Diyari.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Halef
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/halef.jpg" group-title="Dizi Son Bölüm",Halef
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Halef.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Holding
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/holding.jpg" group-title="Dizi Son Bölüm",Holding
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Holding.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Hudutsuz Sevda
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hudutsuzSevda.jpg" group-title="Dizi Son Bölüm",Hudutsuz Sevda
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Hudutsuz.Sevda.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Inci Taneleri
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/inciTaneleri.jpg" group-title="Dizi Son Bölüm",Inci Taneleri
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Inci.Taneleri.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Kalpazan
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kalpazan.jpg" group-title="Dizi Son Bölüm",Kalpazan
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kalpazan.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Kara Ağaç Destanı
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/karaAgacDestani.jpg" group-title="Dizi Son Bölüm",Kara Ağaç Destanı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kara.Agac.Destani.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Karadut
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/karadut.jpg" group-title="Dizi Son Bölüm",Karadut
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Karadut.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Kardelenler
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kardelenler.jpg" group-title="Dizi Son Bölüm",Kardelenler
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kardelenler.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Kirli Sepeti
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kirliSepeti.jpg" group-title="Dizi Son Bölüm",Kirli Sepeti
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kirli.Sepeti.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Kıskanmak
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kiskanmak.jpg" group-title="Dizi Son Bölüm",Kıskanmak
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kiskanmak.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Kızıl Koncalar
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kizilGoncalar.jpg" group-title="Dizi Son Bölüm",Kızıl Koncalar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizil.Goncalar.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Kızılcık Şerbeti
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kizilcikSerbeti.jpg" group-title="Dizi Son Bölüm",Kızılcık Şerbeti
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizilcik.Serbeti.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Konuşanlar
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/konusanlar.jpg" group-title="Dizi Son Bölüm",Konuşanlar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Konusanlar.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Kör Nokta
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/korNokta.jpg" group-title="Dizi Son Bölüm",Kör Nokta
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kor.Nokta.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Kötü Kan
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kotuKan.jpg" group-title="Dizi Son Bölüm",Kötü Kan
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kotu.Kan.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Kral Kabederse
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kralKaybederse.jpg" group-title="Dizi Son Bölüm",Kral Kaybederse
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kral.Kaybederse.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Kudüs Fatihi Selahaddin Eyyubi
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/selahaddinEyyubi.jpg" group-title="Dizi Son Bölüm",Kudüs Fatihi Selahaddin Eyyubi
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Kuruluş Osman
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kurulusOsman.jpg" group-title="Dizi Son Bölüm",Kuruluş Osman
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Osman.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Leyla
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/leyla.jpg" group-title="Dizi Son Bölüm",Leyla
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Leyla.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Mehmed Fetihler Sultanı
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mehmedFetihlerSultani.jpg" group-title="Dizi Son Bölüm",Mehmed Fetihler Sultanı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Piyasa
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/piyasa.jpg" group-title="Dizi Son Bölüm",Piyasa
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Piyasa.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Sahipsizler
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sahipsizler.jpg" group-title="Dizi Son Bölüm",Sahipsizler
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Sahtekarlar
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sahtekarlar.jpg" group-title="Dizi Son Bölüm",Sahtekarlar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahtekarlar.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Şakir Paşa Ailesi
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sakirpasaAilesi.jpg" group-title="Dizi Son Bölüm",Şakir Paşa Ailesi
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sakirpasa.Ailesi.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Sandık Kokusu
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sandikKokusu.jpg" group-title="Dizi Son Bölüm",Sandık Kokusu
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sandik.Kokusu.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Selahaddin Eyyubi
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
-
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Sen Ağlama Istanbul
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/senAglamaIstanbul.jpg" group-title="Dizi Son Bölüm",Sen Ağlama Istanbul
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sen.Aglama.istanbul.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Siyah Kalp
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/siyahKalp.jpg" group-title="Dizi Son Bölüm",Siyah Kalp
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Siyah.Kalp.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Taş Kağıt Makas
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tasKagitMakas.jpg" group-title="Dizi Son Bölüm",Taş Kağıt Makas
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tas.Kagit.Makas.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Taşacak Bu Deniz
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tasacakBuDeniz.jpg" group-title="Dizi Son Bölüm",Taşacak Bu Deniz
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tasacak.Bu.Deniz.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Teşkilat
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/teskilat.jpg" group-title="Dizi Son Bölüm",Teşkilat
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Teskilat.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Uzak Şehir
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uzakSehir.jpg" group-title="Dizi Son Bölüm",Uzak Şehir
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Veliaht
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/veliaht.jpg" group-title="Dizi Son Bölüm",Veliaht
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Veliaht.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Yabani
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yabani.jpg" group-title="Dizi Son Bölüm",Yabani
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yabani.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Yalan
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yalan.jpg" group-title="Dizi Son Bölüm",Yalan
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yalan.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Yalı Çapkını
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yaliCapkini.jpg" group-title="Dizi Son Bölüm",Yalı Çapkını
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
 
-#EXTINF:-1 group-title="Dizi Son Bölüm" ,Zembilli
-tvg-logo="https://i.hizliresim.com/8rlp8bj.jpg"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zembilli.jpg" group-title="Dizi Son Bölüm",Zembilli
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
