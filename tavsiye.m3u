@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Next_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Filmler", Next 2007
 https://s10.static8321.shop/m4/GzI4qP4lZQN3YwRjBQOjYxE1LJjd0zxp3EuqTywBQZlZF5mnT9js0xi10vr1
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg" group-title="Filmler", Ejderhanı Nasıl Eğitirsin 1
 https://srv12.cdnimages2424.cyou/hls/howtotrainyourdragon2010bluray1080pdualmp4-k8pdJeqwEKw.mp4/txt/master.txt
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1c/Httyd_2_poster.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Filmler", Ejderhanı Nasıl Eğitirsin 2
 https://srv12.cdnimages2769.cyou/hls/howtotrainyourdragon22014bluray1080pdualmp4-CErdwuCCdcM.mp4/txt/master.txt
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEB6H4TSTOPmrfH_IRDfXRfBdlyZqF7NUyuF5lWFig2dxIiT-EmZvs2no&s=10" group-title="Filmler", Ejderhanı Nasıl Eğitirsin 3
 https://srv12.cdnimages988.cyou/hls/howtotrainyourdragon-3-2019-bluray-trdualmp4-C15U57pHlAw.mp4/txt/master.txt
+
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/img/54/f7/54f7d35bcbc0629959f8552c7d6ab527.jpg" group-title="Filmler", Örümcek Adam Yepyeni Bir Gün
+https://srv9.cdnimages2788.cyou/hls/spidermanbrandnewday-2026-webdl-trdual-tt22084616mp4-EWeEdu0Ig0q.mp4/txt/master.txt
 
