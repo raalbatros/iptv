@@ -1,23 +1,19 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vurfC4fEqOw2lp6AESkbkIRcz9m.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 1 2010
+#EXTINF:-1 tvg-id="" tvg-name="Ejderhanı Nasıl Eğitirsin (2010)" tvg-logo="https://image.tmdb.org/t/p/w500/vurfC4fEqOw2lp6AESkbkIRcz9m.jpg" group-title="Fantastik",Ejderhanı Nasıl Eğitirsin (2010)
 https://matrudas.com/cdn/hls/cafc94ef3c4833b5e6dd8a4fcf48d644/master.txt
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xU92bgrpkTPuQ9A4C4vYSLVnOzj.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 2 2014
+#EXTINF:-1 tvg-id="" tvg-name="Ejderhanı Nasıl Eğitirsin 2 (2014)" tvg-logo="https://image.tmdb.org/t/p/w500/xU92bgrpkTPuQ9A4C4vYSLVnOzj.jpg" group-title="Fantastik",Ejderhanı Nasıl Eğitirsin 2 (2014)
 https://matrudas.com/cdn/hls/9d7fbaff87e74bd44bcc3aaf8ebdbbb1/master.txt
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9NCUFk0EucrVY7alet8rjjCEkN5.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 3 2019
+#EXTINF:-1 tvg-id="" tvg-name="Ejderhanı Nasıl Eğitirsin 3: Gizli Dünya (2019)" tvg-logo="https://image.tmdb.org/t/p/w500/9NCUFk0EucrVY7alet8rjjCEkN5.jpg" group-title="Animasyon",Ejderhanı Nasıl Eğitirsin 3: Gizli Dünya (2019)
 https://matrudas.com/cdn/hls/8184d34fbe3c3aadab59435aafa932c6/master.txt
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7boG6uqhMHNuAyYIiLCUgxFzZGJ.jpg" group-title="Filmler",Ejderhanı Nasıl Eğitirsin 2025
+#EXTINF:-1 tvg-id="" tvg-name="Ejderhanı Nasıl Eğitirsin (2025)" tvg-logo="https://image.tmdb.org/t/p/w500/7boG6uqhMHNuAyYIiLCUgxFzZGJ.jpg" group-title="Fantastik",Ejderhanı Nasıl Eğitirsin (2025)
 https://matrudas.com/cdn/hls/fbe3e64e6b1822e287288c9b2e6021b5/master.txt
-
-#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/img/54/f7/54f7d35bcbc0629959f8552c7d6ab527.jpg" group-title="Filmler", Örümcek Adam Yepyeni Bir Gün
+#EXTINF:-1 tvg-id="" tvg-name="Örümcek-Adam: Yepyeni Bir Gün (2026)" tvg-logo="https://image.tmdb.org/t/p/w500/kYySrq73W9qzldhIebOGQImd4.jpg" group-title="Bilim-Kurgu",Örümcek-Adam: Yepyeni Bir Gün (2026)
 https://s9.gelsistirire.top/d/yinis5kmsk3rtzj5dhwu5subj6q64nydp2aiog35o2nf5chhpmmx3mcs3vyaqsgj2vxhmf3m/Spider%20Man%20Brand%20New%20Day%202026%201080p%20AMZN%20WEB%20DL%20DUAL.mp4
-
-#EXTINF:-1 tvg-logo="https://de.web.img2.acsta.net/medias/nmedia/18/78/96/78/20042124.jpg" group-title="Filmler", Yenilmezler (2012)
+#EXTINF:-1 tvg-id="" tvg-name="Yenilmezler (2012)" tvg-logo="https://image.tmdb.org/t/p/w500/1sCJVLAqKGgKIZpKGXURjpKBwgu.jpg" group-title="Bilim-Kurgu",Yenilmezler (2012)
 https://matrudas.com/cdn/hls/37c66e1d8c8d9d9397a73df0952015d1/master.txt
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWJ8Hjr5dx0Njpjnx-i6Jd1qVesRoIc7p-GeXwvno8Q&s=10" group-title="Filmler", Yenilmezler: Ultron Çağı izle (2015)
+#EXTINF:-1 tvg-id="" tvg-name="Yenilmezler: Ultron Çağı (2015)" tvg-logo="https://image.tmdb.org/t/p/w500/y3t1t4FlQpDdtpoVsXC6IzeMjUH.jpg" group-title="Aksiyon",Yenilmezler: Ultron Çağı (2015)
 https://matrudas.com/cdn/hls/2425bb7359835a4037ec581588fde688/master.txt
-#EXTINF:-1 tvg-logo="https://img.kitapyurdu.com/v1/getImage/fn:11204557/wi:500/wh:0d9a519c5" group-title="Filmler", Yenilmezler: Sonsuzluk Savaşı (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Sonsuzluk Savaşı (2018)" tvg-logo="https://image.tmdb.org/t/p/w500/7FQTJyrvhUp9oYDhHgujWRlxUES.jpg" group-title="Macera",Avengers: Sonsuzluk Savaşı (2018)
 https://matrudas.com/cdn/hls/04d86ceb10086d7fc0f592534612f1b8/master.txt
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ibO8Pj0aA1nwj3Q9FMpMcYZkdCA.jpg" group-title="Filmler", Yenilmezler: Son Oyun (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Yenilmezler: Son Oyun (2019)" tvg-logo="https://image.tmdb.org/t/p/original/ibO8Pj0aA1nwj3Q9FMpMcYZkdCA.jpg" group-title="Filmler",Yenilmezler: Son Oyun (2019)
 https://matrudas.com/cdn/hls/901aea44b386a712eb6ffe1ff7b490df/master.txt
-
